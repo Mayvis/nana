@@ -10,41 +10,7 @@
 </head>
 <body>
     <div id="app">
-        <section>
-            <ul>
-                <router-link tag="li" to="/" exact>
-                    TOPPAGE
-                </router-link>
-
-                <router-link tag="li" to="/concept">
-                    CONCEPT
-                </router-link>
-
-                <router-link tag="li" to="/voice">
-                    VOICE
-                </router-link>
-
-                <router-link tag="li" to="/menu_price">
-                    MENU&PRICE
-                </router-link>
-
-                <router-link tag="li" to="/salon">
-                    SALON
-                </router-link>
-
-                <router-link tag="li" to="/beauty">
-                    BEAUTY<span>x</span>PRICE
-                </router-link>
-
-                <router-link tag="li" to="/beauty">
-                    NAIL
-                </router-link>
-
-                <router-link tag="li" to="/recruit" exact>
-                    RECRUIT
-                </router-link>
-            </ul>
-        </section>
+        <menu-list></menu-list>
 
         <section>
             <div class="container">
