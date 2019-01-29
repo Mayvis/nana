@@ -2,37 +2,49 @@
     <section class="menu-list" v-show="active">
         <ul>
             <router-link tag="li" to="/" exact>
-                <a>TOPPAGE</a>
+                <a class="menu-list-item">TOPPAGE</a>
             </router-link>
 
             <router-link tag="li" to="/concept">
-                <a>CONCEPT</a>
+                <a class="menu-list-item">CONCEPT</a>
             </router-link>
 
             <router-link tag="li" to="/voice">
-                <a>VOICE</a>
+                <a class="menu-list-item">VOICE</a>
             </router-link>
 
             <router-link tag="li" to="/menu">
-                <a>MENU&PRICE</a>
+                <a class="menu-list-item">MENU&PRICE</a>
             </router-link>
 
             <router-link tag="li" to="/salon">
-                <a>SALON</a>
+                <a class="menu-list-item">SALON</a>
             </router-link>
 
             <router-link tag="li" to="/beauty">
-                <a>BEAUTY<span>x</span>PRICE</a>
+                <a class="menu-list-item">BEAUTYxPRICE</a>
             </router-link>
 
             <router-link tag="li" to="/nail">
-                <a>NAIL</a>
+                <a class="menu-list-item">NAIL</a>
             </router-link>
 
             <router-link tag="li" to="/recruit" exact>
-                <a>RECRUIT</a>
+                <a class="menu-list-item">RECRUIT</a>
             </router-link>
         </ul>
+
+        <div class="flex text-center -ml-5">
+            <a href="/" class="icon">
+                <img src="/icon/ig.png" alt="instagram-eye" class="w-7 h-7">
+                <span>EYE</span>
+            </a>
+
+            <a href="/" class="icon">
+                <img src="/icon/ig.png" alt="instagram-nail" class="w-7 h-7">
+                <span>NAIL</span>
+            </a>
+        </div>
     </section>
 </template>
 
@@ -49,30 +61,38 @@
 
 <style scoped lang="scss">
     .menu-list {
+        @apply w-2/5 h-screen fixed pin-t pin-r align-middle z-20 overflow-y-scroll scrolling-touch bg-teal-lightest;
         transition: all .4s;
-        background-color: rgba(192, 212, 219, 0.9);
-        height: 100vh;
-        width: 40%;
-        position: fixed;
-        top: 0;
-        right: 0;
         padding: 160px 50px 50px 50px;
-        vertical-align: middle;
-        overflow-y: scroll;
-        -webkit-overflow-scrolling: touch;
-        z-index: 20;
 
-        a {
-            @apply .leading-normal;
-            color: #333;
-            font-weight: 600;
-            font-size: 26px;
-            letter-spacing: 0.2em;
-            font-family: sofia-pro-condensed, sans-serif;
+        .menu-list-item {
+            @apply leading-loose font-semibold text-2xl text-black tracking-loose font-adobe font-sans relative;
+
+            &:after {
+                @apply bg-black absolute pin-l;
+                content: "";
+                width: 0;
+                height: 2px;
+                bottom: -12px;
+                transition: all .2s;
+            }
+
+            &:hover:after {
+                @apply w-full;
+            }
         }
 
-        &.is-active a {
-            color: #e38580;
+        .is-active .menu-list-item {
+            @apply text-pink;
+        }
+    }
+
+    .icon {
+        @apply flex flex-col text-xs font-adobe font-sans leading-loose m-5;
+        transition: opacity .3s;
+
+        &:hover {
+            @apply opacity-50;
         }
     }
 </style>

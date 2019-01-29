@@ -1890,6 +1890,18 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 /* harmony default export */ __webpack_exports__["default"] = ({
   props: {
     active: {
@@ -2183,7 +2195,7 @@ exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loa
 
 
 // module
-exports.push([module.i, ".menu-list[data-v-2df1f188] {\n  transition: all .4s;\n  background-color: rgba(192, 212, 219, .9);\n  height: 100vh;\n  width: 40%;\n  position: fixed;\n  top: 0;\n  right: 0;\n  padding: 160px 50px 50px 50px;\n  vertical-align: middle;\n  overflow-y: scroll;\n  -webkit-overflow-scrolling: touch;\n  z-index: 20;\n}\n.menu-list a[data-v-2df1f188] {\n  line-height: 1.5;\n  color: #333;\n  font-weight: 600;\n  font-size: 26px;\n  letter-spacing: .2em;\n  font-family: sofia-pro-condensed, sans-serif;\n}\n.menu-list.is-active a[data-v-2df1f188] {\n  color: #e38580;\n}\n", ""]);
+exports.push([module.i, ".menu-list[data-v-2df1f188] {\n  width: 40%;\n  height: 100vh;\n  position: fixed;\n  top: 0;\n  right: 0;\n  vertical-align: middle;\n  z-index: 20;\n  overflow-y: scroll;\n  -webkit-overflow-scrolling: touch;\n  background-color: #c0d4db;\n  transition: all .4s;\n  padding: 160px 50px 50px 50px;\n}\n.menu-list .menu-list-item[data-v-2df1f188] {\n  line-height: 2;\n  font-weight: 600;\n  font-size: 1.5rem;\n  color: #22292f;\n  letter-spacing: .2em;\n  font-family: sofia-pro-condensed;\n  font-family: system-ui, BlinkMacSystemFont, -apple-system, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;\n  position: relative;\n}\n.menu-list .menu-list-item[data-v-2df1f188]:after {\n  background-color: #22292f;\n  position: absolute;\n  left: 0;\n  content: \"\";\n  width: 0;\n  height: 2px;\n  bottom: -12px;\n  transition: all .2s;\n}\n.menu-list .menu-list-item[data-v-2df1f188]:hover:after {\n  width: 100%;\n}\n.menu-list .is-active .menu-list-item[data-v-2df1f188] {\n  color: #e38580;\n}\n.icon[data-v-2df1f188] {\n  display: flex;\n  flex-direction: column;\n  font-size: .75rem;\n  font-family: sofia-pro-condensed;\n  font-family: system-ui, BlinkMacSystemFont, -apple-system, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;\n  line-height: 2;\n  margin: 1.25rem;\n  transition: opacity .3s;\n}\n.icon[data-v-2df1f188]:hover {\n  opacity: .5;\n}\n", ""]);
 
 // exports
 
@@ -35548,49 +35560,72 @@ var render = function() {
         "ul",
         [
           _c("router-link", { attrs: { tag: "li", to: "/", exact: "" } }, [
-            _c("a", [_vm._v("TOPPAGE")])
+            _c("a", { staticClass: "menu-list-item" }, [_vm._v("TOPPAGE")])
           ]),
           _vm._v(" "),
           _c("router-link", { attrs: { tag: "li", to: "/concept" } }, [
-            _c("a", [_vm._v("CONCEPT")])
+            _c("a", { staticClass: "menu-list-item" }, [_vm._v("CONCEPT")])
           ]),
           _vm._v(" "),
           _c("router-link", { attrs: { tag: "li", to: "/voice" } }, [
-            _c("a", [_vm._v("VOICE")])
+            _c("a", { staticClass: "menu-list-item" }, [_vm._v("VOICE")])
           ]),
           _vm._v(" "),
           _c("router-link", { attrs: { tag: "li", to: "/menu" } }, [
-            _c("a", [_vm._v("MENU&PRICE")])
+            _c("a", { staticClass: "menu-list-item" }, [_vm._v("MENU&PRICE")])
           ]),
           _vm._v(" "),
           _c("router-link", { attrs: { tag: "li", to: "/salon" } }, [
-            _c("a", [_vm._v("SALON")])
+            _c("a", { staticClass: "menu-list-item" }, [_vm._v("SALON")])
           ]),
           _vm._v(" "),
           _c("router-link", { attrs: { tag: "li", to: "/beauty" } }, [
-            _c("a", [
-              _vm._v("BEAUTY"),
-              _c("span", [_vm._v("x")]),
-              _vm._v("PRICE")
-            ])
+            _c("a", { staticClass: "menu-list-item" }, [_vm._v("BEAUTYxPRICE")])
           ]),
           _vm._v(" "),
           _c("router-link", { attrs: { tag: "li", to: "/nail" } }, [
-            _c("a", [_vm._v("NAIL")])
+            _c("a", { staticClass: "menu-list-item" }, [_vm._v("NAIL")])
           ]),
           _vm._v(" "),
           _c(
             "router-link",
             { attrs: { tag: "li", to: "/recruit", exact: "" } },
-            [_c("a", [_vm._v("RECRUIT")])]
+            [_c("a", { staticClass: "menu-list-item" }, [_vm._v("RECRUIT")])]
           )
         ],
         1
-      )
+      ),
+      _vm._v(" "),
+      _vm._m(0)
     ]
   )
 }
-var staticRenderFns = []
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "flex text-center -ml-5" }, [
+      _c("a", { staticClass: "icon", attrs: { href: "/" } }, [
+        _c("img", {
+          staticClass: "w-7 h-7",
+          attrs: { src: "/icon/ig.png", alt: "instagram-eye" }
+        }),
+        _vm._v(" "),
+        _c("span", [_vm._v("EYE")])
+      ]),
+      _vm._v(" "),
+      _c("a", { staticClass: "icon", attrs: { href: "/" } }, [
+        _c("img", {
+          staticClass: "w-7 h-7",
+          attrs: { src: "/icon/ig.png", alt: "instagram-nail" }
+        }),
+        _vm._v(" "),
+        _c("span", [_vm._v("NAIL")])
+      ])
+    ])
+  }
+]
 render._withStripped = true
 
 

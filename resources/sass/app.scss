@@ -22,15 +22,10 @@ p, h1, h2, h3, h4, h5, h6 {
     display: none
 }
 
-.nav-container {
-    @apply .mx-auto .flex .justify-between .items-center;
-    padding-right: 50px;
-}
-
 .menu {
-    @apply .border .rounded-full .relative .cursor-pointer .border-black .bg-white .z-50;
-    width: 60px;
-    height: 60px;
+    @apply border rounded-full relative cursor-pointer border-black bg-white fixed w-14 h-14;
+    top: 60px;
+    right: 50px;
 
     &.active {
         span:first-child {
@@ -68,7 +63,7 @@ p, h1, h2, h3, h4, h5, h6 {
 }
 
 .logo {
-    @apply .bg-white .z-50;
+    @apply bg-white;
     padding: 60px 50px;
 }
 
