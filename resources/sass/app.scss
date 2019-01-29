@@ -12,6 +12,12 @@ ul {
     @apply .list-reset;
 }
 
+p, h1, h2, h3, h4, h5, h6 {
+    line-height: 1;
+    margin: 0;
+    padding: 0;
+}
+
 .nav-container {
     @apply .mx-auto .flex .justify-between .items-center;
     padding-right: 50px;
@@ -21,6 +27,21 @@ ul {
     @apply .border .rounded-full .relative .cursor-pointer .border-black .bg-white .z-50;
     width: 60px;
     height: 60px;
+
+    &.active {
+        span:first-child {
+            transform: translate(0, 0) rotate(-45deg);
+        }
+
+        span:nth-child(2) {
+            transform: translate(60px, 0);
+            opacity: 0;
+        }
+
+        span:last-child {
+            transform: translate(0, 0) rotate(45deg);
+        }
+    }
 
     span {
         background-color: #333;
@@ -48,5 +69,5 @@ ul {
 }
 
 main {
-    padding-top: 160px;
+    padding-top: 165px;
 }

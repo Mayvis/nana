@@ -1,7 +1,8 @@
 <template>
     <div>
         <div class="menu"
-             @click="check">
+             @click="check"
+             :class="(active === true) ? 'active': ''">
             <span></span>
             <span></span>
             <span></span>

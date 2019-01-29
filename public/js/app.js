@@ -1779,6 +1779,7 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
 
 /* harmony default export */ __webpack_exports__["default"] = ({
   components: {
@@ -2114,7 +2115,7 @@ exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loa
 
 
 // module
-exports.push([module.i, ".menu-list[data-v-2df1f188] {\n  transition: all .4s;\n  background-color: rgba(192, 212, 219, .9);\n  height: 100vh;\n  width: 40%;\n  position: fixed;\n  top: 0;\n  right: 0;\n  padding: 120px 50px 50px 50px;\n  vertical-align: middle;\n  overflow-y: scroll;\n  -webkit-overflow-scrolling: touch;\n  z-index: 20;\n}\n.menu-list a[data-v-2df1f188] {\n  color: #333;\n  font-weight: 600;\n  font-size: 26px;\n  letter-spacing: .2em;\n  font-family: sofia-pro-condensed, sans-serif;\n}\n.is-active a[data-v-2df1f188] {\n  color: #e38580;\n}\n", ""]);
+exports.push([module.i, ".menu-list[data-v-2df1f188] {\n  transition: all .4s;\n  background-color: rgba(192, 212, 219, .9);\n  height: 100vh;\n  width: 40%;\n  position: fixed;\n  top: 0;\n  right: 0;\n  padding: 160px 50px 50px 50px;\n  vertical-align: middle;\n  overflow-y: scroll;\n  -webkit-overflow-scrolling: touch;\n  z-index: 20;\n}\n.menu-list a[data-v-2df1f188] {\n  color: #333;\n  font-weight: 600;\n  font-size: 26px;\n  letter-spacing: .2em;\n  font-family: sofia-pro-condensed, sans-serif;\n}\n.is-active a[data-v-2df1f188] {\n  color: #e38580;\n}\n", ""]);
 
 // exports
 
@@ -31379,13 +31380,15 @@ var render = function() {
   return _c(
     "div",
     [
-      _c("div", { staticClass: "menu", on: { click: _vm.check } }, [
-        _c("span"),
-        _vm._v(" "),
-        _c("span"),
-        _vm._v(" "),
-        _c("span")
-      ]),
+      _c(
+        "div",
+        {
+          staticClass: "menu",
+          class: _vm.active === true ? "active" : "",
+          on: { click: _vm.check }
+        },
+        [_c("span"), _vm._v(" "), _c("span"), _vm._v(" "), _c("span")]
+      ),
       _vm._v(" "),
       _c(
         "portal",

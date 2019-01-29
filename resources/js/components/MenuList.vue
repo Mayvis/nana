@@ -56,7 +56,7 @@
         position: fixed;
         top: 0;
         right: 0;
-        padding: 120px 50px 50px 50px;
+        padding: 160px 50px 50px 50px;
         vertical-align: middle;
         overflow-y: scroll;
         -webkit-overflow-scrolling: touch;
