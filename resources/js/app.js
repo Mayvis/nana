@@ -13,10 +13,12 @@ require('./bootstrap');
 import Vue from 'vue';
 import VueRouter from 'vue-router';
 import router from './routes';
+import PortalVue from 'portal-vue';
 
 window.Vue = Vue;
 
 Vue.use(VueRouter);
+Vue.use(PortalVue);
 
 /**
  * The following block of code may be used to automatically register your
@@ -30,6 +32,7 @@ Vue.use(VueRouter);
 // files.keys().map(key => Vue.component(key.split('/').pop().split('.')[0], files(key).default))
 
 Vue.component('menu-list', require('./components/MenuList.vue').default);
+Vue.component('menu-hamburger', require('./components/MenuHamburger.vue').default);
 
 /**
  * Next, we will create a fresh Vue application instance and attach it to

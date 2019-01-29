@@ -7,18 +7,20 @@
 
     <title>Nana</title>
 
+    <link rel="stylesheet" href="/css/app.css">
 </head>
 <body>
-    <div id="app">
-        <menu-list></menu-list>
 
-        <section>
-            <div class="container">
-                <router-view></router-view>
-            </div>
-        </section>
-    </div>
+<div id="app">
+    @include('layouts.header')
 
-    <script src="/js/app.js"></script>
+    <main>
+        <div class="container">
+            <router-view></router-view>
+        </div>
+    </main>
+</div>
+
+<script src="/js/app.js"></script>
 </body>
 </html>

@@ -1,17 +1,7 @@
 <template>
-    <div class="container">
-        <div class="columns">
-            <div class="column">
-                <div class="message is-link">
-                    <div class="message-header">HoHoHo....</div>
-
-                    <div class="message-body">
-                        Home page.
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+    <section class="hero">
+        <h1>hello</h1>
+    </section>
 </template>
 
 <script>

@@ -1,5 +1,5 @@
 <template>
-    <section>
+    <section class="menu-list" v-show="active">
         <ul>
             <router-link tag="li" to="/" exact>
                 <a>TOPPAGE</a>
@@ -37,9 +37,43 @@
 </template>
 
 <script>
-    export default {}
+    export default {
+        props: {
+            active: {
+                type: Boolean,
+                default: false
+            },
+        },
+    }
 </script>
 
-<style scoped>
+<style scoped lang="scss">
+    .menu-list {
+        transition: all .4s;
+        background-color: rgba(192, 212, 219, 0.9);
+        height: 100vh;
+        width: 40%;
+        position: fixed;
+        top: 0;
+        right: 0;
+        padding: 120px 50px 50px 50px;
+        vertical-align: middle;
+        overflow-y: scroll;
+        -webkit-overflow-scrolling: touch;
+        z-index: 20;
+    }
 
+    .menu-list {
+        a {
+            color: #333;
+            font-weight: 600;
+            font-size: 26px;
+            letter-spacing: 0.2em;
+            font-family: sofia-pro-condensed, sans-serif;
+        }
+    }
+
+    .is-active a {
+        color: #e38580;
+    }
 </style>
