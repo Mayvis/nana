@@ -61,19 +61,18 @@
         overflow-y: scroll;
         -webkit-overflow-scrolling: touch;
         z-index: 20;
-    }
 
-    .menu-list {
         a {
+            @apply .leading-normal;
             color: #333;
             font-weight: 600;
             font-size: 26px;
             letter-spacing: 0.2em;
             font-family: sofia-pro-condensed, sans-serif;
         }
-    }
 
-    .is-active a {
-        color: #e38580;
+        &.is-active a {
+            color: #e38580;
+        }
     }
 </style>

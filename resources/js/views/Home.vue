@@ -1,13 +1,19 @@
 <template>
     <section class="hero">
-        <h1>hello</h1>
+        <div class="flex justify-end">
+            <carousel></carousel>
+        </div>
     </section>
 </template>
 
 <script>
+    import Carousel from '../components/Carousel';
+
     export default {
-        created() {
-            // axios
-        }
+        components: {Carousel},
     }
 </script>
+
+<style sroped>
+
+</style>

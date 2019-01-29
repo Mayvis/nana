@@ -11,11 +11,11 @@
 </head>
 <body>
 
-<div id="app">
+<div id="app" v-cloak>
     @include('layouts.header')
 
     <main>
-        <div class="container">
+        <div class="container mx-auto">
             <router-view></router-view>
         </div>
     </main>
