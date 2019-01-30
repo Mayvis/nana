@@ -3149,6 +3149,10 @@ table {
   line-height: 2;
 }
 
+.leading-loosest {
+  line-height: 3.5;
+}
+
 .m-0 {
   margin: 0;
 }
@@ -9024,6 +9028,10 @@ main {
     line-height: 2;
   }
 
+  .sm\:leading-loosest {
+    line-height: 3.5;
+  }
+
   .sm\:m-0 {
     margin: 0;
   }
@@ -14794,6 +14802,10 @@ main {
 
   .md\:leading-loose {
     line-height: 2;
+  }
+
+  .md\:leading-loosest {
+    line-height: 3.5;
   }
 
   .md\:m-0 {
@@ -20568,6 +20580,10 @@ main {
     line-height: 2;
   }
 
+  .lg\:leading-loosest {
+    line-height: 3.5;
+  }
+
   .lg\:m-0 {
     margin: 0;
   }
@@ -26340,6 +26356,10 @@ main {
     line-height: 2;
   }
 
+  .xl\:leading-loosest {
+    line-height: 3.5;
+  }
+
   .xl\:m-0 {
     margin: 0;
   }
@@ -32110,6 +32130,10 @@ main {
 
   .xxl\:leading-loose {
     line-height: 2;
+  }
+
+  .xxl\:leading-loosest {
+    line-height: 3.5;
   }
 
   .xxl\:m-0 {

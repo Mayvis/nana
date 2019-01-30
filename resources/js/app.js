@@ -33,6 +33,7 @@ Vue.use(PortalVue);
 
 Vue.component('menu-list', require('./components/MenuList.vue').default);
 Vue.component('menu-hamburger', require('./components/MenuHamburger.vue').default);
+Vue.component('hero', require('./components/home/_Hero.vue').default);
 Vue.component('carousel', require('./components/Carousel.vue').default);
 
 /**

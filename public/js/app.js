@@ -1913,6 +1913,55 @@ __webpack_require__.r(__webpack_exports__);
 
 /***/ }),
 
+/***/ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/home/_Hero.vue?vue&type=script&lang=js&":
+/*!*********************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib??ref--4-0!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/home/_Hero.vue?vue&type=script&lang=js& ***!
+  \*********************************************************************************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+/* harmony default export */ __webpack_exports__["default"] = ({});
+
+/***/ }),
+
 /***/ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/views/Beauty.vue?vue&type=script&lang=js&":
 /*!************************************************************************************************************************************************************!*\
   !*** ./node_modules/babel-loader/lib??ref--4-0!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/views/Beauty.vue?vue&type=script&lang=js& ***!
@@ -1987,6 +2036,38 @@ __webpack_require__.r(__webpack_exports__);
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _components_Carousel__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../components/Carousel */ "./resources/js/components/Carousel.vue");
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 //
 //
 //
@@ -2289,7 +2370,7 @@ exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loa
 
 
 // module
-exports.push([module.i, ".hero {\n  top: 160px;\n  left: 130px;\n}\n.hero text {\n  fill: rgba(255, 255, 255, 0);\n  stroke: #333;\n  font-size: 76px;\n  stroke-width: .8;\n  stroke-linejoin: round;\n  line-height: 1;\n}\n.hero .sub {\n  letter-spacing: .3em;\n}\n.hero .line {\n  width: 72px;\n  height: auto;\n}\n.hero .list li {\n  font-family: futura-pt, sans-serif;\n  font-size: 15px;\n  letter-spacing: .6em;\n  line-height: 3.5;\n}\n.scroll {\n  -webkit-transform: rotate(90deg);\n          transform: rotate(90deg);\n  bottom: 40px;\n  right: -75px;\n  -webkit-animation: pos 2s ease-in-out infinite;\n          animation: pos 2s ease-in-out infinite;\n}\n@-webkit-keyframes pos {\n0% {\n    bottom: 50px;\n}\n50% {\n    bottom: 40px;\n}\n100% {\n    bottom: 50px;\n}\n}\n@keyframes pos {\n0% {\n    bottom: 50px;\n}\n50% {\n    bottom: 40px;\n}\n100% {\n    bottom: 50px;\n}\n}\n.concept-btn {\n  transition: background-color .2s;\n  background: url(\"/icon/left_top.svg\") left top/10px 10px no-repeat, url(\"/icon/right_top.svg\") right top/10px 8px no-repeat, url(\"/icon/left_bottom.svg\") left bottom/10px 10px no-repeat, url(\"/icon/right_bottom.svg\") right bottom/10px 8px no-repeat #fff;\n}\n", ""]);
+exports.push([module.i, ".hero {\n  top: 160px;\n  left: 130px;\n}\n.hero text {\n  fill: rgba(255, 255, 255, 0);\n  stroke: #333;\n  font-size: 76px;\n  stroke-width: .8;\n  stroke-linejoin: round;\n  line-height: 1;\n}\n.hero .sub {\n  letter-spacing: .3em;\n}\n.hero .line {\n  width: 72px;\n  height: auto;\n}\n.hero .list li {\n  font-family: futura-pt, sans-serif;\n  font-size: 15px;\n  letter-spacing: .6em;\n  line-height: 3.5;\n}\n.scroll {\n  -webkit-transform: rotate(90deg);\n          transform: rotate(90deg);\n  bottom: 40px;\n  right: -75px;\n  -webkit-animation: pos 2s ease-in-out infinite;\n          animation: pos 2s ease-in-out infinite;\n}\n@-webkit-keyframes pos {\n0% {\n    bottom: 50px;\n}\n50% {\n    bottom: 40px;\n}\n100% {\n    bottom: 50px;\n}\n}\n@keyframes pos {\n0% {\n    bottom: 50px;\n}\n50% {\n    bottom: 40px;\n}\n100% {\n    bottom: 50px;\n}\n}\n.concept-btn {\n  transition: background-color .2s;\n  background: url(\"/icon/left_top.svg\") left top/10px 10px no-repeat, url(\"/icon/right_top.svg\") right top/10px 8px no-repeat, url(\"/icon/left_bottom.svg\") left bottom/10px 10px no-repeat, url(\"/icon/right_bottom.svg\") right bottom/10px 8px no-repeat #fff;\n}\n.tw-thumbnail {\n  color: #22292f;\n  transition: opacity .2s;\n}\n.tw-thumbnail:hover {\n  opacity: .5;\n}\n.tw-thumbnail h4 {\n  letter-spacing: .3em;\n  font-size: 1.25rem;\n  line-height: 3.5;\n}\n.tw-thumbnail li {\n  font-family: futura-pt, sans-serif;\n  font-family: sofia-pro-condensed, sans-serif;\n  font-size: .75rem;\n  letter-spacing: .15em;\n  line-height: 2;\n  color: #22292f;\n}\n.tw-thumbnail p {\n  font-size: .875rem;\n  position: relative;\n  padding-left: 2rem;\n}\n.tw-thumbnail p:before {\n  content: \"\";\n  width: 20px;\n  height: 1px;\n  position: absolute;\n  top: 8px;\n  left: 0;\n  background-color: #555;\n}\n", ""]);
 
 // exports
 
@@ -35756,6 +35837,92 @@ render._withStripped = true
 
 /***/ }),
 
+/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/home/_Hero.vue?vue&type=template&id=920bb058&scoped=true&":
+/*!*************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/home/_Hero.vue?vue&type=template&id=920bb058&scoped=true& ***!
+  \*************************************************************************************************************************************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "render", function() { return render; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return staticRenderFns; });
+var render = function() {
+  var _vm = this
+  var _h = _vm.$createElement
+  var _c = _vm._self._c || _h
+  return _c("div", { staticClass: "hero absolute z-10 font-adobe" }, [
+    _c("h2", [
+      _c("svg", { staticClass: "mr-7", attrs: { width: "54", height: "86" } }, [
+        _c(
+          "text",
+          { attrs: { x: "0", y: "0", "dominant-baseline": "hanging" } },
+          [_vm._v("N")]
+        )
+      ]),
+      _vm._v(" "),
+      _c("svg", { staticClass: "mr-7", attrs: { width: "54", height: "86" } }, [
+        _c(
+          "text",
+          { attrs: { x: "0", y: "0", "dominant-baseline": "hanging" } },
+          [_vm._v("A")]
+        )
+      ]),
+      _vm._v(" "),
+      _c("svg", { staticClass: "mr-7", attrs: { width: "54", height: "86" } }, [
+        _c(
+          "text",
+          { attrs: { x: "0", y: "0", "dominant-baseline": "hanging" } },
+          [_vm._v("N")]
+        )
+      ]),
+      _vm._v(" "),
+      _c("svg", { attrs: { width: "54", height: "86" } }, [
+        _c(
+          "text",
+          { attrs: { x: "0", y: "0", "dominant-baseline": "hanging" } },
+          [_vm._v("A")]
+        )
+      ])
+    ]),
+    _vm._v(" "),
+    _c("p", { staticClass: "sub font-fotura" }, [
+      _vm._v("Eyelash Extensions Salon.")
+    ]),
+    _vm._v(" "),
+    _vm._m(0)
+  ])
+}
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", [
+      _c("div", [
+        _c("img", {
+          staticClass: "line mb-16 mt-16",
+          attrs: { src: "/icon/line.png", alt: "break-line" }
+        })
+      ]),
+      _vm._v(" "),
+      _c("ul", { staticClass: "list" }, [
+        _c("li", [_vm._v("Milano")]),
+        _vm._v(" "),
+        _c("li", [_vm._v("Le Rochelle")]),
+        _vm._v(" "),
+        _c("li", [_vm._v("Lisbon")])
+      ])
+    ])
+  }
+]
+render._withStripped = true
+
+
+
+/***/ }),
+
 /***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/views/Beauty.vue?vue&type=template&id=0fe82c5b&":
 /*!****************************************************************************************************************************************************************************************************!*\
   !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/views/Beauty.vue?vue&type=template&id=0fe82c5b& ***!
@@ -35862,103 +36029,65 @@ var render = function() {
   var _h = _vm.$createElement
   var _c = _vm._self._c || _h
   return _c("div", [
-    _c("section", { staticClass: "flex justify-end relative lg:mb-32" }, [
-      _c("div", { staticClass: "hero absolute z-10 font-adobe" }, [
-        _c("h2", [
-          _c(
-            "svg",
-            { staticClass: "mr-7", attrs: { width: "54", height: "86" } },
-            [
-              _c(
-                "text",
-                { attrs: { x: "0", y: "0", "dominant-baseline": "hanging" } },
-                [_vm._v("N")]
-              )
-            ]
-          ),
-          _vm._v(" "),
-          _c(
-            "svg",
-            { staticClass: "mr-7", attrs: { width: "54", height: "86" } },
-            [
-              _c(
-                "text",
-                { attrs: { x: "0", y: "0", "dominant-baseline": "hanging" } },
-                [_vm._v("A")]
-              )
-            ]
-          ),
-          _vm._v(" "),
-          _c(
-            "svg",
-            { staticClass: "mr-7", attrs: { width: "54", height: "86" } },
-            [
-              _c(
-                "text",
-                { attrs: { x: "0", y: "0", "dominant-baseline": "hanging" } },
-                [_vm._v("N")]
-              )
-            ]
-          ),
-          _vm._v(" "),
-          _c("svg", { attrs: { width: "54", height: "86" } }, [
+    _c(
+      "section",
+      { staticClass: "flex justify-end relative lg:mb-32" },
+      [
+        _c("hero"),
+        _vm._v(" "),
+        _c("div", { staticClass: "flex justify-end" }, [_c("carousel")], 1),
+        _vm._v(" "),
+        _c(
+          "span",
+          {
+            staticClass:
+              "absolute scroll text-sm font-fotura tracking-loose text-black"
+          },
+          [_vm._v("SCROLL ⇀")]
+        )
+      ],
+      1
+    ),
+    _vm._v(" "),
+    _c("section", { staticClass: "lg:mb-16" }, [
+      _c("div", { staticClass: "container flex lg:pl-8" }, [
+        _vm._m(0),
+        _vm._v(" "),
+        _c(
+          "div",
+          {
+            staticClass: "w-3/5 m-16 bg-teal-lightest p-50 pl-90",
+            staticStyle: { "box-sizing": "border-box" }
+          },
+          [
+            _vm._m(1),
+            _vm._v(" "),
             _c(
-              "text",
-              { attrs: { x: "0", y: "0", "dominant-baseline": "hanging" } },
-              [_vm._v("A")]
+              "div",
+              [
+                _c("router-link", { attrs: { to: "/concept" } }, [
+                  _c(
+                    "a",
+                    {
+                      staticClass:
+                        "concept-btn inline-block h-50 leading-50 text-xs w-2/5 text-center hover:bg-yellow-lighter"
+                    },
+                    [
+                      _vm._v(
+                        "\n                            コンセプト＆こだわり\n                        "
+                      )
+                    ]
+                  )
+                ])
+              ],
+              1
             )
-          ])
-        ]),
-        _vm._v(" "),
-        _c("p", { staticClass: "sub font-fotura" }, [
-          _vm._v("Eyelash Extensions Salon.")
-        ]),
-        _vm._v(" "),
-        _vm._m(0)
-      ]),
-      _vm._v(" "),
-      _c("div", { staticClass: "flex justify-end" }, [_c("carousel")], 1),
-      _vm._v(" "),
-      _c(
-        "span",
-        {
-          staticClass:
-            "absolute scroll text-sm font-fotura tracking-loose text-black"
-        },
-        [_vm._v("SCROLL ⇀")]
-      )
+          ]
+        )
+      ])
     ]),
     _vm._v(" "),
-    _c("section", [
-      _c("div", { staticClass: "container flex" }, [
-        _vm._m(1),
-        _vm._v(" "),
-        _c("div", { staticClass: "w-2/3 m-16 bg-teal-lightest p-50 pl-90" }, [
-          _vm._m(2),
-          _vm._v(" "),
-          _c(
-            "div",
-            [
-              _c("router-link", { attrs: { to: "/concept" } }, [
-                _c(
-                  "a",
-                  {
-                    staticClass:
-                      "concept-btn inline-block h-50 leading-50 text-xs w-2/5 text-center hover:bg-yellow-lighter"
-                  },
-                  [
-                    _vm._v(
-                      "\n                            コンセプト＆こだわり\n                        "
-                    )
-                  ]
-                )
-              ])
-            ],
-            1
-          )
-        ])
-      ])
-    ])
+    _vm._m(2)
   ])
 }
 var staticRenderFns = [
@@ -35966,32 +36095,8 @@ var staticRenderFns = [
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
-    return _c("div", [
-      _c("div", [
-        _c("img", {
-          staticClass: "line",
-          attrs: { src: "/icon/line.png", alt: "break-line" }
-        })
-      ]),
-      _vm._v(" "),
-      _c("ul", { staticClass: "list" }, [
-        _c("li", [_vm._v("Milano")]),
-        _vm._v(" "),
-        _c("li", [_vm._v("Le Rochelle")]),
-        _vm._v(" "),
-        _c("li", [_vm._v("Lisbon")])
-      ])
-    ])
-  },
-  function() {
-    var _vm = this
-    var _h = _vm.$createElement
-    var _c = _vm._self._c || _h
-    return _c("figure", { staticClass: "w-1/3" }, [
-      _c("img", {
-        staticClass: "mb-16 mt-16",
-        attrs: { src: "/decoration/concept.png", alt: "concept" }
-      })
+    return _c("figure", { staticClass: "w-2/5" }, [
+      _c("img", { attrs: { src: "/decoration/concept.png", alt: "concept" } })
     ])
   },
   function() {
@@ -36046,6 +36151,104 @@ var staticRenderFns = [
           )
         ]
       )
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("section", { staticClass: "lg:pr-16 lg:pl-16 lg:mb-16" }, [
+      _c("ul", { staticClass: "flex" }, [
+        _c("li", { staticClass: "lg:w-1/3 flex items-center" }, [
+          _c(
+            "h3",
+            { staticClass: "tracking-loosest text-4xl text-black font-fotura" },
+            [_vm._v("NANA SALON")]
+          )
+        ]),
+        _vm._v(" "),
+        _c("li", { staticClass: "lg:w-2/3" }, [
+          _c("ul", { staticClass: "flex py-4" }, [
+            _c("li", { staticClass: "lg:mr-12 tw-thumbnail" }, [
+              _c("a", { attrs: { href: "/" } }, [
+                _c("figure", [
+                  _c("img", {
+                    attrs: { src: "/store/MILANO.jpg", alt: "MILANO" }
+                  })
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "mb-10" }, [
+                  _c("h4", [_vm._v("MILANO")]),
+                  _vm._v(" "),
+                  _c("ul", [
+                    _c("li", [_vm._v("10:00 - 20:00")]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _vm._v("福岡市中央区天神2-4-20"),
+                      _c("br"),
+                      _vm._v("天神プラッサ405号")
+                    ])
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("p", [_vm._v("サロン紹介 & ご予約")])
+              ])
+            ]),
+            _vm._v(" "),
+            _c("li", { staticClass: "tw-thumbnail lg:mr-12" }, [
+              _c("a", { attrs: { href: "/" } }, [
+                _c("figure", [
+                  _c("img", {
+                    attrs: { src: "/store/La_Rochelle.jpg", alt: "La Rochelle" }
+                  })
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "mb-10" }, [
+                  _c("h4", [_vm._v("La Rochelle")]),
+                  _vm._v(" "),
+                  _c("ul", [
+                    _c("li", [_vm._v("10:00 - 20:00")]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _vm._v("福岡市中央区天神2-4-20"),
+                      _c("br"),
+                      _vm._v("天神プラッサ902号")
+                    ])
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("p", [_vm._v("サロン紹介 & ご予約")])
+              ])
+            ]),
+            _vm._v(" "),
+            _c("li", { staticClass: "tw-thumbnail" }, [
+              _c("a", { attrs: { href: "/" } }, [
+                _c("figure", [
+                  _c("img", {
+                    attrs: { src: "/store/LISBON.jpg", alt: "LISBON" }
+                  })
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "mb-10" }, [
+                  _c("h4", [_vm._v("LISBON")]),
+                  _vm._v(" "),
+                  _c("ul", [
+                    _c("li", [_vm._v("10:00 - 20:00")]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _vm._v("福岡市中央区大名1-13-23"),
+                      _c("br"),
+                      _vm._v("LEX21 5F")
+                    ])
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("p", [_vm._v("サロン紹介 & ご予約")])
+              ])
+            ])
+          ])
+        ])
+      ])
     ])
   }
 ]
@@ -50211,6 +50414,7 @@ vue__WEBPACK_IMPORTED_MODULE_0___default.a.use(portal_vue__WEBPACK_IMPORTED_MODU
 
 vue__WEBPACK_IMPORTED_MODULE_0___default.a.component('menu-list', __webpack_require__(/*! ./components/MenuList.vue */ "./resources/js/components/MenuList.vue").default);
 vue__WEBPACK_IMPORTED_MODULE_0___default.a.component('menu-hamburger', __webpack_require__(/*! ./components/MenuHamburger.vue */ "./resources/js/components/MenuHamburger.vue").default);
+vue__WEBPACK_IMPORTED_MODULE_0___default.a.component('hero', __webpack_require__(/*! ./components/home/_Hero.vue */ "./resources/js/components/home/_Hero.vue").default);
 vue__WEBPACK_IMPORTED_MODULE_0___default.a.component('carousel', __webpack_require__(/*! ./components/Carousel.vue */ "./resources/js/components/Carousel.vue").default);
 /**
  * Next, we will create a fresh Vue application instance and attach it to
@@ -50527,6 +50731,75 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_MenuList_vue_vue_type_template_id_2df1f188_scoped_true___WEBPACK_IMPORTED_MODULE_0__["render"]; });
 
 /* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_MenuList_vue_vue_type_template_id_2df1f188_scoped_true___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
+
+
+
+/***/ }),
+
+/***/ "./resources/js/components/home/_Hero.vue":
+/*!************************************************!*\
+  !*** ./resources/js/components/home/_Hero.vue ***!
+  \************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _Hero_vue_vue_type_template_id_920bb058_scoped_true___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./_Hero.vue?vue&type=template&id=920bb058&scoped=true& */ "./resources/js/components/home/_Hero.vue?vue&type=template&id=920bb058&scoped=true&");
+/* harmony import */ var _Hero_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./_Hero.vue?vue&type=script&lang=js& */ "./resources/js/components/home/_Hero.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport *//* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+
+
+
+
+
+/* normalize component */
+
+var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__["default"])(
+  _Hero_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__["default"],
+  _Hero_vue_vue_type_template_id_920bb058_scoped_true___WEBPACK_IMPORTED_MODULE_0__["render"],
+  _Hero_vue_vue_type_template_id_920bb058_scoped_true___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"],
+  false,
+  null,
+  "920bb058",
+  null
+  
+)
+
+/* hot reload */
+if (false) { var api; }
+component.options.__file = "resources/js/components/home/_Hero.vue"
+/* harmony default export */ __webpack_exports__["default"] = (component.exports);
+
+/***/ }),
+
+/***/ "./resources/js/components/home/_Hero.vue?vue&type=script&lang=js&":
+/*!*************************************************************************!*\
+  !*** ./resources/js/components/home/_Hero.vue?vue&type=script&lang=js& ***!
+  \*************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Hero_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../node_modules/babel-loader/lib??ref--4-0!../../../../node_modules/vue-loader/lib??vue-loader-options!./_Hero.vue?vue&type=script&lang=js& */ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/home/_Hero.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport */ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Hero_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__["default"]); 
+
+/***/ }),
+
+/***/ "./resources/js/components/home/_Hero.vue?vue&type=template&id=920bb058&scoped=true&":
+/*!*******************************************************************************************!*\
+  !*** ./resources/js/components/home/_Hero.vue?vue&type=template&id=920bb058&scoped=true& ***!
+  \*******************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Hero_vue_vue_type_template_id_920bb058_scoped_true___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../../node_modules/vue-loader/lib??vue-loader-options!./_Hero.vue?vue&type=template&id=920bb058&scoped=true& */ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/home/_Hero.vue?vue&type=template&id=920bb058&scoped=true&");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Hero_vue_vue_type_template_id_920bb058_scoped_true___WEBPACK_IMPORTED_MODULE_0__["render"]; });
+
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Hero_vue_vue_type_template_id_920bb058_scoped_true___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
 
 
 

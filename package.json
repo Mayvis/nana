@@ -35,6 +35,7 @@
   "license": "ISC",
   "dependencies": {
     "flickity": "^2.1.2",
+    "in-viewport": "^3.6.0",
     "portal-vue": "^1.5.1"
   }
 }
