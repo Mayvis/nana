@@ -38,6 +38,8 @@
             <div class="flex justify-end">
                 <carousel></carousel>
             </div>
+
+            <span class="absolute scroll text-sm font-fotura tracking-loose text-black">SCROLL ⇀</span>
         </section>
 
         <section>
@@ -115,6 +117,19 @@
             letter-spacing: 0.6em;
             line-height: 3.5;
         }
+    }
+
+    .scroll {
+        transform: rotate(90deg);
+        bottom: 40px;
+        right: -75px;
+        animation: pos 2s ease-in-out infinite;
+    }
+
+    @keyframes pos {
+        0% {bottom: 50px}
+        50% {bottom: 40px}
+        100% {bottom: 50px}
     }
 
     .concept-btn {
