@@ -12,7 +12,7 @@
 </head>
 <body>
 
-<div id="app" v-cloak>
+<div id="app" class="relative" v-cloak>
     @include('layouts.header')
 
     <main>
@@ -20,6 +20,8 @@
             <router-view></router-view>
         </div>
     </main>
+
+    <info></info>
 </div>
 
 <script src="/js/app.js"></script>

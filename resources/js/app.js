@@ -35,6 +35,7 @@ Vue.component('menu-list', require('./components/MenuList.vue').default);
 Vue.component('menu-hamburger', require('./components/MenuHamburger.vue').default);
 Vue.component('hero', require('./components/home/_Hero.vue').default);
 Vue.component('carousel', require('./components/Carousel.vue').default);
+Vue.component('info', require('./components/Info.vue').default);
 
 /**
  * Next, we will create a fresh Vue application instance and attach it to

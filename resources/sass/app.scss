@@ -65,6 +65,14 @@ p, h1, h2, h3, h4, h5, h6 {
 .logo {
     @apply bg-white;
     padding: 60px 50px;
+
+    img {
+        transition: opacity .4s;
+
+        &:hover {
+            opacity: 0.6;
+        }
+    }
 }
 
 main {

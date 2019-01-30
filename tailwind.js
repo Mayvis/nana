@@ -95,6 +95,7 @@ let colors = {
     'teal-light': '#64d5ca',
     'teal-lighter': '#c0d4dB',
     'teal-lightest': '#e8eff1',
+    'teal-link': '#c0d4db',
 
     'blue-darkest': '#12283a',
     'blue-darker': '#1c3d5a',
@@ -548,6 +549,7 @@ module.exports = {
     height: {
         'auto': 'auto',
         'px': '1px',
+        '0': '0',
         '1': '0.25rem',
         '2': '0.5rem',
         '3': '0.75rem',
