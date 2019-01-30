@@ -35,7 +35,7 @@
         },
 
         mounted() {
-            window.addEventListener('scroll', this.checkDisplay, {passive: true});
+            window.addEventListener('scroll', _.throttle(this.checkDisplay, 600), {passive: true});
         },
 
         methods: {

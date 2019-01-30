@@ -2,6 +2,7 @@
   <dictionary name="chenwen">
     <words>
       <w>axios</w>
+      <w>crossorigin</w>
       <w>csrf</w>
       <w>extrabold</w>
       <w>eyelashsalon</w>
