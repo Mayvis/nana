@@ -1,5 +1,5 @@
 <template>
-    <div class="main-carousel fade">
+    <div class="main-carousel fade relative">
         <div class="carousel-cell" style="background-image: url('/hero/hero_1.gif')"></div>
         <div class="carousel-cell" style="background-image: url('/hero/hero_2.gif')"></div>
         <div class="carousel-cell" style="background-image: url('/hero/hero_3.gif')"></div>
@@ -33,21 +33,21 @@
 
 <style lang="scss">
     .main-carousel {
-        width: 1200px;
-        position: relative;
+        width: 1100px;
     }
 
     .fade .carousel-cell {
         background-size: contain;
-        width: 1600px;
-        height: 900px;
+        background-repeat: no-repeat;
+        width: 1422.22px;
+        height: 800px;
         opacity: 0;
         left: 0 !important;
         transform: scale(1);
         transition: 1.5s ease-in-out;
 
         &.is-selected {
-            opacity: 1;
+            opacity: 0.75;
             left: 0;
             transform: scale(1.02);
         }

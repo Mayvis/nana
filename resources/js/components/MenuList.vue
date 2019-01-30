@@ -61,19 +61,18 @@
 
 <style scoped lang="scss">
     .menu-list {
-        @apply w-2/5 h-screen fixed pin-t pin-r align-middle z-20 overflow-y-scroll scrolling-touch bg-teal-lightest;
+        @apply w-2/5 h-screen fixed pin-t pin-r align-middle z-20 overflow-y-scroll scrolling-touch bg-teal-lighter;
         transition: all .4s;
         padding: 160px 50px 50px 50px;
 
         .menu-list-item {
-            @apply leading-loose font-semibold text-2xl text-black tracking-loose font-adobe font-sans relative;
+            @apply leading-loose font-semibold text-2xl text-black tracking-loose font-adobe font-sans relative inline-block;
 
             &:after {
-                @apply bg-black absolute pin-l;
+                @apply bg-black absolute pin-l pin-b;
                 content: "";
                 width: 0;
                 height: 2px;
-                bottom: -12px;
                 transition: all .2s;
             }
 

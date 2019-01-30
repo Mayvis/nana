@@ -77,7 +77,7 @@ let colors = {
     'yellow-dark': '#f2d024',
     'yellow': '#ffed4a',
     'yellow-light': '#fff382',
-    'yellow-lighter': '#fff9c2',
+    'yellow-lighter': '#f7f1ad',
     'yellow-lightest': '#fcfbeb',
 
     'green-darkest': '#0f2f21',
@@ -93,8 +93,8 @@ let colors = {
     'teal-dark': '#38a89d',
     'teal': '#4dc0b5',
     'teal-light': '#64d5ca',
-    'teal-lighter': '#a0f0ed',
-    'teal-lightest': '#C0D4DB',
+    'teal-lighter': '#c0d4dB',
+    'teal-lightest': '#e8eff1',
 
     'blue-darkest': '#12283a',
     'blue-darker': '#1c3d5a',
@@ -231,6 +231,11 @@ module.exports = {
         ],
         'adobe': [
             "sofia-pro-condensed",
+            "sans-serif",
+        ],
+        'fotura': [
+            "futura-pt",
+            "sans-serif",
         ],
     },
 
@@ -258,6 +263,7 @@ module.exports = {
     textSizes: {
         'xs': '.75rem',     // 12px
         'sm': '.875rem',    // 14px
+        '15': '15px',
         'base': '1rem',     // 16px
         'lg': '1.125rem',   // 18px
         'xl': '1.25rem',    // 20px
@@ -314,6 +320,7 @@ module.exports = {
         'tight': 1.25,
         'normal': 1.5,
         'loose': 2,
+        '50': '50px',
     },
 
 
@@ -334,7 +341,9 @@ module.exports = {
         'tight': '-0.05em',
         'normal': '0',
         'wide': '0.05em',
+        'wider': '0.15em',
         'loose': '0.2em',
+        'loosest': '0.3em',
     },
 
 
@@ -556,6 +565,7 @@ module.exports = {
         '64': '16rem',
         'full': '100%',
         'screen': '100vh',
+        '50': '50px',
     },
 
 
@@ -678,6 +688,7 @@ module.exports = {
         '4': '1rem',
         '5': '1.25rem',
         '6': '1.5rem',
+        '7': '1.875rem',
         '8': '2rem',
         '10': '2.5rem',
         '12': '3rem',
@@ -685,6 +696,8 @@ module.exports = {
         '20': '5rem',
         '24': '6rem',
         '32': '8rem',
+        '50': '50px',
+        '90': '90px',
     },
 
 
@@ -714,6 +727,7 @@ module.exports = {
         '4': '1rem',
         '5': '1.25rem',
         '6': '1.5rem',
+        '7': '1.875rem',
         '8': '2rem',
         '10': '2.5rem',
         '12': '3rem',
@@ -749,6 +763,7 @@ module.exports = {
         '4': '1rem',
         '5': '1.25rem',
         '6': '1.5rem',
+        '7': '1.875rem',
         '8': '2rem',
         '10': '2.5rem',
         '12': '3rem',
@@ -784,7 +799,6 @@ module.exports = {
         'outline': '0 0 0 3px rgba(52,144,220,0.5)',
         'none': 'none',
     },
-
 
     /*
     |-----------------------------------------------------------------------------

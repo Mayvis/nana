@@ -5,11 +5,11 @@
 @tailwind utilities;
 
 a {
-    @apply .text-black .no-underline;
+    @apply text-black no-underline;
 }
 
-ul {
-    @apply .list-reset;
+ul, li {
+    @apply list-reset;
 }
 
 p, h1, h2, h3, h4, h5, h6 {
