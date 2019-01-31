@@ -32,7 +32,7 @@
 </script>
 
 <style lang="scss">
-    .main-carousel {
+    .fade.main-carousel {
         width: 1100px;
     }
 
@@ -53,7 +53,7 @@
         }
     }
 
-    .flickity-slider {
+    .fade .flickity-slider {
         transform: none !important;
     }
 </style>

@@ -1,4 +1,3 @@
-
 /**
  * First we will load all of this project's JavaScript dependencies which
  * includes Vue and other libraries. It is a great starting point when
@@ -33,8 +32,6 @@ Vue.use(PortalVue);
 
 Vue.component('menu-list', require('./components/MenuList.vue').default);
 Vue.component('menu-hamburger', require('./components/MenuHamburger.vue').default);
-Vue.component('hero', require('./components/home/_Hero.vue').default);
-Vue.component('carousel', require('./components/Carousel.vue').default);
 Vue.component('info', require('./components/Info.vue').default);
 
 /**
