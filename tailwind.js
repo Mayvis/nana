@@ -52,7 +52,7 @@ let colors = {
     'grey-dark': '#8795a1',
     'grey': '#b8c2cc',
     'grey-light': '#dae1e7',
-    'grey-lighter': '#f1f5f8',
+    'grey-lighter': '#f9f9f9',
     'grey-lightest': '#f8fafc',
     'white': '#ffffff',
 
@@ -700,6 +700,7 @@ module.exports = {
         '24': '6rem',
         '32': '8rem',
         '50': '50px',
+        '60': '60px',
         '90': '90px',
     },
 

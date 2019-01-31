@@ -4387,6 +4387,10 @@ table {
   padding: 50px;
 }
 
+.p-60 {
+  padding: 60px;
+}
+
 .p-90 {
   padding: 90px;
 }
@@ -4553,6 +4557,16 @@ table {
 .px-50 {
   padding-left: 50px;
   padding-right: 50px;
+}
+
+.py-60 {
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+
+.px-60 {
+  padding-left: 60px;
+  padding-right: 60px;
 }
 
 .py-90 {
@@ -4829,6 +4843,22 @@ table {
 
 .pl-50 {
   padding-left: 50px;
+}
+
+.pt-60 {
+  padding-top: 60px;
+}
+
+.pr-60 {
+  padding-right: 60px;
+}
+
+.pb-60 {
+  padding-bottom: 60px;
+}
+
+.pl-60 {
+  padding-left: 60px;
 }
 
 .pt-90 {
@@ -10306,6 +10336,10 @@ main {
     padding: 50px;
   }
 
+  .sm\:p-60 {
+    padding: 60px;
+  }
+
   .sm\:p-90 {
     padding: 90px;
   }
@@ -10472,6 +10506,16 @@ main {
   .sm\:px-50 {
     padding-left: 50px;
     padding-right: 50px;
+  }
+
+  .sm\:py-60 {
+    padding-top: 60px;
+    padding-bottom: 60px;
+  }
+
+  .sm\:px-60 {
+    padding-left: 60px;
+    padding-right: 60px;
   }
 
   .sm\:py-90 {
@@ -10748,6 +10792,22 @@ main {
 
   .sm\:pl-50 {
     padding-left: 50px;
+  }
+
+  .sm\:pt-60 {
+    padding-top: 60px;
+  }
+
+  .sm\:pr-60 {
+    padding-right: 60px;
+  }
+
+  .sm\:pb-60 {
+    padding-bottom: 60px;
+  }
+
+  .sm\:pl-60 {
+    padding-left: 60px;
   }
 
   .sm\:pt-90 {
@@ -16122,6 +16182,10 @@ main {
     padding: 50px;
   }
 
+  .md\:p-60 {
+    padding: 60px;
+  }
+
   .md\:p-90 {
     padding: 90px;
   }
@@ -16288,6 +16352,16 @@ main {
   .md\:px-50 {
     padding-left: 50px;
     padding-right: 50px;
+  }
+
+  .md\:py-60 {
+    padding-top: 60px;
+    padding-bottom: 60px;
+  }
+
+  .md\:px-60 {
+    padding-left: 60px;
+    padding-right: 60px;
   }
 
   .md\:py-90 {
@@ -16564,6 +16638,22 @@ main {
 
   .md\:pl-50 {
     padding-left: 50px;
+  }
+
+  .md\:pt-60 {
+    padding-top: 60px;
+  }
+
+  .md\:pr-60 {
+    padding-right: 60px;
+  }
+
+  .md\:pb-60 {
+    padding-bottom: 60px;
+  }
+
+  .md\:pl-60 {
+    padding-left: 60px;
   }
 
   .md\:pt-90 {
@@ -21938,6 +22028,10 @@ main {
     padding: 50px;
   }
 
+  .lg\:p-60 {
+    padding: 60px;
+  }
+
   .lg\:p-90 {
     padding: 90px;
   }
@@ -22104,6 +22198,16 @@ main {
   .lg\:px-50 {
     padding-left: 50px;
     padding-right: 50px;
+  }
+
+  .lg\:py-60 {
+    padding-top: 60px;
+    padding-bottom: 60px;
+  }
+
+  .lg\:px-60 {
+    padding-left: 60px;
+    padding-right: 60px;
   }
 
   .lg\:py-90 {
@@ -22380,6 +22484,22 @@ main {
 
   .lg\:pl-50 {
     padding-left: 50px;
+  }
+
+  .lg\:pt-60 {
+    padding-top: 60px;
+  }
+
+  .lg\:pr-60 {
+    padding-right: 60px;
+  }
+
+  .lg\:pb-60 {
+    padding-bottom: 60px;
+  }
+
+  .lg\:pl-60 {
+    padding-left: 60px;
   }
 
   .lg\:pt-90 {
@@ -27754,6 +27874,10 @@ main {
     padding: 50px;
   }
 
+  .xl\:p-60 {
+    padding: 60px;
+  }
+
   .xl\:p-90 {
     padding: 90px;
   }
@@ -27920,6 +28044,16 @@ main {
   .xl\:px-50 {
     padding-left: 50px;
     padding-right: 50px;
+  }
+
+  .xl\:py-60 {
+    padding-top: 60px;
+    padding-bottom: 60px;
+  }
+
+  .xl\:px-60 {
+    padding-left: 60px;
+    padding-right: 60px;
   }
 
   .xl\:py-90 {
@@ -28196,6 +28330,22 @@ main {
 
   .xl\:pl-50 {
     padding-left: 50px;
+  }
+
+  .xl\:pt-60 {
+    padding-top: 60px;
+  }
+
+  .xl\:pr-60 {
+    padding-right: 60px;
+  }
+
+  .xl\:pb-60 {
+    padding-bottom: 60px;
+  }
+
+  .xl\:pl-60 {
+    padding-left: 60px;
   }
 
   .xl\:pt-90 {
@@ -33570,6 +33720,10 @@ main {
     padding: 50px;
   }
 
+  .xxl\:p-60 {
+    padding: 60px;
+  }
+
   .xxl\:p-90 {
     padding: 90px;
   }
@@ -33736,6 +33890,16 @@ main {
   .xxl\:px-50 {
     padding-left: 50px;
     padding-right: 50px;
+  }
+
+  .xxl\:py-60 {
+    padding-top: 60px;
+    padding-bottom: 60px;
+  }
+
+  .xxl\:px-60 {
+    padding-left: 60px;
+    padding-right: 60px;
   }
 
   .xxl\:py-90 {
@@ -34012,6 +34176,22 @@ main {
 
   .xxl\:pl-50 {
     padding-left: 50px;
+  }
+
+  .xxl\:pt-60 {
+    padding-top: 60px;
+  }
+
+  .xxl\:pr-60 {
+    padding-right: 60px;
+  }
+
+  .xxl\:pb-60 {
+    padding-bottom: 60px;
+  }
+
+  .xxl\:pl-60 {
+    padding-left: 60px;
   }
 
   .xxl\:pt-90 {

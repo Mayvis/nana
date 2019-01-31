@@ -1,17 +1,15 @@
 <template>
     <div>
-        <section class="flex justify-end relative lg:mb-32">
+        <section class="flex justify-end relative lg:mb-32 container">
             <hero></hero>
 
-            <div class="flex justify-end">
-                <carousel></carousel>
-            </div>
+            <carousel></carousel>
 
             <span class="absolute scroll text-sm font-fotura tracking-loose text-black">SCROLL ⇀</span>
         </section>
 
-        <section class="lg:mb-16">
-            <div class="container flex lg:pl-8">
+        <section class="lg:mb-16 container mx-auto">
+            <div class="flex lg:pl-8">
                 <figure class="w-2/5">
                     <img src="/decoration/concept.png" alt="concept">
                 </figure>
@@ -47,7 +45,7 @@
             </div>
         </section>
 
-        <section class="lg:pr-16 lg:pl-16 lg:mb-16">
+        <section class="lg:pr-16 lg:pl-16 lg:mb-32 container mx-auto">
             <ul class="flex">
                 <li class="lg:w-1/3 flex items-center">
                     <h3 class="tracking-loosest text-4xl text-black font-fotura">NANA SALON</h3>
@@ -110,14 +108,140 @@
                 </li>
             </ul>
         </section>
+
+        <section class="lg:mb-32">
+            <div class="flex container">
+                <div class="lg:w-2/3">
+                    <slider></slider>
+                    <slider :right-to-left="true"></slider>
+                </div>
+
+                <div class="lg:w-1/3 lg:pl-16 flex justify-center flex-col">
+                    <h3 class="tracking-loosest text-4xl text-black font-fotura leading-loose">INSTAGRAM</h3>
+
+                    <a href="https://www.instagram.com/nana_eyelashsalon/"
+                       class="ig-link"
+                    >
+                        <span>FOLLOW</span> @nana_eyelashsalon !
+                    </a>
+
+                    <a href="https://www.instagram.com/nana_nail_lisbon/"
+                       class="ig-link"
+                    >
+                        <span>FOLLOW</span> @nana_nail_lisbon !
+                    </a>
+                </div>
+            </div>
+        </section>
+
+        <section>
+            <div class="container mx-auto bg-grey-lighter flex justify-center flex-col lg:p-24">
+                <h3 class="tracking-loosest text-4xl text-black font-adobe leading-loosest text-center">MENU&PRICE</h3>
+
+                <div class="flex">
+                    <div class="flex-1 lg:pl-60">
+                        <h4 class="item-h">Eyelash</h4>
+
+                        <table class="price">
+                            <tr>
+                                <th>最高級セーブル 60本</th>
+                                <td>¥2,980</td>
+                            </tr>
+                            <tr>
+                                <th>最高級セーブル 80本</th>
+                                <td>¥3,980</td>
+                            </tr>
+                            <tr>
+                                <th>最高級セーブル上つけ放題</th>
+                                <td>¥4,980</td>
+                            </tr>
+                            <tr>
+                                <th>最高級セーブル上下つけ放題</th>
+                                <td>¥6,980</td>
+                            </tr>
+                            <tr>
+                                <th>ALLカラー 80本</th>
+                                <td>¥5,060</td>
+                            </tr>
+                            <tr>
+                                <th>3Dラッシュ 60束(240本以上)</th>
+                                <td>¥5,980</td>
+                            </tr>
+                            <tr>
+                                <th>3Dラッシュ 80束(320本以上)</th>
+                                <td>¥6,980</td>
+                            </tr>
+                        </table>
+                    </div>
+
+                    <div class="flex-1 lg:pl-60">
+                        <h4 class="item-h">Nail</h4>
+
+                        <table class="price">
+                            <tr>
+                                <th>ハンド：ジェルワンカラー</th>
+                                <td>¥4,980</td>
+                            </tr>
+                            <tr>
+                                <th>ハンド：アート2本つけ放題</th>
+                                <td>¥5,980</td>
+                            </tr>
+                            <tr>
+                                <th>ハンド：アート4本つけ放題</th>
+                                <td>¥6,980</td>
+                            </tr>
+                            <tr>
+                                <th>ハンド：アート6本つけ放題</th>
+                                <td>¥7,980</td>
+                            </tr>
+                            <tr>
+                                <th>フット：クリアベースワンカラー</th>
+                                <td>¥5,480</td>
+                            </tr>
+                            <tr>
+                                <th>フット：アート10本</th>
+                                <td>¥7,980</td>
+                            </tr>
+                        </table>
+                    </div>
+                </div>
+
+                <div class="lg:pt-16">
+                    <p class="text-center text-xs text-grey-darkest lg:pb-16">
+                        ＊ メニュー・金額は一例です。各メニューの詳細やお得なクーポンはHOTPEPPER Beautyをご確認ください。
+                    </p>
+
+                    <div class="border-black border flex relative justify-center lg:pt-12">
+                        <p class="absolute flex flex-col text-center p-8 bg-grey-lighter" style="top: -40px">
+                            <span>メニュー＆クーポン一覧</span>
+
+                            <span class="text-xs text-grey-darkest">( HOTPEPPER Beautyへリンクします )</span>
+                        </p>
+
+                        <a href="https://beauty.hotpepper.jp/kr/slnH000248220/coupon/"
+                           class="concept-btn inline-block h-50 leading-50 text-xs w-1/4 text-center hover:bg-yellow-lighter lg:m-12"
+                        >
+                            MILANO & LA ROCHELLE
+                        </a>
+                        <a href="https://beauty.hotpepper.jp/kr/slnH000364510/coupon/"
+                           class="concept-btn inline-block h-50 leading-50 text-xs w-1/4 text-center hover:bg-yellow-lighter lg:m-12"
+                        >
+                            LISBON
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </section>
     </div>
 </template>
 
 <script>
     import Carousel from '../components/Carousel';
+    import hero from '../components/home/_Hero';
+    import slider from '../components/Slider';
 
     export default {
-        components: {Carousel},
+        components: {Carousel, hero, slider},
     }
 </script>
 
@@ -207,6 +331,59 @@
                 left: 0;
                 background-color: #555;
             }
+        }
+    }
+
+    .ig-link {
+        @apply block font-fotura text-xs tracking-loose leading-loose relative;
+        transition: opacity .4s;
+
+        &:before {
+            content: '';
+            width: 20px;
+            height: 1px;
+            background: black;
+            position: absolute;
+            top: 50%;
+            left: 0;
+            transform: translateY(-50%);
+        }
+
+        &:hover {
+            opacity: 0.5;
+        }
+
+        span {
+            display: inline-block;
+            padding-left: 30px;
+        }
+    }
+
+    .item-h {
+        @apply font-adobe tracking-loosest text-xl font-normal relative leading-loose;
+        margin-bottom: 20px;
+
+        &:after {
+            content: "";
+            width: 30px;
+            height: 1px;
+            background: #555;
+            position: absolute;
+            left: 0;
+            bottom: 0;
+        }
+    }
+
+    .price {
+        @apply text-left text-sm text-black leading-loose;
+
+        tr {
+            padding-top: 10px;
+        }
+
+        th, td {
+            padding-right: 30px;
+            font-weight: 300;
         }
     }
 </style>

@@ -2364,6 +2364,31 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 
 
 
@@ -2625,7 +2650,7 @@ exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loa
 
 
 // module
-exports.push([module.i, ".hero {\n  top: 160px;\n  left: 130px;\n}\n.hero text {\n  fill: rgba(255, 255, 255, 0);\n  stroke: #333;\n  font-size: 76px;\n  stroke-width: .8;\n  stroke-linejoin: round;\n  line-height: 1;\n}\n.hero .sub {\n  letter-spacing: .3em;\n}\n.hero .line {\n  width: 72px;\n  height: auto;\n}\n.hero .list li {\n  font-family: futura-pt, sans-serif;\n  font-size: 15px;\n  letter-spacing: .6em;\n  line-height: 3.5;\n}\n.scroll {\n  -webkit-transform: rotate(90deg);\n          transform: rotate(90deg);\n  bottom: 40px;\n  right: -75px;\n  -webkit-animation: pos 2s ease-in-out infinite;\n          animation: pos 2s ease-in-out infinite;\n}\n@-webkit-keyframes pos {\n0% {\n    bottom: 50px;\n}\n50% {\n    bottom: 40px;\n}\n100% {\n    bottom: 50px;\n}\n}\n@keyframes pos {\n0% {\n    bottom: 50px;\n}\n50% {\n    bottom: 40px;\n}\n100% {\n    bottom: 50px;\n}\n}\n.concept-btn {\n  transition: background-color .2s;\n  background: url(\"/icon/left_top.svg\") left top/10px 10px no-repeat, url(\"/icon/right_top.svg\") right top/10px 8px no-repeat, url(\"/icon/left_bottom.svg\") left bottom/10px 10px no-repeat, url(\"/icon/right_bottom.svg\") right bottom/10px 8px no-repeat #fff;\n}\n.tw-thumbnail {\n  color: #22292f;\n  transition: opacity .2s;\n}\n.tw-thumbnail:hover {\n  opacity: .5;\n}\n.tw-thumbnail h4 {\n  letter-spacing: .3em;\n  font-size: 1.25rem;\n  line-height: 3.5;\n}\n.tw-thumbnail li {\n  font-family: futura-pt, sans-serif;\n  font-family: sofia-pro-condensed, sans-serif;\n  font-size: .75rem;\n  letter-spacing: .15em;\n  line-height: 2;\n  color: #22292f;\n}\n.tw-thumbnail p {\n  font-size: .875rem;\n  position: relative;\n  padding-left: 2rem;\n}\n.tw-thumbnail p:before {\n  content: \"\";\n  width: 20px;\n  height: 1px;\n  position: absolute;\n  top: 8px;\n  left: 0;\n  background-color: #555;\n}\n.ig-link {\n  display: block;\n  font-family: futura-pt, sans-serif;\n  font-size: .75rem;\n  letter-spacing: .2em;\n  line-height: 2;\n  position: relative;\n}\n.ig-link:before {\n  content: \"\";\n  width: 20px;\n  height: 1px;\n  background: black;\n  position: absolute;\n  top: 50%;\n  left: 0;\n  -webkit-transform: translateY(-50%);\n          transform: translateY(-50%);\n}\n.ig-link span {\n  display: inline-block;\n  padding-left: 30px;\n}\n.item-h {\n  font-family: sofia-pro-condensed, sans-serif;\n  letter-spacing: .3em;\n  font-size: 1.25rem;\n  font-weight: 400;\n  position: relative;\n  line-height: 2;\n}\n.item-h:after {\n  content: \"\";\n  width: 30px;\n  height: 1px;\n  background: #555;\n  position: absolute;\n  left: 0;\n  bottom: 0;\n}\n.price {\n  text-align: left;\n  font-size: .875rem;\n  color: #22292f;\n  line-height: 2;\n}\n.price tr {\n  padding-top: 10px;\n}\n.price th,\n.price td {\n  padding-right: 30px;\n  font-weight: normal;\n}\n", ""]);
+exports.push([module.i, ".hero {\n  top: 160px;\n  left: 130px;\n}\n.hero text {\n  fill: rgba(255, 255, 255, 0);\n  stroke: #333;\n  font-size: 76px;\n  stroke-width: .8;\n  stroke-linejoin: round;\n  line-height: 1;\n}\n.hero .sub {\n  letter-spacing: .3em;\n}\n.hero .line {\n  width: 72px;\n  height: auto;\n}\n.hero .list li {\n  font-family: futura-pt, sans-serif;\n  font-size: 15px;\n  letter-spacing: .6em;\n  line-height: 3.5;\n}\n.scroll {\n  -webkit-transform: rotate(90deg);\n          transform: rotate(90deg);\n  bottom: 40px;\n  right: -75px;\n  -webkit-animation: pos 2s ease-in-out infinite;\n          animation: pos 2s ease-in-out infinite;\n}\n@-webkit-keyframes pos {\n0% {\n    bottom: 50px;\n}\n50% {\n    bottom: 40px;\n}\n100% {\n    bottom: 50px;\n}\n}\n@keyframes pos {\n0% {\n    bottom: 50px;\n}\n50% {\n    bottom: 40px;\n}\n100% {\n    bottom: 50px;\n}\n}\n.concept-btn {\n  transition: background-color .2s;\n  background: url(\"/icon/left_top.svg\") left top/10px 10px no-repeat, url(\"/icon/right_top.svg\") right top/10px 8px no-repeat, url(\"/icon/left_bottom.svg\") left bottom/10px 10px no-repeat, url(\"/icon/right_bottom.svg\") right bottom/10px 8px no-repeat #fff;\n}\n.tw-thumbnail {\n  color: #22292f;\n  transition: opacity .2s;\n}\n.tw-thumbnail:hover {\n  opacity: .5;\n}\n.tw-thumbnail h4 {\n  letter-spacing: .3em;\n  font-size: 1.25rem;\n  line-height: 3.5;\n}\n.tw-thumbnail li {\n  font-family: futura-pt, sans-serif;\n  font-family: sofia-pro-condensed, sans-serif;\n  font-size: .75rem;\n  letter-spacing: .15em;\n  line-height: 2;\n  color: #22292f;\n}\n.tw-thumbnail p {\n  font-size: .875rem;\n  position: relative;\n  padding-left: 2rem;\n}\n.tw-thumbnail p:before {\n  content: \"\";\n  width: 20px;\n  height: 1px;\n  position: absolute;\n  top: 8px;\n  left: 0;\n  background-color: #555;\n}\n.ig-link {\n  display: block;\n  font-family: futura-pt, sans-serif;\n  font-size: .75rem;\n  letter-spacing: .2em;\n  line-height: 2;\n  position: relative;\n  transition: opacity .4s;\n}\n.ig-link:before {\n  content: \"\";\n  width: 20px;\n  height: 1px;\n  background: black;\n  position: absolute;\n  top: 50%;\n  left: 0;\n  -webkit-transform: translateY(-50%);\n          transform: translateY(-50%);\n}\n.ig-link:hover {\n  opacity: .5;\n}\n.ig-link span {\n  display: inline-block;\n  padding-left: 30px;\n}\n.item-h {\n  font-family: sofia-pro-condensed, sans-serif;\n  letter-spacing: .3em;\n  font-size: 1.25rem;\n  font-weight: 400;\n  position: relative;\n  line-height: 2;\n  margin-bottom: 20px;\n}\n.item-h:after {\n  content: \"\";\n  width: 30px;\n  height: 1px;\n  background: #555;\n  position: absolute;\n  left: 0;\n  bottom: 0;\n}\n.price {\n  text-align: left;\n  font-size: .875rem;\n  color: #22292f;\n  line-height: 2;\n}\n.price tr {\n  padding-top: 10px;\n}\n.price th,\n.price td {\n  padding-right: 30px;\n  font-weight: 300;\n}\n", ""]);
 
 // exports
 
@@ -36757,20 +36782,20 @@ var staticRenderFns = [
         "div",
         {
           staticClass:
-            "container mx-auto bg-grey-lighter flex justify-center flex-col lg:p-32"
+            "container mx-auto bg-grey-lighter flex justify-center flex-col lg:p-24"
         },
         [
           _c(
             "h3",
             {
               staticClass:
-                "tracking-loosest text-4xl text-black font-adobe leading-loose text-center"
+                "tracking-loosest text-4xl text-black font-adobe leading-loosest text-center"
             },
             [_vm._v("MENU&PRICE")]
           ),
           _vm._v(" "),
           _c("div", { staticClass: "flex" }, [
-            _c("div", { staticClass: "flex-1" }, [
+            _c("div", { staticClass: "flex-1 lg:pl-60" }, [
               _c("h4", { staticClass: "item-h" }, [_vm._v("Eyelash")]),
               _vm._v(" "),
               _c("table", { staticClass: "price" }, [
@@ -36818,7 +36843,7 @@ var staticRenderFns = [
               ])
             ]),
             _vm._v(" "),
-            _c("div", { staticClass: "flex-1" }, [
+            _c("div", { staticClass: "flex-1 lg:pl-60" }, [
               _c("h4", { staticClass: "item-h" }, [_vm._v("Nail")]),
               _vm._v(" "),
               _c("table", { staticClass: "price" }, [
@@ -36859,6 +36884,77 @@ var staticRenderFns = [
                 ])
               ])
             ])
+          ]),
+          _vm._v(" "),
+          _c("div", { staticClass: "lg:pt-16" }, [
+            _c(
+              "p",
+              { staticClass: "text-center text-xs text-grey-darkest lg:pb-16" },
+              [
+                _vm._v(
+                  "\n                    ＊ メニュー・金額は一例です。各メニューの詳細やお得なクーポンはHOTPEPPER Beautyをご確認ください。\n                "
+                )
+              ]
+            ),
+            _vm._v(" "),
+            _c(
+              "div",
+              {
+                staticClass:
+                  "border-black border flex relative justify-center lg:pt-12"
+              },
+              [
+                _c(
+                  "p",
+                  {
+                    staticClass:
+                      "absolute flex flex-col text-center p-8 bg-grey-lighter",
+                    staticStyle: { top: "-40px" }
+                  },
+                  [
+                    _c("span", [_vm._v("メニュー＆クーポン一覧")]),
+                    _vm._v(" "),
+                    _c("span", { staticClass: "text-xs text-grey-darkest" }, [
+                      _vm._v("( HOTPEPPER Beautyへリンクします )")
+                    ])
+                  ]
+                ),
+                _vm._v(" "),
+                _c(
+                  "a",
+                  {
+                    staticClass:
+                      "concept-btn inline-block h-50 leading-50 text-xs w-1/4 text-center hover:bg-yellow-lighter lg:m-12",
+                    attrs: {
+                      href:
+                        "https://beauty.hotpepper.jp/kr/slnH000248220/coupon/"
+                    }
+                  },
+                  [
+                    _vm._v(
+                      "\n                        MILANO & LA ROCHELLE\n                    "
+                    )
+                  ]
+                ),
+                _vm._v(" "),
+                _c(
+                  "a",
+                  {
+                    staticClass:
+                      "concept-btn inline-block h-50 leading-50 text-xs w-1/4 text-center hover:bg-yellow-lighter lg:m-12",
+                    attrs: {
+                      href:
+                        "https://beauty.hotpepper.jp/kr/slnH000364510/coupon/"
+                    }
+                  },
+                  [
+                    _vm._v(
+                      "\n                        LISBON\n                    "
+                    )
+                  ]
+                )
+              ]
+            )
           ])
         ]
       )
