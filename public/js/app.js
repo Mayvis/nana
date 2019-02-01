@@ -2004,6 +2004,7 @@ __webpack_require__.r(__webpack_exports__);
       pageDots: false,
       rightToLeft: this.rightToLeft,
       groupCells: 2,
+      draggable: false,
       selectedAttraction: 0.0001 // change the slider speed
 
     });
@@ -2195,6 +2196,65 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _components_home_Hero__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../components/home/_Hero */ "./resources/js/components/home/_Hero.vue");
 /* harmony import */ var _components_Slider__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../components/Slider */ "./resources/js/components/Slider.vue");
 /* harmony import */ var _components_home_Cabinet__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../components/home/_Cabinet */ "./resources/js/components/home/_Cabinet.vue");
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 //
 //
 //
@@ -2722,7 +2782,7 @@ exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loa
 
 
 // module
-exports.push([module.i, ".hero {\n  top: 160px;\n  left: 130px;\n}\n.hero text {\n  fill: rgba(255, 255, 255, 0);\n  stroke: #333;\n  font-size: 76px;\n  stroke-width: .8;\n  stroke-linejoin: round;\n  line-height: 1;\n}\n.hero .sub {\n  letter-spacing: .3em;\n}\n.hero .line {\n  width: 72px;\n  height: auto;\n}\n.hero .list li {\n  font-family: futura-pt, sans-serif;\n  font-size: 15px;\n  letter-spacing: .6em;\n  line-height: 3.5;\n}\n.scroll {\n  -webkit-transform: rotate(90deg);\n          transform: rotate(90deg);\n  bottom: 40px;\n  right: -75px;\n  -webkit-animation: pos 2s ease-in-out infinite;\n          animation: pos 2s ease-in-out infinite;\n}\n@-webkit-keyframes pos {\n0% {\n    bottom: 50px;\n}\n50% {\n    bottom: 40px;\n}\n100% {\n    bottom: 50px;\n}\n}\n@keyframes pos {\n0% {\n    bottom: 50px;\n}\n50% {\n    bottom: 40px;\n}\n100% {\n    bottom: 50px;\n}\n}\n.concept-btn {\n  transition: background-color .2s;\n  background: url(\"/icon/left_top.svg\") left top/10px 10px no-repeat, url(\"/icon/right_top.svg\") right top/10px 8px no-repeat, url(\"/icon/left_bottom.svg\") left bottom/10px 10px no-repeat, url(\"/icon/right_bottom.svg\") right bottom/10px 8px no-repeat #fff;\n}\n.tw-thumbnail {\n  color: #22292f;\n  transition: opacity .2s;\n}\n.tw-thumbnail:hover {\n  opacity: .5;\n}\n.tw-thumbnail h4 {\n  letter-spacing: .3em;\n  font-size: 1.25rem;\n  line-height: 3.5;\n}\n.tw-thumbnail li {\n  font-family: futura-pt, sans-serif;\n  font-family: sofia-pro-condensed, sans-serif;\n  font-size: .75rem;\n  letter-spacing: .15em;\n  line-height: 2;\n  color: #22292f;\n}\n.tw-thumbnail p {\n  font-size: .875rem;\n  position: relative;\n  padding-left: 2rem;\n}\n.tw-thumbnail p:before {\n  content: \"\";\n  width: 20px;\n  height: 1px;\n  position: absolute;\n  top: 8px;\n  left: 0;\n  background-color: #555;\n}\n.ig-link {\n  display: block;\n  font-family: futura-pt, sans-serif;\n  font-size: .75rem;\n  letter-spacing: .2em;\n  line-height: 2;\n  position: relative;\n  transition: opacity .4s;\n}\n.ig-link:before {\n  content: \"\";\n  width: 20px;\n  height: 1px;\n  background: black;\n  position: absolute;\n  top: 50%;\n  left: 0;\n  -webkit-transform: translateY(-50%);\n          transform: translateY(-50%);\n}\n.ig-link:hover {\n  opacity: .5;\n}\n.ig-link span {\n  display: inline-block;\n  padding-left: 30px;\n}\n.item-h {\n  font-family: sofia-pro-condensed, sans-serif;\n  letter-spacing: .3em;\n  font-size: 1.25rem;\n  font-weight: 400;\n  position: relative;\n  line-height: 2;\n  margin-bottom: 20px;\n}\n.item-h:after {\n  content: \"\";\n  width: 30px;\n  height: 1px;\n  background: #555;\n  position: absolute;\n  left: 0;\n  bottom: 0;\n}\n.price {\n  text-align: left;\n  font-size: .875rem;\n  color: #22292f;\n  line-height: 2;\n}\n.price tr {\n  padding-top: 10px;\n}\n.price th,\n.price td {\n  padding-right: 30px;\n  font-weight: 300;\n}\n.staff {\n  max-width: 1000px;\n}\n", ""]);
+exports.push([module.i, ".hero {\n  top: 160px;\n  left: 130px;\n}\n.hero text {\n  fill: rgba(255, 255, 255, 0);\n  stroke: #333;\n  font-size: 76px;\n  stroke-width: .8;\n  stroke-linejoin: round;\n  line-height: 1;\n}\n.hero .sub {\n  letter-spacing: .3em;\n}\n.hero .line {\n  width: 72px;\n  height: auto;\n}\n.hero .list li {\n  font-family: futura-pt, sans-serif;\n  font-size: 15px;\n  letter-spacing: .6em;\n  line-height: 3.5;\n}\n.scroll {\n  -webkit-transform: rotate(90deg);\n          transform: rotate(90deg);\n  bottom: 40px;\n  right: -75px;\n  -webkit-animation: pos 2s ease-in-out infinite;\n          animation: pos 2s ease-in-out infinite;\n}\n@-webkit-keyframes pos {\n0% {\n    bottom: 50px;\n}\n50% {\n    bottom: 40px;\n}\n100% {\n    bottom: 50px;\n}\n}\n@keyframes pos {\n0% {\n    bottom: 50px;\n}\n50% {\n    bottom: 40px;\n}\n100% {\n    bottom: 50px;\n}\n}\n.concept-btn {\n  transition: background-color .2s;\n  background: url(\"/icon/left_top.svg\") left top/10px 10px no-repeat, url(\"/icon/right_top.svg\") right top/10px 8px no-repeat, url(\"/icon/left_bottom.svg\") left bottom/10px 10px no-repeat, url(\"/icon/right_bottom.svg\") right bottom/10px 8px no-repeat #fff;\n}\n.tw-thumbnail {\n  color: #22292f;\n  transition: opacity .2s;\n}\n.tw-thumbnail:hover {\n  opacity: .5;\n}\n.tw-thumbnail h4 {\n  letter-spacing: .3em;\n  font-size: 1.25rem;\n  line-height: 3.5;\n}\n.tw-thumbnail li {\n  font-family: futura-pt, sans-serif;\n  font-family: sofia-pro-condensed, sans-serif;\n  font-size: .75rem;\n  letter-spacing: .15em;\n  line-height: 2;\n  color: #22292f;\n}\n.tw-thumbnail p {\n  font-size: .875rem;\n  position: relative;\n  padding-left: 2rem;\n}\n.tw-thumbnail p:before {\n  content: \"\";\n  width: 20px;\n  height: 1px;\n  position: absolute;\n  top: 8px;\n  left: 0;\n  background-color: #555;\n}\n.ig-link {\n  display: block;\n  font-family: futura-pt, sans-serif;\n  font-size: .75rem;\n  letter-spacing: .2em;\n  line-height: 2;\n  position: relative;\n  transition: opacity .4s;\n}\n.ig-link:before {\n  content: \"\";\n  width: 20px;\n  height: 1px;\n  background: black;\n  position: absolute;\n  top: 50%;\n  left: 0;\n  -webkit-transform: translateY(-50%);\n          transform: translateY(-50%);\n}\n.ig-link:hover {\n  opacity: .5;\n}\n.ig-link span {\n  display: inline-block;\n  padding-left: 30px;\n}\n.item-h {\n  font-family: sofia-pro-condensed, sans-serif;\n  letter-spacing: .3em;\n  font-size: 1.25rem;\n  font-weight: 400;\n  position: relative;\n  line-height: 2;\n  margin-bottom: 20px;\n}\n.item-h:after {\n  content: \"\";\n  width: 30px;\n  height: 1px;\n  background: #555;\n  position: absolute;\n  left: 0;\n  bottom: 0;\n}\n.price {\n  text-align: left;\n  font-size: .875rem;\n  color: #22292f;\n  line-height: 2;\n}\n.price tr {\n  padding-top: 10px;\n}\n.price th,\n.price td {\n  padding-right: 30px;\n  font-weight: 300;\n}\n.staff {\n  max-width: 1000px;\n}\n.thumbnail {\n  transition: opacity .4s;\n}\n.thumbnail:hover {\n  opacity: .6;\n}\n.thumbnail .more:before {\n  content: \"\";\n  width: 20px;\n  height: 1px;\n  position: absolute;\n  top: 10px;\n  left: 0;\n  background-color: #555;\n}\n", ""]);
 
 // exports
 
@@ -36428,7 +36488,7 @@ var render = function() {
                 "p",
                 {
                   staticClass:
-                    "text-sm leading-loosest font-thin tracking-loose"
+                    "text-xs leading-loosest font-thin tracking-loose"
                 },
                 [_vm._v(_vm._s(user.name.split(" ")[1]))]
               ),
@@ -36742,6 +36802,195 @@ var render = function() {
         ],
         1
       )
+    ]),
+    _vm._v(" "),
+    _c("section", { staticClass: "lg:mb-24" }, [
+      _c("div", { staticClass: "container mx-auto staff" }, [
+        _c(
+          "h3",
+          {
+            staticClass:
+              "tracking-loosest text-4xl text-black font-fotura leading-loose mb-4"
+          },
+          [_vm._v("BEAUTY×LIFE")]
+        ),
+        _vm._v(" "),
+        _c("ul", { staticClass: "flex" }, [
+          _c(
+            "li",
+            { staticClass: "flex-1 p-4 thumbnail" },
+            [
+              _c("router-link", { attrs: { to: "/beauty", tag: "a" } }, [
+                _c("figure", [
+                  _c("img", {
+                    attrs: {
+                      src: "/beauty/beauty_1.jpg",
+                      alt: "マツエクのある毎日"
+                    }
+                  })
+                ]),
+                _vm._v(" "),
+                _c("article", { staticClass: "font-fotura font-adobe" }, [
+                  _c(
+                    "h4",
+                    {
+                      staticClass: "leading-loose text-xl tracking-loose pt-6"
+                    },
+                    [_vm._v("#マツエクのある毎日")]
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "p",
+                    {
+                      staticClass:
+                        "font-thin text-sm tracking-wider leading-loose pb-6"
+                    },
+                    [_vm._v("Eyelash Life")]
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "p",
+                    {
+                      staticClass:
+                        "text-xs tracking-wider leading-loose text-black pb-8"
+                    },
+                    [
+                      _vm._v(
+                        "\n                                いつでも可愛くありたい、どんなときもキレイでいたい。誰もが持つそんな気持ちを、ほんのちょっとすくい上げる安心感がある。それがマツエクなのです。"
+                      )
+                    ]
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "p",
+                    {
+                      staticClass:
+                        "text-xs tracking-wider leading-loose text-black more relative pl-8"
+                    },
+                    [_vm._v("READ\n                                MORE")]
+                  )
+                ])
+              ])
+            ],
+            1
+          ),
+          _vm._v(" "),
+          _c(
+            "li",
+            { staticClass: "flex-1 p-4 thumbnail" },
+            [
+              _c("router-link", { attrs: { to: "/beauty" } }, [
+                _c("figure", [
+                  _c("img", {
+                    attrs: { src: "/beauty/beauty_2.jpg", alt: "お手入れ方法" }
+                  })
+                ]),
+                _vm._v(" "),
+                _c("article", { staticClass: "font-fotura font-adobe" }, [
+                  _c(
+                    "h4",
+                    {
+                      staticClass: "leading-loose text-xl tracking-loose pt-6"
+                    },
+                    [_vm._v("#お手入れ方法")]
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "p",
+                    {
+                      staticClass:
+                        "font-thin text-sm tracking-wider leading-loose pb-6"
+                    },
+                    [_vm._v("Eyelash Care")]
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "p",
+                    {
+                      staticClass:
+                        "text-xs tracking-wider leading-loose text-black pb-8"
+                    },
+                    [
+                      _vm._v(
+                        "\n                                きれいなまつ毛を保つためにはどうしたらいいんだろう？みなさんに素敵なマツエクライフをお過ごしいただくための、プロ目線からの適切な対処法をお伝えします。"
+                      )
+                    ]
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "p",
+                    {
+                      staticClass:
+                        "text-xs tracking-wider leading-loose text-black more relative pl-8"
+                    },
+                    [_vm._v("READ\n                                MORE")]
+                  )
+                ])
+              ])
+            ],
+            1
+          ),
+          _vm._v(" "),
+          _c(
+            "li",
+            { staticClass: "flex-1 p-4 thumbnail" },
+            [
+              _c("router-link", { attrs: { to: "/beauty" } }, [
+                _c("figure", [
+                  _c("img", {
+                    attrs: {
+                      src: "/beauty/beauty_3.jpg",
+                      alt: "ネイルのある毎日"
+                    }
+                  })
+                ]),
+                _vm._v(" "),
+                _c("article", { staticClass: "font-fotura font-adobe" }, [
+                  _c(
+                    "h4",
+                    {
+                      staticClass: "leading-loose text-xl tracking-loose pt-6"
+                    },
+                    [_vm._v("#ネイルのある毎日")]
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "p",
+                    {
+                      staticClass:
+                        "font-thin text-sm tracking-wider leading-loose pb-6"
+                    },
+                    [_vm._v("Nail Life")]
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "p",
+                    {
+                      staticClass:
+                        "text-xs tracking-wider leading-loose text-black pb-8"
+                    },
+                    [
+                      _vm._v(
+                        "\n                                季節、イベント、髪型。あなたを彩る、もうひとつの魔法を指先に。日常の中にあっても星のように瞬く“キラキラ”が、そこにはあるのです。"
+                      )
+                    ]
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "p",
+                    {
+                      staticClass:
+                        "text-xs tracking-wider leading-loose text-black more relative pl-8"
+                    },
+                    [_vm._v("READ\n                                MORE")]
+                  )
+                ])
+              ])
+            ],
+            1
+          )
+        ])
+      ])
     ])
   ])
 }

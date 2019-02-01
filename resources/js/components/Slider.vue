@@ -20,6 +20,7 @@
                 pageDots: false,
                 rightToLeft: this.rightToLeft,
                 groupCells: 2,
+                draggable: false,
                 selectedAttraction: 0.0001, // change the slider speed
             });
 

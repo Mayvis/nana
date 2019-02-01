@@ -240,6 +240,65 @@
                 <cabinet></cabinet>
             </div>
         </section>
+
+        <section class="lg:mb-24">
+            <div class="container mx-auto staff">
+                <h3 class="tracking-loosest text-4xl text-black font-fotura leading-loose mb-4">BEAUTY×LIFE</h3>
+
+                <ul class="flex">
+                    <li class="flex-1 p-4 thumbnail">
+                        <router-link to="/beauty" tag="a">
+                            <figure>
+                                <img src="/beauty/beauty_1.jpg" alt="マツエクのある毎日">
+                            </figure>
+
+                            <article class="font-fotura font-adobe">
+                                <h4 class="leading-loose text-xl tracking-loose pt-6">#マツエクのある毎日</h4>
+                                <p class="font-thin text-sm tracking-wider leading-loose pb-6">Eyelash Life</p>
+                                <p class="text-xs tracking-wider leading-loose text-black pb-8">
+                                    いつでも可愛くありたい、どんなときもキレイでいたい。誰もが持つそんな気持ちを、ほんのちょっとすくい上げる安心感がある。それがマツエクなのです。</p>
+                                <p class="text-xs tracking-wider leading-loose text-black more relative pl-8">READ
+                                    MORE</p>
+                            </article>
+                        </router-link>
+                    </li>
+
+                    <li class="flex-1 p-4 thumbnail">
+                        <router-link to="/beauty">
+                            <figure>
+                                <img src="/beauty/beauty_2.jpg" alt="お手入れ方法">
+                            </figure>
+
+                            <article class="font-fotura font-adobe">
+                                <h4 class="leading-loose text-xl tracking-loose pt-6">#お手入れ方法</h4>
+                                <p class="font-thin text-sm tracking-wider leading-loose pb-6">Eyelash Care</p>
+                                <p class="text-xs tracking-wider leading-loose text-black pb-8">
+                                    きれいなまつ毛を保つためにはどうしたらいいんだろう？みなさんに素敵なマツエクライフをお過ごしいただくための、プロ目線からの適切な対処法をお伝えします。</p>
+                                <p class="text-xs tracking-wider leading-loose text-black more relative pl-8">READ
+                                    MORE</p>
+                            </article>
+                        </router-link>
+                    </li>
+
+                    <li class="flex-1 p-4 thumbnail">
+                        <router-link to="/beauty">
+                            <figure>
+                                <img src="/beauty/beauty_3.jpg" alt="ネイルのある毎日">
+                            </figure>
+
+                            <article class="font-fotura font-adobe">
+                                <h4 class="leading-loose text-xl tracking-loose pt-6">#ネイルのある毎日</h4>
+                                <p class="font-thin text-sm tracking-wider leading-loose pb-6">Nail Life</p>
+                                <p class="text-xs tracking-wider leading-loose text-black pb-8">
+                                    季節、イベント、髪型。あなたを彩る、もうひとつの魔法を指先に。日常の中にあっても星のように瞬く“キラキラ”が、そこにはあるのです。</p>
+                                <p class="text-xs tracking-wider leading-loose text-black more relative pl-8">READ
+                                    MORE</p>
+                            </article>
+                        </router-link>
+                    </li>
+                </ul>
+            </div>
+        </section>
     </div>
 </template>
 
@@ -398,5 +457,25 @@
 
     .staff {
         max-width: 1000px;
+    }
+
+    .thumbnail {
+        transition: opacity .4s;
+
+        &:hover {
+            opacity: .6;
+        }
+
+        .more {
+            &:before {
+                content: "";
+                width: 20px;
+                height: 1px;
+                position: absolute;
+                top: 10px;
+                left: 0;
+                background-color: #555;
+            }
+        }
     }
 </style>

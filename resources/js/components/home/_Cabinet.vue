@@ -6,7 +6,7 @@
 
                 <div class="mask">
                     <p class="leading-normal tracking-loose">{{ user.name.split(' ')[0] }}</p>
-                    <p class="text-sm leading-loosest font-thin tracking-loose">{{ user.name.split(' ')[1] }}</p>
+                    <p class="text-xs leading-loosest font-thin tracking-loose">{{ user.name.split(' ')[1] }}</p>
                     <img src="/icon/right_arrow.png" alt="icon" class="opacity-75">
                 </div>
             </router-link>
