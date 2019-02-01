@@ -2389,6 +2389,31 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 
 
 
@@ -2650,7 +2675,7 @@ exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loa
 
 
 // module
-exports.push([module.i, ".hero {\n  top: 160px;\n  left: 130px;\n}\n.hero text {\n  fill: rgba(255, 255, 255, 0);\n  stroke: #333;\n  font-size: 76px;\n  stroke-width: .8;\n  stroke-linejoin: round;\n  line-height: 1;\n}\n.hero .sub {\n  letter-spacing: .3em;\n}\n.hero .line {\n  width: 72px;\n  height: auto;\n}\n.hero .list li {\n  font-family: futura-pt, sans-serif;\n  font-size: 15px;\n  letter-spacing: .6em;\n  line-height: 3.5;\n}\n.scroll {\n  -webkit-transform: rotate(90deg);\n          transform: rotate(90deg);\n  bottom: 40px;\n  right: -75px;\n  -webkit-animation: pos 2s ease-in-out infinite;\n          animation: pos 2s ease-in-out infinite;\n}\n@-webkit-keyframes pos {\n0% {\n    bottom: 50px;\n}\n50% {\n    bottom: 40px;\n}\n100% {\n    bottom: 50px;\n}\n}\n@keyframes pos {\n0% {\n    bottom: 50px;\n}\n50% {\n    bottom: 40px;\n}\n100% {\n    bottom: 50px;\n}\n}\n.concept-btn {\n  transition: background-color .2s;\n  background: url(\"/icon/left_top.svg\") left top/10px 10px no-repeat, url(\"/icon/right_top.svg\") right top/10px 8px no-repeat, url(\"/icon/left_bottom.svg\") left bottom/10px 10px no-repeat, url(\"/icon/right_bottom.svg\") right bottom/10px 8px no-repeat #fff;\n}\n.tw-thumbnail {\n  color: #22292f;\n  transition: opacity .2s;\n}\n.tw-thumbnail:hover {\n  opacity: .5;\n}\n.tw-thumbnail h4 {\n  letter-spacing: .3em;\n  font-size: 1.25rem;\n  line-height: 3.5;\n}\n.tw-thumbnail li {\n  font-family: futura-pt, sans-serif;\n  font-family: sofia-pro-condensed, sans-serif;\n  font-size: .75rem;\n  letter-spacing: .15em;\n  line-height: 2;\n  color: #22292f;\n}\n.tw-thumbnail p {\n  font-size: .875rem;\n  position: relative;\n  padding-left: 2rem;\n}\n.tw-thumbnail p:before {\n  content: \"\";\n  width: 20px;\n  height: 1px;\n  position: absolute;\n  top: 8px;\n  left: 0;\n  background-color: #555;\n}\n.ig-link {\n  display: block;\n  font-family: futura-pt, sans-serif;\n  font-size: .75rem;\n  letter-spacing: .2em;\n  line-height: 2;\n  position: relative;\n  transition: opacity .4s;\n}\n.ig-link:before {\n  content: \"\";\n  width: 20px;\n  height: 1px;\n  background: black;\n  position: absolute;\n  top: 50%;\n  left: 0;\n  -webkit-transform: translateY(-50%);\n          transform: translateY(-50%);\n}\n.ig-link:hover {\n  opacity: .5;\n}\n.ig-link span {\n  display: inline-block;\n  padding-left: 30px;\n}\n.item-h {\n  font-family: sofia-pro-condensed, sans-serif;\n  letter-spacing: .3em;\n  font-size: 1.25rem;\n  font-weight: 400;\n  position: relative;\n  line-height: 2;\n  margin-bottom: 20px;\n}\n.item-h:after {\n  content: \"\";\n  width: 30px;\n  height: 1px;\n  background: #555;\n  position: absolute;\n  left: 0;\n  bottom: 0;\n}\n.price {\n  text-align: left;\n  font-size: .875rem;\n  color: #22292f;\n  line-height: 2;\n}\n.price tr {\n  padding-top: 10px;\n}\n.price th,\n.price td {\n  padding-right: 30px;\n  font-weight: 300;\n}\n", ""]);
+exports.push([module.i, ".hero {\n  top: 160px;\n  left: 130px;\n}\n.hero text {\n  fill: rgba(255, 255, 255, 0);\n  stroke: #333;\n  font-size: 76px;\n  stroke-width: .8;\n  stroke-linejoin: round;\n  line-height: 1;\n}\n.hero .sub {\n  letter-spacing: .3em;\n}\n.hero .line {\n  width: 72px;\n  height: auto;\n}\n.hero .list li {\n  font-family: futura-pt, sans-serif;\n  font-size: 15px;\n  letter-spacing: .6em;\n  line-height: 3.5;\n}\n.scroll {\n  -webkit-transform: rotate(90deg);\n          transform: rotate(90deg);\n  bottom: 40px;\n  right: -75px;\n  -webkit-animation: pos 2s ease-in-out infinite;\n          animation: pos 2s ease-in-out infinite;\n}\n@-webkit-keyframes pos {\n0% {\n    bottom: 50px;\n}\n50% {\n    bottom: 40px;\n}\n100% {\n    bottom: 50px;\n}\n}\n@keyframes pos {\n0% {\n    bottom: 50px;\n}\n50% {\n    bottom: 40px;\n}\n100% {\n    bottom: 50px;\n}\n}\n.concept-btn {\n  transition: background-color .2s;\n  background: url(\"/icon/left_top.svg\") left top/10px 10px no-repeat, url(\"/icon/right_top.svg\") right top/10px 8px no-repeat, url(\"/icon/left_bottom.svg\") left bottom/10px 10px no-repeat, url(\"/icon/right_bottom.svg\") right bottom/10px 8px no-repeat #fff;\n}\n.tw-thumbnail {\n  color: #22292f;\n  transition: opacity .2s;\n}\n.tw-thumbnail:hover {\n  opacity: .5;\n}\n.tw-thumbnail h4 {\n  letter-spacing: .3em;\n  font-size: 1.25rem;\n  line-height: 3.5;\n}\n.tw-thumbnail li {\n  font-family: futura-pt, sans-serif;\n  font-family: sofia-pro-condensed, sans-serif;\n  font-size: .75rem;\n  letter-spacing: .15em;\n  line-height: 2;\n  color: #22292f;\n}\n.tw-thumbnail p {\n  font-size: .875rem;\n  position: relative;\n  padding-left: 2rem;\n}\n.tw-thumbnail p:before {\n  content: \"\";\n  width: 20px;\n  height: 1px;\n  position: absolute;\n  top: 8px;\n  left: 0;\n  background-color: #555;\n}\n.ig-link {\n  display: block;\n  font-family: futura-pt, sans-serif;\n  font-size: .75rem;\n  letter-spacing: .2em;\n  line-height: 2;\n  position: relative;\n  transition: opacity .4s;\n}\n.ig-link:before {\n  content: \"\";\n  width: 20px;\n  height: 1px;\n  background: black;\n  position: absolute;\n  top: 50%;\n  left: 0;\n  -webkit-transform: translateY(-50%);\n          transform: translateY(-50%);\n}\n.ig-link:hover {\n  opacity: .5;\n}\n.ig-link span {\n  display: inline-block;\n  padding-left: 30px;\n}\n.item-h {\n  font-family: sofia-pro-condensed, sans-serif;\n  letter-spacing: .3em;\n  font-size: 1.25rem;\n  font-weight: 400;\n  position: relative;\n  line-height: 2;\n  margin-bottom: 20px;\n}\n.item-h:after {\n  content: \"\";\n  width: 30px;\n  height: 1px;\n  background: #555;\n  position: absolute;\n  left: 0;\n  bottom: 0;\n}\n.price {\n  text-align: left;\n  font-size: .875rem;\n  color: #22292f;\n  line-height: 2;\n}\n.price tr {\n  padding-top: 10px;\n}\n.price th,\n.price td {\n  padding-right: 30px;\n  font-weight: 300;\n}\n.staff {\n  max-width: 1000px;\n}\n", ""]);
 
 // exports
 
@@ -36557,7 +36582,9 @@ var render = function() {
       ])
     ]),
     _vm._v(" "),
-    _vm._m(4)
+    _vm._m(4),
+    _vm._v(" "),
+    _vm._m(5)
   ])
 }
 var staticRenderFns = [
@@ -36777,7 +36804,7 @@ var staticRenderFns = [
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
-    return _c("section", [
+    return _c("section", { staticClass: "lg:mb-24" }, [
       _c(
         "div",
         {
@@ -36958,6 +36985,121 @@ var staticRenderFns = [
           ])
         ]
       )
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("section", [
+      _c("div", { staticClass: "container mx-auto staff" }, [
+        _c(
+          "h3",
+          {
+            staticClass:
+              "tracking-loosest text-4xl text-black font-fotura leading-loose"
+          },
+          [_vm._v("STAFF")]
+        ),
+        _vm._v(" "),
+        _c("ul", { staticClass: "cabinet" }, [
+          _c("li", [
+            _c("a", { attrs: { href: "#" } }, [
+              _c("img", { attrs: { src: "", alt: "" } })
+            ])
+          ]),
+          _vm._v(" "),
+          _c("li", [
+            _c("a", { attrs: { href: "#" } }, [
+              _c("img", { attrs: { src: "", alt: "" } })
+            ])
+          ]),
+          _vm._v(" "),
+          _c("li", [
+            _c("a", { attrs: { href: "#" } }, [
+              _c("img", { attrs: { src: "", alt: "" } })
+            ])
+          ]),
+          _vm._v(" "),
+          _c("li", [
+            _c("a", { attrs: { href: "#" } }, [
+              _c("img", { attrs: { src: "", alt: "" } })
+            ])
+          ]),
+          _vm._v(" "),
+          _c("li", [
+            _c("a", { attrs: { href: "#" } }, [
+              _c("img", { attrs: { src: "", alt: "" } })
+            ])
+          ]),
+          _vm._v(" "),
+          _c("li", [
+            _c("a", { attrs: { href: "#" } }, [
+              _c("img", { attrs: { src: "", alt: "" } })
+            ])
+          ]),
+          _vm._v(" "),
+          _c("li", [
+            _c("a", { attrs: { href: "#" } }, [
+              _c("img", { attrs: { src: "", alt: "" } })
+            ])
+          ]),
+          _vm._v(" "),
+          _c("li", [
+            _c("a", { attrs: { href: "#" } }, [
+              _c("img", { attrs: { src: "", alt: "" } })
+            ])
+          ]),
+          _vm._v(" "),
+          _c("li", [
+            _c("a", { attrs: { href: "#" } }, [
+              _c("img", { attrs: { src: "", alt: "" } })
+            ])
+          ]),
+          _vm._v(" "),
+          _c("li", [
+            _c("a", { attrs: { href: "#" } }, [
+              _c("img", { attrs: { src: "", alt: "" } })
+            ])
+          ]),
+          _vm._v(" "),
+          _c("li", [
+            _c("a", { attrs: { href: "#" } }, [
+              _c("img", { attrs: { src: "", alt: "" } })
+            ])
+          ]),
+          _vm._v(" "),
+          _c("li", [
+            _c("a", { attrs: { href: "#" } }, [
+              _c("img", { attrs: { src: "", alt: "" } })
+            ])
+          ]),
+          _vm._v(" "),
+          _c("li", [
+            _c("a", { attrs: { href: "#" } }, [
+              _c("img", { attrs: { src: "", alt: "" } })
+            ])
+          ]),
+          _vm._v(" "),
+          _c("li", [
+            _c("a", { attrs: { href: "#" } }, [
+              _c("img", { attrs: { src: "", alt: "" } })
+            ])
+          ]),
+          _vm._v(" "),
+          _c("li", [
+            _c("a", { attrs: { href: "#" } }, [
+              _c("img", { attrs: { src: "", alt: "" } })
+            ])
+          ]),
+          _vm._v(" "),
+          _c("li", [
+            _c("a", { attrs: { href: "#" } }, [
+              _c("img", { attrs: { src: "", alt: "" } })
+            ])
+          ])
+        ])
+      ])
     ])
   }
 ]

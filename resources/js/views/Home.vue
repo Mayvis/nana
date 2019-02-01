@@ -134,7 +134,7 @@
             </div>
         </section>
 
-        <section>
+        <section class="lg:mb-24">
             <div class="container mx-auto bg-grey-lighter flex justify-center flex-col lg:p-24">
                 <h3 class="tracking-loosest text-4xl text-black font-adobe leading-loosest text-center">MENU&PRICE</h3>
 
@@ -230,6 +230,31 @@
                         </a>
                     </div>
                 </div>
+            </div>
+        </section>
+
+        <section>
+            <div class="container mx-auto staff">
+                <h3 class="tracking-loosest text-4xl text-black font-fotura leading-loose">STAFF</h3>
+
+                <ul class="cabinet">
+                    <li><a href="#"><img src="" alt=""></a></li>
+                    <li><a href="#"><img src="" alt=""></a></li>
+                    <li><a href="#"><img src="" alt=""></a></li>
+                    <li><a href="#"><img src="" alt=""></a></li>
+                    <li><a href="#"><img src="" alt=""></a></li>
+                    <li><a href="#"><img src="" alt=""></a></li>
+                    <li><a href="#"><img src="" alt=""></a></li>
+                    <li><a href="#"><img src="" alt=""></a></li>
+                    <li><a href="#"><img src="" alt=""></a></li>
+                    <li><a href="#"><img src="" alt=""></a></li>
+                    <li><a href="#"><img src="" alt=""></a></li>
+                    <li><a href="#"><img src="" alt=""></a></li>
+                    <li><a href="#"><img src="" alt=""></a></li>
+                    <li><a href="#"><img src="" alt=""></a></li>
+                    <li><a href="#"><img src="" alt=""></a></li>
+                    <li><a href="#"><img src="" alt=""></a></li>
+                </ul>
             </div>
         </section>
     </div>
@@ -385,5 +410,9 @@
             padding-right: 30px;
             font-weight: 300;
         }
+    }
+
+    .staff {
+        max-width: 1000px;
     }
 </style>
