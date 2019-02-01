@@ -16,7 +16,7 @@
 </head>
 <body>
 
-<div id="app" class="relative" v-cloak style="min-height: 4000px">
+<div id="app" class="relative" v-cloak style="min-height: 8000px">
     @include('layouts.header')
 
     <main>

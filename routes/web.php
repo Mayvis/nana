@@ -19,4 +19,5 @@ Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
 
+Route::get('/api/users/avatar', 'Api\UserAvatarController@index');
 Route::post('/api/users/{user}/avatar', 'Api\UserAvatarController@store')->middleware('auth');

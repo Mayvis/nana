@@ -233,40 +233,24 @@
             </div>
         </section>
 
-        <section>
+        <section class="lg:mb-24">
             <div class="container mx-auto staff">
-                <h3 class="tracking-loosest text-4xl text-black font-fotura leading-loose">STAFF</h3>
+                <h3 class="tracking-loosest text-4xl text-black font-fotura leading-loose mb-4">STAFF</h3>
 
-                <ul class="cabinet">
-                    <li><a href="#"><img src="" alt=""></a></li>
-                    <li><a href="#"><img src="" alt=""></a></li>
-                    <li><a href="#"><img src="" alt=""></a></li>
-                    <li><a href="#"><img src="" alt=""></a></li>
-                    <li><a href="#"><img src="" alt=""></a></li>
-                    <li><a href="#"><img src="" alt=""></a></li>
-                    <li><a href="#"><img src="" alt=""></a></li>
-                    <li><a href="#"><img src="" alt=""></a></li>
-                    <li><a href="#"><img src="" alt=""></a></li>
-                    <li><a href="#"><img src="" alt=""></a></li>
-                    <li><a href="#"><img src="" alt=""></a></li>
-                    <li><a href="#"><img src="" alt=""></a></li>
-                    <li><a href="#"><img src="" alt=""></a></li>
-                    <li><a href="#"><img src="" alt=""></a></li>
-                    <li><a href="#"><img src="" alt=""></a></li>
-                    <li><a href="#"><img src="" alt=""></a></li>
-                </ul>
+                <cabinet></cabinet>
             </div>
         </section>
     </div>
 </template>
 
 <script>
-    import Carousel from '../components/Carousel';
+    import carousel from '../components/Carousel';
     import hero from '../components/home/_Hero';
     import slider from '../components/Slider';
+    import cabinet from '../components/home/_Cabinet';
 
     export default {
-        components: {Carousel, hero, slider},
+        components: {carousel, hero, slider, cabinet},
     }
 </script>
 
