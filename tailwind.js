@@ -91,7 +91,7 @@ let colors = {
     'teal-darkest': '#0d3331',
     'teal-darker': '#20504f',
     'teal-dark': '#38a89d',
-    'teal': '#4dc0b5',
+    'teal': '#67a2b7',
     'teal-light': '#64d5ca',
     'teal-lighter': '#c0d4dB',
     'teal-lightest': '#e8eff1',
@@ -263,6 +263,7 @@ module.exports = {
 
     textSizes: {
         'xs': '.75rem',     // 12px
+        '13': '13px',
         'sm': '.875rem',    // 14px
         '15': '15px',
         'base': '1rem',     // 16px
@@ -272,6 +273,7 @@ module.exports = {
         '3xl': '1.875rem',  // 30px
         '4xl': '2.25rem',   // 36px
         '5xl': '3rem',      // 48px
+        '350': '350%',
     },
 
 
@@ -642,6 +644,9 @@ module.exports = {
         '4xl': '90rem',
         '5xl': '100rem',
         'full': '100%',
+        '600': '600px',
+        '1000': '1000px',
+        '1200': '1200px'
     },
 
 

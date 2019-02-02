@@ -21,6 +21,7 @@
                 rightToLeft: this.rightToLeft,
                 groupCells: 2,
                 draggable: false,
+                friction: 0.15,
                 selectedAttraction: 0.0001, // change the slider speed
             });
 

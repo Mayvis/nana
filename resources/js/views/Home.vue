@@ -234,7 +234,7 @@
         </section>
 
         <section class="lg:mb-24">
-            <div class="container mx-auto staff">
+            <div class="max-w-1000 mx-auto">
                 <h3 class="tracking-loosest text-4xl text-black font-fotura leading-loose mb-4">STAFF</h3>
 
                 <cabinet></cabinet>
@@ -242,7 +242,7 @@
         </section>
 
         <section class="lg:mb-24">
-            <div class="container mx-auto staff">
+            <div class="max-w-1000 mx-auto">
                 <h3 class="tracking-loosest text-4xl text-black font-fotura leading-loose mb-4">BEAUTY×LIFE</h3>
 
                 <ul class="flex">
@@ -297,6 +297,16 @@
                         </router-link>
                     </li>
                 </ul>
+            </div>
+        </section>
+
+        <reserve></reserve>
+
+        <section class="lg:mb-32">
+            <div class="tw-article">
+                <article>
+                    福岡市天神・西通りに3つのマツエクサロンを展開する「NANA」は、福岡を代表するマツエク店です。口コミでの評判が高い人気店。初めてマツエクをされる方にも安心の高い技術力と国産の上質なエクステが、人気の理由です。3Dやカラー、ナチュラルなど、お客様のまつ毛にピッタリのデザインをご提案いたします。福岡でまつエクをお探しなら、まずは西通りのNANAにお越しください。
+                </article>
             </div>
         </section>
     </div>
@@ -455,10 +465,6 @@
         }
     }
 
-    .staff {
-        max-width: 1000px;
-    }
-
     .thumbnail {
         transition: opacity .4s;
 
@@ -477,5 +483,27 @@
                 background-color: #555;
             }
         }
+    }
+
+    .tw-nana {
+        position: absolute;
+        top: -8%;
+        left: 50%;
+        transform: translateX(-50%);
+
+        img {
+            width: 196px;
+            height: auto;
+        }
+    }
+
+    .tw-article {
+        @apply flex justify-center mx-auto p-16 text-xs tracking-loosest leading-loose;
+        max-width: 1000px;
+
+        background: url('/icon/left_top.svg') left top/10px 10px no-repeat,
+        url('/icon/right_top.svg') right top/10px 8px no-repeat,
+        url('/icon/left_bottom.svg') left bottom/10px 10px no-repeat,
+        url('/icon/right_bottom.svg') right bottom/10px 8px no-repeat #fff;
     }
 </style>

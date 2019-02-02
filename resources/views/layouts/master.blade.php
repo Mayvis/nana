@@ -16,14 +16,24 @@
 </head>
 <body>
 
-<div id="app" class="relative" v-cloak style="min-height: 8000px">
+<div id="app" class="relative" v-cloak>
     @include('layouts.header')
 
     <main>
-        <div class="mx-auto">
+        <div class="mx-auto" style="min-height: 6000px;">
             <router-view></router-view>
         </div>
     </main>
+
+    <footer class="pb-50 bg-grey-lighter">
+        <div class="container mx-auto flex justify-between text-xs text-grey-darker">
+            <span class="leading-50">Copyright © CASABLANCA All Rights Reserved.</span>
+
+            <div>
+                <a href="/" class="leading-50 text-grey-darker">Recruit</a> / <a href="/" class="leading-50 text-grey-darker">Site Map</a>
+            </div>
+        </div>
+    </footer>
 
     <info></info>
 </div>

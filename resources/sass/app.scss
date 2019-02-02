@@ -4,6 +4,16 @@
 
 @tailwind utilities;
 
+@font-face {
+    font-family: "sofia-pro-condensed";
+    src: url('/css/font/Sofia_Pro_Condensed.ttf') format("truetype");
+}
+
+@font-face {
+    font-family: "futura-pt";
+    src: url("/css/font/Futura_Pt") format("opentype");
+}
+
 a {
     @apply text-black no-underline;
 }
@@ -77,4 +87,8 @@ p, h1, h2, h3, h4, h5, h6 {
 
 main {
     padding-top: 165px;
+}
+
+.tw-mask {
+    background: linear-gradient(transparent 60%, #f7f1ad 50%);
 }
