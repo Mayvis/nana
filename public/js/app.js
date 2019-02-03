@@ -1965,11 +1965,6 @@ __webpack_require__.r(__webpack_exports__);
       type: Boolean,
       default: false
     }
-  },
-  watch: {
-    $route: function $route() {
-      this.$emit('changed', this.active);
-    }
   }
 });
 
@@ -2787,6 +2782,11 @@ __webpack_require__.r(__webpack_exports__);
     hero: _components_home_Hero__WEBPACK_IMPORTED_MODULE_1__["default"],
     slider: _components_Slider__WEBPACK_IMPORTED_MODULE_2__["default"],
     cabinet: _components_home_Cabinet__WEBPACK_IMPORTED_MODULE_3__["default"]
+  },
+  watch: {
+    $route: function $route() {
+      this.$emit();
+    }
   }
 });
 
@@ -36925,12 +36925,7 @@ var render = function() {
       _c(
         "portal",
         { attrs: { to: "header-after" } },
-        [
-          _c("menu-list", {
-            attrs: { active: _vm.active },
-            on: { changed: _vm.check }
-          })
-        ],
+        [_c("menu-list", { attrs: { active: _vm.active } })],
         1
       )
     ],

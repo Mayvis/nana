@@ -9,7 +9,7 @@
         </div>
 
         <portal to="header-after">
-            <menu-list :active="active" @changed="check"></menu-list>
+            <menu-list :active="active"></menu-list>
         </portal>
     </div>
 </template>
