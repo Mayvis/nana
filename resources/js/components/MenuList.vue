@@ -56,6 +56,12 @@
                 default: false
             },
         },
+
+        watch: {
+            $route() {
+                this.$emit('changed', this.active);
+            }
+        }
     }
 </script>
 

@@ -9,7 +9,7 @@
         </div>
 
         <portal to="header-after">
-            <menu-list :active="active"></menu-list>
+            <menu-list :active="active" @changed="check"></menu-list>
         </portal>
     </div>
 </template>
@@ -28,7 +28,7 @@
 
         methods: {
             check() {
-                (this.active === true) ? this.active = false : this.active = true;
+                this.active = (this.active !== true);
             }
         },
     }

@@ -1,5 +1,5 @@
 <template>
-    <div class="hero absolute z-10 font-adobe">
+    <div class="hero absolute z-10">
         <h2>
             <svg width="54" height="86" class="mr-7">
                 <text x="0" y="0" dominant-baseline="hanging">N</text>

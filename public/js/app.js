@@ -1893,7 +1893,7 @@ __webpack_require__.r(__webpack_exports__);
   },
   methods: {
     check: function check() {
-      this.active === true ? this.active = false : this.active = true;
+      this.active = this.active !== true;
     }
   }
 });
@@ -1964,6 +1964,11 @@ __webpack_require__.r(__webpack_exports__);
     active: {
       type: Boolean,
       default: false
+    }
+  },
+  watch: {
+    $route: function $route() {
+      this.$emit('changed', this.active);
     }
   }
 });
@@ -36920,7 +36925,12 @@ var render = function() {
       _c(
         "portal",
         { attrs: { to: "header-after" } },
-        [_c("menu-list", { attrs: { active: _vm.active } })],
+        [
+          _c("menu-list", {
+            attrs: { active: _vm.active },
+            on: { changed: _vm.check }
+          })
+        ],
         1
       )
     ],
@@ -37225,7 +37235,7 @@ var render = function() {
   var _vm = this
   var _h = _vm.$createElement
   var _c = _vm._self._c || _h
-  return _c("div", { staticClass: "hero absolute z-10 font-adobe" }, [
+  return _c("div", { staticClass: "hero absolute z-10" }, [
     _c("h2", [
       _c("svg", { staticClass: "mr-7", attrs: { width: "54", height: "86" } }, [
         _c(
