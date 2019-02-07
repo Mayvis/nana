@@ -2817,6 +2817,148 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 /* harmony default export */ __webpack_exports__["default"] = ({
   created: function created() {// axios
   }
@@ -3567,7 +3709,7 @@ exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loa
 
 
 // module
-exports.push([module.i, ".hero-concept[data-v-71d1a504] {\n  background: url(\"/hero/hero_bg_menu_and_price.jpg\") center center/cover no-repeat;\n  height: 360px;\n  margin-top: -165px;\n}\n.svg-concept[data-v-71d1a504] {\n  overflow: visible;\n  height: 86px;\n  margin-top: -30px;\n  font-family: \"sofia-pro-condensed\", sans-serif;\n  font-size: 86px;\n  line-height: 1;\n  letter-spacing: .2em;\n}\n.svg-concept text[data-v-71d1a504] {\n  fill: rgba(255, 255, 255, 0);\n  stroke: #333;\n  stroke-width: .8;\n  stroke-linejoin: round;\n  font-family: \"sofia-pro-condensed\", sans-serif;\n  line-height: 1;\n}\n", ""]);
+exports.push([module.i, ".hero-concept[data-v-71d1a504] {\n  background: url(\"/hero/hero_bg_menu_and_price.jpg\") center center/cover no-repeat;\n  height: 360px;\n  margin-top: -165px;\n}\n.svg-concept[data-v-71d1a504] {\n  overflow: visible;\n  height: 86px;\n  margin-top: -30px;\n  font-family: \"sofia-pro-condensed\", sans-serif;\n  font-size: 86px;\n  line-height: 1;\n  letter-spacing: .2em;\n}\n.svg-concept text[data-v-71d1a504] {\n  fill: rgba(255, 255, 255, 0);\n  stroke: #333;\n  stroke-width: .8;\n  stroke-linejoin: round;\n  font-family: \"sofia-pro-condensed\", sans-serif;\n  line-height: 1;\n}\n.tw-header[data-v-71d1a504]:after {\n  position: absolute;\n  content: \"\";\n  left: 0;\n  bottom: 15%;\n  width: 15%;\n  height: 1px;\n  background: #000;\n}\n", ""]);
 
 // exports
 
@@ -38519,7 +38661,7 @@ var render = function() {
                       "a",
                       {
                         staticClass:
-                          "concept-btn inline-block h-50 leading-50 text-xs w-2/5 text-center hover:bg-yellow-lighter"
+                          "tw-btn inline-block h-50 leading-50 text-xs w-2/5 text-center hover:bg-yellow-lighter"
                       },
                       [
                         _vm._v(
@@ -39140,7 +39282,7 @@ var staticRenderFns = [
                   "a",
                   {
                     staticClass:
-                      "concept-btn inline-block h-50 leading-50 text-xs w-1/4 text-center hover:bg-yellow-lighter lg:m-12",
+                      "tw-btn inline-block h-50 leading-50 text-xs w-1/4 text-center hover:bg-yellow-lighter lg:m-12",
                     attrs: {
                       href:
                         "https://beauty.hotpepper.jp/kr/slnH000248220/coupon/"
@@ -39157,7 +39299,7 @@ var staticRenderFns = [
                   "a",
                   {
                     staticClass:
-                      "concept-btn inline-block h-50 leading-50 text-xs w-1/4 text-center hover:bg-yellow-lighter lg:m-12",
+                      "tw-btn inline-block h-50 leading-50 text-xs w-1/4 text-center hover:bg-yellow-lighter lg:m-12",
                     attrs: {
                       href:
                         "https://beauty.hotpepper.jp/kr/slnH000364510/coupon/"
@@ -39245,12 +39387,310 @@ var render = function() {
         ])
       ]),
       _vm._v(" "),
+      _vm._m(0),
+      _vm._v(" "),
+      _vm._m(1),
+      _vm._v(" "),
+      _vm._m(2),
+      _vm._v(" "),
+      _vm._m(3),
+      _vm._v(" "),
+      _c("section", { staticClass: "lg:mb-24" }, [
+        _c(
+          "div",
+          {
+            staticClass: "max-w-1200 border-b border-grey pb-4 tw-line relative"
+          },
+          [
+            _c("div", { staticClass: "max-w-600" }, [
+              _c("ul", { staticClass: "flex justify-center" }, [
+                _c(
+                  "li",
+                  [
+                    _c(
+                      "router-link",
+                      {
+                        staticClass:
+                          "text-xs tracking-wider leading-loose text-black pb-8 text-grey-darkest hover:text-grey-dark",
+                        attrs: { to: "/" }
+                      },
+                      [
+                        _vm._v(
+                          "\n                            HOME | \n                        "
+                        )
+                      ]
+                    )
+                  ],
+                  1
+                ),
+                _vm._v(" "),
+                _c(
+                  "li",
+                  [
+                    _c(
+                      "router-link",
+                      {
+                        staticClass:
+                          "text-xs tracking-wider leading-loose text-black pb-8 text-grey-darkest text-teal",
+                        attrs: { to: "/voice" }
+                      },
+                      [
+                        _vm._v(
+                          "\n                            MENU & PRICE\n                        "
+                        )
+                      ]
+                    )
+                  ],
+                  1
+                )
+              ])
+            ])
+          ]
+        )
+      ]),
+      _vm._v(" "),
       _c("reserve")
     ],
     1
   )
 }
-var staticRenderFns = []
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("section", { staticClass: "lg:mb-16" }, [
+      _c(
+        "p",
+        {
+          staticClass:
+            "text-center tracking-wider text-black pb-8 text-grey-darker font-fotura font-norma text-xs"
+        },
+        [
+          _vm._v(
+            "\n            ＊ メニュー・金額は一例です。各メニューの詳細やお得なクーポンはHOTPEPPER Beautyをご確認ください。\n        "
+          )
+        ]
+      )
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("section", { staticClass: "lg:mb-24" }, [
+      _c("div", { staticClass: "max-w-1000 mx-auto lg:mb-16 flex" }, [
+        _c("figure", { staticClass: "lg:w-1/2 tw-flex-end" }, [
+          _c("img", {
+            attrs: { src: "/decoration/menu_1.jpg", alt: "EYELASH" }
+          })
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "lg:w-1/2 tw-flex-start p-8 pt-4" }, [
+          _c(
+            "table",
+            {
+              staticClass:
+                "text-xs leading-loose tracking-loose text-grey-darkest"
+            },
+            [
+              _c("tr", [
+                _c(
+                  "th",
+                  {
+                    staticClass:
+                      "text-left text-4xl font-bold leading-loosest tracking-loosest text-black tw-header relative"
+                  },
+                  [
+                    _vm._v(
+                      "\n                            EYELASH\n                        "
+                    )
+                  ]
+                )
+              ]),
+              _vm._v(" "),
+              _c("tr", [
+                _c("td", [_vm._v("最高級セーブル 60本")]),
+                _vm._v(" "),
+                _c("td", [_vm._v("¥2,980")])
+              ]),
+              _vm._v(" "),
+              _c("tr", [
+                _c("td", [_vm._v("最高級セーブル 80本")]),
+                _vm._v(" "),
+                _c("td", [_vm._v("¥3,980")])
+              ]),
+              _vm._v(" "),
+              _c("tr", [
+                _c("td", [_vm._v("最高級セーブル上つけ放題")]),
+                _vm._v(" "),
+                _c("td", [_vm._v("¥4,980")])
+              ]),
+              _vm._v(" "),
+              _c("tr", [
+                _c("td", [_vm._v("最高級セーブル上下つけ放題")]),
+                _vm._v(" "),
+                _c("td", [_vm._v("¥6,980")])
+              ]),
+              _vm._v(" "),
+              _c("tr", [
+                _c("td", [_vm._v("ALLカラー 80本")]),
+                _vm._v(" "),
+                _c("td", [_vm._v("¥5,060")])
+              ]),
+              _vm._v(" "),
+              _c("tr", [
+                _c("td", [_vm._v("3Dラッシュ 60束(240本以上)")]),
+                _vm._v(" "),
+                _c("td", [_vm._v("¥5,980")])
+              ]),
+              _vm._v(" "),
+              _c("tr", [
+                _c("td", [_vm._v("3Dラッシュ 80束(320本以上)")]),
+                _vm._v(" "),
+                _c("td", [_vm._v("¥6,980")])
+              ])
+            ]
+          )
+        ])
+      ])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("section", { staticClass: "lg:mb-24" }, [
+      _c("div", { staticClass: "max-w-1000 mx-auto lg:mb-16 flex" }, [
+        _c("figure", { staticClass: "lg:w-1/2 lg:mr-16" }, [
+          _c("img", { attrs: { src: "/decoration/menu_2.jpg", alt: "NAIL" } })
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "lg:w-1/2" }, [
+          _c(
+            "table",
+            {
+              staticClass:
+                "text-xs leading-loose tracking-loose text-grey-darkest"
+            },
+            [
+              _c("tr", [
+                _c(
+                  "th",
+                  {
+                    staticClass:
+                      "text-left text-4xl font-bold tracking-loosest text-black tw-header relative leading-none pb-8"
+                  },
+                  [
+                    _vm._v(
+                      "\n                            NAIL\n                        "
+                    )
+                  ]
+                )
+              ]),
+              _vm._v(" "),
+              _c("tr", [
+                _c("td", [_vm._v("ハンド：ジェルワンカラー")]),
+                _vm._v(" "),
+                _c("td", [_vm._v("¥4,980")])
+              ]),
+              _vm._v(" "),
+              _c("tr", [
+                _c("td", [_vm._v("ハンド：アート2本つけ放題")]),
+                _vm._v(" "),
+                _c("td", [_vm._v("¥5,980")])
+              ]),
+              _vm._v(" "),
+              _c("tr", [
+                _c("td", [_vm._v("ハンド：アート4本つけ放題")]),
+                _vm._v(" "),
+                _c("td", [_vm._v("¥6,980")])
+              ]),
+              _vm._v(" "),
+              _c("tr", [
+                _c("td", [_vm._v("ハンド：アート6本つけ放題")]),
+                _vm._v(" "),
+                _c("td", [_vm._v("¥7,980")])
+              ]),
+              _vm._v(" "),
+              _c("tr", [
+                _c("td", [_vm._v("フット：クリアベースワンカラー")]),
+                _vm._v(" "),
+                _c("td", [_vm._v("¥5,480")])
+              ]),
+              _vm._v(" "),
+              _c("tr", [
+                _c("td", [_vm._v("フット：アート10本")]),
+                _vm._v(" "),
+                _c("td", [_vm._v("¥7,980")])
+              ])
+            ]
+          )
+        ])
+      ])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("section", { staticClass: "lg:mb-24 max-w-1000 mx-auto" }, [
+      _c("div", { staticClass: "lg:pt-16" }, [
+        _c(
+          "div",
+          {
+            staticClass:
+              "border-black border flex relative justify-center lg:pt-12"
+          },
+          [
+            _c(
+              "p",
+              {
+                staticClass: "absolute flex flex-col text-center p-8 bg-white",
+                staticStyle: { top: "-40px" }
+              },
+              [
+                _c("span", [_vm._v("メニュー＆クーポン一覧")]),
+                _vm._v(" "),
+                _c("span", { staticClass: "text-xs text-grey-darkest pt-4" }, [
+                  _vm._v("( HOTPEPPER Beautyへリンクします )")
+                ])
+              ]
+            ),
+            _vm._v(" "),
+            _c(
+              "a",
+              {
+                staticClass:
+                  "tw-btn inline-block h-50 leading-50 text-xs w-1/4 text-center hover:bg-yellow-lighter lg:m-12",
+                attrs: {
+                  href: "https://beauty.hotpepper.jp/kr/slnH000248220/coupon/"
+                }
+              },
+              [
+                _vm._v(
+                  "\n                    MILANO & LA ROCHELLE\n                "
+                )
+              ]
+            ),
+            _vm._v(" "),
+            _c(
+              "a",
+              {
+                staticClass:
+                  "tw-btn inline-block h-50 leading-50 text-xs w-1/4 text-center hover:bg-yellow-lighter lg:m-12",
+                attrs: {
+                  href: "https://beauty.hotpepper.jp/kr/slnH000364510/coupon/"
+                }
+              },
+              [_vm._v("\n                    LISBON\n                ")]
+            )
+          ]
+        )
+      ])
+    ])
+  }
+]
 render._withStripped = true
 
 

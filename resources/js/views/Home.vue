@@ -35,7 +35,7 @@
                     <div>
                         <router-link to="/concept">
                             <a
-                                class="concept-btn inline-block h-50 leading-50 text-xs w-2/5 text-center hover:bg-yellow-lighter"
+                                class="tw-btn inline-block h-50 leading-50 text-xs w-2/5 text-center hover:bg-yellow-lighter"
                             >
                                 コンセプト＆こだわり
                             </a>
@@ -219,12 +219,12 @@
                         </p>
 
                         <a href="https://beauty.hotpepper.jp/kr/slnH000248220/coupon/"
-                           class="concept-btn inline-block h-50 leading-50 text-xs w-1/4 text-center hover:bg-yellow-lighter lg:m-12"
+                           class="tw-btn inline-block h-50 leading-50 text-xs w-1/4 text-center hover:bg-yellow-lighter lg:m-12"
                         >
                             MILANO & LA ROCHELLE
                         </a>
                         <a href="https://beauty.hotpepper.jp/kr/slnH000364510/coupon/"
-                           class="concept-btn inline-block h-50 leading-50 text-xs w-1/4 text-center hover:bg-yellow-lighter lg:m-12"
+                           class="tw-btn inline-block h-50 leading-50 text-xs w-1/4 text-center hover:bg-yellow-lighter lg:m-12"
                         >
                             LISBON
                         </a>
