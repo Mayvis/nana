@@ -3081,6 +3081,141 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 /* harmony default export */ __webpack_exports__["default"] = ({});
 
 /***/ }),
@@ -3785,7 +3920,7 @@ exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loa
 
 
 // module
-exports.push([module.i, ".hero-concept[data-v-f57feba4] {\n  background: url(\"/hero/hero_bg_salon.jpg\") center center/cover no-repeat;\n  height: 360px;\n  margin-top: -165px;\n}\n.svg-concept[data-v-f57feba4] {\n  overflow: visible;\n  height: 86px;\n  margin-top: -30px;\n  font-family: \"sofia-pro-condensed\", sans-serif;\n  font-size: 86px;\n  line-height: 1;\n  letter-spacing: .2em;\n}\n.svg-concept text[data-v-f57feba4] {\n  fill: rgba(255, 255, 255, 0);\n  stroke: #333;\n  stroke-width: .8;\n  stroke-linejoin: round;\n  font-family: \"sofia-pro-condensed\", sans-serif;\n  line-height: 1;\n}\n", ""]);
+exports.push([module.i, ".hero-concept[data-v-f57feba4] {\n  background: url(\"/hero/hero_bg_salon.jpg\") center center/cover no-repeat;\n  height: 360px;\n  margin-top: -165px;\n}\n.svg-concept[data-v-f57feba4] {\n  overflow: visible;\n  height: 86px;\n  margin-top: -30px;\n  font-family: \"sofia-pro-condensed\", sans-serif;\n  font-size: 86px;\n  line-height: 1;\n  letter-spacing: .2em;\n}\n.svg-concept text[data-v-f57feba4] {\n  fill: rgba(255, 255, 255, 0);\n  stroke: #333;\n  stroke-width: .8;\n  stroke-linejoin: round;\n  font-family: \"sofia-pro-condensed\", sans-serif;\n  line-height: 1;\n}\n.tw-header[data-v-f57feba4]:after {\n  position: absolute;\n  content: \"\";\n  left: 0;\n  bottom: 15%;\n  width: 15%;\n  height: 1px;\n  background-color: #000;\n}\n.text-gold.tw-header[data-v-f57feba4]:after {\n  background-color: #c3b282;\n}\n.text-blue-lighter.tw-header[data-v-f57feba4]:after {\n  background-color: #629dae;\n}\n.tw-base[data-v-f57feba4] {\n  content: \"\";\n  position: absolute;\n  top: 50%;\n  left: 0;\n  -webkit-transform: translateY(-50%);\n          transform: translateY(-50%);\n  width: 100vw;\n  height: 50%;\n  z-index: -2;\n}\n.tw-border[data-v-f57feba4] {\n  position: absolute;\n  top: 51.5%;\n  left: 51.5%;\n  -webkit-transform: translate(-50%, -50%);\n          transform: translate(-50%, -50%);\n  width: 100%;\n  height: 100%;\n  z-index: -1;\n}\n.tw-color-blue[data-v-f57feba4] {\n  border-right: 1px solid #3b587e;\n  border-bottom: 1px solid #3b587e;\n}\n.tw-color-blue-lighter[data-v-f57feba4] {\n  border-right: 1px solid #629dae;\n  border-bottom: 1px solid #629dae;\n}\n.tw-color-yellow[data-v-f57feba4] {\n  border-right: 1px solid #c3b282;\n  border-bottom: 1px solid #c3b282;\n}\n", ""]);
 
 // exports
 
@@ -39888,6 +40023,12 @@ var render = function() {
       _vm._v(" "),
       _vm._m(0),
       _vm._v(" "),
+      _vm._m(1),
+      _vm._v(" "),
+      _vm._m(2),
+      _vm._v(" "),
+      _vm._m(3),
+      _vm._v(" "),
       _c("section", { staticClass: "lg:mb-24" }, [
         _c(
           "div",
@@ -39948,6 +40089,339 @@ var render = function() {
   )
 }
 var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("section", { staticClass: "lg:mb-24 relative" }, [
+      _c("div", { staticClass: "max-w-1000 mx-auto" }, [
+        _c("div", { staticClass: "flex" }, [
+          _c("div", { staticClass: "lg:w-1/2" }, [
+            _c("figure", { staticClass: "lg:mb-16" }, [
+              _c("img", {
+                attrs: {
+                  src: "/decoration/salon_1.jpg",
+                  alt: "MILANO",
+                  width: "427",
+                  height: "330"
+                }
+              })
+            ]),
+            _vm._v(" "),
+            _c("figure", [
+              _c("img", {
+                attrs: {
+                  src: "/decoration/salon_2.jpg",
+                  alt: "MILANO",
+                  width: "210",
+                  height: "170"
+                }
+              })
+            ])
+          ]),
+          _vm._v(" "),
+          _c(
+            "div",
+            {
+              staticClass:
+                "lg:w-1/2 bg-white p-16 pt-8 border border-blue-darker lg:my-16 lg:mx-8 relative"
+            },
+            [
+              _c(
+                "h2",
+                {
+                  staticClass:
+                    "text-4xl font-bold leading-loosest tracking-loosest text-black text-blue-darker tw-header relative"
+                },
+                [_vm._v("\n                        MILANO")]
+              ),
+              _vm._v(" "),
+              _c(
+                "p",
+                {
+                  staticClass:
+                    "text-xs tracking-wider leading-loose text-black pb-8 text-grey-darker"
+                },
+                [
+                  _vm._v(
+                    "\n                        Salon information\n                    "
+                  )
+                ]
+              ),
+              _vm._v(" "),
+              _c(
+                "ul",
+                {
+                  staticClass:
+                    "text-xs tracking-wider leading-loose text-black pb-8 text-grey-darker"
+                },
+                [
+                  _c("li", [_vm._v("10:00 - 20:00")]),
+                  _vm._v(" "),
+                  _c("li", [
+                    _vm._v(
+                      "\n                            福岡市中央区天神2-4-20"
+                    ),
+                    _c("br"),
+                    _vm._v(
+                      "\n                            天神プラッサ405号\n                        "
+                    )
+                  ]),
+                  _vm._v(" "),
+                  _c("li", [_vm._v("TEL : 092-725-5127")])
+                ]
+              ),
+              _vm._v(" "),
+              _c(
+                "a",
+                {
+                  staticClass:
+                    "tw-btn inline-block h-50 leading-50 text-xs w-full text-center hover:bg-yellow-lighter",
+                  attrs: { href: "/" }
+                },
+                [
+                  _vm._v(
+                    "\n                        サロン紹介＆ご予約\n                    "
+                  )
+                ]
+              ),
+              _vm._v(" "),
+              _c("div", { staticClass: "tw-border tw-color-blue" })
+            ]
+          )
+        ])
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "tw-base bg-grey-lighter" })
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("section", { staticClass: "lg:mb-24 relative" }, [
+      _c("div", { staticClass: "max-w-1000 mx-auto" }, [
+        _c("div", { staticClass: "flex" }, [
+          _c(
+            "div",
+            {
+              staticClass:
+                "lg:w-1/2 tw-flex-end items-end flex items-end flex-col"
+            },
+            [
+              _c("figure", { staticClass: "lg:mb-16" }, [
+                _c("img", {
+                  attrs: {
+                    src: "/decoration/salon_3.jpg",
+                    alt: "La Rochelle",
+                    width: "427",
+                    height: "330"
+                  }
+                })
+              ]),
+              _vm._v(" "),
+              _c("figure", [
+                _c("img", {
+                  attrs: {
+                    src: "/decoration/salon_4.jpg",
+                    alt: "La Rochelle",
+                    width: "210",
+                    height: "170"
+                  }
+                })
+              ])
+            ]
+          ),
+          _vm._v(" "),
+          _c(
+            "div",
+            {
+              staticClass:
+                "lg:w-1/2 bg-white p-16 pt-8 border border-gold lg:my-16 lg:mx-8 relative tw-flex-start"
+            },
+            [
+              _c(
+                "h2",
+                {
+                  staticClass:
+                    "text-4xl font-bold leading-loosest tracking-loosest text-black text-gold tw-header relative"
+                },
+                [
+                  _vm._v(
+                    "\n                        La Rochelle\n                    "
+                  )
+                ]
+              ),
+              _vm._v(" "),
+              _c(
+                "p",
+                {
+                  staticClass:
+                    "text-xs tracking-wider leading-loose text-black pb-8 text-grey-darker"
+                },
+                [
+                  _vm._v(
+                    "\n                        Salon information\n                    "
+                  )
+                ]
+              ),
+              _vm._v(" "),
+              _c(
+                "ul",
+                {
+                  staticClass:
+                    "text-xs tracking-wider leading-loose text-black pb-8 text-grey-darker"
+                },
+                [
+                  _c("li", [_vm._v("10:00 - 20:00")]),
+                  _vm._v(" "),
+                  _c("li", [
+                    _vm._v(
+                      "\n                            福岡市中央区天神2-4-20"
+                    ),
+                    _c("br"),
+                    _vm._v(
+                      "\n                            天神プラッサ902号\n                        "
+                    )
+                  ]),
+                  _vm._v(" "),
+                  _c("li", [_vm._v("TEL : 092-406-4506")])
+                ]
+              ),
+              _vm._v(" "),
+              _c(
+                "a",
+                {
+                  staticClass:
+                    "tw-btn inline-block h-50 leading-50 text-xs w-full text-center hover:bg-yellow-lighter",
+                  attrs: { href: "/" }
+                },
+                [
+                  _vm._v(
+                    "\n                        サロン紹介＆ご予約\n                    "
+                  )
+                ]
+              ),
+              _vm._v(" "),
+              _c("div", { staticClass: "tw-border tw-color-yellow" })
+            ]
+          )
+        ])
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "tw-base bg-yellow-lightest" })
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("section", { staticClass: "lg:mb-24 relative" }, [
+      _c("div", { staticClass: "max-w-1000 mx-auto" }, [
+        _c("div", { staticClass: "flex" }, [
+          _c("div", { staticClass: "lg:w-1/2" }, [
+            _c("figure", { staticClass: "lg:mb-16" }, [
+              _c("img", {
+                attrs: {
+                  src: "/decoration/salon_5.jpg",
+                  alt: "LISBON",
+                  width: "427",
+                  height: "330"
+                }
+              })
+            ]),
+            _vm._v(" "),
+            _c("figure", [
+              _c("img", {
+                attrs: {
+                  src: "/decoration/salon_6.jpg",
+                  alt: "LISBON",
+                  width: "210",
+                  height: "170"
+                }
+              })
+            ])
+          ]),
+          _vm._v(" "),
+          _c(
+            "div",
+            {
+              staticClass:
+                "lg:w-1/2 bg-white p-16 pt-8 border border-blue-lighter lg:my-16 lg:mx-8 relative"
+            },
+            [
+              _c(
+                "h2",
+                {
+                  staticClass:
+                    "text-4xl font-bold leading-loosest tracking-loosest text-black text-blue-lighter tw-header relative"
+                },
+                [
+                  _vm._v(
+                    "\n                        LISBON\n                    "
+                  )
+                ]
+              ),
+              _vm._v(" "),
+              _c(
+                "p",
+                {
+                  staticClass:
+                    "text-xs tracking-wider leading-loose text-black pb-8 text-grey-darker"
+                },
+                [
+                  _vm._v(
+                    "\n                        Salon information\n                    "
+                  )
+                ]
+              ),
+              _vm._v(" "),
+              _c(
+                "ul",
+                {
+                  staticClass:
+                    "text-xs tracking-wider leading-loose text-black pb-8 text-grey-darker"
+                },
+                [
+                  _c("li", [_vm._v("10:00 - 20:00")]),
+                  _vm._v(" "),
+                  _c("li", [
+                    _vm._v(
+                      "\n                            福岡市中央区大名1-13-23"
+                    ),
+                    _c("br"),
+                    _vm._v(
+                      "\n                            LEX21 5F\n                        "
+                    )
+                  ]),
+                  _vm._v(" "),
+                  _c("li", [_vm._v("TEL : 092-716-3453")])
+                ]
+              ),
+              _vm._v(" "),
+              _c(
+                "a",
+                {
+                  staticClass:
+                    "tw-btn inline-block h-50 leading-50 text-xs w-full text-center hover:bg-yellow-lighter",
+                  attrs: { href: "/" }
+                },
+                [
+                  _vm._v(
+                    "\n                        サロン紹介＆ご予約\n                    "
+                  )
+                ]
+              ),
+              _vm._v(" "),
+              _c("div", { staticClass: "tw-border tw-color-blue-lighter" })
+            ]
+          )
+        ])
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "tw-base bg-blue-lightest" })
+    ])
+  },
   function() {
     var _vm = this
     var _h = _vm.$createElement

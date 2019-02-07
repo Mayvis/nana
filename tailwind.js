@@ -78,7 +78,8 @@ let colors = {
     'yellow': '#ffed4a',
     'yellow-light': '#fff382',
     'yellow-lighter': '#f7f1ad',
-    'yellow-lightest': '#fcfbeb',
+    'yellow-lightest': '#fdfcf9',
+    'gold': '#c3b282',
 
     'green-darkest': '#0f2f21',
     'green-darker': '#1a4731',
@@ -98,12 +99,12 @@ let colors = {
     'teal-link': '#c0d4db',
 
     'blue-darkest': '#12283a',
-    'blue-darker': '#1c3d5a',
+    'blue-darker': '#3b587e',
     'blue-dark': '#2779bd',
     'blue': '#3490dc',
     'blue-light': '#6cb2eb',
-    'blue-lighter': '#bcdefa',
-    'blue-lightest': '#eff8ff',
+    'blue-lighter': '#629dae',
+    'blue-lightest': '#f7fbfb',
 
     'indigo-darkest': '#191e38',
     'indigo-darker': '#2f365f',
