@@ -320,12 +320,6 @@
 
     export default {
         components: {carousel, hero, slider, cabinet},
-
-        watch: {
-            $route() {
-                this.$emit()
-            }
-        }
     }
 </script>
 

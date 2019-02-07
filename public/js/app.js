@@ -2782,11 +2782,6 @@ __webpack_require__.r(__webpack_exports__);
     hero: _components_home_Hero__WEBPACK_IMPORTED_MODULE_1__["default"],
     slider: _components_Slider__WEBPACK_IMPORTED_MODULE_2__["default"],
     cabinet: _components_home_Cabinet__WEBPACK_IMPORTED_MODULE_3__["default"]
-  },
-  watch: {
-    $route: function $route() {
-      this.$emit();
-    }
   }
 });
 
@@ -3059,10 +3054,34 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
-/* harmony default export */ __webpack_exports__["default"] = ({
-  created: function created() {// axios
-  }
-});
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+/* harmony default export */ __webpack_exports__["default"] = ({});
 
 /***/ }),
 
@@ -39432,7 +39451,7 @@ var render = function() {
                       {
                         staticClass:
                           "text-xs tracking-wider leading-loose text-black pb-8 text-grey-darkest text-teal",
-                        attrs: { to: "/voice" }
+                        attrs: { to: "/menu" }
                       },
                       [
                         _vm._v(
@@ -39867,12 +39886,84 @@ var render = function() {
         ])
       ]),
       _vm._v(" "),
+      _vm._m(0),
+      _vm._v(" "),
+      _c("section", { staticClass: "lg:mb-24" }, [
+        _c(
+          "div",
+          {
+            staticClass: "max-w-1200 border-b border-grey pb-4 tw-line relative"
+          },
+          [
+            _c("div", { staticClass: "max-w-600" }, [
+              _c("ul", { staticClass: "flex justify-center" }, [
+                _c(
+                  "li",
+                  [
+                    _c(
+                      "router-link",
+                      {
+                        staticClass:
+                          "text-xs tracking-wider leading-loose text-black pb-8 text-grey-darkest hover:text-grey-dark",
+                        attrs: { to: "/" }
+                      },
+                      [
+                        _vm._v(
+                          "\n                            HOME | \n                        "
+                        )
+                      ]
+                    )
+                  ],
+                  1
+                ),
+                _vm._v(" "),
+                _c(
+                  "li",
+                  [
+                    _c(
+                      "router-link",
+                      {
+                        staticClass:
+                          "text-xs tracking-wider leading-loose text-black pb-8 text-grey-darkest text-teal",
+                        attrs: { to: "/salon" }
+                      },
+                      [
+                        _vm._v(
+                          "\n                            SALON\n                        "
+                        )
+                      ]
+                    )
+                  ],
+                  1
+                )
+              ])
+            ])
+          ]
+        )
+      ]),
+      _vm._v(" "),
       _c("reserve")
     ],
     1
   )
 }
-var staticRenderFns = []
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("section", { staticClass: "max-w-1000 mx-auto lg:mb-24" }, [
+      _c("iframe", {
+        attrs: {
+          src:
+            "https://www.google.com/maps/d/embed?mid=1Wwn-z48yRGrD0lOk6UrT0G6X2r71mv6W",
+          width: "1000",
+          height: "720"
+        }
+      })
+    ])
+  }
+]
 render._withStripped = true
 
 

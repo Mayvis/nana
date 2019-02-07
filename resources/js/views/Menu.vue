@@ -141,7 +141,7 @@
                             </router-link>
                         </li>
                         <li>
-                            <router-link to="/voice"
+                            <router-link to="/menu"
                                          class="text-xs tracking-wider leading-loose text-black pb-8 text-grey-darkest text-teal"
                             >
                                 MENU & PRICE

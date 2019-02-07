@@ -10,15 +10,39 @@
             </div>
         </section>
 
+        <section class="max-w-1000 mx-auto lg:mb-24">
+            <iframe src="https://www.google.com/maps/d/embed?mid=1Wwn-z48yRGrD0lOk6UrT0G6X2r71mv6W" width="1000" height="720"></iframe>
+        </section>
+
+        <section class="lg:mb-24">
+            <div class="max-w-1200 border-b border-grey pb-4 tw-line relative">
+                <div class="max-w-600">
+                    <ul class="flex justify-center">
+                        <li>
+                            <router-link to="/"
+                                         class="text-xs tracking-wider leading-loose text-black pb-8 text-grey-darkest hover:text-grey-dark"
+                            >
+                                HOME&nbsp|&nbsp
+                            </router-link>
+                        </li>
+                        <li>
+                            <router-link to="/salon"
+                                         class="text-xs tracking-wider leading-loose text-black pb-8 text-grey-darkest text-teal"
+                            >
+                                SALON
+                            </router-link>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+
         <reserve></reserve>
     </div>
 </template>
 
 <script>
     export default {
-        created() {
-            // axios
-        }
     }
 </script>
 
