@@ -89,6 +89,26 @@ main {
     padding-top: 165px;
 }
 
+.tw-flex-start {
+    order: 1;
+}
+
+.tw-flex-end {
+    order: 2;
+}
+
 .tw-mask {
     background: linear-gradient(transparent 60%, #f7f1ad 50%);
+}
+
+.tw-line {
+    &:after {
+        position: absolute;
+        content: '';
+        width: 100%;
+        height: 1px;
+        background: #b8c2cc;
+        bottom: 2px;
+        left: 0;
+    }
 }

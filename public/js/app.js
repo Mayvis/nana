@@ -2881,6 +2881,10 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
+//
+//
+//
 /* harmony default export */ __webpack_exports__["default"] = ({
   created: function created() {// axios
   }
@@ -2929,6 +2933,452 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 //
 //
 //
@@ -3060,7 +3510,7 @@ exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loa
 
 
 // module
-exports.push([module.i, ".hero-concept[data-v-0fe82c5b] {\n  background: url(\"/hero/hero_bg_concept.jpg\") center center/cover no-repeat;\n  height: 360px;\n  margin-top: -165px;\n}\n.svg-concept[data-v-0fe82c5b] {\n  overflow: visible;\n  height: 86px;\n  margin-top: -30px;\n  font-family: \"sofia-pro-condensed\", sans-serif;\n  font-size: 86px;\n  line-height: 1;\n  letter-spacing: .2em;\n}\n.svg-concept text[data-v-0fe82c5b] {\n  fill: rgba(255, 255, 255, 0);\n  stroke: #333;\n  stroke-width: .8;\n  stroke-linejoin: round;\n  font-family: \"sofia-pro-condensed\", sans-serif;\n  line-height: 1;\n}\n", ""]);
+exports.push([module.i, ".hero-concept[data-v-0fe82c5b] {\n  background: url(\"/hero/hero_bg_beauty.jpg\") center center/cover no-repeat;\n  height: 360px;\n  margin-top: -165px;\n}\n.svg-concept[data-v-0fe82c5b] {\n  overflow: visible;\n  height: 86px;\n  margin-top: -30px;\n  font-family: \"sofia-pro-condensed\", sans-serif;\n  font-size: 86px;\n  line-height: 1;\n  letter-spacing: .2em;\n}\n.svg-concept text[data-v-0fe82c5b] {\n  fill: rgba(255, 255, 255, 0);\n  stroke: #333;\n  stroke-width: .8;\n  stroke-linejoin: round;\n  font-family: \"sofia-pro-condensed\", sans-serif;\n  line-height: 1;\n}\n", ""]);
 
 // exports
 
@@ -3079,7 +3529,7 @@ exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loa
 
 
 // module
-exports.push([module.i, ".hero-concept[data-v-21659a99] {\n  background: url(\"/hero/hero_bg_concept.jpg\") center center/cover no-repeat;\n  height: 360px;\n  margin-top: -165px;\n}\n.svg-concept[data-v-21659a99] {\n  overflow: visible;\n  height: 86px;\n  margin-top: -30px;\n  font-family: \"sofia-pro-condensed\", sans-serif;\n  font-size: 86px;\n  line-height: 1;\n  letter-spacing: .2em;\n}\n.svg-concept text[data-v-21659a99] {\n  fill: rgba(255, 255, 255, 0);\n  stroke: #333;\n  stroke-width: .8;\n  stroke-linejoin: round;\n  font-family: \"sofia-pro-condensed\", sans-serif;\n  line-height: 1;\n}\n.tw-describe[data-v-21659a99]:after {\n  content: \"\";\n  position: absolute;\n  top: 25%;\n  left: -5%;\n  background-color: #e8eff1;\n  width: 105%;\n  height: 60%;\n  z-index: -1;\n}\n.tw-title[data-v-21659a99] {\n  background: url(\"/icon/left_top.svg\") left top/10px 10px no-repeat, url(\"/icon/right_top.svg\") right top/10px 8px no-repeat, url(\"/icon/left_bottom.svg\") left bottom/10px 10px no-repeat, url(\"/icon/right_bottom.svg\") right bottom/10px 8px no-repeat, url(\"/icon/dot.png\") top left/6px 6px repeat;\n}\n.tw-line[data-v-21659a99]:after {\n  position: absolute;\n  content: \"\";\n  width: 100%;\n  height: 1px;\n  background: #b8c2cc;\n  bottom: 2px;\n  left: 0;\n}\n", ""]);
+exports.push([module.i, ".hero-concept[data-v-21659a99] {\n  background: url(\"/hero/hero_bg_concept.jpg\") center center/cover no-repeat;\n  height: 360px;\n  margin-top: -165px;\n}\n.svg-concept[data-v-21659a99] {\n  overflow: visible;\n  height: 86px;\n  margin-top: -30px;\n  font-family: \"sofia-pro-condensed\", sans-serif;\n  font-size: 86px;\n  line-height: 1;\n  letter-spacing: .2em;\n}\n.svg-concept text[data-v-21659a99] {\n  fill: rgba(255, 255, 255, 0);\n  stroke: #333;\n  stroke-width: .8;\n  stroke-linejoin: round;\n  font-family: \"sofia-pro-condensed\", sans-serif;\n  line-height: 1;\n}\n.tw-describe[data-v-21659a99]:after {\n  content: \"\";\n  position: absolute;\n  top: 25%;\n  left: -5%;\n  background-color: #e8eff1;\n  width: 105%;\n  height: 60%;\n  z-index: -1;\n}\n.tw-title[data-v-21659a99] {\n  background: url(\"/icon/left_top.svg\") left top/10px 10px no-repeat, url(\"/icon/right_top.svg\") right top/10px 8px no-repeat, url(\"/icon/left_bottom.svg\") left bottom/10px 10px no-repeat, url(\"/icon/right_bottom.svg\") right bottom/10px 8px no-repeat, url(\"/icon/dot.png\") top left/6px 6px repeat;\n}\n", ""]);
 
 // exports
 
@@ -3098,7 +3548,7 @@ exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loa
 
 
 // module
-exports.push([module.i, ".hero {\n  top: 160px;\n  left: 130px;\n}\n.hero text {\n  fill: rgba(255, 255, 255, 0);\n  stroke: #333;\n  font-size: 76px;\n  stroke-width: .8;\n  stroke-linejoin: round;\n  line-height: 1;\n}\n.hero .sub {\n  letter-spacing: .3em;\n}\n.hero .line {\n  width: 72px;\n  height: auto;\n}\n.hero .list li {\n  font-family: futura-pt, sans-serif;\n  font-size: 15px;\n  letter-spacing: .6em;\n  line-height: 3.5;\n}\n.scroll {\n  -webkit-transform: rotate(90deg);\n          transform: rotate(90deg);\n  bottom: 40px;\n  right: -75px;\n  -webkit-animation: pos 2s ease-in-out infinite;\n          animation: pos 2s ease-in-out infinite;\n}\n@-webkit-keyframes pos {\n0% {\n    bottom: 50px;\n}\n50% {\n    bottom: 40px;\n}\n100% {\n    bottom: 50px;\n}\n}\n@keyframes pos {\n0% {\n    bottom: 50px;\n}\n50% {\n    bottom: 40px;\n}\n100% {\n    bottom: 50px;\n}\n}\n.concept-btn {\n  transition: background-color .2s;\n  background: url(\"/icon/left_top.svg\") left top/10px 10px no-repeat, url(\"/icon/right_top.svg\") right top/10px 8px no-repeat, url(\"/icon/left_bottom.svg\") left bottom/10px 10px no-repeat, url(\"/icon/right_bottom.svg\") right bottom/10px 8px no-repeat #fff;\n}\n.tw-thumbnail {\n  color: #22292f;\n  transition: opacity .2s;\n}\n.tw-thumbnail:hover {\n  opacity: .5;\n}\n.tw-thumbnail h4 {\n  letter-spacing: .3em;\n  font-size: 1.25rem;\n  line-height: 3.5;\n}\n.tw-thumbnail li {\n  font-family: futura-pt, sans-serif;\n  font-family: sofia-pro-condensed, sans-serif;\n  font-size: .75rem;\n  letter-spacing: .15em;\n  line-height: 2;\n  color: #22292f;\n}\n.tw-thumbnail p {\n  font-size: .875rem;\n  position: relative;\n  padding-left: 2rem;\n}\n.tw-thumbnail p:before {\n  content: \"\";\n  width: 20px;\n  height: 1px;\n  position: absolute;\n  top: 8px;\n  left: 0;\n  background-color: #555;\n}\n.ig-link {\n  display: block;\n  font-family: futura-pt, sans-serif;\n  font-size: .75rem;\n  letter-spacing: .2em;\n  line-height: 2;\n  position: relative;\n  transition: opacity .4s;\n}\n.ig-link:before {\n  content: \"\";\n  width: 20px;\n  height: 1px;\n  background: black;\n  position: absolute;\n  top: 50%;\n  left: 0;\n  -webkit-transform: translateY(-50%);\n          transform: translateY(-50%);\n}\n.ig-link:hover {\n  opacity: .5;\n}\n.ig-link span {\n  display: inline-block;\n  padding-left: 30px;\n}\n.item-h {\n  font-family: sofia-pro-condensed, sans-serif;\n  letter-spacing: .3em;\n  font-size: 1.25rem;\n  font-weight: 400;\n  position: relative;\n  line-height: 2;\n  margin-bottom: 20px;\n}\n.item-h:after {\n  content: \"\";\n  width: 30px;\n  height: 1px;\n  background: #555;\n  position: absolute;\n  left: 0;\n  bottom: 0;\n}\n.price {\n  text-align: left;\n  font-size: .875rem;\n  color: #22292f;\n  line-height: 2;\n}\n.price tr {\n  padding-top: 10px;\n}\n.price th,\n.price td {\n  padding-right: 30px;\n  font-weight: 300;\n}\n.thumbnail {\n  transition: opacity .4s;\n}\n.thumbnail:hover {\n  opacity: .6;\n}\n.thumbnail .more:before {\n  content: \"\";\n  width: 20px;\n  height: 1px;\n  position: absolute;\n  top: 10px;\n  left: 0;\n  background-color: #555;\n}\n.tw-nana {\n  position: absolute;\n  top: -8%;\n  left: 50%;\n  -webkit-transform: translateX(-50%);\n          transform: translateX(-50%);\n}\n.tw-nana img {\n  width: 196px;\n  height: auto;\n}\n.tw-article {\n  display: flex;\n  justify-content: center;\n  margin-left: auto;\n  margin-right: auto;\n  padding: 4rem;\n  font-size: .75rem;\n  letter-spacing: .3em;\n  line-height: 2;\n  max-width: 1000px;\n  background: url(\"/icon/left_top.svg\") left top/10px 10px no-repeat, url(\"/icon/right_top.svg\") right top/10px 8px no-repeat, url(\"/icon/left_bottom.svg\") left bottom/10px 10px no-repeat, url(\"/icon/right_bottom.svg\") right bottom/10px 8px no-repeat #fff;\n}\n", ""]);
+exports.push([module.i, ".hero {\n  top: 160px;\n  left: 130px;\n}\n.hero text {\n  fill: rgba(255, 255, 255, 0);\n  stroke: #333;\n  font-size: 76px;\n  stroke-width: .8;\n  stroke-linejoin: round;\n  line-height: 1;\n}\n.hero .sub {\n  letter-spacing: .3em;\n}\n.hero .line {\n  width: 72px;\n  height: auto;\n}\n.hero .list li {\n  font-family: futura-pt, sans-serif;\n  font-size: 15px;\n  letter-spacing: .6em;\n  line-height: 3.5;\n}\n.scroll {\n  -webkit-transform: rotate(90deg);\n          transform: rotate(90deg);\n  bottom: 40px;\n  right: -75px;\n  -webkit-animation: pos 2s ease-in-out infinite;\n          animation: pos 2s ease-in-out infinite;\n}\n@-webkit-keyframes pos {\n0% {\n    bottom: 50px;\n}\n50% {\n    bottom: 40px;\n}\n100% {\n    bottom: 50px;\n}\n}\n@keyframes pos {\n0% {\n    bottom: 50px;\n}\n50% {\n    bottom: 40px;\n}\n100% {\n    bottom: 50px;\n}\n}\n.tw-btn {\n  transition: background-color .2s;\n  background: url(\"/icon/left_top.svg\") left top/10px 10px no-repeat, url(\"/icon/right_top.svg\") right top/10px 8px no-repeat, url(\"/icon/left_bottom.svg\") left bottom/10px 10px no-repeat, url(\"/icon/right_bottom.svg\") right bottom/10px 8px no-repeat #fff;\n}\n.tw-thumbnail {\n  color: #22292f;\n  transition: opacity .2s;\n}\n.tw-thumbnail:hover {\n  opacity: .5;\n}\n.tw-thumbnail h4 {\n  letter-spacing: .3em;\n  font-size: 1.25rem;\n  line-height: 3.5;\n}\n.tw-thumbnail li {\n  font-family: futura-pt, sans-serif;\n  font-family: sofia-pro-condensed, sans-serif;\n  font-size: .75rem;\n  letter-spacing: .15em;\n  line-height: 2;\n  color: #22292f;\n}\n.tw-thumbnail p {\n  font-size: .875rem;\n  position: relative;\n  padding-left: 2rem;\n}\n.tw-thumbnail p:before {\n  content: \"\";\n  width: 20px;\n  height: 1px;\n  position: absolute;\n  top: 8px;\n  left: 0;\n  background-color: #555;\n}\n.ig-link {\n  display: block;\n  font-family: futura-pt, sans-serif;\n  font-size: .75rem;\n  letter-spacing: .2em;\n  line-height: 2;\n  position: relative;\n  transition: opacity .4s;\n}\n.ig-link:before {\n  content: \"\";\n  width: 20px;\n  height: 1px;\n  background: black;\n  position: absolute;\n  top: 50%;\n  left: 0;\n  -webkit-transform: translateY(-50%);\n          transform: translateY(-50%);\n}\n.ig-link:hover {\n  opacity: .5;\n}\n.ig-link span {\n  display: inline-block;\n  padding-left: 30px;\n}\n.item-h {\n  font-family: sofia-pro-condensed, sans-serif;\n  letter-spacing: .3em;\n  font-size: 1.25rem;\n  font-weight: 400;\n  position: relative;\n  line-height: 2;\n  margin-bottom: 20px;\n}\n.item-h:after {\n  content: \"\";\n  width: 30px;\n  height: 1px;\n  background: #555;\n  position: absolute;\n  left: 0;\n  bottom: 0;\n}\n.price {\n  text-align: left;\n  font-size: .875rem;\n  color: #22292f;\n  line-height: 2;\n}\n.price tr {\n  padding-top: 10px;\n}\n.price th,\n.price td {\n  padding-right: 30px;\n  font-weight: 300;\n}\n.thumbnail {\n  transition: opacity .4s;\n}\n.thumbnail:hover {\n  opacity: .6;\n}\n.thumbnail .more:before {\n  content: \"\";\n  width: 20px;\n  height: 1px;\n  position: absolute;\n  top: 10px;\n  left: 0;\n  background-color: #555;\n}\n.tw-nana {\n  position: absolute;\n  top: -8%;\n  left: 50%;\n  -webkit-transform: translateX(-50%);\n          transform: translateX(-50%);\n}\n.tw-nana img {\n  width: 196px;\n  height: auto;\n}\n.tw-article {\n  display: flex;\n  justify-content: center;\n  margin-left: auto;\n  margin-right: auto;\n  padding: 4rem;\n  font-size: .75rem;\n  letter-spacing: .3em;\n  line-height: 2;\n  max-width: 1000px;\n  background: url(\"/icon/left_top.svg\") left top/10px 10px no-repeat, url(\"/icon/right_top.svg\") right top/10px 8px no-repeat, url(\"/icon/left_bottom.svg\") left bottom/10px 10px no-repeat, url(\"/icon/right_bottom.svg\") right bottom/10px 8px no-repeat #fff;\n}\n", ""]);
 
 // exports
 
@@ -3117,7 +3567,7 @@ exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loa
 
 
 // module
-exports.push([module.i, ".hero-concept[data-v-71d1a504] {\n  background: url(\"/hero/hero_bg_concept.jpg\") center center/cover no-repeat;\n  height: 360px;\n  margin-top: -165px;\n}\n.svg-concept[data-v-71d1a504] {\n  overflow: visible;\n  height: 86px;\n  margin-top: -30px;\n  font-family: \"sofia-pro-condensed\", sans-serif;\n  font-size: 86px;\n  line-height: 1;\n  letter-spacing: .2em;\n}\n.svg-concept text[data-v-71d1a504] {\n  fill: rgba(255, 255, 255, 0);\n  stroke: #333;\n  stroke-width: .8;\n  stroke-linejoin: round;\n  font-family: \"sofia-pro-condensed\", sans-serif;\n  line-height: 1;\n}\n", ""]);
+exports.push([module.i, ".hero-concept[data-v-71d1a504] {\n  background: url(\"/hero/hero_bg_menu_and_price.jpg\") center center/cover no-repeat;\n  height: 360px;\n  margin-top: -165px;\n}\n.svg-concept[data-v-71d1a504] {\n  overflow: visible;\n  height: 86px;\n  margin-top: -30px;\n  font-family: \"sofia-pro-condensed\", sans-serif;\n  font-size: 86px;\n  line-height: 1;\n  letter-spacing: .2em;\n}\n.svg-concept text[data-v-71d1a504] {\n  fill: rgba(255, 255, 255, 0);\n  stroke: #333;\n  stroke-width: .8;\n  stroke-linejoin: round;\n  font-family: \"sofia-pro-condensed\", sans-serif;\n  line-height: 1;\n}\n", ""]);
 
 // exports
 
@@ -3136,7 +3586,7 @@ exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loa
 
 
 // module
-exports.push([module.i, ".hero-concept[data-v-52585eb5] {\n  background: url(\"/hero/hero_bg_concept.jpg\") center center/cover no-repeat;\n  height: 360px;\n  margin-top: -165px;\n}\n.svg-concept[data-v-52585eb5] {\n  overflow: visible;\n  height: 86px;\n  margin-top: -30px;\n  font-family: \"sofia-pro-condensed\", sans-serif;\n  font-size: 86px;\n  line-height: 1;\n  letter-spacing: .2em;\n}\n.svg-concept text[data-v-52585eb5] {\n  fill: rgba(255, 255, 255, 0);\n  stroke: #333;\n  stroke-width: .8;\n  stroke-linejoin: round;\n  font-family: \"sofia-pro-condensed\", sans-serif;\n  line-height: 1;\n}\n", ""]);
+exports.push([module.i, ".hero-concept[data-v-52585eb5] {\n  background: url(\"/hero/hero_bg_nail.jpg\") center center/cover no-repeat;\n  height: 360px;\n  margin-top: -165px;\n}\n.svg-concept[data-v-52585eb5] {\n  overflow: visible;\n  height: 86px;\n  margin-top: -30px;\n  font-family: \"sofia-pro-condensed\", sans-serif;\n  font-size: 86px;\n  line-height: 1;\n  letter-spacing: .2em;\n}\n.svg-concept text[data-v-52585eb5] {\n  fill: rgba(255, 255, 255, 0);\n  stroke: #333;\n  stroke-width: .8;\n  stroke-linejoin: round;\n  font-family: \"sofia-pro-condensed\", sans-serif;\n  line-height: 1;\n}\n", ""]);
 
 // exports
 
@@ -3174,7 +3624,7 @@ exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loa
 
 
 // module
-exports.push([module.i, ".hero-concept[data-v-f57feba4] {\n  background: url(\"/hero/hero_bg_concept.jpg\") center center/cover no-repeat;\n  height: 360px;\n  margin-top: -165px;\n}\n.svg-concept[data-v-f57feba4] {\n  overflow: visible;\n  height: 86px;\n  margin-top: -30px;\n  font-family: \"sofia-pro-condensed\", sans-serif;\n  font-size: 86px;\n  line-height: 1;\n  letter-spacing: .2em;\n}\n.svg-concept text[data-v-f57feba4] {\n  fill: rgba(255, 255, 255, 0);\n  stroke: #333;\n  stroke-width: .8;\n  stroke-linejoin: round;\n  font-family: \"sofia-pro-condensed\", sans-serif;\n  line-height: 1;\n}\n", ""]);
+exports.push([module.i, ".hero-concept[data-v-f57feba4] {\n  background: url(\"/hero/hero_bg_salon.jpg\") center center/cover no-repeat;\n  height: 360px;\n  margin-top: -165px;\n}\n.svg-concept[data-v-f57feba4] {\n  overflow: visible;\n  height: 86px;\n  margin-top: -30px;\n  font-family: \"sofia-pro-condensed\", sans-serif;\n  font-size: 86px;\n  line-height: 1;\n  letter-spacing: .2em;\n}\n.svg-concept text[data-v-f57feba4] {\n  fill: rgba(255, 255, 255, 0);\n  stroke: #333;\n  stroke-width: .8;\n  stroke-linejoin: round;\n  font-family: \"sofia-pro-condensed\", sans-serif;\n  line-height: 1;\n}\n", ""]);
 
 // exports
 
@@ -3193,7 +3643,7 @@ exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loa
 
 
 // module
-exports.push([module.i, ".hero-concept[data-v-3cb21ea3] {\n  background: url(\"/hero/hero_bg_concept.jpg\") center center/cover no-repeat;\n  height: 360px;\n  margin-top: -165px;\n}\n.svg-concept[data-v-3cb21ea3] {\n  overflow: visible;\n  height: 86px;\n  margin-top: -30px;\n  font-family: \"sofia-pro-condensed\", sans-serif;\n  font-size: 86px;\n  line-height: 1;\n  letter-spacing: .2em;\n}\n.svg-concept text[data-v-3cb21ea3] {\n  fill: rgba(255, 255, 255, 0);\n  stroke: #333;\n  stroke-width: .8;\n  stroke-linejoin: round;\n  font-family: \"sofia-pro-condensed\", sans-serif;\n  line-height: 1;\n}\n", ""]);
+exports.push([module.i, ".hero-voice[data-v-3cb21ea3] {\n  background: url(\"/hero/hero_bg_voice.jpg\") center center/cover no-repeat;\n  height: 360px;\n  margin-top: -165px;\n}\n.svg-concept[data-v-3cb21ea3] {\n  overflow: visible;\n  height: 86px;\n  margin-top: -30px;\n  font-family: \"sofia-pro-condensed\", sans-serif;\n  font-size: 86px;\n  line-height: 1;\n  letter-spacing: .2em;\n}\n.svg-concept text[data-v-3cb21ea3] {\n  fill: rgba(255, 255, 255, 0);\n  stroke: #333;\n  stroke-width: .8;\n  stroke-linejoin: round;\n  font-family: \"sofia-pro-condensed\", sans-serif;\n  line-height: 1;\n}\n.sub-title[data-v-3cb21ea3] {\n  position: absolute;\n  top: 0;\n  left: 50%;\n  -webkit-transform: translate(-50%, -50%);\n          transform: translate(-50%, -50%);\n}\n.tw-title[data-v-3cb21ea3] {\n  background: url(/icon/left_top.svg) left top/10px 10px no-repeat, url(/icon/right_top.svg) right top/10px 8px no-repeat, url(/icon/left_bottom.svg) left bottom/10px 10px no-repeat, url(/icon/right_bottom.svg) right bottom/10px 8px no-repeat, url(/icon/dot.png) top left/6px 6px repeat;\n}\n.tw-name[data-v-3cb21ea3]:before {\n  content: \"(\";\n  position: absolute;\n  left: 0;\n}\n.tw-name[data-v-3cb21ea3]:after {\n  content: \")\";\n  position: absolute;\n  right: 0;\n}\n.ref-title[data-v-3cb21ea3] {\n  position: absolute;\n  top: 20px;\n  left: 0;\n}\n", ""]);
 
 // exports
 
@@ -37098,7 +37548,7 @@ var staticRenderFns = [
               "a",
               {
                 staticClass:
-                  "concept-btn inline-block h-50 leading-50 text-xs w-1/4 text-center hover:bg-yellow-lighter lg:m-12",
+                  "tw-btn inline-block h-50 leading-50 text-xs w-1/4 text-center hover:bg-yellow-lighter lg:m-12",
                 attrs: { href: "/" }
               },
               [_vm._v("\n                MILANO & LA ROCHELLE\n            ")]
@@ -37108,7 +37558,7 @@ var staticRenderFns = [
               "a",
               {
                 staticClass:
-                  "concept-btn inline-block h-50 leading-50 text-xs w-1/4 text-center hover:bg-yellow-lighter lg:m-12",
+                  "tw-btn inline-block h-50 leading-50 text-xs w-1/4 text-center hover:bg-yellow-lighter lg:m-12",
                 attrs: { href: "/" }
               },
               [_vm._v("\n                LISBON\n            ")]
@@ -37340,13 +37790,13 @@ var render = function() {
                     "dominant-baseline": "central"
                   }
                 },
-                [_vm._v("CONCEPT")]
+                [_vm._v("BEAUTY × LIFE")]
               )
             ]
           ),
           _vm._v(" "),
           _c("p", { staticClass: "text-center" }, [
-            _vm._v("コンセプト & こだわり")
+            _vm._v("マツエクのある毎日")
           ])
         ])
       ]),
@@ -38786,14 +39236,12 @@ var render = function() {
                     "dominant-baseline": "central"
                   }
                 },
-                [_vm._v("CONCEPT")]
+                [_vm._v("MENU & PRICE")]
               )
             ]
           ),
           _vm._v(" "),
-          _c("p", { staticClass: "text-center" }, [
-            _vm._v("コンセプト & こだわり")
-          ])
+          _c("p", { staticClass: "text-center" }, [_vm._v("メニュー & 料金")])
         ])
       ]),
       _vm._v(" "),
@@ -38848,14 +39296,12 @@ var render = function() {
                     "dominant-baseline": "central"
                   }
                 },
-                [_vm._v("CONCEPT")]
+                [_vm._v("NAIL")]
               )
             ]
           ),
           _vm._v(" "),
-          _c("p", { staticClass: "text-center" }, [
-            _vm._v("コンセプト & こだわり")
-          ])
+          _c("p", { staticClass: "text-center" }, [_vm._v("ネイル")])
         ])
       ]),
       _vm._v(" "),
@@ -38910,16 +39356,16 @@ var render = function() {
                     "dominant-baseline": "central"
                   }
                 },
-                [_vm._v("CONCEPT")]
+                [_vm._v("RECRUIT")]
               )
             ]
           ),
           _vm._v(" "),
-          _c("p", { staticClass: "text-center" }, [
-            _vm._v("コンセプト & こだわり")
-          ])
+          _c("p", { staticClass: "text-center" }, [_vm._v("採用情報")])
         ])
       ]),
+      _vm._v(" "),
+      _c("section"),
       _vm._v(" "),
       _c("reserve")
     ],
@@ -38972,14 +39418,12 @@ var render = function() {
                     "dominant-baseline": "central"
                   }
                 },
-                [_vm._v("CONCEPT")]
+                [_vm._v("SALON")]
               )
             ]
           ),
           _vm._v(" "),
-          _c("p", { staticClass: "text-center" }, [
-            _vm._v("コンセプト & こだわり")
-          ])
+          _c("p", { staticClass: "text-center" }, [_vm._v("店舗紹介")])
         ])
       ]),
       _vm._v(" "),
@@ -39014,7 +39458,7 @@ var render = function() {
     "div",
     [
       _c("section", { staticClass: "lg:mb-24" }, [
-        _c("div", { staticClass: "hero-concept" }),
+        _c("div", { staticClass: "hero-voice" }),
         _vm._v(" "),
         _c("div", [
           _c(
@@ -39034,15 +39478,77 @@ var render = function() {
                     "dominant-baseline": "central"
                   }
                 },
-                [_vm._v("CONCEPT")]
+                [_vm._v("VOICE")]
               )
             ]
           ),
           _vm._v(" "),
           _c("p", { staticClass: "text-center" }, [
-            _vm._v("コンセプト & こだわり")
+            _vm._v("口コミで人気の秘密")
           ])
         ])
+      ]),
+      _vm._v(" "),
+      _vm._m(0),
+      _vm._v(" "),
+      _vm._m(1),
+      _vm._v(" "),
+      _vm._m(2),
+      _vm._v(" "),
+      _vm._m(3),
+      _vm._v(" "),
+      _c("section", { staticClass: "lg:mb-24" }, [
+        _c(
+          "div",
+          {
+            staticClass: "max-w-1200 border-b border-grey pb-4 tw-line relative"
+          },
+          [
+            _c("div", { staticClass: "max-w-600" }, [
+              _c("ul", { staticClass: "flex justify-center" }, [
+                _c(
+                  "li",
+                  [
+                    _c(
+                      "router-link",
+                      {
+                        staticClass:
+                          "text-xs tracking-wider leading-loose text-black pb-8 text-grey-darkest hover:text-grey-dark",
+                        attrs: { to: "/" }
+                      },
+                      [
+                        _vm._v(
+                          "\n                            HOME | \n                        "
+                        )
+                      ]
+                    )
+                  ],
+                  1
+                ),
+                _vm._v(" "),
+                _c(
+                  "li",
+                  [
+                    _c(
+                      "router-link",
+                      {
+                        staticClass:
+                          "text-xs tracking-wider leading-loose text-black pb-8 text-grey-darkest text-teal",
+                        attrs: { to: "/voice" }
+                      },
+                      [
+                        _vm._v(
+                          "\n                            VOICE\n                        "
+                        )
+                      ]
+                    )
+                  ],
+                  1
+                )
+              ])
+            ])
+          ]
+        )
       ]),
       _vm._v(" "),
       _c("reserve")
@@ -39050,7 +39556,1168 @@ var render = function() {
     1
   )
 }
-var staticRenderFns = []
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("section", { staticClass: "lg:mb-24" }, [
+      _c("div", { staticClass: "max-w-1000 mx-auto" }, [
+        _c("div", { staticClass: "tw-title text-center relative lg:mb-16" }, [
+          _c("span", { staticClass: "text-350 absolute sub-title" }, [
+            _vm._v("01")
+          ]),
+          _vm._v(" "),
+          _c("h2", { staticClass: "leading-normal font-san p-8" }, [
+            _vm._v("モチが良いからコスパがいい！")
+          ])
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "flex sm:flex-wrap sm:justify-center" }, [
+          _c("figure", { staticClass: "lg:w-1/3 pr-8" }, [
+            _c("img", {
+              attrs: {
+                src: "/decoration/voice_1.jpg",
+                alt: "モチが良いからコスパがいい！"
+              }
+            })
+          ]),
+          _vm._v(" "),
+          _c("div", { staticClass: "lg:w-2/3 sm:w-full pl-8 lg:mb-16" }, [
+            _c("article", [
+              _c(
+                "h3",
+                {
+                  staticClass:
+                    "text-teal tracking-wide leading-loose text-base pb-6"
+                },
+                [
+                  _vm._v(
+                    "\n                            「高い技術×厳選商材」で、"
+                  ),
+                  _c("br"),
+                  _vm._v(
+                    "\n                            1.5ヶ月という圧倒的なモチの良さを実現。\n                        "
+                  )
+                ]
+              ),
+              _vm._v(" "),
+              _c(
+                "p",
+                {
+                  staticClass:
+                    "text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest"
+                },
+                [
+                  _c("span", { staticClass: "tw-mask" }, [
+                    _vm._v("「NANAのマツエクはモチが良い！」")
+                  ]),
+                  _vm._v(
+                    "\n                            いうお褒めの言葉を多くいただいています。通常、マツエクは1ヶ月ほどで次の施術のサイクルが来ますが、当店の施術ではさらに2週間ほど長く、1.5ヶ月ほどもつという方が多いようです。\n                        "
+                  )
+                ]
+              ),
+              _vm._v(" "),
+              _c(
+                "p",
+                {
+                  staticClass:
+                    "text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest"
+                },
+                [
+                  _vm._v(
+                    "\n                            理由のひとつめは、\n                            "
+                  ),
+                  _c("span", { staticClass: "tw-mask" }, [
+                    _vm._v("スタッフの技術の高さ。")
+                  ]),
+                  _vm._v(
+                    "\n                            全員が数ヶ月にわたるレッスンを受けて入客しているので、丁寧でしっかりとした施術を行うことができるんです。ふたつめは、\n                            "
+                  ),
+                  _c("span", { staticClass: "tw-mask" }, [
+                    _vm._v("良質な国産のグルー（接着剤）を使用している点。")
+                  ]),
+                  _vm._v(
+                    "\n                            しっかりと接着するので安心です。\n                        "
+                  )
+                ]
+              )
+            ]),
+            _vm._v(" "),
+            _c("article", [
+              _c(
+                "h3",
+                {
+                  staticClass:
+                    "text-teal tracking-wide leading-loose text-base pb-6"
+                },
+                [
+                  _vm._v(
+                    "\n                            モチがいい＝次の施術まで余裕がある。"
+                  ),
+                  _c("br"),
+                  _vm._v(
+                    "\n                            だからお財布にも“安心”。\n                        "
+                  )
+                ]
+              ),
+              _vm._v(" "),
+              _c(
+                "p",
+                {
+                  staticClass:
+                    "text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest"
+                },
+                [
+                  _vm._v(
+                    "\n                            良質なグルーはしっかりとした接着を実現します。つまり、一回の施術でのマツエクのモチが良いということ。さらにモチが良いということは、次の施術までに余裕が生まれます。\n                            "
+                  ),
+                  _c("span", { staticClass: "tw-mask" }, [
+                    _vm._v("金額面でもおトク")
+                  ]),
+                  _vm._v(
+                    "\n                            なのが、NANAのマツエクなのです。\n                        "
+                  )
+                ]
+              ),
+              _vm._v(" "),
+              _c(
+                "p",
+                {
+                  staticClass:
+                    "text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest"
+                },
+                [
+                  _c("span", { staticClass: "tw-mask" }, [
+                    _vm._v("スタッフみずから商材を厳選")
+                  ]),
+                  _vm._v(
+                    "\n                            する。それが初心者の方に“安心”を与えることができ、さらにリピーターさんにも喜ばれる。NANAが“マツエク初心者”の方にも安心していただける、大きな理由です。j\n                        "
+                  )
+                ]
+              )
+            ])
+          ])
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "flex" }, [
+          _c("p", { staticClass: "lg:w-1/12 relative" }, [
+            _c(
+              "span",
+              {
+                staticClass:
+                  "ref-title text-2xl tracking-loose leading-loose border-b-2 border-black"
+              },
+              [_vm._v("VOICE")]
+            )
+          ]),
+          _vm._v(" "),
+          _c("div", { staticClass: "p-16 bg-grey-lighter lg:w-11/12" }, [
+            _c("div", { staticClass: "flex" }, [
+              _c(
+                "div",
+                { staticClass: "lg:w-1/2 m-8 border-grey-darkest border-b" },
+                [
+                  _c(
+                    "h5",
+                    {
+                      staticClass:
+                        "text-center bg-white font-normal tw-name relative"
+                    },
+                    [_vm._v("きいさん ： 女性 / 50代")]
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "p",
+                    {
+                      staticClass:
+                        "text-xs tracking-wider leading-loose text-black pb-8 text-grey-darker pt-4"
+                    },
+                    [
+                      _vm._v(
+                        "\n                                いつもありがとうございます。希望通りの仕上がりで綺麗にしていただいて感謝してます！色々なサロンを経験してますが、モチがいいし雰囲気も大好きです。また来月宜しくお願いします。\n                            "
+                      )
+                    ]
+                  )
+                ]
+              ),
+              _vm._v(" "),
+              _c(
+                "div",
+                { staticClass: "lg:w-1/2 m-8 border-grey-darkest border-b" },
+                [
+                  _c(
+                    "h5",
+                    {
+                      staticClass:
+                        "text-center bg-white font-normal tw-name relative"
+                    },
+                    [_vm._v("Mamiさん ： 女性 / 30代前半")]
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "p",
+                    {
+                      staticClass:
+                        "text-xs tracking-wider leading-loose text-black pb-8 text-grey-darker pt-4"
+                    },
+                    [
+                      _vm._v(
+                        "\n                                色々なアイラッシュサロンへ行きましたが、今までの中で１番モチがいいです。１ヶ月以上いつももちます。これからもお世話になります。\n                            "
+                      )
+                    ]
+                  )
+                ]
+              )
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "flex" }, [
+              _c(
+                "div",
+                { staticClass: "lg:w-1/2 m-8 border-grey-darkest border-b" },
+                [
+                  _c(
+                    "h5",
+                    {
+                      staticClass:
+                        "text-center bg-white font-normal tw-name relative"
+                    },
+                    [_vm._v("たけのこさん ： 女性 / 30代前半")]
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "p",
+                    {
+                      staticClass:
+                        "text-xs tracking-wider leading-loose text-black pb-8 text-grey-darker pt-4"
+                    },
+                    [
+                      _vm._v(
+                        "\n                                ほぼ1年通っています。とーってもお上手です。うとうとしてしまいます。施術がおわると、目がパッチリしています。モチもすごくいいです。"
+                      ),
+                      _c("br"),
+                      _vm._v(
+                        "\n                                そしてスタッフみなさまかわいい(^-^)終わった後のジュースとお菓子も心がこもっていてうれしいです。これからもよろしくお願いします☆\n                            "
+                      )
+                    ]
+                  )
+                ]
+              ),
+              _vm._v(" "),
+              _c(
+                "div",
+                { staticClass: "lg:w-1/2 m-8 border-grey-darkest border-b" },
+                [
+                  _c(
+                    "h5",
+                    {
+                      staticClass:
+                        "text-center bg-white font-normal tw-name relative"
+                    },
+                    [_vm._v("ぱきんこさん ： 女性 / 50代")]
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "p",
+                    {
+                      staticClass:
+                        "text-xs tracking-wider leading-loose text-black pb-8 text-grey-darker pt-4"
+                    },
+                    [
+                      _vm._v(
+                        "\n                                いつもお世話になっています。お昼からの仕事の前に通わせて頂いていますが、いつも綺麗で清潔な店内で落ち着きます。施術も丁寧で、マツエクのもちもいい感じです。また心地よくて、施術中につい眠ってしまうほどです。終わりに飲み物とお菓子まで頂けますが、持ち帰る事もでき、仕事の途中の癒しにもなっています。\n                            "
+                      )
+                    ]
+                  )
+                ]
+              )
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "flex flex-wrap pt-8" }, [
+              _c("p", { staticClass: "w-full text-center text-xs font-bold" }, [
+                _vm._v(
+                  "\n                            口コミをもっとみる\n                            "
+                ),
+                _c(
+                  "span",
+                  {
+                    staticClass:
+                      "tracking-wider text-black pb-8 text-grey-darker font-fotura font-normal"
+                  },
+                  [_vm._v("( HOTPEPPER Beautyへリンクします )")]
+                )
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "w-full flex justify-center" }, [
+                _c(
+                  "a",
+                  {
+                    staticClass:
+                      "tw-btn inline-block h-50 leading-50 text-xs w-1/2 text-center hover:bg-yellow-lighter m-8",
+                    attrs: {
+                      href:
+                        "https://beauty.hotpepper.jp/kr/slnH000248220/review/"
+                    }
+                  },
+                  [
+                    _vm._v(
+                      "\n                                MILANO & LA ROCHELLE\n                            "
+                    )
+                  ]
+                ),
+                _vm._v(" "),
+                _c(
+                  "a",
+                  {
+                    staticClass:
+                      "tw-btn inline-block h-50 leading-50 text-xs w-1/2 text-center hover:bg-yellow-lighter m-8",
+                    attrs: {
+                      href:
+                        "https://beauty.hotpepper.jp/kr/slnH000364510/review/"
+                    }
+                  },
+                  [
+                    _vm._v(
+                      "\n                                LISBON\n                            "
+                    )
+                  ]
+                )
+              ])
+            ])
+          ])
+        ])
+      ])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("section", { staticClass: "lg:mb-24" }, [
+      _c("div", { staticClass: "max-w-1000 mx-auto" }, [
+        _c("div", { staticClass: "tw-title text-center relative lg:mb-16" }, [
+          _c("span", { staticClass: "text-350 absolute sub-title" }, [
+            _vm._v("02")
+          ]),
+          _vm._v(" "),
+          _c("h2", { staticClass: "leading-normal font-san p-8" }, [
+            _vm._v("しっかりとしたカウンセリングで、自分に合ったデザインに")
+          ])
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "flex lg:mb-16" }, [
+          _c("figure", { staticClass: "tw-flex-end lg:w-2/5 lg:pl-8" }, [
+            _c("img", {
+              attrs: {
+                src: "/decoration/voice_2.jpg",
+                alt: "しっかりとしたカウンセリングで、自分に合ったデザインに"
+              }
+            })
+          ]),
+          _vm._v(" "),
+          _c("div", { staticClass: "tw-flex-start lg:w-3/5 lg:pr-8" }, [
+            _c("article", [
+              _c(
+                "h3",
+                {
+                  staticClass:
+                    "text-teal tracking-wide leading-loose text-base pb-6"
+                },
+                [
+                  _vm._v(
+                    "\n                            デザイン、色、本数、長さ。"
+                  ),
+                  _c("br"),
+                  _vm._v(
+                    "\n                            丁寧なカウンセリングで、ピッタリな施術を。\n                        "
+                  )
+                ]
+              ),
+              _vm._v(" "),
+              _c(
+                "p",
+                {
+                  staticClass:
+                    "text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest"
+                },
+                [
+                  _vm._v(
+                    "\n                            マツエクをつけてはじめてわかる、\n                            "
+                  ),
+                  _c("span", { staticClass: "tw-mask" }, [
+                    _vm._v("ひとりひとり違う“まつ毛”。")
+                  ]),
+                  _vm._v(
+                    "\n                            自覚がなくても 「実はくせ毛だった」「毛先が下に向きやすい」というそれぞれの個性があります。\n                        "
+                  )
+                ]
+              ),
+              _vm._v(" "),
+              _c(
+                "p",
+                {
+                  staticClass:
+                    "text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest"
+                },
+                [
+                  _vm._v(
+                    "\n                            「初めてマツエクをするから不安…」といった方でも安心して過ごしていただけるように、NANAでは施術前にしっかりと\n                            "
+                  ),
+                  _c("span", { staticClass: "tw-mask" }, [
+                    _vm._v("カウンセリング")
+                  ]),
+                  _vm._v(
+                    "\n                            を行います。また、カウンセリングは初回だけではありません。来ていただいた時のまつ毛の状態に合わせ、デザイン、色、本数、長さなどを細かくお話しし、\n                            "
+                  ),
+                  _c("span", { staticClass: "tw-mask" }, [
+                    _vm._v("その方にピッタリ")
+                  ]),
+                  _vm._v(
+                    "\n                            な施術をします。\n                        "
+                  )
+                ]
+              )
+            ]),
+            _vm._v(" "),
+            _c("article", [
+              _c(
+                "h3",
+                {
+                  staticClass:
+                    "text-teal tracking-wide leading-loose text-base pb-6"
+                },
+                [
+                  _vm._v(
+                    "\n                            スタッフは無料で指名OK。"
+                  ),
+                  _c("br"),
+                  _vm._v(
+                    "\n                            しっかり相談して、理想の目元を演出。\n                        "
+                  )
+                ]
+              ),
+              _vm._v(" "),
+              _c(
+                "p",
+                {
+                  staticClass:
+                    "text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest"
+                },
+                [
+                  _vm._v(
+                    "\n                            さらに\n                            "
+                  ),
+                  _c("span", { staticClass: "tw-mask" }, [
+                    _vm._v(
+                      "NANAではスタッフの指名も可能ですが、指名料はいただいていません"
+                    )
+                  ]),
+                  _vm._v(
+                    "\n                            。信頼できるスタッフとじっくり、自分の状態や理想の形を相談していただきたいと考えています。もちろんメンテナンス方法などもしっかりとお伝えしています。不安な点は何でもご相談ください！\n                        "
+                  )
+                ]
+              )
+            ])
+          ])
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "flex" }, [
+          _c("p", { staticClass: "lg:w-1/12 relative" }, [
+            _c(
+              "span",
+              {
+                staticClass:
+                  "ref-title text-2xl tracking-loose leading-loose border-b-2 border-black"
+              },
+              [_vm._v("VOICE")]
+            )
+          ]),
+          _vm._v(" "),
+          _c("div", { staticClass: "p-16 bg-grey-lighter lg:w-11/12" }, [
+            _c("div", { staticClass: "flex" }, [
+              _c(
+                "div",
+                { staticClass: "lg:w-1/2 m-8 border-grey-darkest border-b" },
+                [
+                  _c(
+                    "h5",
+                    {
+                      staticClass:
+                        "text-center bg-white font-normal tw-name relative"
+                    },
+                    [_vm._v("あいこさん ： 女性 / 30代前半")]
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "p",
+                    {
+                      staticClass:
+                        "text-xs tracking-wider leading-loose text-black pb-8 text-grey-darker pt-4"
+                    },
+                    [
+                      _vm._v(
+                        "\n                                初めてのマツエクで不安もありましたが、丁寧にカウンセリングして頂き、仕上がりは大満足でした。モチも2週間程経ちますが、今のところ問題ないです。またお願いしたいと思います。\n                            "
+                      )
+                    ]
+                  )
+                ]
+              ),
+              _vm._v(" "),
+              _c(
+                "div",
+                { staticClass: "lg:w-1/2 m-8 border-grey-darkest border-b" },
+                [
+                  _c(
+                    "h5",
+                    {
+                      staticClass:
+                        "text-center bg-white font-normal tw-name relative"
+                    },
+                    [_vm._v("めぐみさん ： 女性 / 40代")]
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "p",
+                    {
+                      staticClass:
+                        "text-xs tracking-wider leading-loose text-black pb-8 text-grey-darker pt-4"
+                    },
+                    [
+                      _vm._v(
+                        "\n                                カウンセリングから最後までとても丁寧にしていただいて、仕上がりも接客も今までで一番でした♪何も不満がなかったのはこれが初めてです！！お姉さんもとても可愛い方で次回もまたお願いしようと思います(*´∀`*)\n                            "
+                      )
+                    ]
+                  )
+                ]
+              )
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "flex" }, [
+              _c(
+                "div",
+                { staticClass: "lg:w-1/2 m-8 border-grey-darkest border-b" },
+                [
+                  _c(
+                    "h5",
+                    {
+                      staticClass:
+                        "text-center bg-white font-normal tw-name relative"
+                    },
+                    [_vm._v("ちゃんななさん ： 女性 / 20代後半")]
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "p",
+                    {
+                      staticClass:
+                        "text-xs tracking-wider leading-loose text-black pb-8 text-grey-darker pt-4"
+                    },
+                    [
+                      _vm._v(
+                        "\n                                前回、他店で初めてマツエクを施術してもらい、目を開けると痛くて一日中目がゴロゴロしていましたが、今回は痛みやヒリヒリした感じが全くなく快適です。"
+                      ),
+                      _c("br"),
+                      _vm._v(
+                        "\n                                仕上がりもとても綺麗、丁寧にカウンセリングして下さり、何度も寝落ちしてしまいました、可愛らしいスタッフの方でとても癒された時間でした。ありがとうございました。また伺います！\n                            "
+                      )
+                    ]
+                  )
+                ]
+              ),
+              _vm._v(" "),
+              _c(
+                "div",
+                { staticClass: "lg:w-1/2 m-8 border-grey-darkest border-b" },
+                [
+                  _c(
+                    "h5",
+                    {
+                      staticClass:
+                        "text-center bg-white font-normal tw-name relative"
+                    },
+                    [_vm._v("みさきさん ： 女性 / 20代前半")]
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "p",
+                    {
+                      staticClass:
+                        "text-xs tracking-wider leading-loose text-black pb-8 text-grey-darker pt-4"
+                    },
+                    [
+                      _vm._v(
+                        "\n                                マツエクする時はいつもこちらにお伺いさせて頂いてます。毎回来た時に必ずカウセリングを行なって頂いて、お店の雰囲気も落ち着いており、寝てしまうくらいです、、。笑 仕上がりもパーフェクトで、本当に毎回感謝です。"
+                      ),
+                      _c("br"),
+                      _vm._v(
+                        "\n                                メイク直しやヘアーアイロンの貸し出しなどゆっくりできるのも本当に嬉しいです。これからもお伺いした時はよろしくお願います。いつもありがとうございます！！\n                            "
+                      )
+                    ]
+                  )
+                ]
+              )
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "flex flex-wrap" }, [
+              _c(
+                "p",
+                { staticClass: "w-full text-center text-xs font-bold pt-8" },
+                [
+                  _vm._v(
+                    "\n                            口コミをもっとみる\n                            "
+                  ),
+                  _c(
+                    "span",
+                    {
+                      staticClass:
+                        "tracking-wider text-black pb-8 text-grey-darker font-fotura font-normal"
+                    },
+                    [_vm._v("( HOTPEPPER Beautyへリンクします )")]
+                  )
+                ]
+              ),
+              _vm._v(" "),
+              _c("div", { staticClass: "w-full flex justify-center" }, [
+                _c(
+                  "a",
+                  {
+                    staticClass:
+                      "tw-btn inline-block h-50 leading-50 text-xs w-1/2 text-center hover:bg-yellow-lighter m-8",
+                    attrs: {
+                      href:
+                        "https://beauty.hotpepper.jp/kr/slnH000248220/review/"
+                    }
+                  },
+                  [
+                    _vm._v(
+                      "\n                                MILANO & LA ROCHELLE\n                            "
+                    )
+                  ]
+                ),
+                _vm._v(" "),
+                _c(
+                  "a",
+                  {
+                    staticClass:
+                      "tw-btn inline-block h-50 leading-50 text-xs w-1/2 text-center hover:bg-yellow-lighter m-8",
+                    attrs: {
+                      href:
+                        "https://beauty.hotpepper.jp/kr/slnH000364510/review/"
+                    }
+                  },
+                  [
+                    _vm._v(
+                      "\n                                LISBON\n                            "
+                    )
+                  ]
+                )
+              ])
+            ])
+          ])
+        ])
+      ])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("section", { staticClass: "lg:mb-24" }, [
+      _c("div", { staticClass: "max-w-1000 mx-auto" }, [
+        _c("div", { staticClass: "tw-title text-center relative lg:mb-16" }, [
+          _c("span", { staticClass: "text-350 absolute sub-title" }, [
+            _vm._v("03")
+          ]),
+          _vm._v(" "),
+          _c("h2", { staticClass: "leading-normal font-san p-8" }, [
+            _vm._v("やわらかい枕でぐっすり！居心地のよさもバツグン")
+          ])
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "flex lg:mb-16" }, [
+          _c("figure", { staticClass: "lg:w-2/5 lg:pr-8" }, [
+            _c("img", {
+              attrs: {
+                src: "/decoration/voice_3.jpg",
+                alt: "やわらかい枕でぐっすり！居心地のよさもバツグン"
+              }
+            })
+          ]),
+          _vm._v(" "),
+          _c("div", { staticClass: "lg:w-3/5 lg:pl-8" }, [
+            _c("article", [
+              _c(
+                "h3",
+                {
+                  staticClass:
+                    "text-teal tracking-wide leading-loose text-base pb-6"
+                },
+                [
+                  _vm._v(
+                    "\n                            ふんわりベッドでリラックス。"
+                  ),
+                  _c("br"),
+                  _vm._v(
+                    "\n                            フットクッションもある極上の安らぎ空間。\n                        "
+                  )
+                ]
+              ),
+              _vm._v(" "),
+              _c(
+                "p",
+                {
+                  staticClass:
+                    "text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest"
+                },
+                [
+                  _vm._v(
+                    "\n                            NANAのお客さまの口コミに多く寄せられるのが、「施術中にぐっすり寝てしまいました」という声です。\n                        "
+                  )
+                ]
+              ),
+              _vm._v(" "),
+              _c(
+                "p",
+                {
+                  staticClass:
+                    "text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest"
+                },
+                [
+                  _vm._v(
+                    "\n                            マツエクサロンの多くはリクライニング式のチェアを採用していますが、NANAでは全店舗\n                            "
+                  ),
+                  _c("span", { staticClass: "tw-mask" }, [
+                    _vm._v("ベッドを導入")
+                  ]),
+                  _vm._v(
+                    "\n                            しています！　包み込まれるような寝心地のベッドに加え、ふんわりとやわらかい枕は「つい眠ってしまう」と、どのお客さまにも人気です。フットクッションもお好みに合わせてご用意。まさに\n                            "
+                  ),
+                  _c("span", { staticClass: "tw-mask" }, [
+                    _vm._v("極上のリラックス空間")
+                  ]),
+                  _vm._v(
+                    "\n                            です。\n                        "
+                  )
+                ]
+              )
+            ])
+          ])
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "flex" }, [
+          _c("p", { staticClass: "lg:w-1/12 relative" }, [
+            _c(
+              "span",
+              {
+                staticClass:
+                  "ref-title text-2xl tracking-loose leading-loose border-b-2 border-black"
+              },
+              [_vm._v("VOICE")]
+            )
+          ]),
+          _vm._v(" "),
+          _c("div", { staticClass: "p-16 bg-grey-lighter lg:w-11/12" }, [
+            _c("div", { staticClass: "flex" }, [
+              _c(
+                "div",
+                { staticClass: "lg:w-1/2 m-8 border-grey-darkest border-b" },
+                [
+                  _c(
+                    "h5",
+                    {
+                      staticClass:
+                        "text-center bg-white font-normal tw-name relative"
+                    },
+                    [_vm._v("MOEさん ： 女性 / 20代後半")]
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "p",
+                    {
+                      staticClass:
+                        "text-xs tracking-wider leading-loose text-black pb-8 text-grey-darker pt-4"
+                    },
+                    [
+                      _vm._v(
+                        "\n                                初めてのまつエクでしたが、初歩的なことから丁寧に説明していただき不安なく施術を受けることができました☆ベッドの寝心地も素晴らしく、癒されながらキレイになれてしまいます(*´\n                                ▽ `*)"
+                      ),
+                      _c("br"),
+                      _vm._v(
+                        "\n                                次回はまた別のデザインにチャレンジして自分により似合うものを探していきたいと思います♪\n                            "
+                      )
+                    ]
+                  )
+                ]
+              ),
+              _vm._v(" "),
+              _c(
+                "div",
+                { staticClass: "lg:w-1/2 m-8 border-grey-darkest border-b" },
+                [
+                  _c(
+                    "h5",
+                    {
+                      staticClass:
+                        "text-center bg-white font-normal tw-name relative"
+                    },
+                    [_vm._v("おいちゃんさん ： 女性 / 20代前半")]
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "p",
+                    {
+                      staticClass:
+                        "text-xs tracking-wider leading-loose text-black pb-8 text-grey-darker pt-4"
+                    },
+                    [
+                      _vm._v(
+                        "\n                                毎回マツエクはNANAに決めてます！仕上がりはもちろん、施術後のお菓子サービスや、まつ毛の状態など、細かく教えてくれるので、助かっています！静かな落ち着いた空間で、施術中はいつも寝てしまう程です！\n                            "
+                      )
+                    ]
+                  )
+                ]
+              )
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "flex" }, [
+              _c("div", { staticClass: "m-8 border-grey-darkest border-b" }, [
+                _c(
+                  "h5",
+                  {
+                    staticClass:
+                      "text-center bg-white font-normal tw-name relative"
+                  },
+                  [_vm._v("たけのこさん ： 女性 / 30代前半")]
+                ),
+                _vm._v(" "),
+                _c(
+                  "p",
+                  {
+                    staticClass:
+                      "text-xs tracking-wider leading-loose text-black pb-8 text-grey-darker pt-4"
+                  },
+                  [
+                    _vm._v(
+                      "\n                                初めてのマツエクで、丁寧に説明してくださったおかげで希望どおりの仕上がりでした。施術もとても丁寧で、安心してお任せ出来ました。サロンの雰囲気も素敵でしたし、口コミ(後から見ましたが)どおり、施術後のドリンクとお菓子のサービスはちょっと嬉しいですね。"
+                    ),
+                    _c("br"),
+                    _vm._v(
+                      "\n                                施術中、お客さんとの会話が聞こえなかったのは、皆さん居心地の良さで眠ってらしたんでしょうね。私は緊張で眠れませんでしたけど。あと、メイク直しの時間がゆっくり出来るのも良かったです。次の時も同じ担当の方にお願いしたいです。\n                            "
+                    )
+                  ]
+                )
+              ])
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "flex flex-wrap" }, [
+              _c(
+                "p",
+                { staticClass: "w-full text-center text-xs font-bold pt-8" },
+                [
+                  _vm._v(
+                    "\n                            口コミをもっとみる\n                            "
+                  ),
+                  _c(
+                    "span",
+                    {
+                      staticClass:
+                        "tracking-wider text-black pb-8 text-grey-darker font-fotura font-normal"
+                    },
+                    [_vm._v("( HOTPEPPER Beautyへリンクします )")]
+                  )
+                ]
+              ),
+              _vm._v(" "),
+              _c("div", { staticClass: "w-full flex justify-center" }, [
+                _c(
+                  "a",
+                  {
+                    staticClass:
+                      "tw-btn inline-block h-50 leading-50 text-xs w-1/2 text-center hover:bg-yellow-lighter m-8",
+                    attrs: {
+                      href:
+                        "https://beauty.hotpepper.jp/kr/slnH000248220/review/"
+                    }
+                  },
+                  [
+                    _vm._v(
+                      "\n                                MILANO & LA ROCHELLE\n                            "
+                    )
+                  ]
+                ),
+                _vm._v(" "),
+                _c(
+                  "a",
+                  {
+                    staticClass:
+                      "tw-btn inline-block h-50 leading-50 text-xs w-1/2 text-center hover:bg-yellow-lighter m-8",
+                    attrs: {
+                      href:
+                        "https://beauty.hotpepper.jp/kr/slnH000364510/review/"
+                    }
+                  },
+                  [
+                    _vm._v(
+                      "\n                                LISBON\n                            "
+                    )
+                  ]
+                )
+              ])
+            ])
+          ])
+        ])
+      ])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("section", { staticClass: "lg:mb-24" }, [
+      _c("div", { staticClass: "max-w-1000 mx-auto" }, [
+        _c("div", { staticClass: "tw-title text-center relative lg:mb-16" }, [
+          _c("span", { staticClass: "text-350 absolute sub-title" }, [
+            _vm._v("04")
+          ]),
+          _vm._v(" "),
+          _c("h2", { staticClass: "leading-normal font-san p-8" }, [
+            _vm._v("スピーディーな施術は、スキマ時間にぴったり！")
+          ])
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "flex lg:mb-16" }, [
+          _c("figure", { staticClass: "tw-flex-end lg:w-2/5 lg:pl-8" }, [
+            _c("img", {
+              attrs: {
+                src: "/decoration/voice_4.jpg",
+                alt: "スピーディーな施術は、スキマ時間にぴったり！"
+              }
+            })
+          ]),
+          _vm._v(" "),
+          _c("div", { staticClass: "tw-flex-start lg:w-3/5 lg:pr-8" }, [
+            _c("article", [
+              _c(
+                "h3",
+                {
+                  staticClass:
+                    "text-teal tracking-wide leading-loose text-base pb-6"
+                },
+                [
+                  _vm._v(
+                    "\n                            休憩時間、買い物の合間に。"
+                  ),
+                  _c("br"),
+                  _vm._v(
+                    "\n                            “60分”でできるのが、マツエクのポイント。\n                        "
+                  )
+                ]
+              ),
+              _vm._v(" "),
+              _c(
+                "p",
+                {
+                  staticClass:
+                    "text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest"
+                },
+                [
+                  _vm._v(
+                    "\n                            マツエクのポイントのひとつに「\n                            "
+                  ),
+                  _c("span", { staticClass: "tw-mask" }, [
+                    _vm._v("短時間でできる")
+                  ]),
+                  _vm._v(
+                    "\n                            」ことがあります。そのため、仕事の休憩時間やお買い物のちょっとした合間などにいらっしゃる方も多く見受けられます。NANAの施術時間は約60分。オフをするともっと長くなりますが、\n                            "
+                  ),
+                  _c("span", { staticClass: "tw-mask" }, [
+                    _vm._v("基本的には短い時間でしっかりと施術を行います。")
+                  ])
+                ]
+              )
+            ]),
+            _vm._v(" "),
+            _c("article", [
+              _c(
+                "h3",
+                {
+                  staticClass:
+                    "text-teal tracking-wide leading-loose text-base pb-6"
+                },
+                [
+                  _vm._v(
+                    "\n                            施術後の飲み物とお菓子は持ち帰りOK。"
+                  ),
+                  _c("br"),
+                  _vm._v(
+                    "\n                            お客さまの時間を第一に。\n                        "
+                  )
+                ]
+              ),
+              _vm._v(" "),
+              _c(
+                "p",
+                {
+                  staticClass:
+                    "text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest"
+                },
+                [
+                  _c("span", { staticClass: "tw-mask" }, [
+                    _vm._v("お客さまの大切な時間をいただいて施術を行っている")
+                  ]),
+                  _vm._v(
+                    "\n                            」。このことをとても大切にしているからこそ、施術後の飲み物とお菓子も持ち帰りOKなものをご用意しています。\n                            "
+                  ),
+                  _c("span", { staticClass: "tw-mask" }, [
+                    _vm._v(
+                      "マツエクで気持ちを上向きにして、とびきりの笑顔で次の予定へ"
+                    )
+                  ]),
+                  _vm._v(
+                    "\n                            向かうお客さまをお送りするのが、NANAのスタイルです。\n                        "
+                  )
+                ]
+              )
+            ])
+          ])
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "flex" }, [
+          _c("p", { staticClass: "lg:w-1/12 relative" }, [
+            _c(
+              "span",
+              {
+                staticClass:
+                  "ref-title text-2xl tracking-loose leading-loose border-b-2 border-black"
+              },
+              [_vm._v("VOICE")]
+            )
+          ]),
+          _vm._v(" "),
+          _c("div", { staticClass: "p-16 bg-grey-lighter lg:w-11/12" }, [
+            _c("div", { staticClass: "flex" }, [
+              _c(
+                "div",
+                { staticClass: "lg:w-1/2 m-8 border-grey-darkest border-b" },
+                [
+                  _c(
+                    "h5",
+                    {
+                      staticClass:
+                        "text-center bg-white font-normal tw-name relative"
+                    },
+                    [_vm._v("ナミチンゲールさん ： 女性 / 20代後半")]
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "p",
+                    {
+                      staticClass:
+                        "text-xs tracking-wider leading-loose text-black pb-8 text-grey-darker pt-4"
+                    },
+                    [
+                      _vm._v(
+                        "\n                                ずっとこちらでお世話になってます。どのスタッフの方になっても仕上がりで差が出ることなく満足してます。入店してから施術までの流れもテキパキと丁寧に対応してくれるので、こちらもとても気持ちよく過ごさせてもらっています。これからもよろしくお願いします。\n                            "
+                      )
+                    ]
+                  )
+                ]
+              ),
+              _vm._v(" "),
+              _c(
+                "div",
+                { staticClass: "lg:w-1/2 m-8 border-grey-darkest border-b" },
+                [
+                  _c(
+                    "h5",
+                    {
+                      staticClass:
+                        "text-center bg-white font-normal tw-name relative"
+                    },
+                    [_vm._v("ちえさん ： 女性 / 20代前半")]
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "p",
+                    {
+                      staticClass:
+                        "text-xs tracking-wider leading-loose text-black pb-8 text-grey-darker pt-4"
+                    },
+                    [
+                      _vm._v(
+                        "\n                                はじめていきました。スタッフの対応もはやくわかりやすい説明で終始印象が良かったです。施術中の音楽も静かで心地よかったです。"
+                      ),
+                      _c("br"),
+                      _vm._v(
+                        "\n                                仕上がりも満足でした。最後に紙パックのジュースとお菓子2つもらえます！笑 女子はこういうちょっとしたのが嬉しいですよね！\n                            "
+                      )
+                    ]
+                  )
+                ]
+              )
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "flex flex-wrap" }, [
+              _c(
+                "p",
+                { staticClass: "w-full text-center text-xs font-bold pt-8" },
+                [
+                  _vm._v(
+                    "\n                            口コミをもっとみる\n                            "
+                  ),
+                  _c(
+                    "span",
+                    {
+                      staticClass:
+                        "tracking-wider text-black pb-8 text-grey-darker font-fotura font-normal"
+                    },
+                    [_vm._v("( HOTPEPPER Beautyへリンクします )")]
+                  )
+                ]
+              ),
+              _vm._v(" "),
+              _c("div", { staticClass: "w-full flex justify-center" }, [
+                _c(
+                  "a",
+                  {
+                    staticClass:
+                      "tw-btn inline-block h-50 leading-50 text-xs w-1/2 text-center hover:bg-yellow-lighter m-8",
+                    attrs: {
+                      href:
+                        "https://beauty.hotpepper.jp/kr/slnH000248220/review/"
+                    }
+                  },
+                  [
+                    _vm._v(
+                      "\n                                MILANO & LA ROCHELLE\n                            "
+                    )
+                  ]
+                ),
+                _vm._v(" "),
+                _c(
+                  "a",
+                  {
+                    staticClass:
+                      "tw-btn inline-block h-50 leading-50 text-xs w-1/2 text-center hover:bg-yellow-lighter m-8",
+                    attrs: {
+                      href:
+                        "https://beauty.hotpepper.jp/kr/slnH000364510/review/"
+                    }
+                  },
+                  [
+                    _vm._v(
+                      "\n                                LISBON\n                            "
+                    )
+                  ]
+                )
+              ])
+            ])
+          ])
+        ])
+      ])
+    ])
+  }
+]
 render._withStripped = true
 
 

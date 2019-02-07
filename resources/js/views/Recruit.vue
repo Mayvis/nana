@@ -4,10 +4,14 @@
             <div class="hero-concept"></div>
             <div>
                 <svg width="100%" height="86" class="svg-concept">
-                    <text x="50%" y="50%" text-anchor="middle" dominant-baseline="central">CONCEPT</text>
+                    <text x="50%" y="50%" text-anchor="middle" dominant-baseline="central">RECRUIT</text>
                 </svg>
-                <p class="text-center">コンセプト & こだわり</p>
+                <p class="text-center">採用情報</p>
             </div>
+        </section>
+
+        <section>
+
         </section>
 
         <reserve></reserve>

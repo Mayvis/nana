@@ -4,9 +4,9 @@
             <div class="hero-concept"></div>
             <div>
                 <svg width="100%" height="86" class="svg-concept">
-                    <text x="50%" y="50%" text-anchor="middle" dominant-baseline="central">CONCEPT</text>
+                    <text x="50%" y="50%" text-anchor="middle" dominant-baseline="central">BEAUTY × LIFE</text>
                 </svg>
-                <p class="text-center">コンセプト & こだわり</p>
+                <p class="text-center">マツエクのある毎日</p>
             </div>
         </section>
 
@@ -24,7 +24,7 @@
 
 <style scoped lang="scss">
     .hero-concept {
-        background: url('/hero/hero_bg_concept.jpg') center center / cover no-repeat;
+        background: url('/hero/hero_bg_beauty.jpg') center center / cover no-repeat;
         height: 360px;
         margin-top: -165px;
     }

@@ -285,16 +285,4 @@
         url('/icon/right_bottom.svg') right bottom/10px 8px no-repeat,
         url('/icon/dot.png') top left/6px 6px repeat;
     }
-
-    .tw-line {
-        &:after {
-            position: absolute;
-            content: '';
-            width: 100%;
-            height: 1px;
-            background: #b8c2cc;
-            bottom: 2px;
-            left: 0;
-        }
-    }
 </style>

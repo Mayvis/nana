@@ -12,13 +12,13 @@
 
             <div class="flex justify-center">
                 <a href="/"
-                   class="concept-btn inline-block h-50 leading-50 text-xs w-1/4 text-center hover:bg-yellow-lighter lg:m-12"
+                   class="tw-btn inline-block h-50 leading-50 text-xs w-1/4 text-center hover:bg-yellow-lighter lg:m-12"
                 >
                     MILANO & LA ROCHELLE
                 </a>
 
                 <a href="/"
-                   class="concept-btn inline-block h-50 leading-50 text-xs w-1/4 text-center hover:bg-yellow-lighter lg:m-12"
+                   class="tw-btn inline-block h-50 leading-50 text-xs w-1/4 text-center hover:bg-yellow-lighter lg:m-12"
                 >
                     LISBON
                 </a>

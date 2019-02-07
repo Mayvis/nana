@@ -378,7 +378,7 @@
         }
     }
 
-    .concept-btn {
+    .tw-btn {
         transition: background-color .2s;
 
         background: url('/icon/left_top.svg') left top/10px 10px no-repeat,
