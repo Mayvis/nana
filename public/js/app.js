@@ -2986,8 +2986,206 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 /* harmony default export */ __webpack_exports__["default"] = ({
-  created: function created() {// axios
+  data: function data() {
+    return {
+      images: []
+    };
+  },
+  mounted: function mounted() {
+    this.init();
+  },
+  methods: {
+    init: function init() {
+      var _this = this;
+
+      var accessToken = '10852513017.c1b883c.3ebd9833bd2840f8be1e0d808949afd2';
+      $.get("https://api.instagram.com/v1/users/self/media/recent/?access_token=" + accessToken, function (res) {
+        $.each(res.data, function (index) {
+          _this.images.push(res.data[index].images.standard_resolution.url);
+        });
+      });
+    }
   }
 });
 
@@ -3882,7 +4080,7 @@ exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loa
 
 
 // module
-exports.push([module.i, ".hero-concept[data-v-52585eb5] {\n  background: url(\"/hero/hero_bg_nail.jpg\") center center/cover no-repeat;\n  height: 360px;\n  margin-top: -165px;\n}\n.svg-concept[data-v-52585eb5] {\n  overflow: visible;\n  height: 86px;\n  margin-top: -30px;\n  font-family: \"sofia-pro-condensed\", sans-serif;\n  font-size: 86px;\n  line-height: 1;\n  letter-spacing: .2em;\n}\n.svg-concept text[data-v-52585eb5] {\n  fill: rgba(255, 255, 255, 0);\n  stroke: #333;\n  stroke-width: .8;\n  stroke-linejoin: round;\n  font-family: \"sofia-pro-condensed\", sans-serif;\n  line-height: 1;\n}\n", ""]);
+exports.push([module.i, ".hero-concept[data-v-52585eb5] {\n  background: url(\"/hero/hero_bg_nail.jpg\") center center/cover no-repeat;\n  height: 360px;\n  margin-top: -165px;\n}\n.svg-concept[data-v-52585eb5] {\n  overflow: visible;\n  height: 86px;\n  margin-top: -30px;\n  font-family: \"sofia-pro-condensed\", sans-serif;\n  font-size: 86px;\n  line-height: 1;\n  letter-spacing: .2em;\n}\n.svg-concept text[data-v-52585eb5] {\n  fill: rgba(255, 255, 255, 0);\n  stroke: #333;\n  stroke-width: .8;\n  stroke-linejoin: round;\n  font-family: \"sofia-pro-condensed\", sans-serif;\n  line-height: 1;\n}\n.tw-title[data-v-52585eb5] {\n  background: url(\"/icon/left_top.svg\") left top/10px 10px no-repeat, url(\"/icon/right_top.svg\") right top/10px 8px no-repeat, url(\"/icon/left_bottom.svg\") left bottom/10px 10px no-repeat, url(\"/icon/right_bottom.svg\") right bottom/10px 8px no-repeat, url(\"/icon/dot.png\") top left/6px 6px repeat;\n}\n.sub-title[data-v-52585eb5] {\n  position: absolute;\n  top: 30%;\n  left: 50%;\n  -webkit-transform: translateX(-50%);\n          transform: translateX(-50%);\n}\n", ""]);
 
 // exports
 
@@ -39899,12 +40097,501 @@ var render = function() {
         ])
       ]),
       _vm._v(" "),
+      _vm._m(0),
+      _vm._v(" "),
+      _vm._m(1),
+      _vm._v(" "),
+      _c("section", { staticClass: "lg:mb-24" }, [
+        _c("div", { staticClass: "max-w-1000 mx-auto" }, [
+          _c("div", { staticClass: "max-w-1000 mx-auto" }, [
+            _vm._m(2),
+            _vm._v(" "),
+            _vm._m(3),
+            _vm._v(" "),
+            _c(
+              "div",
+              { staticClass: "flex flex-wrap lg:mb-24" },
+              _vm._l(_vm.images, function(image) {
+                return _c("figure", { staticClass: "w-1/5 align-bottom p-2" }, [
+                  _c("img", { attrs: { src: image, alt: "instagram" } })
+                ])
+              }),
+              0
+            ),
+            _vm._v(" "),
+            _vm._m(4)
+          ])
+        ])
+      ]),
+      _vm._v(" "),
+      _c("section", { staticClass: "lg:mb-24" }, [
+        _c(
+          "div",
+          {
+            staticClass: "max-w-1200 border-b border-grey pb-4 tw-line relative"
+          },
+          [
+            _c("div", { staticClass: "max-w-600" }, [
+              _c("ul", { staticClass: "flex justify-center" }, [
+                _c(
+                  "li",
+                  [
+                    _c(
+                      "router-link",
+                      {
+                        staticClass:
+                          "text-xs tracking-wider leading-loose text-black pb-8 text-grey-darkest hover:text-grey-dark",
+                        attrs: { to: "/" }
+                      },
+                      [
+                        _vm._v(
+                          "\n                            HOME | \n                        "
+                        )
+                      ]
+                    )
+                  ],
+                  1
+                ),
+                _vm._v(" "),
+                _c(
+                  "li",
+                  [
+                    _c(
+                      "router-link",
+                      {
+                        staticClass:
+                          "text-xs tracking-wider leading-loose text-black pb-8 text-grey-darkest text-teal",
+                        attrs: { to: "/nail" }
+                      },
+                      [
+                        _vm._v(
+                          "\n                            NAIL\n                        "
+                        )
+                      ]
+                    )
+                  ],
+                  1
+                )
+              ])
+            ])
+          ]
+        )
+      ]),
+      _vm._v(" "),
       _c("reserve")
     ],
     1
   )
 }
-var staticRenderFns = []
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("section", { staticClass: "lg:mb-24" }, [
+      _c("div", { staticClass: "max-w-1000 mx-auto flex" }, [
+        _c("div", { staticClass: "lg:w-3/5 pl-8 pr-8" }, [
+          _c("div", { staticClass: "flex items-center p-4 tw-title mb-12" }, [
+            _c("span", { staticClass: "text-350 pl-4 pr-4" }, [_vm._v("01")]),
+            _vm._v(" "),
+            _c("h2", { staticClass: "leading-normal font-sans" }, [
+              _vm._v("\n                        手に入れるのは"),
+              _c("br"),
+              _vm._v(
+                "\n                        “しなやかな” 美しさ\n                    "
+              )
+            ])
+          ]),
+          _vm._v(" "),
+          _c("article", [
+            _c(
+              "h3",
+              {
+                staticClass:
+                  "text-teal tracking-wide leading-loose text-base pb-6"
+              },
+              [
+                _vm._v(
+                  "\n                        しぐさが変わって、もっと女性らしく。"
+                ),
+                _c("br"),
+                _vm._v(
+                  "\n                        あなたの印象を変えるのが“ネイル”。\n                    "
+                )
+              ]
+            ),
+            _vm._v(" "),
+            _c(
+              "p",
+              {
+                staticClass:
+                  "text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest"
+              },
+              [
+                _vm._v(
+                  "\n                        不思議なことに、ネイルをすることによって変わるのが、\n                        "
+                ),
+                _c("span", { staticClass: "tw-mask" }, [_vm._v("“しぐさ”")]),
+                _vm._v("です。"),
+                _c("br"),
+                _vm._v(
+                  "\n                        指先が彩られることによって、ちょっとした動き、そして雰囲気までしなやかになり、女性らしさが加わる。日々キレイにしておくことで、ひとつの動作が丁寧になる。気持ちがもっと華やかになり、背筋がぴんと伸びる。ネイルとは女性の印象をがらりと変えるものなのです。\n                    "
+                )
+              ]
+            )
+          ]),
+          _vm._v(" "),
+          _c("article", [
+            _c(
+              "h3",
+              {
+                staticClass:
+                  "text-teal tracking-wide leading-loose text-base pb-6"
+              },
+              [
+                _vm._v(
+                  "\n                        ひとりひとりの爪の形、肌の色に合わせた施術。"
+                ),
+                _c("br"),
+                _vm._v(
+                  "\n                        自然体の美しさで、日常生活を魅力的に。\n                    "
+                )
+              ]
+            ),
+            _vm._v(" "),
+            _c(
+              "p",
+              {
+                staticClass:
+                  "text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest"
+              },
+              [
+                _vm._v(
+                  "\n                        ネイルの色は組み合わせ次第で無限に作り出すことができます。そこにお客さまひとりひとりが持つ爪の長さ・短さや肌の色を鑑み、\n                        "
+                ),
+                _c("span", { staticClass: "tw-mask" }, [
+                  _vm._v(
+                    "女性が本来持っているかわいらしさや美しさを引き立てる表現"
+                  )
+                ]),
+                _vm._v(
+                  "\n                        を乗せていきます。\n                    "
+                )
+              ]
+            ),
+            _vm._v(" "),
+            _c(
+              "p",
+              {
+                staticClass:
+                  "text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest"
+              },
+              [
+                _vm._v(
+                  "\n                        NANAのネイルは、\n                        "
+                ),
+                _c("span", { staticClass: "tw-mask" }, [
+                  _vm._v("“愛されるネイル”")
+                ]),
+                _vm._v(
+                  "\n                        です。恋人に限らず、友人、家族、職場のみなさんに愛される。アートでデコラティブなだけではなく、シンプル、かつナチュラルで、美しい。ひとりひとりにふさわしい、\n                        "
+                ),
+                _c("span", { staticClass: "tw-mask" }, [
+                  _vm._v("“愛されるネイル”")
+                ]),
+                _vm._v(
+                  "\n                        を提供するのが、NANAのネイルです。\n                    "
+                )
+              ]
+            )
+          ])
+        ]),
+        _vm._v(" "),
+        _c("figure", { staticClass: "lg:w-2/5 p-8" }, [
+          _c("img", {
+            attrs: {
+              src: "/decoration/nail_1.jpg",
+              alt: "手に入れるのは“しなやかな” 美しさ"
+            }
+          })
+        ])
+      ])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("section", { staticClass: "lg:mb-24" }, [
+      _c("div", { staticClass: "max-w-1000 mx-auto flex" }, [
+        _c("figure", { staticClass: "lg:w-2/5 p-8" }, [
+          _c("img", {
+            attrs: {
+              src: "/decoration/nail_2.png",
+              alt: "大切な “美容デー” を充実させて“自分らしい美しさ” を纏う"
+            }
+          })
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "lg:w-3/5 pl-10 pr-10" }, [
+          _c("div", { staticClass: "flex items-center p-4 tw-title mb-12" }, [
+            _c("span", { staticClass: "text-350 pl-4 pr-4" }, [_vm._v("02")]),
+            _vm._v(" "),
+            _c("h2", { staticClass: "leading-normal font-sans" }, [
+              _vm._v("\n                        大切な“美容デー”を充実させて"),
+              _c("br"),
+              _vm._v(
+                "\n                        “自分らしい美しさ”を纏う\n                    "
+              )
+            ])
+          ]),
+          _vm._v(" "),
+          _c("article", [
+            _c(
+              "h3",
+              {
+                staticClass:
+                  "text-teal tracking-wide leading-loose text-base pb-6"
+              },
+              [
+                _vm._v(
+                  "\n                        ライフスタイル、爪のコンディション。"
+                ),
+                _c("br"),
+                _vm._v(
+                  "\n                        経験豊富なネイリストと、じっくり話し合う。\n                    "
+                )
+              ]
+            ),
+            _vm._v(" "),
+            _c(
+              "p",
+              {
+                staticClass:
+                  "text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest"
+              },
+              [
+                _vm._v(
+                  "\n                        NANAに所属しているネイリストは、経験豊富なJNAネイリスト技能検定1級取得者。そして、お客さまとのコミュニケーションをとても大切にしています。テレビやタブレット端末で映画などを見れるサロンが多い中、NANAでは\n                        "
+                ),
+                _c("span", { staticClass: "tw-mask" }, [
+                  _vm._v("静かでゆったりとした空間を提供しています。")
+                ])
+              ]
+            ),
+            _vm._v(" "),
+            _c(
+              "p",
+              {
+                staticClass:
+                  "text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest"
+              },
+              [
+                _vm._v(
+                  "\n                        特に初めてネイルをされる方は緊張もされているため、\n                        "
+                ),
+                _c("span", { staticClass: "tw-mask" }, [
+                  _vm._v("話しやすい雰囲気を作ること")
+                ]),
+                _vm._v(
+                  "\n                        はとても大切です。ライフスタイルはもちろんのこと、ご自身の爪の好きなところ、コンプレックスの部分、ご来店時の状態、今後のイベントなどの内容をお尋ねし、「こんなデザインはいかがですか？」とデザインを提案。ときには身近な方には打ち明けにくい話なども交えながら、じっくりとお客さまの心の声に耳を傾けながら施術を行います。\n                    "
+                )
+              ]
+            )
+          ]),
+          _vm._v(" "),
+          _c("article", [
+            _c(
+              "h3",
+              {
+                staticClass:
+                  "text-teal tracking-wide leading-loose text-base pb-6"
+              },
+              [
+                _vm._v(
+                  "\n                        多彩なカラー・パーツ、そしてスピーディな施術で、"
+                ),
+                _c("br"),
+                _vm._v(
+                  "\n                        みんなの「美しくなりたい」を叶える。\n                    "
+                )
+              ]
+            ),
+            _vm._v(" "),
+            _c(
+              "p",
+              {
+                staticClass:
+                  "text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest"
+              },
+              [
+                _vm._v(
+                  "\n                        一日の中でネイルやマツエク、美容室などをまたぐ“美容デー”を設けている方も多い中、\n                        "
+                ),
+                _c("span", { staticClass: "tw-mask" }, [
+                  _vm._v(
+                    "スピーディに上品で輝かしい仕上がりをご提供するのがNANAのネイル"
+                  )
+                ]),
+                _vm._v(
+                  "\n                        です。モチベーションをアップさせたい、爪の保護をしたい、指を長く見せたい……\n                        "
+                ),
+                _c("span", { staticClass: "tw-mask" }, [
+                  _vm._v(
+                    "すべて、お客さまの「自分らしく、美しくありたい」という気持ち"
+                  )
+                ]),
+                _vm._v(
+                  "\n                        から生まれる言葉です。\n                    "
+                )
+              ]
+            ),
+            _vm._v(" "),
+            _c(
+              "p",
+              {
+                staticClass:
+                  "text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest"
+              },
+              [
+                _vm._v(
+                  "\n                        NANAではカラー・パーツ、いずれも多数取り揃えています。「初心者だからどうしていいかわからない」「まったくデザインを考えていなかった」という方でも、どうぞ安心して来ていただきたいと思っています。\n                    "
+                )
+              ]
+            ),
+            _vm._v(" "),
+            _c(
+              "p",
+              {
+                staticClass:
+                  "text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest"
+              },
+              [
+                _vm._v(
+                  "\n                        ネイルは特別なものではありません。誰もが美しくなるために自然と身につけているものを、そっと引き立てるのがNANAのネイル。それがあなたをさらに“特別”にします。\n                    "
+                )
+              ]
+            ),
+            _vm._v(" "),
+            _c(
+              "p",
+              {
+                staticClass:
+                  "text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest"
+              },
+              [
+                _vm._v(
+                  "\n                        ぜひNANAのネイルで、\n                        "
+                ),
+                _c("span", { staticClass: "tw-mask" }, [
+                  _vm._v("あなただけの“色”を纏ってみませんか？")
+                ])
+              ]
+            )
+          ])
+        ])
+      ])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c(
+      "div",
+      { staticClass: "tw-title text-center relative lg:mb-16" },
+      [
+        _c(
+          "span",
+          { staticClass: "text-sm tracking-loose absolute sub-title" },
+          [_vm._v("INSTAGRAM")]
+        ),
+        _vm._v(" "),
+        _c(
+          "h2",
+          {
+            staticClass:
+              "leading-normal font-san tracking-wider text-sm p-8 pt-16"
+          },
+          [_vm._v("NANA COLLECTION")]
+        )
+      ]
+    )
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "text-center lg:mb-16" }, [
+      _vm._v("\n                    FOLLOW "),
+      _c("a", { attrs: { href: "/" } }, [_vm._v("@nana_nail_lisbon !")])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "flex lg:mb-16" }, [
+      _c("p", { staticClass: "lg:w-1/12 relative" }, [
+        _c(
+          "span",
+          {
+            staticClass:
+              "ref-title text-2xl tracking-loose leading-loose border-b-2 border-black"
+          },
+          [_vm._v("RESERVATION!")]
+        )
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "p-16 bg-teal-lightest lg:w-11/12" }, [
+        _c("div", { staticClass: "flex flex-wrap" }, [
+          _c(
+            "p",
+            {
+              staticClass:
+                "w-full text-center text-sm font-bold pt-8 leading-loose"
+            },
+            [
+              _vm._v("\n                                NAIL RESERVATION"),
+              _c("br"),
+              _vm._v(" "),
+              _c(
+                "span",
+                {
+                  staticClass:
+                    "tracking-wider text-black pb-8 text-grey-darker font-fotura font-normal text-xs"
+                },
+                [
+                  _vm._v(
+                    "\n                                    ( HOTPEPPER Beautyへリンクします )"
+                  )
+                ]
+              )
+            ]
+          ),
+          _vm._v(" "),
+          _c("div", { staticClass: "w-full flex justify-center" }, [
+            _c(
+              "a",
+              {
+                staticClass:
+                  "tw-btn inline-block h-50 leading-50 text-xs w-1/2 text-center hover:bg-yellow-lighter m-8",
+                attrs: {
+                  href: "https://beauty.hotpepper.jp/kr/slnH000248220/review/"
+                }
+              },
+              [
+                _vm._v(
+                  "\n                                    ネイルのご予約はこちら\n                                "
+                )
+              ]
+            )
+          ])
+        ])
+      ])
+    ])
+  }
+]
 render._withStripped = true
 
 
