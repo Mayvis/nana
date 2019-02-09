@@ -29,7 +29,7 @@
                 <a class="menu-list-item">NAIL</a>
             </router-link>
 
-            <router-link tag="li" to="/recruit" exact>
+            <router-link tag="li" to="/recruit">
                 <a class="menu-list-item">RECRUIT</a>
             </router-link>
         </ul>
