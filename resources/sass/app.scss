@@ -32,6 +32,14 @@ p, h1, h2, h3, h4, h5, h6 {
     display: none
 }
 
+.fade-enter-active, .fade-leave-active {
+    transition: opacity .5s;
+}
+
+.fade-enter, .fade-leave-to {
+    opacity: 0;
+}
+
 .menu {
     @apply border rounded-full relative cursor-pointer border-black bg-white fixed w-14 h-14;
     top: 60px;

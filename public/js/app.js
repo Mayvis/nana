@@ -3220,6 +3220,396 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 /* harmony default export */ __webpack_exports__["default"] = ({
   created: function created() {// axios
   }
@@ -3890,6 +4280,971 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
+/* harmony default export */ __webpack_exports__["default"] = ({
+  created: function created() {// axios
+  }
+});
+
+/***/ }),
+
+/***/ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/views/_RecruitDay.vue?vue&type=script&lang=js&":
+/*!*****************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib??ref--4-0!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/views/_RecruitDay.vue?vue&type=script&lang=js& ***!
+  \*****************************************************************************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+/* harmony default export */ __webpack_exports__["default"] = ({
+  created: function created() {// axios
+  }
+});
+
+/***/ }),
+
+/***/ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/views/_RecruitHire.vue?vue&type=script&lang=js&":
+/*!******************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib??ref--4-0!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/views/_RecruitHire.vue?vue&type=script&lang=js& ***!
+  \******************************************************************************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+/* harmony default export */ __webpack_exports__["default"] = ({
+  created: function created() {// axios
+  }
+});
+
+/***/ }),
+
+/***/ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/views/_RecruitStaff.vue?vue&type=script&lang=js&":
+/*!*******************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib??ref--4-0!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/views/_RecruitStaff.vue?vue&type=script&lang=js& ***!
+  \*******************************************************************************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 /* harmony default export */ __webpack_exports__["default"] = ({
   created: function created() {// axios
   }
@@ -4099,7 +5454,7 @@ exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loa
 
 
 // module
-exports.push([module.i, ".hero-concept[data-v-49a04c6f] {\n  background: url(\"/hero/hero_bg_concept.jpg\") center center/cover no-repeat;\n  height: 360px;\n  margin-top: -165px;\n}\n.svg-concept[data-v-49a04c6f] {\n  overflow: visible;\n  height: 86px;\n  margin-top: -30px;\n  font-family: \"sofia-pro-condensed\", sans-serif;\n  font-size: 86px;\n  line-height: 1;\n  letter-spacing: .2em;\n}\n.svg-concept text[data-v-49a04c6f] {\n  fill: rgba(255, 255, 255, 0);\n  stroke: #333;\n  stroke-width: .8;\n  stroke-linejoin: round;\n  font-family: \"sofia-pro-condensed\", sans-serif;\n  line-height: 1;\n}\n", ""]);
+exports.push([module.i, ".hero-concept[data-v-49a04c6f] {\n  background: url(\"/hero/hero_bg_concept.jpg\") center center/cover no-repeat;\n  height: 360px;\n  margin-top: -165px;\n}\n.svg-concept[data-v-49a04c6f] {\n  overflow: visible;\n  height: 86px;\n  margin-top: -30px;\n  font-family: \"sofia-pro-condensed\", sans-serif;\n  font-size: 86px;\n  line-height: 1;\n  letter-spacing: .2em;\n}\n.svg-concept text[data-v-49a04c6f] {\n  fill: rgba(255, 255, 255, 0);\n  stroke: #333;\n  stroke-width: .8;\n  stroke-linejoin: round;\n  font-family: \"sofia-pro-condensed\", sans-serif;\n  line-height: 1;\n}\n.is-exact-active[data-v-49a04c6f] {\n  background-color: #f9f9f9;\n}\n.text-teal.is-exact-active[data-v-49a04c6f] {\n  background: inherit;\n}\n.tw-recruit[data-v-49a04c6f] {\n  width: 50%;\n  padding: 2rem;\n  border-top-width: 1px;\n  border-color: #dae1e7;\n  margin-right: 1rem;\n  font-size: .875rem;\n  color: #3d4852;\n  position: relative;\n}\n.tw-recruit[data-v-49a04c6f]:after {\n  content: \"\";\n  position: absolute;\n  background: url(\"/icon/harpoon.png\") right center/12px 4px no-repeat;\n  width: 20px;\n  height: 4px;\n  right: 8px;\n  top: 50%;\n  -webkit-transform: translateY(-50%);\n          transform: translateY(-50%);\n}\n.tw-title[data-v-49a04c6f] {\n  background: url(\"/icon/left_top.svg\") left top/10px 10px no-repeat, url(\"/icon/right_top.svg\") right top/10px 8px no-repeat, url(\"/icon/left_bottom.svg\") left bottom/10px 10px no-repeat, url(\"/icon/right_bottom.svg\") right bottom/10px 8px no-repeat, url(\"/icon/dot.png\") top left/6px 6px repeat;\n}\n.tw-name[data-v-49a04c6f]:before {\n  content: \"(\";\n  position: absolute;\n  left: 0;\n}\n.tw-name[data-v-49a04c6f]:after {\n  content: \")\";\n  position: absolute;\n  right: 0;\n}\n", ""]);
 
 // exports
 
@@ -4138,6 +5493,63 @@ exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loa
 
 // module
 exports.push([module.i, ".hero-voice[data-v-3cb21ea3] {\n  background: url(\"/hero/hero_bg_voice.jpg\") center center/cover no-repeat;\n  height: 360px;\n  margin-top: -165px;\n}\n.svg-concept[data-v-3cb21ea3] {\n  overflow: visible;\n  height: 86px;\n  margin-top: -30px;\n  font-family: \"sofia-pro-condensed\", sans-serif;\n  font-size: 86px;\n  line-height: 1;\n  letter-spacing: .2em;\n}\n.svg-concept text[data-v-3cb21ea3] {\n  fill: rgba(255, 255, 255, 0);\n  stroke: #333;\n  stroke-width: .8;\n  stroke-linejoin: round;\n  font-family: \"sofia-pro-condensed\", sans-serif;\n  line-height: 1;\n}\n.sub-title[data-v-3cb21ea3] {\n  position: absolute;\n  top: 0;\n  left: 50%;\n  -webkit-transform: translate(-50%, -50%);\n          transform: translate(-50%, -50%);\n}\n.tw-title[data-v-3cb21ea3] {\n  background: url(/icon/left_top.svg) left top/10px 10px no-repeat, url(/icon/right_top.svg) right top/10px 8px no-repeat, url(/icon/left_bottom.svg) left bottom/10px 10px no-repeat, url(/icon/right_bottom.svg) right bottom/10px 8px no-repeat, url(/icon/dot.png) top left/6px 6px repeat;\n}\n.tw-name[data-v-3cb21ea3]:before {\n  content: \"(\";\n  position: absolute;\n  left: 0;\n}\n.tw-name[data-v-3cb21ea3]:after {\n  content: \")\";\n  position: absolute;\n  right: 0;\n}\n.ref-title[data-v-3cb21ea3] {\n  position: absolute;\n  top: 20px;\n  left: 0;\n}\n", ""]);
+
+// exports
+
+
+/***/ }),
+
+/***/ "./node_modules/css-loader/index.js!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/lib/loader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/views/_RecruitDay.vue?vue&type=style&index=0&id=2c7f068e&scoped=true&lang=scss&":
+/*!******************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src??ref--7-2!./node_modules/sass-loader/lib/loader.js??ref--7-3!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/views/_RecruitDay.vue?vue&type=style&index=0&id=2c7f068e&scoped=true&lang=scss& ***!
+  \******************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loader/lib/css-base.js */ "./node_modules/css-loader/lib/css-base.js")(false);
+// imports
+
+
+// module
+exports.push([module.i, ".hero-concept[data-v-2c7f068e] {\n  background: url(\"/hero/hero_bg_concept.jpg\") center center/cover no-repeat;\n  height: 360px;\n  margin-top: -165px;\n}\n.svg-concept[data-v-2c7f068e] {\n  overflow: visible;\n  height: 86px;\n  margin-top: -30px;\n  font-family: \"sofia-pro-condensed\", sans-serif;\n  font-size: 86px;\n  line-height: 1;\n  letter-spacing: .2em;\n}\n.svg-concept text[data-v-2c7f068e] {\n  fill: rgba(255, 255, 255, 0);\n  stroke: #333;\n  stroke-width: .8;\n  stroke-linejoin: round;\n  font-family: \"sofia-pro-condensed\", sans-serif;\n  line-height: 1;\n}\n.is-exact-active[data-v-2c7f068e] {\n  background-color: #f9f9f9;\n}\n.text-teal.is-exact-active[data-v-2c7f068e] {\n  background: inherit;\n}\n.tw-recruit[data-v-2c7f068e] {\n  width: 50%;\n  padding: 2rem;\n  border-top-width: 1px;\n  border-color: #dae1e7;\n  margin-right: 1rem;\n  font-size: .875rem;\n  color: #3d4852;\n  position: relative;\n}\n.tw-recruit[data-v-2c7f068e]:after {\n  content: \"\";\n  position: absolute;\n  background: url(\"/icon/harpoon.png\") right center/12px 4px no-repeat;\n  width: 20px;\n  height: 4px;\n  right: 8px;\n  top: 50%;\n  -webkit-transform: translateY(-50%);\n          transform: translateY(-50%);\n}\n.tw-title[data-v-2c7f068e] {\n  background: url(\"/icon/left_top.svg\") left top/10px 10px no-repeat, url(\"/icon/right_top.svg\") right top/10px 8px no-repeat, url(\"/icon/left_bottom.svg\") left bottom/10px 10px no-repeat, url(\"/icon/right_bottom.svg\") right bottom/10px 8px no-repeat, url(\"/icon/dot.png\") top left/6px 6px repeat;\n}\n.tw-name[data-v-2c7f068e]:before {\n  content: \"(\";\n  position: absolute;\n  left: 0;\n}\n.tw-name[data-v-2c7f068e]:after {\n  content: \")\";\n  position: absolute;\n  right: 0;\n}\n", ""]);
+
+// exports
+
+
+/***/ }),
+
+/***/ "./node_modules/css-loader/index.js!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/lib/loader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/views/_RecruitHire.vue?vue&type=style&index=0&id=bde6771c&scoped=true&lang=scss&":
+/*!*******************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src??ref--7-2!./node_modules/sass-loader/lib/loader.js??ref--7-3!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/views/_RecruitHire.vue?vue&type=style&index=0&id=bde6771c&scoped=true&lang=scss& ***!
+  \*******************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loader/lib/css-base.js */ "./node_modules/css-loader/lib/css-base.js")(false);
+// imports
+
+
+// module
+exports.push([module.i, ".hero-concept[data-v-bde6771c] {\n  background: url(\"/hero/hero_bg_concept.jpg\") center center/cover no-repeat;\n  height: 360px;\n  margin-top: -165px;\n}\n.svg-concept[data-v-bde6771c] {\n  overflow: visible;\n  height: 86px;\n  margin-top: -30px;\n  font-family: \"sofia-pro-condensed\", sans-serif;\n  font-size: 86px;\n  line-height: 1;\n  letter-spacing: .2em;\n}\n.svg-concept text[data-v-bde6771c] {\n  fill: rgba(255, 255, 255, 0);\n  stroke: #333;\n  stroke-width: .8;\n  stroke-linejoin: round;\n  font-family: \"sofia-pro-condensed\", sans-serif;\n  line-height: 1;\n}\n.is-exact-active[data-v-bde6771c] {\n  background-color: #f9f9f9;\n}\n.text-teal.is-exact-active[data-v-bde6771c] {\n  background: inherit;\n}\n.tw-recruit[data-v-bde6771c] {\n  width: 50%;\n  padding: 2rem;\n  border-top-width: 1px;\n  border-color: #dae1e7;\n  margin-right: 1rem;\n  font-size: .875rem;\n  color: #3d4852;\n  position: relative;\n}\n.tw-recruit[data-v-bde6771c]:after {\n  content: \"\";\n  position: absolute;\n  background: url(\"/icon/harpoon.png\") right center/12px 4px no-repeat;\n  width: 20px;\n  height: 4px;\n  right: 8px;\n  top: 50%;\n  -webkit-transform: translateY(-50%);\n          transform: translateY(-50%);\n}\n.tw-title[data-v-bde6771c] {\n  background: url(\"/icon/left_top.svg\") left top/10px 10px no-repeat, url(\"/icon/right_top.svg\") right top/10px 8px no-repeat, url(\"/icon/left_bottom.svg\") left bottom/10px 10px no-repeat, url(\"/icon/right_bottom.svg\") right bottom/10px 8px no-repeat, url(\"/icon/dot.png\") top left/6px 6px repeat;\n}\n.sub-title[data-v-bde6771c] {\n  position: absolute;\n  top: 30%;\n  left: 50%;\n  -webkit-transform: translateX(-50%);\n          transform: translateX(-50%);\n}\n.tw-table[data-v-bde6771c] {\n  font-size: .875rem;\n}\n.tw-table tr[data-v-bde6771c] {\n  border-bottom-width: 1px;\n  border-color: #dae1e7;\n  line-height: 1.5;\n  letter-spacing: .15em;\n}\n.tw-table tr[data-v-bde6771c]:first-child {\n  border-top-width: 1px;\n}\n.tw-table th[data-v-bde6771c] {\n  width: 40%;\n  letter-spacing: .2em;\n  padding-top: 1.5rem;\n  padding-bottom: 1.5rem;\n  font-weight: 300;\n}\n.tw-table td[data-v-bde6771c] {\n  width: 60%;\n  padding-top: 1.5rem;\n  padding-bottom: 1.5rem;\n  font-weight: 300;\n}\n.tw-name[data-v-bde6771c]:before {\n  content: \"(\";\n  position: absolute;\n  left: 0;\n}\n.tw-name[data-v-bde6771c]:after {\n  content: \")\";\n  position: absolute;\n  right: 0;\n}\n", ""]);
+
+// exports
+
+
+/***/ }),
+
+/***/ "./node_modules/css-loader/index.js!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/lib/loader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/views/_RecruitStaff.vue?vue&type=style&index=0&id=50ee555c&scoped=true&lang=scss&":
+/*!********************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src??ref--7-2!./node_modules/sass-loader/lib/loader.js??ref--7-3!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/views/_RecruitStaff.vue?vue&type=style&index=0&id=50ee555c&scoped=true&lang=scss& ***!
+  \********************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loader/lib/css-base.js */ "./node_modules/css-loader/lib/css-base.js")(false);
+// imports
+
+
+// module
+exports.push([module.i, ".hero-concept[data-v-50ee555c] {\n  background: url(\"/hero/hero_bg_concept.jpg\") center center/cover no-repeat;\n  height: 360px;\n  margin-top: -165px;\n}\n.svg-concept[data-v-50ee555c] {\n  overflow: visible;\n  height: 86px;\n  margin-top: -30px;\n  font-family: \"sofia-pro-condensed\", sans-serif;\n  font-size: 86px;\n  line-height: 1;\n  letter-spacing: .2em;\n}\n.svg-concept text[data-v-50ee555c] {\n  fill: rgba(255, 255, 255, 0);\n  stroke: #333;\n  stroke-width: .8;\n  stroke-linejoin: round;\n  font-family: \"sofia-pro-condensed\", sans-serif;\n  line-height: 1;\n}\n.is-exact-active[data-v-50ee555c] {\n  background-color: #f9f9f9;\n}\n.text-teal.is-exact-active[data-v-50ee555c] {\n  background: inherit;\n}\n.tw-recruit[data-v-50ee555c] {\n  width: 50%;\n  padding: 2rem;\n  border-top-width: 1px;\n  border-color: #dae1e7;\n  margin-right: 1rem;\n  font-size: .875rem;\n  color: #3d4852;\n  position: relative;\n}\n.tw-recruit[data-v-50ee555c]:after {\n  content: \"\";\n  position: absolute;\n  background: url(\"/icon/harpoon.png\") right center/12px 4px no-repeat;\n  width: 20px;\n  height: 4px;\n  right: 8px;\n  top: 50%;\n  -webkit-transform: translateY(-50%);\n          transform: translateY(-50%);\n}\n.tw-title[data-v-50ee555c] {\n  background: url(\"/icon/left_top.svg\") left top/10px 10px no-repeat, url(\"/icon/right_top.svg\") right top/10px 8px no-repeat, url(\"/icon/left_bottom.svg\") left bottom/10px 10px no-repeat, url(\"/icon/right_bottom.svg\") right bottom/10px 8px no-repeat, url(\"/icon/dot.png\") top left/6px 6px repeat;\n}\n.sub-title[data-v-50ee555c] {\n  position: absolute;\n  top: 30%;\n  left: 50%;\n  -webkit-transform: translateX(-50%);\n          transform: translateX(-50%);\n}\n.tw-bar[data-v-50ee555c]:after {\n  content: \"\";\n  position: absolute;\n  width: 20%;\n  height: 1px;\n  background-color: #000;\n  bottom: -100%;\n  left: 0;\n}\n.tw-name[data-v-50ee555c]:before {\n  content: \"(\";\n  position: absolute;\n  left: 0;\n}\n.tw-name[data-v-50ee555c]:after {\n  content: \")\";\n  position: absolute;\n  right: 0;\n}\n", ""]);
 
 // exports
 
@@ -36426,6 +37838,96 @@ if(false) {}
 
 /***/ }),
 
+/***/ "./node_modules/style-loader/index.js!./node_modules/css-loader/index.js!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/lib/loader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/views/_RecruitDay.vue?vue&type=style&index=0&id=2c7f068e&scoped=true&lang=scss&":
+/*!**********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/style-loader!./node_modules/css-loader!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src??ref--7-2!./node_modules/sass-loader/lib/loader.js??ref--7-3!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/views/_RecruitDay.vue?vue&type=style&index=0&id=2c7f068e&scoped=true&lang=scss& ***!
+  \**********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+
+var content = __webpack_require__(/*! !../../../node_modules/css-loader!../../../node_modules/vue-loader/lib/loaders/stylePostLoader.js!../../../node_modules/postcss-loader/src??ref--7-2!../../../node_modules/sass-loader/lib/loader.js??ref--7-3!../../../node_modules/vue-loader/lib??vue-loader-options!./_RecruitDay.vue?vue&type=style&index=0&id=2c7f068e&scoped=true&lang=scss& */ "./node_modules/css-loader/index.js!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/lib/loader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/views/_RecruitDay.vue?vue&type=style&index=0&id=2c7f068e&scoped=true&lang=scss&");
+
+if(typeof content === 'string') content = [[module.i, content, '']];
+
+var transform;
+var insertInto;
+
+
+
+var options = {"hmr":true}
+
+options.transform = transform
+options.insertInto = undefined;
+
+var update = __webpack_require__(/*! ../../../node_modules/style-loader/lib/addStyles.js */ "./node_modules/style-loader/lib/addStyles.js")(content, options);
+
+if(content.locals) module.exports = content.locals;
+
+if(false) {}
+
+/***/ }),
+
+/***/ "./node_modules/style-loader/index.js!./node_modules/css-loader/index.js!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/lib/loader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/views/_RecruitHire.vue?vue&type=style&index=0&id=bde6771c&scoped=true&lang=scss&":
+/*!***********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/style-loader!./node_modules/css-loader!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src??ref--7-2!./node_modules/sass-loader/lib/loader.js??ref--7-3!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/views/_RecruitHire.vue?vue&type=style&index=0&id=bde6771c&scoped=true&lang=scss& ***!
+  \***********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+
+var content = __webpack_require__(/*! !../../../node_modules/css-loader!../../../node_modules/vue-loader/lib/loaders/stylePostLoader.js!../../../node_modules/postcss-loader/src??ref--7-2!../../../node_modules/sass-loader/lib/loader.js??ref--7-3!../../../node_modules/vue-loader/lib??vue-loader-options!./_RecruitHire.vue?vue&type=style&index=0&id=bde6771c&scoped=true&lang=scss& */ "./node_modules/css-loader/index.js!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/lib/loader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/views/_RecruitHire.vue?vue&type=style&index=0&id=bde6771c&scoped=true&lang=scss&");
+
+if(typeof content === 'string') content = [[module.i, content, '']];
+
+var transform;
+var insertInto;
+
+
+
+var options = {"hmr":true}
+
+options.transform = transform
+options.insertInto = undefined;
+
+var update = __webpack_require__(/*! ../../../node_modules/style-loader/lib/addStyles.js */ "./node_modules/style-loader/lib/addStyles.js")(content, options);
+
+if(content.locals) module.exports = content.locals;
+
+if(false) {}
+
+/***/ }),
+
+/***/ "./node_modules/style-loader/index.js!./node_modules/css-loader/index.js!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/lib/loader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/views/_RecruitStaff.vue?vue&type=style&index=0&id=50ee555c&scoped=true&lang=scss&":
+/*!************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/style-loader!./node_modules/css-loader!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src??ref--7-2!./node_modules/sass-loader/lib/loader.js??ref--7-3!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/views/_RecruitStaff.vue?vue&type=style&index=0&id=50ee555c&scoped=true&lang=scss& ***!
+  \************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+
+var content = __webpack_require__(/*! !../../../node_modules/css-loader!../../../node_modules/vue-loader/lib/loaders/stylePostLoader.js!../../../node_modules/postcss-loader/src??ref--7-2!../../../node_modules/sass-loader/lib/loader.js??ref--7-3!../../../node_modules/vue-loader/lib??vue-loader-options!./_RecruitStaff.vue?vue&type=style&index=0&id=50ee555c&scoped=true&lang=scss& */ "./node_modules/css-loader/index.js!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/lib/loader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/views/_RecruitStaff.vue?vue&type=style&index=0&id=50ee555c&scoped=true&lang=scss&");
+
+if(typeof content === 'string') content = [[module.i, content, '']];
+
+var transform;
+var insertInto;
+
+
+
+var options = {"hmr":true}
+
+options.transform = transform
+options.insertInto = undefined;
+
+var update = __webpack_require__(/*! ../../../node_modules/style-loader/lib/addStyles.js */ "./node_modules/style-loader/lib/addStyles.js")(content, options);
+
+if(content.locals) module.exports = content.locals;
+
+if(false) {}
+
+/***/ }),
+
 /***/ "./node_modules/style-loader/lib/addStyles.js":
 /*!****************************************************!*\
   !*** ./node_modules/style-loader/lib/addStyles.js ***!
@@ -37943,11 +39445,9 @@ var render = function() {
             _c("a", { staticClass: "menu-list-item" }, [_vm._v("NAIL")])
           ]),
           _vm._v(" "),
-          _c(
-            "router-link",
-            { attrs: { tag: "li", to: "/recruit", exact: "" } },
-            [_c("a", { staticClass: "menu-list-item" }, [_vm._v("RECRUIT")])]
-          )
+          _c("router-link", { attrs: { tag: "li", to: "/recruit" } }, [
+            _c("a", { staticClass: "menu-list-item" }, [_vm._v("RECRUIT")])
+          ])
         ],
         1
       ),
@@ -40646,14 +42146,1067 @@ var render = function() {
         ])
       ]),
       _vm._v(" "),
-      _c("section"),
+      _c(
+        "section",
+        {
+          staticClass: "lg:mb-24 flex flex-col items-center max-w-1000 mx-auto"
+        },
+        [
+          _c(
+            "div",
+            { staticClass: "w-3/5 flex" },
+            [
+              _c(
+                "router-link",
+                {
+                  staticClass: "tw-recruit hover:bg-grey-lighter",
+                  attrs: { tag: "a", to: "/recruit" }
+                },
+                [_vm._v("\n                NANAでの働きがい\n            ")]
+              ),
+              _vm._v(" "),
+              _c(
+                "router-link",
+                {
+                  staticClass: "tw-recruit hover:bg-grey-lighter",
+                  attrs: { tag: "a", to: "/recruit/staff" }
+                },
+                [_vm._v("\n                先輩スタッフの声\n            ")]
+              )
+            ],
+            1
+          ),
+          _vm._v(" "),
+          _c(
+            "div",
+            { staticClass: "w-3/5 flex" },
+            [
+              _c(
+                "router-link",
+                {
+                  staticClass: "tw-recruit hover:bg-grey-lighter border-b",
+                  attrs: { tag: "a", to: "/recruit/day" }
+                },
+                [_vm._v("\n                スタッフの１日\n            ")]
+              ),
+              _vm._v(" "),
+              _c(
+                "router-link",
+                {
+                  staticClass: "tw-recruit hover:bg-grey-lighter border-b",
+                  attrs: { tag: "a", to: "/recruit/hire" }
+                },
+                [_vm._v("\n                募集要項\n            ")]
+              )
+            ],
+            1
+          )
+        ]
+      ),
+      _vm._v(" "),
+      _vm._m(0),
+      _vm._v(" "),
+      _vm._m(1),
+      _vm._v(" "),
+      _vm._m(2),
+      _vm._v(" "),
+      _vm._m(3),
+      _vm._v(" "),
+      _c("section", { staticClass: "lg:mb-24 mx-auto max-w-1000" }, [
+        _c("div", { staticClass: "flex" }, [
+          _vm._m(4),
+          _vm._v(" "),
+          _c("div", { staticClass: "p-16 bg-grey-lighter lg:w-11/12" }, [
+            _c("div", { staticClass: "flex" }, [
+              _c(
+                "div",
+                { staticClass: "lg:w-1/3 flex flex-col p-4" },
+                [
+                  _vm._m(5),
+                  _vm._v(" "),
+                  _c(
+                    "router-link",
+                    {
+                      staticClass:
+                        "tw-btn w-full h-50 leading-50 text-xs text-center hover:bg-yellow-lighter",
+                      attrs: { tag: "a", to: "/salon" }
+                    },
+                    [
+                      _vm._v(
+                        "\n                            MILANO\n                        "
+                      )
+                    ]
+                  )
+                ],
+                1
+              ),
+              _vm._v(" "),
+              _c(
+                "div",
+                { staticClass: "lg:w-1/3 flex flex-col p-4" },
+                [
+                  _vm._m(6),
+                  _vm._v(" "),
+                  _c(
+                    "router-link",
+                    {
+                      staticClass:
+                        "tw-btn w-full h-50 leading-50 text-xs text-center hover:bg-yellow-lighter",
+                      attrs: { tag: "a", to: "/salon" }
+                    },
+                    [
+                      _vm._v(
+                        "\n                            La Rochelle\n                        "
+                      )
+                    ]
+                  )
+                ],
+                1
+              ),
+              _vm._v(" "),
+              _c(
+                "div",
+                { staticClass: "lg:w-1/3 flex flex-col p-4" },
+                [
+                  _vm._m(7),
+                  _vm._v(" "),
+                  _c(
+                    "router-link",
+                    {
+                      staticClass:
+                        "tw-btn w-full h-50 leading-50 text-xs text-center hover:bg-yellow-lighter",
+                      attrs: { tag: "a", to: "/salon" }
+                    },
+                    [
+                      _vm._v(
+                        "\n                            LISBON\n                        "
+                      )
+                    ]
+                  )
+                ],
+                1
+              )
+            ])
+          ])
+        ])
+      ]),
+      _vm._v(" "),
+      _vm._m(8),
+      _vm._v(" "),
+      _vm._m(9),
+      _vm._v(" "),
+      _c(
+        "section",
+        {
+          staticClass: "lg:mb-24 flex flex-col items-center max-w-1000 mx-auto"
+        },
+        [
+          _c(
+            "div",
+            { staticClass: "w-3/5 flex" },
+            [
+              _c(
+                "router-link",
+                {
+                  staticClass: "tw-recruit hover:bg-grey-lighter",
+                  attrs: { tag: "a", to: "/recruit" }
+                },
+                [_vm._v("\n                NANAでの働きがい\n            ")]
+              ),
+              _vm._v(" "),
+              _c(
+                "router-link",
+                {
+                  staticClass: "tw-recruit hover:bg-grey-lighter",
+                  attrs: { tag: "a", to: "/recruit/staff" }
+                },
+                [_vm._v("\n                先輩スタッフの声\n            ")]
+              )
+            ],
+            1
+          ),
+          _vm._v(" "),
+          _c(
+            "div",
+            { staticClass: "w-3/5 flex" },
+            [
+              _c(
+                "router-link",
+                {
+                  staticClass: "tw-recruit hover:bg-grey-lighter border-b",
+                  attrs: { tag: "a", to: "/recruit/day" }
+                },
+                [_vm._v("\n                スタッフの１日\n            ")]
+              ),
+              _vm._v(" "),
+              _c(
+                "router-link",
+                {
+                  staticClass: "tw-recruit hover:bg-grey-lighter border-b",
+                  attrs: { tag: "a", to: "/recruit/hire" }
+                },
+                [_vm._v("\n                募集要項\n            ")]
+              )
+            ],
+            1
+          )
+        ]
+      ),
+      _vm._v(" "),
+      _c("section", { staticClass: "lg:mb-24" }, [
+        _c(
+          "div",
+          {
+            staticClass: "max-w-1200 border-b border-grey pb-4 tw-line relative"
+          },
+          [
+            _c("div", { staticClass: "max-w-600" }, [
+              _c("ul", { staticClass: "flex justify-center" }, [
+                _c(
+                  "li",
+                  [
+                    _c(
+                      "router-link",
+                      {
+                        staticClass:
+                          "text-xs tracking-wider leading-loose text-grey-darkest hover:text-grey-dark",
+                        attrs: { to: "/" }
+                      },
+                      [
+                        _vm._v(
+                          "\n                            HOME | \n                        "
+                        )
+                      ]
+                    )
+                  ],
+                  1
+                ),
+                _vm._v(" "),
+                _c(
+                  "li",
+                  {
+                    staticClass:
+                      "text-xs tracking-wider leading-loose text-grey-darkest"
+                  },
+                  [
+                    _vm._v(
+                      "\n                        RECRUIT | \n                    "
+                    )
+                  ]
+                ),
+                _vm._v(" "),
+                _c(
+                  "li",
+                  [
+                    _c(
+                      "router-link",
+                      {
+                        staticClass:
+                          "text-xs tracking-wider leading-loose pb-8 text-teal",
+                        attrs: { to: "/recruit" }
+                      },
+                      [
+                        _vm._v(
+                          "\n                            NANAでの働きがい\n                        "
+                        )
+                      ]
+                    )
+                  ],
+                  1
+                )
+              ])
+            ])
+          ]
+        )
+      ]),
       _vm._v(" "),
       _c("reserve")
     ],
     1
   )
 }
-var staticRenderFns = []
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("section", { staticClass: "lg:mb-24" }, [
+      _c("div", { staticClass: "max-w-1000 mx-auto flex" }, [
+        _c("div", { staticClass: "lg:w-2/3 pl-8 pr-8" }, [
+          _c("div", { staticClass: "flex items-center p-4 tw-title mb-12" }, [
+            _c("span", { staticClass: "text-350 pl-4 pr-4" }, [_vm._v("01")]),
+            _vm._v(" "),
+            _c("h2", { staticClass: "leading-normal font-sans" }, [
+              _vm._v("\n                        全員が正社員雇用。"),
+              _c("br"),
+              _vm._v(
+                "\n                        それぞれの個性で “お客さまを美しく”\n                    "
+              )
+            ])
+          ]),
+          _vm._v(" "),
+          _c("article", [
+            _c(
+              "h3",
+              {
+                staticClass:
+                  "text-teal tracking-wide leading-loose text-base pb-6"
+              },
+              [
+                _vm._v("\n                        未経験者も正社員採用。"),
+                _c("br"),
+                _vm._v(
+                  "\n                        個々の意見を大切にし、スタッフの権利をしっかり守る。\n                    "
+                )
+              ]
+            ),
+            _vm._v(" "),
+            _c(
+              "p",
+              {
+                staticClass:
+                  "text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest"
+              },
+              [
+                _vm._v(
+                  "\n                        NANAでは未経験者であっても\n                        "
+                ),
+                _c("span", { staticClass: "tw-mask" }, [
+                  _vm._v("全員が正社員として採用")
+                ]),
+                _vm._v(
+                  "\n                        されます。入社半年後には社会保険・雇用保険などには無条件で加入。スタッフの権利をしっかり守ります。\n                    "
+                )
+              ]
+            ),
+            _vm._v(" "),
+            _c(
+              "p",
+              {
+                staticClass:
+                  "text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest"
+              },
+              [
+                _vm._v(
+                  "\n                        NANAには中間管理職がありません。思ったことは先輩後輩に関係なく、フランクに言い合える仲という点もポイントです。社長にも意見が通りやすく、対応もスピーディー。\n                        "
+                ),
+                _c("span", { staticClass: "tw-mask" }, [
+                  _vm._v("社員の意見を大切に")
+                ]),
+                _vm._v(
+                  "\n                        してくれるのが実感できるため、\n                        "
+                ),
+                _c("span", { staticClass: "tw-mask" }, [
+                  _vm._v("離職率が低い")
+                ]),
+                _vm._v(
+                  "\n                        ことも魅力です。\n                    "
+                )
+              ]
+            )
+          ]),
+          _vm._v(" "),
+          _c("article", [
+            _c(
+              "h3",
+              {
+                staticClass:
+                  "text-teal tracking-wide leading-loose text-base pb-6"
+              },
+              [
+                _vm._v(
+                  "\n                        施術だけではなく、“美容にかかわることすべて”が仕事。"
+                ),
+                _c("br"),
+                _vm._v(
+                  "\n                        総合職だから得られる成長。\n                    "
+                )
+              ]
+            ),
+            _vm._v(" "),
+            _c(
+              "p",
+              {
+                staticClass:
+                  "text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest"
+              },
+              [
+                _vm._v(
+                  "\n                        また、スタッフは\n                        "
+                ),
+                _c("span", { staticClass: "tw-mask" }, [
+                  _vm._v("全員が総合職での採用")
+                ]),
+                _vm._v(
+                  "\n                        です。美容業である以上、美容に関することは何でもやります。そのため、仕事内容は施術だけではありません。ブログ更新といった広告、新しい商品の開発など、幅広い業務に携わることで、\n                        "
+                ),
+                _c("span", { staticClass: "tw-mask" }, [
+                  _vm._v("自分自身の成長、会社の成長を感じる")
+                ]),
+                _vm._v(
+                  "\n                        ことができます。\n                    "
+                )
+              ]
+            )
+          ])
+        ]),
+        _vm._v(" "),
+        _c("figure", { staticClass: "lg:w-1/3 p-8" }, [
+          _c("img", {
+            attrs: {
+              src: "/decoration/recruit/recruit_1.jpg",
+              alt: "全員が正社員雇用。それぞれの個性で “お客さまを美しく”"
+            }
+          })
+        ])
+      ])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("section", { staticClass: "lg:mb-24" }, [
+      _c("div", { staticClass: "max-w-1000 mx-auto flex" }, [
+        _c("figure", { staticClass: "lg:w-2/5 p-8" }, [
+          _c("img", {
+            attrs: {
+              src: "/decoration/recruit/recruit_2.jpg",
+              alt: "未経験者大歓迎！NANAでは未経験者を積極採用しています"
+            }
+          })
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "lg:w-3/5 pl-10 pr-10" }, [
+          _c("div", { staticClass: "flex items-center p-4 tw-title mb-12" }, [
+            _c("span", { staticClass: "text-350 pl-4 pr-4" }, [_vm._v("02")]),
+            _vm._v(" "),
+            _c("h2", { staticClass: "leading-normal font-sans" }, [
+              _vm._v("\n                        未経験者大歓迎！NANAでは"),
+              _c("br"),
+              _vm._v(
+                "\n                        未経験者を積極採用しています\n                    "
+              )
+            ])
+          ]),
+          _vm._v(" "),
+          _c("article", [
+            _c(
+              "h3",
+              {
+                staticClass:
+                  "text-teal tracking-wide leading-loose text-base pb-6"
+              },
+              [
+                _vm._v(
+                  "\n                        「人は、人を育てる時に成長する」。"
+                ),
+                _c("br"),
+                _vm._v(
+                  "\n                        未経験者採用は、成長のチャンス。\n                    "
+                )
+              ]
+            ),
+            _vm._v(" "),
+            _c(
+              "p",
+              {
+                staticClass:
+                  "text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest"
+              },
+              [
+                _vm._v(
+                  "\n                        スタッフの多くは未経験者です。「時間やお金をかけて未経験者をイチから育てるよりもすぐに入客できる経験者を採用するほうがラクなのでは？」と考える方もいらっしゃるでしょう。ではなぜ、NANAは積極的に未経験者を採用するのでしょうか？\n                    "
+                )
+              ]
+            ),
+            _vm._v(" "),
+            _c(
+              "p",
+              {
+                staticClass:
+                  "text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest"
+              },
+              [
+                _c("span", { staticClass: "tw-mask" }, [
+                  _vm._v("人は人を育てる時に成長")
+                ]),
+                _vm._v(
+                  "\n                        します。未経験者をゼロから教えることで、既存スタッフがみずから成長する。そのチャンスになるから、NANAでは未経験者を歓迎しています。\n                    "
+                )
+              ]
+            ),
+            _vm._v(" "),
+            _c(
+              "p",
+              {
+                staticClass:
+                  "text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest"
+              },
+              [
+                _c("span", { staticClass: "tw-mask" }, [
+                  _vm._v("研修期間は6ヶ月から10ヶ月ほどまでしっかりと実施。")
+                ]),
+                _vm._v(
+                  "\n                        経験者でも1ヶ月ほどの研修期間を設けることで、経験者・未経験者の差をなくし、\n                        "
+                ),
+                _c("span", { staticClass: "tw-mask" }, [
+                  _vm._v("どのスタッフでもお客さまに満足いただける環境")
+                ]),
+                _vm._v(
+                  "\n                        を作っています。\n                    "
+                )
+              ]
+            )
+          ]),
+          _vm._v(" "),
+          _c("article", [
+            _c(
+              "h3",
+              {
+                staticClass:
+                  "text-teal tracking-wide leading-loose text-base pb-6"
+              },
+              [
+                _vm._v("\n                        前期の先輩が“先生”。"),
+                _c("br"),
+                _vm._v(
+                  "\n                        なんでも相談できるから、どんどん成長できる。\n                    "
+                )
+              ]
+            ),
+            _vm._v(" "),
+            _c(
+              "p",
+              {
+                staticClass:
+                  "text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest"
+              },
+              [
+                _vm._v(
+                  "\n                        研修の最大の特徴は、前期の先輩が教える点。歴がさほど離れていないため、なんでも相談しやすい空気を作ってくれます。複数人から指導を受けられる点も魅力のひとつ。先輩それぞれの個性を活かした手法をじかに学べるため、自分自身の引き出しが増えます。\n                    "
+                )
+              ]
+            ),
+            _vm._v(" "),
+            _c(
+              "p",
+              {
+                staticClass:
+                  "text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest"
+              },
+              [
+                _vm._v(
+                  "\n                        また\n                        "
+                ),
+                _c("span", { staticClass: "tw-mask" }, [
+                  _vm._v("NANAは、福岡ナンバーワンのマツエクサロン")
+                ]),
+                _vm._v(
+                  "\n                        。実際に入社しても担当人数は先輩たちと変わりません。スタッフ全員でバランスよくお客さまを担当するため、たくさんのお客さまと接することができ、どんどんレベルアップが図れます！\n                        そうして今度は自分が教える立場になり、後輩を育てることでさらに学び・気づきを得ます。\n                    "
+                )
+              ]
+            )
+          ])
+        ])
+      ])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("section", { staticClass: "lg:mb-24" }, [
+      _c("div", { staticClass: "max-w-1000 mx-auto flex" }, [
+        _c("div", { staticClass: "lg:w-2/3 pl-8 pr-8" }, [
+          _c("div", { staticClass: "flex items-center p-4 tw-title mb-12" }, [
+            _c("span", { staticClass: "text-350 pl-4 pr-4" }, [_vm._v("03")]),
+            _vm._v(" "),
+            _c("h2", { staticClass: "leading-normal font-sans" }, [
+              _vm._v("\n                        サービス残業なしで、"),
+              _c("br"),
+              _vm._v("\n                        さらにお弁当も？！"),
+              _c("br"),
+              _vm._v(
+                "\n                        充実の待遇です\n                    "
+              )
+            ])
+          ]),
+          _vm._v(" "),
+          _c("article", [
+            _c(
+              "h3",
+              {
+                staticClass:
+                  "text-teal tracking-wide leading-loose text-base pb-6"
+              },
+              [
+                _vm._v(
+                  "\n                        サービス残業・終礼なし。日祝日の休みもOK。"
+                ),
+                _c("br"),
+                _vm._v(
+                  "\n                        プライベートは思いっきり楽しむ。\n                    "
+                )
+              ]
+            ),
+            _vm._v(" "),
+            _c(
+              "p",
+              {
+                staticClass:
+                  "text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest"
+              },
+              [
+                _vm._v(
+                  "\n                        勤務時間は\n                        "
+                ),
+                _c("span", { staticClass: "tw-mask" }, [
+                  _vm._v("9:30から20:00まで")
+                ]),
+                _vm._v(
+                  "\n                        と決まっており、サービス残業、終礼、夜間ミーティングなどはありません！　西通りに3店舗あるため、どの店にも通いやすい点もポイントです。日・祝日の休み希望もOKで、夏休みは4日、冬休みは5日。年に2回お店を閉め、\n                        "
+                ),
+                _c("span", { staticClass: "tw-mask" }, [
+                  _vm._v(
+                    "みんなでしっかりと休みを取り、プライベートも思いっきり楽しんでいます。"
+                  )
+                ])
+              ]
+            )
+          ]),
+          _vm._v(" "),
+          _c("article", [
+            _c(
+              "h3",
+              {
+                staticClass:
+                  "text-teal tracking-wide leading-loose text-base pb-6"
+              },
+              [
+                _vm._v(
+                  "\n                        スタッフ同士のマツエク・ネイルの施術OK。"
+                ),
+                _c("br"),
+                _vm._v(
+                  "\n                        自分磨きが会社の成長につながる。\n                    "
+                )
+              ]
+            ),
+            _vm._v(" "),
+            _c(
+              "p",
+              {
+                staticClass:
+                  "text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest"
+              },
+              [
+                _vm._v(
+                  "\n                        また、スタッフ同士でのマツエクの施術や、社員価格でのネイルもOK。\n                        "
+                ),
+                _c("span", { staticClass: "tw-mask" }, [
+                  _vm._v(
+                    "自分磨きこそ、会社の成長、そしてお客さまの満足に繋がります。"
+                  )
+                ]),
+                _vm._v(
+                  "\n                        スタッフひとりひとりがキレイであること、仕事だけではなくプライベートも充実させることを、NANAでは大切にしています。\n                    "
+                )
+              ]
+            ),
+            _vm._v(" "),
+            _c(
+              "p",
+              {
+                staticClass:
+                  "text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest"
+              },
+              [
+                _vm._v(
+                  "\n                        さらに美容業界ではよくある「歩合制」ですが、NANAではこれを採用していません。未経験者は研修中であっても18万円＋交通費5千円を支給（経験者は19万円から）。賞与は年4回、社員旅行あり、制服貸与と\n                        "
+                ),
+                _c("span", { staticClass: "tw-mask" }, [_vm._v("充実の待遇")]),
+                _vm._v("\n                        です。\n                    ")
+              ]
+            )
+          ])
+        ]),
+        _vm._v(" "),
+        _c("figure", { staticClass: "lg:w-1/3 p-8" }, [
+          _c("img", {
+            attrs: {
+              src: "/decoration/recruit/recruit_3.jpg",
+              alt: "サービス残業なしで、さらにお弁当も？！充実の待遇です"
+            }
+          })
+        ])
+      ])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("section", { staticClass: "lg:mb-24" }, [
+      _c("div", { staticClass: "max-w-1000 mx-auto flex" }, [
+        _c("figure", { staticClass: "lg:w-2/5 p-8" }, [
+          _c("img", {
+            attrs: {
+              src: "/decoration/recruit/recruit_4.jpg",
+              alt:
+                "「自分がされてイヤなことはしない」。お客さまに伝わる “思いやり”"
+            }
+          })
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "lg:w-3/5 pl-10 pr-10" }, [
+          _c("div", { staticClass: "flex items-center p-4 tw-title mb-12" }, [
+            _c("span", { staticClass: "text-350 pl-4 pr-4" }, [_vm._v("04")]),
+            _vm._v(" "),
+            _c("h2", { staticClass: "leading-normal font-sans" }, [
+              _vm._v(
+                "\n                        「自分がされてイヤなことはしない」。"
+              ),
+              _c("br"),
+              _vm._v(
+                "\n                        お客さまに伝わる “思いやり”\n                    "
+              )
+            ])
+          ]),
+          _vm._v(" "),
+          _c("article", [
+            _c(
+              "h3",
+              {
+                staticClass:
+                  "text-teal tracking-wide leading-loose text-base pb-6"
+              },
+              [
+                _vm._v(
+                  "\n                        スタッフの満足＝お客さまの満足。"
+                ),
+                _c("br"),
+                _vm._v(
+                  "\n                        スタッフに優しい会社であることを大切に。\n                    "
+                )
+              ]
+            ),
+            _vm._v(" "),
+            _c(
+              "p",
+              {
+                staticClass:
+                  "text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest"
+              },
+              [
+                _c("span", { staticClass: "tw-mask" }, [
+                  _vm._v(
+                    "「お客さまの満足を最大化するためには、スタッフの満足を最大化する」"
+                  )
+                ]),
+                _vm._v(
+                  "\n                        がNANAのモットー。そもそも会社や上司から優しくされていないスタッフが、お客さまや後輩に優しく接することはできません。\n                    "
+                )
+              ]
+            )
+          ]),
+          _vm._v(" "),
+          _c("article", [
+            _c(
+              "h3",
+              {
+                staticClass:
+                  "text-teal tracking-wide leading-loose text-base pb-6"
+              },
+              [
+                _vm._v(
+                  "\n                        居心地の良さの秘訣は“人間関係”。"
+                ),
+                _c("br"),
+                _vm._v(
+                  "\n                        自発的な行動と思いやりが、いい会社をつくる。\n                    "
+                )
+              ]
+            ),
+            _vm._v(" "),
+            _c(
+              "p",
+              {
+                staticClass:
+                  "text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest"
+              },
+              [
+                _vm._v(
+                  "\n                        スタッフが口をそろえて言うのは、「\n                        "
+                ),
+                _c("span", { staticClass: "tw-mask" }, [
+                  _vm._v("NANAはスタッフの人間関係がとてもいい")
+                ]),
+                _vm._v(
+                  "\n                        」ということ。「\n                        "
+                ),
+                _c("span", { staticClass: "tw-mask" }, [
+                  _vm._v("自分がされてイヤなことはしない")
+                ]),
+                _vm._v(
+                  "\n                        」という意識があり、みんなが自然と問題点や改善点を相談する関係ができています。その関係性はいつしかお客さまへも反映されており、「居心地が良い」というお客さまからいただく言葉がその表れでしょう。\n                    "
+                )
+              ]
+            ),
+            _vm._v(" "),
+            _c(
+              "p",
+              {
+                staticClass:
+                  "text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest"
+              },
+              [
+                _vm._v(
+                  "\n                        スタッフひとりひとりの\n                        "
+                ),
+                _c("span", { staticClass: "tw-mask" }, [_vm._v("個性を大切")]),
+                _vm._v(
+                  "\n                        にする。スタッフ全員が常に考え、自発的に行動する。NANAを形作っているのは、\n                        "
+                ),
+                _c("span", { staticClass: "tw-mask" }, [
+                  _vm._v("ひとりひとりの“思いやり”")
+                ]),
+                _vm._v("\n                        です。\n                    ")
+              ]
+            )
+          ])
+        ])
+      ])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("p", { staticClass: "lg:w-1/12 relative" }, [
+      _c(
+        "span",
+        { staticClass: "ref-title text-2xl tracking-loose leading-loose" },
+        [_vm._v("SALON&STAFF")]
+      )
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("figure", { staticClass: "pb-4" }, [
+      _c("img", { attrs: { src: "/store/milano_2.jpg", alt: "MILANO" } })
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("figure", { staticClass: "pb-4" }, [
+      _c("img", { attrs: { src: "/store/La_Rochelle_2.jpg", alt: "MILANO" } })
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("figure", { staticClass: "pb-4" }, [
+      _c("img", { attrs: { src: "/store/LISBON_2.jpg", alt: "LISBON" } })
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("section", { staticClass: "lg:mb-24 mx-auto max-w-1000" }, [
+      _c("div", { staticClass: "flex" }, [
+        _c("p", { staticClass: "lg:w-1/12 relative" }, [
+          _c(
+            "span",
+            { staticClass: "ref-title text-2xl tracking-loose leading-loose" },
+            [_vm._v("MESSAGE")]
+          )
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "p-16 bg-grey-lighter lg:w-11/12" }, [
+          _c("div", { staticClass: "flex" }, [
+            _c("article", { staticClass: "m-8" }, [
+              _c(
+                "h5",
+                {
+                  staticClass:
+                    "inline-block px-8 text-center bg-white font-normal tw-name relative"
+                },
+                [_vm._v("社長メッセージ")]
+              ),
+              _vm._v(" "),
+              _c("h2", { staticClass: "tracking-loose leading-loosest" }, [
+                _vm._v("理念は「福岡の美容業界で一番働きたい会社になる」")
+              ]),
+              _vm._v(" "),
+              _c(
+                "p",
+                {
+                  staticClass:
+                    "text-xs tracking-wider leading-loose pb-4 text-grey-darker"
+                },
+                [
+                  _vm._v(
+                    "\n                            マツエク・ネイルの根幹にあるのは確かな“技術”です。"
+                  ),
+                  _c("br"),
+                  _vm._v(
+                    "\n                            それを身につけた“技術集団”を育てるためには時間もかかりますし、多くのやるべきことがあります。\n                        "
+                  )
+                ]
+              ),
+              _vm._v(" "),
+              _c(
+                "p",
+                {
+                  staticClass:
+                    "text-xs tracking-wider leading-loose py-4 text-grey-darker"
+                },
+                [
+                  _vm._v(
+                    "\n                            良い土地を探し、土地を耕し、豊かな土壌を作りそして翌年タネを蒔く。\n                        "
+                  )
+                ]
+              ),
+              _vm._v(" "),
+              _c(
+                "p",
+                {
+                  staticClass:
+                    "text-xs tracking-wider leading-loose py-4 text-grey-darker"
+                },
+                [
+                  _vm._v(
+                    "\n                            「すべての芽に均等に太陽は当たっているか？」「風通しは良いか？」"
+                  ),
+                  _c("br"),
+                  _vm._v(
+                    "\n                            「水は足りているか、もしくは与えすぎていないか？」"
+                  ),
+                  _c("br"),
+                  _vm._v(
+                    "\n                            「虫はついてないか？」「病気になってないか？」\n                        "
+                  )
+                ]
+              ),
+              _vm._v(" "),
+              _c(
+                "p",
+                {
+                  staticClass:
+                    "text-xs tracking-wider leading-loose py-4 text-grey-darker"
+                },
+                [
+                  _vm._v(
+                    "\n                            これらのことを常に考え、一切気を抜くことも慌てることもなく、実が成り、熟すまでじっと待つ。給与や休みの取りやすさ、お弁当の支給、取り扱いパーツの安全性などに気を配ること。これらのことはすべて実が熟すためのプロセスです。成果を挙げるためにはどのプロセスもおろそかにできません。\n                        "
+                  )
+                ]
+              ),
+              _vm._v(" "),
+              _c(
+                "p",
+                {
+                  staticClass:
+                    "text-xs tracking-wider leading-loose py-4 text-grey-darker"
+                },
+                [
+                  _vm._v(
+                    "\n                            こうやって出来上がった場所はめったにありません。NANAで働く貴女は“特別な場所にいるのだ”という意識を、どうか大切にしてください。それがひいては、チームワークやスタッフみんなのプライド、プロ意識の芽生えにつながります。\n                        "
+                  )
+                ]
+              ),
+              _vm._v(" "),
+              _c(
+                "p",
+                {
+                  staticClass:
+                    "text-xs tracking-wider leading-loose py-4 text-grey-darker"
+                },
+                [
+                  _vm._v(
+                    "\n                            NANAはあなたの個性を尊重し、理解する場所です。"
+                  ),
+                  _c("br"),
+                  _vm._v(
+                    "\n                            たくさんの色があってこそ、花束はより一層美しくなります。"
+                  ),
+                  _c("br"),
+                  _vm._v(
+                    "\n                            貴女の個性を理解し、大切に育てる場所でぜひ、貴女の才能を開花させてください。\n                        "
+                  )
+                ]
+              )
+            ])
+          ])
+        ])
+      ])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("section", { staticClass: "lg:mb-24 mx-auto max-w-1000" }, [
+      _c("div", { staticClass: "flex lg:mb-16" }, [
+        _c("p", { staticClass: "lg:w-1/12 relative" }, [
+          _c(
+            "span",
+            {
+              staticClass:
+                "ref-title text-2xl tracking-loose leading-loose border-b-2 border-black"
+            },
+            [_vm._v("ENTRY!")]
+          )
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "p-16 bg-teal-lightest lg:w-11/12" }, [
+          _c("div", { staticClass: "flex flex-col" }, [
+            _c(
+              "p",
+              {
+                staticClass:
+                  "text-center text-xs tracking-wider leading-loose text-grey-darker pt-4"
+              },
+              [
+                _vm._v(
+                  "\n                        それぞれの個性で “お客様を美しく”。"
+                ),
+                _c("br"),
+                _vm._v(
+                  "\n                        NANAで働きたいという方のご応募を心よりお待ちしております。\n                    "
+                )
+              ]
+            ),
+            _vm._v(" "),
+            _c("div", { staticClass: "w-full flex justify-center" }, [
+              _c(
+                "a",
+                {
+                  staticClass:
+                    "tw-btn inline-block h-50 leading-50 text-xs w-1/2 text-center hover:bg-yellow-lighter m-8",
+                  attrs: {
+                    href: "https://beauty.hotpepper.jp/kr/slnH000248220/review/"
+                  }
+                },
+                [
+                  _vm._v(
+                    "\n                            ネイルのご予約はこちら\n                        "
+                  )
+                ]
+              )
+            ])
+          ])
+        ])
+      ])
+    ])
+  }
+]
 render._withStripped = true
 
 
@@ -41205,7 +43758,7 @@ var render = function() {
                       "router-link",
                       {
                         staticClass:
-                          "text-xs tracking-wider leading-loose text-black pb-8 text-grey-darkest hover:text-grey-dark",
+                          "text-xs tracking-wider leading-loose pb-8 text-grey-darkest hover:text-grey-dark",
                         attrs: { to: "/" }
                       },
                       [
@@ -41225,7 +43778,7 @@ var render = function() {
                       "router-link",
                       {
                         staticClass:
-                          "text-xs tracking-wider leading-loose text-black pb-8 text-grey-darkest text-teal",
+                          "text-xs tracking-wider leading-loose pb-8 text-grey-darkest text-teal",
                         attrs: { to: "/voice" }
                       },
                       [
@@ -41298,7 +43851,7 @@ var staticRenderFns = [
                 "p",
                 {
                   staticClass:
-                    "text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest"
+                    "text-13 tracking-wider leading-loose pb-8 text-grey-darkest"
                 },
                 [
                   _c("span", { staticClass: "tw-mask" }, [
@@ -41314,7 +43867,7 @@ var staticRenderFns = [
                 "p",
                 {
                   staticClass:
-                    "text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest"
+                    "text-13 tracking-wider leading-loose pb-8 text-grey-darkest"
                 },
                 [
                   _vm._v(
@@ -41358,7 +43911,7 @@ var staticRenderFns = [
                 "p",
                 {
                   staticClass:
-                    "text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest"
+                    "text-13 tracking-wider leading-loose pb-8 text-grey-darkest"
                 },
                 [
                   _vm._v(
@@ -41377,7 +43930,7 @@ var staticRenderFns = [
                 "p",
                 {
                   staticClass:
-                    "text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest"
+                    "text-13 tracking-wider leading-loose pb-8 text-grey-darkest"
                 },
                 [
                   _c("span", { staticClass: "tw-mask" }, [
@@ -41423,7 +43976,7 @@ var staticRenderFns = [
                     "p",
                     {
                       staticClass:
-                        "text-xs tracking-wider leading-loose text-black pb-8 text-grey-darker pt-4"
+                        "text-xs tracking-wider leading-loose pb-8 text-grey-darker pt-4"
                     },
                     [
                       _vm._v(
@@ -41451,7 +44004,7 @@ var staticRenderFns = [
                     "p",
                     {
                       staticClass:
-                        "text-xs tracking-wider leading-loose text-black pb-8 text-grey-darker pt-4"
+                        "text-xs tracking-wider leading-loose pb-8 text-grey-darker pt-4"
                     },
                     [
                       _vm._v(
@@ -41481,7 +44034,7 @@ var staticRenderFns = [
                     "p",
                     {
                       staticClass:
-                        "text-xs tracking-wider leading-loose text-black pb-8 text-grey-darker pt-4"
+                        "text-xs tracking-wider leading-loose pb-8 text-grey-darker pt-4"
                     },
                     [
                       _vm._v(
@@ -41513,7 +44066,7 @@ var staticRenderFns = [
                     "p",
                     {
                       staticClass:
-                        "text-xs tracking-wider leading-loose text-black pb-8 text-grey-darker pt-4"
+                        "text-xs tracking-wider leading-loose pb-8 text-grey-darker pt-4"
                     },
                     [
                       _vm._v(
@@ -41744,7 +44297,7 @@ var staticRenderFns = [
                     "p",
                     {
                       staticClass:
-                        "text-xs tracking-wider leading-loose text-black pb-8 text-grey-darker pt-4"
+                        "text-xs tracking-wider leading-loose pb-8 text-grey-darker pt-4"
                     },
                     [
                       _vm._v(
@@ -41772,7 +44325,7 @@ var staticRenderFns = [
                     "p",
                     {
                       staticClass:
-                        "text-xs tracking-wider leading-loose text-black pb-8 text-grey-darker pt-4"
+                        "text-xs tracking-wider leading-loose pb-8 text-grey-darker pt-4"
                     },
                     [
                       _vm._v(
@@ -41802,7 +44355,7 @@ var staticRenderFns = [
                     "p",
                     {
                       staticClass:
-                        "text-xs tracking-wider leading-loose text-black pb-8 text-grey-darker pt-4"
+                        "text-xs tracking-wider leading-loose pb-8 text-grey-darker pt-4"
                     },
                     [
                       _vm._v(
@@ -41834,7 +44387,7 @@ var staticRenderFns = [
                     "p",
                     {
                       staticClass:
-                        "text-xs tracking-wider leading-loose text-black pb-8 text-grey-darker pt-4"
+                        "text-xs tracking-wider leading-loose pb-8 text-grey-darker pt-4"
                     },
                     [
                       _vm._v(
@@ -41862,7 +44415,7 @@ var staticRenderFns = [
                     "span",
                     {
                       staticClass:
-                        "tracking-wider text-black pb-8 text-grey-darker font-fotura font-normal"
+                        "tracking-wider pb-8 text-grey-darker font-fotura font-normal"
                     },
                     [_vm._v("( HOTPEPPER Beautyへリンクします )")]
                   )
@@ -41959,7 +44512,7 @@ var staticRenderFns = [
                 "p",
                 {
                   staticClass:
-                    "text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest"
+                    "text-13 tracking-wider leading-loose pb-8 text-grey-darkest"
                 },
                 [
                   _vm._v(
@@ -41972,7 +44525,7 @@ var staticRenderFns = [
                 "p",
                 {
                   staticClass:
-                    "text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest"
+                    "text-13 tracking-wider leading-loose pb-8 text-grey-darkest"
                 },
                 [
                   _vm._v(
@@ -42027,7 +44580,7 @@ var staticRenderFns = [
                     "p",
                     {
                       staticClass:
-                        "text-xs tracking-wider leading-loose text-black pb-8 text-grey-darker pt-4"
+                        "text-xs tracking-wider leading-loose pb-8 text-grey-darker pt-4"
                     },
                     [
                       _vm._v(
@@ -42059,7 +44612,7 @@ var staticRenderFns = [
                     "p",
                     {
                       staticClass:
-                        "text-xs tracking-wider leading-loose text-black pb-8 text-grey-darker pt-4"
+                        "text-xs tracking-wider leading-loose pb-8 text-grey-darker pt-4"
                     },
                     [
                       _vm._v(
@@ -42086,7 +44639,7 @@ var staticRenderFns = [
                   "p",
                   {
                     staticClass:
-                      "text-xs tracking-wider leading-loose text-black pb-8 text-grey-darker pt-4"
+                      "text-xs tracking-wider leading-loose pb-8 text-grey-darker pt-4"
                   },
                   [
                     _vm._v(
@@ -42113,7 +44666,7 @@ var staticRenderFns = [
                     "span",
                     {
                       staticClass:
-                        "tracking-wider text-black pb-8 text-grey-darker font-fotura font-normal"
+                        "tracking-wider pb-8 text-grey-darker font-fotura font-normal"
                     },
                     [_vm._v("( HOTPEPPER Beautyへリンクします )")]
                   )
@@ -42210,7 +44763,7 @@ var staticRenderFns = [
                 "p",
                 {
                   staticClass:
-                    "text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest"
+                    "text-13 tracking-wider leading-loose pb-8 text-grey-darkest"
                 },
                 [
                   _vm._v(
@@ -42251,7 +44804,7 @@ var staticRenderFns = [
                 "p",
                 {
                   staticClass:
-                    "text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest"
+                    "text-13 tracking-wider leading-loose pb-8 text-grey-darkest"
                 },
                 [
                   _c("span", { staticClass: "tw-mask" }, [
@@ -42305,7 +44858,7 @@ var staticRenderFns = [
                     "p",
                     {
                       staticClass:
-                        "text-xs tracking-wider leading-loose text-black pb-8 text-grey-darker pt-4"
+                        "text-xs tracking-wider leading-loose pb-8 text-grey-darker pt-4"
                     },
                     [
                       _vm._v(
@@ -42333,7 +44886,7 @@ var staticRenderFns = [
                     "p",
                     {
                       staticClass:
-                        "text-xs tracking-wider leading-loose text-black pb-8 text-grey-darker pt-4"
+                        "text-xs tracking-wider leading-loose pb-8 text-grey-darker pt-4"
                     },
                     [
                       _vm._v(
@@ -42361,7 +44914,7 @@ var staticRenderFns = [
                     "span",
                     {
                       staticClass:
-                        "tracking-wider text-black pb-8 text-grey-darker font-fotura font-normal"
+                        "tracking-wider pb-8 text-grey-darker font-fotura font-normal"
                     },
                     [_vm._v("( HOTPEPPER Beautyへリンクします )")]
                   )
@@ -42403,6 +44956,2425 @@ var staticRenderFns = [
                   ]
                 )
               ])
+            ])
+          ])
+        ])
+      ])
+    ])
+  }
+]
+render._withStripped = true
+
+
+
+/***/ }),
+
+/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/views/_RecruitDay.vue?vue&type=template&id=2c7f068e&scoped=true&":
+/*!*********************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/views/_RecruitDay.vue?vue&type=template&id=2c7f068e&scoped=true& ***!
+  \*********************************************************************************************************************************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "render", function() { return render; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return staticRenderFns; });
+var render = function() {
+  var _vm = this
+  var _h = _vm.$createElement
+  var _c = _vm._self._c || _h
+  return _c(
+    "div",
+    [
+      _c("section", { staticClass: "lg:mb-24" }, [
+        _c("div", { staticClass: "hero-concept" }),
+        _vm._v(" "),
+        _c("div", [
+          _c(
+            "svg",
+            {
+              staticClass: "svg-concept",
+              attrs: { width: "100%", height: "86" }
+            },
+            [
+              _c(
+                "text",
+                {
+                  attrs: {
+                    x: "50%",
+                    y: "50%",
+                    "text-anchor": "middle",
+                    "dominant-baseline": "central"
+                  }
+                },
+                [_vm._v("RECRUIT")]
+              )
+            ]
+          ),
+          _vm._v(" "),
+          _c("p", { staticClass: "text-center" }, [_vm._v("採用情報")])
+        ])
+      ]),
+      _vm._v(" "),
+      _c(
+        "section",
+        {
+          staticClass: "lg:mb-24 flex flex-col items-center max-w-1000 mx-auto"
+        },
+        [
+          _c(
+            "div",
+            { staticClass: "w-3/5 flex" },
+            [
+              _c(
+                "router-link",
+                {
+                  staticClass: "tw-recruit hover:bg-grey-lighter",
+                  attrs: { tag: "a", to: "/recruit" }
+                },
+                [_vm._v("\n                NANAでの働きがい\n            ")]
+              ),
+              _vm._v(" "),
+              _c(
+                "router-link",
+                {
+                  staticClass: "tw-recruit hover:bg-grey-lighter",
+                  attrs: { tag: "a", to: "/recruit/staff" }
+                },
+                [_vm._v("\n                先輩スタッフの声\n            ")]
+              )
+            ],
+            1
+          ),
+          _vm._v(" "),
+          _c(
+            "div",
+            { staticClass: "w-3/5 flex" },
+            [
+              _c(
+                "router-link",
+                {
+                  staticClass: "tw-recruit hover:bg-grey-lighter border-b",
+                  attrs: { tag: "a", to: "/recruit/day" }
+                },
+                [_vm._v("\n                スタッフの１日\n            ")]
+              ),
+              _vm._v(" "),
+              _c(
+                "router-link",
+                {
+                  staticClass: "tw-recruit hover:bg-grey-lighter border-b",
+                  attrs: { tag: "a", to: "/recruit/hire" }
+                },
+                [_vm._v("\n                募集要項\n            ")]
+              )
+            ],
+            1
+          )
+        ]
+      ),
+      _vm._v(" "),
+      _vm._m(0),
+      _vm._v(" "),
+      _vm._m(1),
+      _vm._v(" "),
+      _vm._m(2),
+      _vm._v(" "),
+      _vm._m(3),
+      _vm._v(" "),
+      _vm._m(4),
+      _vm._v(" "),
+      _vm._m(5),
+      _vm._v(" "),
+      _vm._m(6),
+      _vm._v(" "),
+      _c(
+        "section",
+        {
+          staticClass: "lg:mb-24 flex flex-col items-center max-w-1000 mx-auto"
+        },
+        [
+          _c(
+            "div",
+            { staticClass: "w-3/5 flex" },
+            [
+              _c(
+                "router-link",
+                {
+                  staticClass: "tw-recruit hover:bg-grey-lighter",
+                  attrs: { tag: "a", to: "/recruit" }
+                },
+                [_vm._v("\n                NANAでの働きがい\n            ")]
+              ),
+              _vm._v(" "),
+              _c(
+                "router-link",
+                {
+                  staticClass: "tw-recruit hover:bg-grey-lighter",
+                  attrs: { tag: "a", to: "/recruit/staff" }
+                },
+                [_vm._v("\n                先輩スタッフの声\n            ")]
+              )
+            ],
+            1
+          ),
+          _vm._v(" "),
+          _c(
+            "div",
+            { staticClass: "w-3/5 flex" },
+            [
+              _c(
+                "router-link",
+                {
+                  staticClass: "tw-recruit hover:bg-grey-lighter border-b",
+                  attrs: { tag: "a", to: "/recruit/day" }
+                },
+                [_vm._v("\n                スタッフの１日\n            ")]
+              ),
+              _vm._v(" "),
+              _c(
+                "router-link",
+                {
+                  staticClass: "tw-recruit hover:bg-grey-lighter border-b",
+                  attrs: { tag: "a", to: "/recruit/hire" }
+                },
+                [_vm._v("\n                募集要項\n            ")]
+              )
+            ],
+            1
+          )
+        ]
+      ),
+      _vm._v(" "),
+      _c("section", { staticClass: "lg:mb-24" }, [
+        _c(
+          "div",
+          {
+            staticClass: "max-w-1200 border-b border-grey pb-4 tw-line relative"
+          },
+          [
+            _c("div", { staticClass: "max-w-600" }, [
+              _c("ul", { staticClass: "flex justify-center" }, [
+                _c(
+                  "li",
+                  [
+                    _c(
+                      "router-link",
+                      {
+                        staticClass:
+                          "text-xs tracking-wider leading-loose text-grey-darkest hover:text-grey-dark",
+                        attrs: { to: "/" }
+                      },
+                      [
+                        _vm._v(
+                          "\n                            HOME | \n                        "
+                        )
+                      ]
+                    )
+                  ],
+                  1
+                ),
+                _vm._v(" "),
+                _c(
+                  "li",
+                  {
+                    staticClass:
+                      "text-xs tracking-wider leading-loose text-grey-darkest"
+                  },
+                  [
+                    _vm._v(
+                      "\n                        RECRUIT | \n                    "
+                    )
+                  ]
+                ),
+                _vm._v(" "),
+                _c(
+                  "li",
+                  [
+                    _c(
+                      "router-link",
+                      {
+                        staticClass:
+                          "text-xs tracking-wider leading-loose text-teal",
+                        attrs: { to: "/recruit/day" }
+                      },
+                      [
+                        _vm._v(
+                          "\n                            スタッフの１日\n                        "
+                        )
+                      ]
+                    )
+                  ],
+                  1
+                )
+              ])
+            ])
+          ]
+        )
+      ]),
+      _vm._v(" "),
+      _c("reserve")
+    ],
+    1
+  )
+}
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("section", { staticClass: "lg:mb-24" }, [
+      _c("div", { staticClass: "max-w-1000 mx-auto flex" }, [
+        _c("div", { staticClass: "lg:w-2/3 pl-8 pr-8" }, [
+          _c("div", { staticClass: "flex items-center p-4 tw-title mb-12" }, [
+            _c("span", { staticClass: "text-350 pl-4 pr-4" }, [_vm._v("01")]),
+            _vm._v(" "),
+            _c("h2", { staticClass: "leading-normal font-sans" }, [
+              _vm._v("\n                        全員が正社員雇用。"),
+              _c("br"),
+              _vm._v(
+                "\n                        それぞれの個性で “お客さまを美しく”\n                    "
+              )
+            ])
+          ]),
+          _vm._v(" "),
+          _c("article", [
+            _c(
+              "h3",
+              {
+                staticClass:
+                  "text-teal tracking-wide leading-loose text-base pb-6"
+              },
+              [
+                _vm._v("\n                        未経験者も正社員採用。"),
+                _c("br"),
+                _vm._v(
+                  "\n                        個々の意見を大切にし、スタッフの権利をしっかり守る。\n                    "
+                )
+              ]
+            ),
+            _vm._v(" "),
+            _c(
+              "p",
+              {
+                staticClass:
+                  "text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest"
+              },
+              [
+                _vm._v(
+                  "\n                        NANAでは未経験者であっても\n                        "
+                ),
+                _c("span", { staticClass: "tw-mask" }, [
+                  _vm._v("全員が正社員として採用")
+                ]),
+                _vm._v(
+                  "\n                        されます。入社半年後には社会保険・雇用保険などには無条件で加入。スタッフの権利をしっかり守ります。\n                    "
+                )
+              ]
+            ),
+            _vm._v(" "),
+            _c(
+              "p",
+              {
+                staticClass:
+                  "text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest"
+              },
+              [
+                _vm._v(
+                  "\n                        NANAには中間管理職がありません。思ったことは先輩後輩に関係なく、フランクに言い合える仲という点もポイントです。社長にも意見が通りやすく、対応もスピーディー。\n                        "
+                ),
+                _c("span", { staticClass: "tw-mask" }, [
+                  _vm._v("社員の意見を大切に")
+                ]),
+                _vm._v(
+                  "\n                        してくれるのが実感できるため、\n                        "
+                ),
+                _c("span", { staticClass: "tw-mask" }, [
+                  _vm._v("離職率が低い")
+                ]),
+                _vm._v(
+                  "\n                        ことも魅力です。\n                    "
+                )
+              ]
+            )
+          ]),
+          _vm._v(" "),
+          _c("article", [
+            _c(
+              "h3",
+              {
+                staticClass:
+                  "text-teal tracking-wide leading-loose text-base pb-6"
+              },
+              [
+                _vm._v(
+                  "\n                        施術だけではなく、“美容にかかわることすべて”が仕事。"
+                ),
+                _c("br"),
+                _vm._v(
+                  "\n                        総合職だから得られる成長。\n                    "
+                )
+              ]
+            ),
+            _vm._v(" "),
+            _c(
+              "p",
+              {
+                staticClass:
+                  "text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest"
+              },
+              [
+                _vm._v(
+                  "\n                        また、スタッフは\n                        "
+                ),
+                _c("span", { staticClass: "tw-mask" }, [
+                  _vm._v("全員が総合職での採用")
+                ]),
+                _vm._v(
+                  "\n                        です。美容業である以上、美容に関することは何でもやります。そのため、仕事内容は施術だけではありません。ブログ更新といった広告、新しい商品の開発など、幅広い業務に携わることで、\n                        "
+                ),
+                _c("span", { staticClass: "tw-mask" }, [
+                  _vm._v("自分自身の成長、会社の成長を感じる")
+                ]),
+                _vm._v(
+                  "\n                        ことができます。\n                    "
+                )
+              ]
+            )
+          ])
+        ]),
+        _vm._v(" "),
+        _c("figure", { staticClass: "lg:w-1/3 p-8" }, [
+          _c("img", {
+            attrs: {
+              src: "/decoration/recruit/recruit_1.jpg",
+              alt: "全員が正社員雇用。それぞれの個性で “お客さまを美しく”"
+            }
+          })
+        ])
+      ])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("section", { staticClass: "lg:mb-24" }, [
+      _c("div", { staticClass: "max-w-1000 mx-auto flex" }, [
+        _c("figure", { staticClass: "lg:w-2/5 p-8" }, [
+          _c("img", {
+            attrs: {
+              src: "/decoration/recruit/recruit_2.jpg",
+              alt: "未経験者大歓迎！NANAでは未経験者を積極採用しています"
+            }
+          })
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "lg:w-3/5 pl-10 pr-10" }, [
+          _c("div", { staticClass: "flex items-center p-4 tw-title mb-12" }, [
+            _c("span", { staticClass: "text-350 pl-4 pr-4" }, [_vm._v("02")]),
+            _vm._v(" "),
+            _c("h2", { staticClass: "leading-normal font-sans" }, [
+              _vm._v("\n                        未経験者大歓迎！NANAでは"),
+              _c("br"),
+              _vm._v(
+                "\n                        未経験者を積極採用しています\n                    "
+              )
+            ])
+          ]),
+          _vm._v(" "),
+          _c("article", [
+            _c(
+              "h3",
+              {
+                staticClass:
+                  "text-teal tracking-wide leading-loose text-base pb-6"
+              },
+              [
+                _vm._v(
+                  "\n                        「人は、人を育てる時に成長する」。"
+                ),
+                _c("br"),
+                _vm._v(
+                  "\n                        未経験者採用は、成長のチャンス。\n                    "
+                )
+              ]
+            ),
+            _vm._v(" "),
+            _c(
+              "p",
+              {
+                staticClass:
+                  "text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest"
+              },
+              [
+                _vm._v(
+                  "\n                        スタッフの多くは未経験者です。「時間やお金をかけて未経験者をイチから育てるよりもすぐに入客できる経験者を採用するほうがラクなのでは？」と考える方もいらっしゃるでしょう。ではなぜ、NANAは積極的に未経験者を採用するのでしょうか？\n                    "
+                )
+              ]
+            ),
+            _vm._v(" "),
+            _c(
+              "p",
+              {
+                staticClass:
+                  "text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest"
+              },
+              [
+                _c("span", { staticClass: "tw-mask" }, [
+                  _vm._v("人は人を育てる時に成長")
+                ]),
+                _vm._v(
+                  "\n                        します。未経験者をゼロから教えることで、既存スタッフがみずから成長する。そのチャンスになるから、NANAでは未経験者を歓迎しています。\n                    "
+                )
+              ]
+            ),
+            _vm._v(" "),
+            _c(
+              "p",
+              {
+                staticClass:
+                  "text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest"
+              },
+              [
+                _c("span", { staticClass: "tw-mask" }, [
+                  _vm._v("研修期間は6ヶ月から10ヶ月ほどまでしっかりと実施。")
+                ]),
+                _vm._v(
+                  "\n                        経験者でも1ヶ月ほどの研修期間を設けることで、経験者・未経験者の差をなくし、\n                        "
+                ),
+                _c("span", { staticClass: "tw-mask" }, [
+                  _vm._v("どのスタッフでもお客さまに満足いただける環境")
+                ]),
+                _vm._v(
+                  "\n                        を作っています。\n                    "
+                )
+              ]
+            )
+          ]),
+          _vm._v(" "),
+          _c("article", [
+            _c(
+              "h3",
+              {
+                staticClass:
+                  "text-teal tracking-wide leading-loose text-base pb-6"
+              },
+              [
+                _vm._v("\n                        前期の先輩が“先生”。"),
+                _c("br"),
+                _vm._v(
+                  "\n                        なんでも相談できるから、どんどん成長できる。\n                    "
+                )
+              ]
+            ),
+            _vm._v(" "),
+            _c(
+              "p",
+              {
+                staticClass:
+                  "text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest"
+              },
+              [
+                _vm._v(
+                  "\n                        研修の最大の特徴は、前期の先輩が教える点。歴がさほど離れていないため、なんでも相談しやすい空気を作ってくれます。複数人から指導を受けられる点も魅力のひとつ。先輩それぞれの個性を活かした手法をじかに学べるため、自分自身の引き出しが増えます。\n                    "
+                )
+              ]
+            ),
+            _vm._v(" "),
+            _c(
+              "p",
+              {
+                staticClass:
+                  "text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest"
+              },
+              [
+                _vm._v(
+                  "\n                        また\n                        "
+                ),
+                _c("span", { staticClass: "tw-mask" }, [
+                  _vm._v("NANAは、福岡ナンバーワンのマツエクサロン")
+                ]),
+                _vm._v(
+                  "\n                        。実際に入社しても担当人数は先輩たちと変わりません。スタッフ全員でバランスよくお客さまを担当するため、たくさんのお客さまと接することができ、どんどんレベルアップが図れます！\n                        そうして今度は自分が教える立場になり、後輩を育てることでさらに学び・気づきを得ます。\n                    "
+                )
+              ]
+            )
+          ])
+        ])
+      ])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("section", { staticClass: "lg:mb-24" }, [
+      _c("div", { staticClass: "max-w-1000 mx-auto flex" }, [
+        _c("div", { staticClass: "lg:w-2/3 pl-8 pr-8" }, [
+          _c("div", { staticClass: "flex items-center p-4 tw-title mb-12" }, [
+            _c("span", { staticClass: "text-350 pl-4 pr-4" }, [_vm._v("03")]),
+            _vm._v(" "),
+            _c("h2", { staticClass: "leading-normal font-sans" }, [
+              _vm._v("\n                        サービス残業なしで、"),
+              _c("br"),
+              _vm._v("\n                        さらにお弁当も？！"),
+              _c("br"),
+              _vm._v(
+                "\n                        充実の待遇です\n                    "
+              )
+            ])
+          ]),
+          _vm._v(" "),
+          _c("article", [
+            _c(
+              "h3",
+              {
+                staticClass:
+                  "text-teal tracking-wide leading-loose text-base pb-6"
+              },
+              [
+                _vm._v(
+                  "\n                        サービス残業・終礼なし。日祝日の休みもOK。"
+                ),
+                _c("br"),
+                _vm._v(
+                  "\n                        プライベートは思いっきり楽しむ。\n                    "
+                )
+              ]
+            ),
+            _vm._v(" "),
+            _c(
+              "p",
+              {
+                staticClass:
+                  "text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest"
+              },
+              [
+                _vm._v(
+                  "\n                        勤務時間は\n                        "
+                ),
+                _c("span", { staticClass: "tw-mask" }, [
+                  _vm._v("9:30から20:00まで")
+                ]),
+                _vm._v(
+                  "\n                        と決まっており、サービス残業、終礼、夜間ミーティングなどはありません！　西通りに3店舗あるため、どの店にも通いやすい点もポイントです。日・祝日の休み希望もOKで、夏休みは4日、冬休みは5日。年に2回お店を閉め、\n                        "
+                ),
+                _c("span", { staticClass: "tw-mask" }, [
+                  _vm._v(
+                    "みんなでしっかりと休みを取り、プライベートも思いっきり楽しんでいます。"
+                  )
+                ])
+              ]
+            )
+          ]),
+          _vm._v(" "),
+          _c("article", [
+            _c(
+              "h3",
+              {
+                staticClass:
+                  "text-teal tracking-wide leading-loose text-base pb-6"
+              },
+              [
+                _vm._v(
+                  "\n                        スタッフ同士のマツエク・ネイルの施術OK。"
+                ),
+                _c("br"),
+                _vm._v(
+                  "\n                        自分磨きが会社の成長につながる。\n                    "
+                )
+              ]
+            ),
+            _vm._v(" "),
+            _c(
+              "p",
+              {
+                staticClass:
+                  "text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest"
+              },
+              [
+                _vm._v(
+                  "\n                        また、スタッフ同士でのマツエクの施術や、社員価格でのネイルもOK。\n                        "
+                ),
+                _c("span", { staticClass: "tw-mask" }, [
+                  _vm._v(
+                    "自分磨きこそ、会社の成長、そしてお客さまの満足に繋がります。"
+                  )
+                ]),
+                _vm._v(
+                  "\n                        スタッフひとりひとりがキレイであること、仕事だけではなくプライベートも充実させることを、NANAでは大切にしています。\n                    "
+                )
+              ]
+            ),
+            _vm._v(" "),
+            _c(
+              "p",
+              {
+                staticClass:
+                  "text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest"
+              },
+              [
+                _vm._v(
+                  "\n                        さらに美容業界ではよくある「歩合制」ですが、NANAではこれを採用していません。未経験者は研修中であっても18万円＋交通費5千円を支給（経験者は19万円から）。賞与は年4回、社員旅行あり、制服貸与と\n                        "
+                ),
+                _c("span", { staticClass: "tw-mask" }, [_vm._v("充実の待遇")]),
+                _vm._v("\n                        です。\n                    ")
+              ]
+            )
+          ])
+        ]),
+        _vm._v(" "),
+        _c("figure", { staticClass: "lg:w-1/3 p-8" }, [
+          _c("img", {
+            attrs: {
+              src: "/decoration/recruit/recruit_3.jpg",
+              alt: "サービス残業なしで、さらにお弁当も？！充実の待遇です"
+            }
+          })
+        ])
+      ])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("section", { staticClass: "lg:mb-24" }, [
+      _c("div", { staticClass: "max-w-1000 mx-auto flex" }, [
+        _c("figure", { staticClass: "lg:w-2/5 p-8" }, [
+          _c("img", {
+            attrs: {
+              src: "/decoration/recruit/recruit_4.jpg",
+              alt:
+                "「自分がされてイヤなことはしない」。お客さまに伝わる “思いやり”"
+            }
+          })
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "lg:w-3/5 pl-10 pr-10" }, [
+          _c("div", { staticClass: "flex items-center p-4 tw-title mb-12" }, [
+            _c("span", { staticClass: "text-350 pl-4 pr-4" }, [_vm._v("04")]),
+            _vm._v(" "),
+            _c("h2", { staticClass: "leading-normal font-sans" }, [
+              _vm._v(
+                "\n                        「自分がされてイヤなことはしない」。"
+              ),
+              _c("br"),
+              _vm._v(
+                "\n                        お客さまに伝わる “思いやり”\n                    "
+              )
+            ])
+          ]),
+          _vm._v(" "),
+          _c("article", [
+            _c(
+              "h3",
+              {
+                staticClass:
+                  "text-teal tracking-wide leading-loose text-base pb-6"
+              },
+              [
+                _vm._v(
+                  "\n                        スタッフの満足＝お客さまの満足。"
+                ),
+                _c("br"),
+                _vm._v(
+                  "\n                        スタッフに優しい会社であることを大切に。\n                    "
+                )
+              ]
+            ),
+            _vm._v(" "),
+            _c(
+              "p",
+              {
+                staticClass:
+                  "text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest"
+              },
+              [
+                _c("span", { staticClass: "tw-mask" }, [
+                  _vm._v(
+                    "「お客さまの満足を最大化するためには、スタッフの満足を最大化する」"
+                  )
+                ]),
+                _vm._v(
+                  "\n                        がNANAのモットー。そもそも会社や上司から優しくされていないスタッフが、お客さまや後輩に優しく接することはできません。\n                    "
+                )
+              ]
+            )
+          ]),
+          _vm._v(" "),
+          _c("article", [
+            _c(
+              "h3",
+              {
+                staticClass:
+                  "text-teal tracking-wide leading-loose text-base pb-6"
+              },
+              [
+                _vm._v(
+                  "\n                        居心地の良さの秘訣は“人間関係”。"
+                ),
+                _c("br"),
+                _vm._v(
+                  "\n                        自発的な行動と思いやりが、いい会社をつくる。\n                    "
+                )
+              ]
+            ),
+            _vm._v(" "),
+            _c(
+              "p",
+              {
+                staticClass:
+                  "text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest"
+              },
+              [
+                _vm._v(
+                  "\n                        スタッフが口をそろえて言うのは、「\n                        "
+                ),
+                _c("span", { staticClass: "tw-mask" }, [
+                  _vm._v("NANAはスタッフの人間関係がとてもいい")
+                ]),
+                _vm._v(
+                  "\n                        」ということ。「\n                        "
+                ),
+                _c("span", { staticClass: "tw-mask" }, [
+                  _vm._v("自分がされてイヤなことはしない")
+                ]),
+                _vm._v(
+                  "\n                        」という意識があり、みんなが自然と問題点や改善点を相談する関係ができています。その関係性はいつしかお客さまへも反映されており、「居心地が良い」というお客さまからいただく言葉がその表れでしょう。\n                    "
+                )
+              ]
+            ),
+            _vm._v(" "),
+            _c(
+              "p",
+              {
+                staticClass:
+                  "text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest"
+              },
+              [
+                _vm._v(
+                  "\n                        スタッフひとりひとりの\n                        "
+                ),
+                _c("span", { staticClass: "tw-mask" }, [_vm._v("個性を大切")]),
+                _vm._v(
+                  "\n                        にする。スタッフ全員が常に考え、自発的に行動する。NANAを形作っているのは、\n                        "
+                ),
+                _c("span", { staticClass: "tw-mask" }, [
+                  _vm._v("ひとりひとりの“思いやり”")
+                ]),
+                _vm._v("\n                        です。\n                    ")
+              ]
+            )
+          ])
+        ])
+      ])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("section", { staticClass: "lg:mb-24 mx-auto max-w-1000" }, [
+      _c("div", { staticClass: "flex" }, [
+        _c("p", { staticClass: "lg:w-1/12 relative" }, [
+          _c(
+            "span",
+            { staticClass: "ref-title text-2xl tracking-loose leading-loose" },
+            [_vm._v("SALON&STAFF")]
+          )
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "p-16 bg-grey-lighter lg:w-11/12" }, [
+          _c("div", { staticClass: "flex" }, [
+            _c("div", { staticClass: "lg:w-1/3 flex flex-col p-4" }, [
+              _c("figure", { staticClass: "pb-4" }, [
+                _c("img", {
+                  attrs: { src: "/store/milano_2.jpg", alt: "MILANO" }
+                })
+              ]),
+              _vm._v(" "),
+              _c(
+                "a",
+                {
+                  staticClass:
+                    "tw-btn w-full h-50 leading-50 text-xs text-center hover:bg-yellow-lighter",
+                  attrs: { href: "/salon" }
+                },
+                [
+                  _vm._v(
+                    "\n                            MILANO\n                        "
+                  )
+                ]
+              )
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "lg:w-1/3 flex flex-col p-4" }, [
+              _c("figure", { staticClass: "pb-4" }, [
+                _c("img", {
+                  attrs: { src: "/store/La_Rochelle_2.jpg", alt: "MILANO" }
+                })
+              ]),
+              _vm._v(" "),
+              _c(
+                "a",
+                {
+                  staticClass:
+                    "tw-btn w-full h-50 leading-50 text-xs text-center hover:bg-yellow-lighter",
+                  attrs: { href: "/salon" }
+                },
+                [
+                  _vm._v(
+                    "\n                            La Rochelle\n                        "
+                  )
+                ]
+              )
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "lg:w-1/3 flex flex-col p-4" }, [
+              _c("figure", { staticClass: "pb-4" }, [
+                _c("img", {
+                  attrs: { src: "/store/LISBON_2.jpg", alt: "LISBON" }
+                })
+              ]),
+              _vm._v(" "),
+              _c(
+                "a",
+                {
+                  staticClass:
+                    "tw-btn w-full h-50 leading-50 text-xs text-center hover:bg-yellow-lighter",
+                  attrs: { href: "/salon" }
+                },
+                [
+                  _vm._v(
+                    "\n                            LISBON\n                        "
+                  )
+                ]
+              )
+            ])
+          ])
+        ])
+      ])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("section", { staticClass: "lg:mb-24 mx-auto max-w-1000" }, [
+      _c("div", { staticClass: "flex" }, [
+        _c("p", { staticClass: "lg:w-1/12 relative" }, [
+          _c(
+            "span",
+            { staticClass: "ref-title text-2xl tracking-loose leading-loose" },
+            [_vm._v("MESSAGE")]
+          )
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "p-16 bg-grey-lighter lg:w-11/12" }, [
+          _c("div", { staticClass: "flex" }, [
+            _c("article", { staticClass: "m-8" }, [
+              _c(
+                "h5",
+                {
+                  staticClass:
+                    "inline-block px-8 text-center bg-white font-normal tw-name relative"
+                },
+                [_vm._v("社長メッセージ")]
+              ),
+              _vm._v(" "),
+              _c("h2", { staticClass: "tracking-loose leading-loosest" }, [
+                _vm._v("理念は「福岡の美容業界で一番働きたい会社になる」")
+              ]),
+              _vm._v(" "),
+              _c(
+                "p",
+                {
+                  staticClass:
+                    "text-xs tracking-wider leading-loose pb-4 text-grey-darker"
+                },
+                [
+                  _vm._v(
+                    "\n                            マツエク・ネイルの根幹にあるのは確かな“技術”です。"
+                  ),
+                  _c("br"),
+                  _vm._v(
+                    "\n                            それを身につけた“技術集団”を育てるためには時間もかかりますし、多くのやるべきことがあります。\n                        "
+                  )
+                ]
+              ),
+              _vm._v(" "),
+              _c(
+                "p",
+                {
+                  staticClass:
+                    "text-xs tracking-wider leading-loose py-4 text-grey-darker"
+                },
+                [
+                  _vm._v(
+                    "\n                            良い土地を探し、土地を耕し、豊かな土壌を作りそして翌年タネを蒔く。\n                        "
+                  )
+                ]
+              ),
+              _vm._v(" "),
+              _c(
+                "p",
+                {
+                  staticClass:
+                    "text-xs tracking-wider leading-loose py-4 text-grey-darker"
+                },
+                [
+                  _vm._v(
+                    "\n                            「すべての芽に均等に太陽は当たっているか？」「風通しは良いか？」"
+                  ),
+                  _c("br"),
+                  _vm._v(
+                    "\n                            「水は足りているか、もしくは与えすぎていないか？」"
+                  ),
+                  _c("br"),
+                  _vm._v(
+                    "\n                            「虫はついてないか？」「病気になってないか？」\n                        "
+                  )
+                ]
+              ),
+              _vm._v(" "),
+              _c(
+                "p",
+                {
+                  staticClass:
+                    "text-xs tracking-wider leading-loose py-4 text-grey-darker"
+                },
+                [
+                  _vm._v(
+                    "\n                            これらのことを常に考え、一切気を抜くことも慌てることもなく、実が成り、熟すまでじっと待つ。給与や休みの取りやすさ、お弁当の支給、取り扱いパーツの安全性などに気を配ること。これらのことはすべて実が熟すためのプロセスです。成果を挙げるためにはどのプロセスもおろそかにできません。\n                        "
+                  )
+                ]
+              ),
+              _vm._v(" "),
+              _c(
+                "p",
+                {
+                  staticClass:
+                    "text-xs tracking-wider leading-loose py-4 text-grey-darker"
+                },
+                [
+                  _vm._v(
+                    "\n                            こうやって出来上がった場所はめったにありません。NANAで働く貴女は“特別な場所にいるのだ”という意識を、どうか大切にしてください。それがひいては、チームワークやスタッフみんなのプライド、プロ意識の芽生えにつながります。\n                        "
+                  )
+                ]
+              ),
+              _vm._v(" "),
+              _c(
+                "p",
+                {
+                  staticClass:
+                    "text-xs tracking-wider leading-loose py-4 text-grey-darker"
+                },
+                [
+                  _vm._v(
+                    "\n                            NANAはあなたの個性を尊重し、理解する場所です。"
+                  ),
+                  _c("br"),
+                  _vm._v(
+                    "\n                            たくさんの色があってこそ、花束はより一層美しくなります。"
+                  ),
+                  _c("br"),
+                  _vm._v(
+                    "\n                            貴女の個性を理解し、大切に育てる場所でぜひ、貴女の才能を開花させてください。\n                        "
+                  )
+                ]
+              )
+            ])
+          ])
+        ])
+      ])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("section", { staticClass: "lg:mb-24 mx-auto max-w-1000" }, [
+      _c("div", { staticClass: "flex lg:mb-16" }, [
+        _c("p", { staticClass: "lg:w-1/12 relative" }, [
+          _c(
+            "span",
+            {
+              staticClass:
+                "ref-title text-2xl tracking-loose leading-loose border-b-2 border-black"
+            },
+            [_vm._v("ENTRY!")]
+          )
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "p-16 bg-teal-lightest lg:w-11/12" }, [
+          _c("div", { staticClass: "flex flex-col" }, [
+            _c(
+              "p",
+              {
+                staticClass:
+                  "text-center text-xs tracking-wider leading-loose text-grey-darker pt-4"
+              },
+              [
+                _vm._v(
+                  "\n                        それぞれの個性で “お客様を美しく”。"
+                ),
+                _c("br"),
+                _vm._v(
+                  "\n                        NANAで働きたいという方のご応募を心よりお待ちしております。\n                    "
+                )
+              ]
+            ),
+            _vm._v(" "),
+            _c("div", { staticClass: "w-full flex justify-center" }, [
+              _c(
+                "a",
+                {
+                  staticClass:
+                    "tw-btn inline-block h-50 leading-50 text-xs w-1/2 text-center hover:bg-yellow-lighter m-8",
+                  attrs: {
+                    href: "https://beauty.hotpepper.jp/kr/slnH000248220/review/"
+                  }
+                },
+                [
+                  _vm._v(
+                    "\n                            ネイルのご予約はこちら\n                        "
+                  )
+                ]
+              )
+            ])
+          ])
+        ])
+      ])
+    ])
+  }
+]
+render._withStripped = true
+
+
+
+/***/ }),
+
+/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/views/_RecruitHire.vue?vue&type=template&id=bde6771c&scoped=true&":
+/*!**********************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/views/_RecruitHire.vue?vue&type=template&id=bde6771c&scoped=true& ***!
+  \**********************************************************************************************************************************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "render", function() { return render; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return staticRenderFns; });
+var render = function() {
+  var _vm = this
+  var _h = _vm.$createElement
+  var _c = _vm._self._c || _h
+  return _c(
+    "div",
+    [
+      _c("section", { staticClass: "lg:mb-24" }, [
+        _c("div", { staticClass: "hero-concept" }),
+        _vm._v(" "),
+        _c("div", [
+          _c(
+            "svg",
+            {
+              staticClass: "svg-concept",
+              attrs: { width: "100%", height: "86" }
+            },
+            [
+              _c(
+                "text",
+                {
+                  attrs: {
+                    x: "50%",
+                    y: "50%",
+                    "text-anchor": "middle",
+                    "dominant-baseline": "central"
+                  }
+                },
+                [_vm._v("RECRUIT")]
+              )
+            ]
+          ),
+          _vm._v(" "),
+          _c("p", { staticClass: "text-center" }, [_vm._v("採用情報")])
+        ])
+      ]),
+      _vm._v(" "),
+      _c(
+        "section",
+        {
+          staticClass: "lg:mb-24 flex flex-col items-center max-w-1000 mx-auto"
+        },
+        [
+          _c(
+            "div",
+            { staticClass: "w-3/5 flex" },
+            [
+              _c(
+                "router-link",
+                {
+                  staticClass: "tw-recruit hover:bg-grey-lighter",
+                  attrs: { tag: "a", to: "/recruit" }
+                },
+                [_vm._v("\n                NANAでの働きがい\n            ")]
+              ),
+              _vm._v(" "),
+              _c(
+                "router-link",
+                {
+                  staticClass: "tw-recruit hover:bg-grey-lighter",
+                  attrs: { tag: "a", to: "/recruit/staff" }
+                },
+                [_vm._v("\n                先輩スタッフの声\n            ")]
+              )
+            ],
+            1
+          ),
+          _vm._v(" "),
+          _c(
+            "div",
+            { staticClass: "w-3/5 flex" },
+            [
+              _c(
+                "router-link",
+                {
+                  staticClass: "tw-recruit hover:bg-grey-lighter border-b",
+                  attrs: { tag: "a", to: "/recruit/day" }
+                },
+                [_vm._v("\n                スタッフの１日\n            ")]
+              ),
+              _vm._v(" "),
+              _c(
+                "router-link",
+                {
+                  staticClass: "tw-recruit hover:bg-grey-lighter border-b",
+                  attrs: { tag: "a", to: "/recruit/hire" }
+                },
+                [_vm._v("\n                募集要項\n            ")]
+              )
+            ],
+            1
+          )
+        ]
+      ),
+      _vm._v(" "),
+      _vm._m(0),
+      _vm._v(" "),
+      _vm._m(1),
+      _vm._v(" "),
+      _c(
+        "section",
+        {
+          staticClass: "lg:mb-24 flex flex-col items-center max-w-1000 mx-auto"
+        },
+        [
+          _c(
+            "div",
+            { staticClass: "w-3/5 flex" },
+            [
+              _c(
+                "router-link",
+                {
+                  staticClass: "tw-recruit hover:bg-grey-lighter",
+                  attrs: { tag: "a", to: "/recruit" }
+                },
+                [_vm._v("\n                NANAでの働きがい\n            ")]
+              ),
+              _vm._v(" "),
+              _c(
+                "router-link",
+                {
+                  staticClass: "tw-recruit hover:bg-grey-lighter",
+                  attrs: { tag: "a", to: "/recruit/staff" }
+                },
+                [_vm._v("\n                先輩スタッフの声\n            ")]
+              )
+            ],
+            1
+          ),
+          _vm._v(" "),
+          _c(
+            "div",
+            { staticClass: "w-3/5 flex" },
+            [
+              _c(
+                "router-link",
+                {
+                  staticClass: "tw-recruit hover:bg-grey-lighter border-b",
+                  attrs: { tag: "a", to: "/recruit/day" }
+                },
+                [_vm._v("\n                スタッフの１日\n            ")]
+              ),
+              _vm._v(" "),
+              _c(
+                "router-link",
+                {
+                  staticClass: "tw-recruit hover:bg-grey-lighter border-b",
+                  attrs: { tag: "a", to: "/recruit/hire" }
+                },
+                [_vm._v("\n                募集要項\n            ")]
+              )
+            ],
+            1
+          )
+        ]
+      ),
+      _vm._v(" "),
+      _c("section", { staticClass: "lg:mb-24" }, [
+        _c(
+          "div",
+          {
+            staticClass: "max-w-1200 border-b border-grey pb-4 tw-line relative"
+          },
+          [
+            _c("div", { staticClass: "max-w-600" }, [
+              _c("ul", { staticClass: "flex justify-center" }, [
+                _c(
+                  "li",
+                  [
+                    _c(
+                      "router-link",
+                      {
+                        staticClass:
+                          "text-xs tracking-wider leading-loose text-grey-darkest hover:text-grey-dark",
+                        attrs: { to: "/" }
+                      },
+                      [
+                        _vm._v(
+                          "\n                            HOME | \n                        "
+                        )
+                      ]
+                    )
+                  ],
+                  1
+                ),
+                _vm._v(" "),
+                _c(
+                  "li",
+                  {
+                    staticClass:
+                      "text-xs tracking-wider leading-loose text-grey-darkest"
+                  },
+                  [
+                    _vm._v(
+                      "\n                        RECRUIT | \n                    "
+                    )
+                  ]
+                ),
+                _vm._v(" "),
+                _c(
+                  "li",
+                  [
+                    _c(
+                      "router-link",
+                      {
+                        staticClass:
+                          "text-xs tracking-wider leading-loose text-teal",
+                        attrs: { to: "/recruit/hire" }
+                      },
+                      [
+                        _vm._v(
+                          "\n                            募集要項\n                        "
+                        )
+                      ]
+                    )
+                  ],
+                  1
+                )
+              ])
+            ])
+          ]
+        )
+      ]),
+      _vm._v(" "),
+      _c("reserve")
+    ],
+    1
+  )
+}
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("section", { staticClass: "lg:mb-24 max-w-1000 mx-auto" }, [
+      _c("div", { staticClass: "tw-title text-center relative lg:mb-16" }, [
+        _c(
+          "span",
+          {
+            staticClass: "text-sm tracking-loose font-light absolute sub-title"
+          },
+          [_vm._v("RECRUIT")]
+        ),
+        _vm._v(" "),
+        _c(
+          "h2",
+          {
+            staticClass:
+              "leading-normal font-san tracking-wider text-normal p-8 pt-16"
+          },
+          [_vm._v("\n                募集要項")]
+        )
+      ]),
+      _vm._v(" "),
+      _c("div", [
+        _c("table", { staticClass: "tw-table" }, [
+          _c("tr", [
+            _c("th", [_vm._v("募集職種")]),
+            _vm._v(" "),
+            _c("td", [_vm._v("アイリスト・ネイリスト")])
+          ]),
+          _vm._v(" "),
+          _c("tr", [
+            _c("th", [_vm._v("仕事内容")]),
+            _vm._v(" "),
+            _c("td", [
+              _vm._v(
+                "\n                        施術を中心としたサロン業務全般 総合職での採用となりますので　商品開発　広告宣伝　マーケティング　女性を美しくする仕事ならば　なんでも ただの　マツエク・ネイル職人はいらないです\n                    "
+              )
+            ])
+          ]),
+          _vm._v(" "),
+          _c("tr", [
+            _c("th", [_vm._v("募集対象")]),
+            _vm._v(" "),
+            _c("td", [
+              _vm._v("\n                        ネイリスト"),
+              _c("br"),
+              _vm._v("\n                        ◎各種検定２級、または中級以上"),
+              _c("br"),
+              _vm._v("\n                        ◎サロンでの実務経験者のみ"),
+              _c("br"),
+              _vm._v(
+                "\n                        ネイル認定講師/ JNA・JNEC/美容師免許/管理美容師/資格取得予定者"
+              ),
+              _c("br"),
+              _vm._v("\n                        アイリスト"),
+              _c("br"),
+              _vm._v(
+                "\n                        美容師免許お持ちの方　経験者　未経験者問わず\n                    "
+              )
+            ])
+          ]),
+          _vm._v(" "),
+          _c("tr", [
+            _c("th", [_vm._v("勤務時間・休日")]),
+            _vm._v(" "),
+            _c("td", [
+              _vm._v("\n                        勤務時間　9：30~20：00"),
+              _c("br"),
+              _vm._v("\n                        休日　年間102日休"),
+              _c("br"),
+              _vm._v(
+                "\n                        2月・3月・4月・6月・7月・9月・11月・12月"
+              ),
+              _c("br"),
+              _vm._v("\n                        月8日間休（6日間+有給2日間"),
+              _c("br"),
+              _vm._v(
+                "\n                        1月・5月・8月　10日間休み　2019年103日休"
+              ),
+              _c("br"),
+              _vm._v(
+                "\n                        月10日間休（６日間+有給4日間\n                    "
+              )
+            ])
+          ]),
+          _vm._v(" "),
+          _c("tr", [
+            _c("th", [_vm._v("勤務地")]),
+            _vm._v(" "),
+            _c("td", [
+              _vm._v(
+                "\n                        福岡市中央区天神2-4-20天神プラッサ NANAミラノ・ラロシェル"
+              ),
+              _c("br"),
+              _vm._v(
+                "\n                        福岡市中央区大名1-13-23　LEX２１ビル５階 NANA　LISBON\n                    "
+              )
+            ])
+          ]),
+          _vm._v(" "),
+          _c("tr", [
+            _c("th", [_vm._v("待遇")]),
+            _vm._v(" "),
+            _c("td", [
+              _vm._v(
+                "\n                        ◎交通費支給（5,000円まで支給）"
+              ),
+              _c("br"),
+              _vm._v("\n                        基本給6ヶ月　180,000円"),
+              _c("br"),
+              _vm._v(
+                "\n                        7か月目から　190,000円\n                    "
+              )
+            ])
+          ]),
+          _vm._v(" "),
+          _c("tr", [
+            _c("th", [_vm._v("諸手当")]),
+            _vm._v(" "),
+            _c("td", [
+              _vm._v(
+                "\n                        ◎残業手当/１時間につき1,000~1,800円支給"
+              ),
+              _c("br"),
+              _vm._v(
+                "\n                        ◎役職手当　店長手当　チーフ手当　Web担当手当など\n                    "
+              )
+            ])
+          ]),
+          _vm._v(" "),
+          _c("tr", [
+            _c("th", [_vm._v("昇給・賞与")]),
+            _vm._v(" "),
+            _c("td", [
+              _vm._v(
+                "\n                        ◎賞与/年4回（現状毎年支給しております）"
+              ),
+              _c("br"),
+              _vm._v(
+                "\n                         評価制度に基づき1回につき3~15万円の支給あり"
+              ),
+              _c("br"),
+              _vm._v("\n                         2019年には賞与を年2回"),
+              _c("br"),
+              _vm._v(
+                "\n                         月給一ヶ月以上を支給できるようただ今準備中です。"
+              ),
+              _c("br"),
+              _vm._v(
+                "\n                        ◎昇給賞与　必ず年1回2000円\n                    "
+              )
+            ])
+          ]),
+          _vm._v(" "),
+          _c("tr", [
+            _c("th", [_vm._v("福利厚生")]),
+            _vm._v(" "),
+            _c("td", [
+              _vm._v(
+                "◎社会保険完備 ◎労災保険・雇用保険 ◎制服貸与 ◎研修旅行 ◎ランチ支給　週4日"
+              )
+            ])
+          ]),
+          _vm._v(" "),
+          _c("tr", [
+            _c("th", [_vm._v("教育制度")]),
+            _vm._v(" "),
+            _c("td", [
+              _vm._v(
+                "技術はしっかり丁寧に学べる環境を整えております 経験者でも１ヶ月　未経験者であれば4ヶ月かけて　他のスタッフと変わらない技術を身に着けるまでは　お客様に入れてません"
+              )
+            ])
+          ])
+        ])
+      ])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("section", { staticClass: "lg:mb-24 mx-auto max-w-1000" }, [
+      _c("div", { staticClass: "flex lg:mb-16" }, [
+        _c("p", { staticClass: "lg:w-1/12 relative" }, [
+          _c(
+            "span",
+            {
+              staticClass:
+                "ref-title text-2xl tracking-loose leading-loose border-b-2 border-black"
+            },
+            [_vm._v("ENTRY!")]
+          )
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "p-16 bg-teal-lightest lg:w-11/12" }, [
+          _c("div", { staticClass: "flex flex-col" }, [
+            _c(
+              "p",
+              {
+                staticClass:
+                  "text-center text-xs tracking-wider leading-loose text-grey-darker pt-4"
+              },
+              [
+                _vm._v(
+                  "\n                        それぞれの個性で “お客様を美しく”。"
+                ),
+                _c("br"),
+                _vm._v(
+                  "\n                        NANAで働きたいという方のご応募を心よりお待ちしております。\n                    "
+                )
+              ]
+            ),
+            _vm._v(" "),
+            _c("div", { staticClass: "w-full flex justify-center" }, [
+              _c(
+                "a",
+                {
+                  staticClass:
+                    "tw-btn inline-block h-50 leading-50 text-xs w-1/2 text-center hover:bg-yellow-lighter m-8",
+                  attrs: {
+                    href: "https://beauty.hotpepper.jp/kr/slnH000248220/review/"
+                  }
+                },
+                [
+                  _vm._v(
+                    "\n                            ネイルのご予約はこちら\n                        "
+                  )
+                ]
+              )
+            ])
+          ])
+        ])
+      ])
+    ])
+  }
+]
+render._withStripped = true
+
+
+
+/***/ }),
+
+/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/views/_RecruitStaff.vue?vue&type=template&id=50ee555c&scoped=true&":
+/*!***********************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/views/_RecruitStaff.vue?vue&type=template&id=50ee555c&scoped=true& ***!
+  \***********************************************************************************************************************************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "render", function() { return render; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return staticRenderFns; });
+var render = function() {
+  var _vm = this
+  var _h = _vm.$createElement
+  var _c = _vm._self._c || _h
+  return _c(
+    "div",
+    [
+      _c("section", { staticClass: "lg:mb-24" }, [
+        _c("div", { staticClass: "hero-concept" }),
+        _vm._v(" "),
+        _c("div", [
+          _c(
+            "svg",
+            {
+              staticClass: "svg-concept",
+              attrs: { width: "100%", height: "86" }
+            },
+            [
+              _c(
+                "text",
+                {
+                  attrs: {
+                    x: "50%",
+                    y: "50%",
+                    "text-anchor": "middle",
+                    "dominant-baseline": "central"
+                  }
+                },
+                [_vm._v("RECRUIT")]
+              )
+            ]
+          ),
+          _vm._v(" "),
+          _c("p", { staticClass: "text-center" }, [_vm._v("採用情報")])
+        ])
+      ]),
+      _vm._v(" "),
+      _c(
+        "section",
+        {
+          staticClass: "lg:mb-24 flex flex-col items-center max-w-1000 mx-auto"
+        },
+        [
+          _c(
+            "div",
+            { staticClass: "w-3/5 flex" },
+            [
+              _c(
+                "router-link",
+                {
+                  staticClass: "tw-recruit hover:bg-grey-lighter",
+                  attrs: { tag: "a", to: "/recruit" }
+                },
+                [_vm._v("\n                NANAでの働きがい\n            ")]
+              ),
+              _vm._v(" "),
+              _c(
+                "router-link",
+                {
+                  staticClass: "tw-recruit hover:bg-grey-lighter",
+                  attrs: { tag: "a", to: "/recruit/staff" }
+                },
+                [_vm._v("\n                先輩スタッフの声\n            ")]
+              )
+            ],
+            1
+          ),
+          _vm._v(" "),
+          _c(
+            "div",
+            { staticClass: "w-3/5 flex" },
+            [
+              _c(
+                "router-link",
+                {
+                  staticClass: "tw-recruit hover:bg-grey-lighter border-b",
+                  attrs: { tag: "a", to: "/recruit/day" }
+                },
+                [_vm._v("\n                スタッフの１日\n            ")]
+              ),
+              _vm._v(" "),
+              _c(
+                "router-link",
+                {
+                  staticClass: "tw-recruit hover:bg-grey-lighter border-b",
+                  attrs: { tag: "a", to: "/recruit/hire" }
+                },
+                [_vm._v("\n                募集要項\n            ")]
+              )
+            ],
+            1
+          )
+        ]
+      ),
+      _vm._v(" "),
+      _vm._m(0),
+      _vm._v(" "),
+      _vm._m(1),
+      _vm._v(" "),
+      _vm._m(2),
+      _vm._v(" "),
+      _vm._m(3),
+      _vm._v(" "),
+      _vm._m(4),
+      _vm._v(" "),
+      _c(
+        "section",
+        {
+          staticClass: "lg:mb-24 flex flex-col items-center max-w-1000 mx-auto"
+        },
+        [
+          _c(
+            "div",
+            { staticClass: "w-3/5 flex" },
+            [
+              _c(
+                "router-link",
+                {
+                  staticClass: "tw-recruit hover:bg-grey-lighter",
+                  attrs: { tag: "a", to: "/recruit" }
+                },
+                [_vm._v("\n                NANAでの働きがい\n            ")]
+              ),
+              _vm._v(" "),
+              _c(
+                "router-link",
+                {
+                  staticClass: "tw-recruit hover:bg-grey-lighter",
+                  attrs: { tag: "a", to: "/recruit/staff" }
+                },
+                [_vm._v("\n                先輩スタッフの声\n            ")]
+              )
+            ],
+            1
+          ),
+          _vm._v(" "),
+          _c(
+            "div",
+            { staticClass: "w-3/5 flex" },
+            [
+              _c(
+                "router-link",
+                {
+                  staticClass: "tw-recruit hover:bg-grey-lighter border-b",
+                  attrs: { tag: "a", to: "/recruit/day" }
+                },
+                [_vm._v("\n                スタッフの１日\n            ")]
+              ),
+              _vm._v(" "),
+              _c(
+                "router-link",
+                {
+                  staticClass: "tw-recruit hover:bg-grey-lighter border-b",
+                  attrs: { tag: "a", to: "/recruit/hire" }
+                },
+                [_vm._v("\n                募集要項\n            ")]
+              )
+            ],
+            1
+          )
+        ]
+      ),
+      _vm._v(" "),
+      _c("section", { staticClass: "lg:mb-24" }, [
+        _c(
+          "div",
+          {
+            staticClass: "max-w-1200 border-b border-grey pb-4 tw-line relative"
+          },
+          [
+            _c("div", { staticClass: "max-w-600" }, [
+              _c("ul", { staticClass: "flex justify-center" }, [
+                _c(
+                  "li",
+                  [
+                    _c(
+                      "router-link",
+                      {
+                        staticClass:
+                          "text-xs tracking-wider leading-loose text-grey-darkest hover:text-grey-dark",
+                        attrs: { to: "/" }
+                      },
+                      [
+                        _vm._v(
+                          "\n                            HOME | \n                        "
+                        )
+                      ]
+                    )
+                  ],
+                  1
+                ),
+                _vm._v(" "),
+                _c(
+                  "li",
+                  {
+                    staticClass:
+                      "text-xs tracking-wider leading-loose text-grey-darkest"
+                  },
+                  [
+                    _vm._v(
+                      "\n                        RECRUIT | \n                    "
+                    )
+                  ]
+                ),
+                _vm._v(" "),
+                _c(
+                  "li",
+                  [
+                    _c(
+                      "router-link",
+                      {
+                        staticClass:
+                          "text-xs tracking-wider leading-loose text-teal",
+                        attrs: { to: "/recruit/staff" }
+                      },
+                      [
+                        _vm._v(
+                          "\n                            先輩スタッフの声\n                        "
+                        )
+                      ]
+                    )
+                  ],
+                  1
+                )
+              ])
+            ])
+          ]
+        )
+      ]),
+      _vm._v(" "),
+      _c("reserve")
+    ],
+    1
+  )
+}
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("section", { staticClass: "lg:mb-24" }, [
+      _c(
+        "div",
+        { staticClass: "max-w-1000 mx-auto border-b border-grey-light" },
+        [
+          _c("div", { staticClass: "tw-title text-center relative lg:mb-16" }, [
+            _c(
+              "span",
+              {
+                staticClass:
+                  "text-sm tracking-loose font-light absolute sub-title"
+              },
+              [_vm._v("STAFF VOICE")]
+            ),
+            _vm._v(" "),
+            _c(
+              "h2",
+              {
+                staticClass:
+                  "leading-normal font-san tracking-wider text-normal p-8 pt-16"
+              },
+              [
+                _vm._v(
+                  "\n                    NANAで働くスタッフにインタビューをしました。"
+                )
+              ]
+            )
+          ]),
+          _vm._v(" "),
+          _c("div", { staticClass: "flex sm:flex-wrap sm:justify-center" }, [
+            _c("figure", { staticClass: "lg:w-2/5 pr-8" }, [
+              _c("img", { attrs: { src: "/staff/JUNNA.jpg", alt: "JUNNA" } })
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "lg:w-3/5 sm:w-full pl-8 lg:mb-16" }, [
+              _c(
+                "h2",
+                {
+                  staticClass:
+                    "tracking-wide leading-normal text-4xl font-adobe pb-6 mb-8"
+                },
+                [
+                  _vm._v("\n                        #JUNNA"),
+                  _c("br"),
+                  _vm._v(" "),
+                  _c(
+                    "span",
+                    {
+                      staticClass:
+                        "text-sm font-adobe tracking-loose leading-loose font-normal relative tw-bar"
+                    },
+                    [
+                      _vm._v(
+                        "\n                            施術歴3年 チーフ\n                        "
+                      )
+                    ]
+                  )
+                ]
+              ),
+              _vm._v(" "),
+              _c("article", { staticClass: "pb-4" }, [
+                _c(
+                  "h6",
+                  {
+                    staticClass:
+                      "tw-mask inline-block text-sm font-adobe tracking-loose"
+                  },
+                  [_vm._v("NANAに入社した理由はなんですか？")]
+                ),
+                _vm._v(" "),
+                _c(
+                  "p",
+                  {
+                    staticClass:
+                      "text-13 tracking-wider leading-loose py-4 text-grey-darkest"
+                  },
+                  [
+                    _vm._v(
+                      "\n                            未経験でも採用してくれる場所を探していたところ、NANAの募集を見かけました。口コミが多かったし、内容も良いものばかりだったので信頼できるお店だ、と思って応募しました。未経験でもお給料が他のお店よりも高かったことも、大きなポイントでしたね。NANAではお弁当が支給されるので、さらにお財布的にとても助かっています！\n                        "
+                    )
+                  ]
+                )
+              ]),
+              _vm._v(" "),
+              _c("article", { staticClass: "pb-4" }, [
+                _c(
+                  "h6",
+                  {
+                    staticClass:
+                      "tw-mask inline-block text-sm font-adobe tracking-loose"
+                  },
+                  [
+                    _vm._v(
+                      "\n                            会社の教育制度についてどのように感じていますか？\n                        "
+                    )
+                  ]
+                ),
+                _vm._v(" "),
+                _c(
+                  "p",
+                  {
+                    staticClass:
+                      "text-13 tracking-wider leading-loose py-4 text-grey-darkest"
+                  },
+                  [
+                    _vm._v(
+                      "\n                            NANAはひとつ上の先輩が教えるシステムをとっているので、実際に自分が教える側になったときが大変でした。教わっている時は言われたことに注意すればよかったのですが、いざ『技術』を教えるとなると、言葉に落とし込むのが難しかったりします。その分自分でも「どうやってこの作業をしてたっけ？」と考えるキッカケにもなりました。\n                        "
+                    )
+                  ]
+                )
+              ]),
+              _vm._v(" "),
+              _c("article", { staticClass: "pb-4" }, [
+                _c(
+                  "h6",
+                  {
+                    staticClass:
+                      "tw-mask inline-block text-sm font-adobe tracking-loose"
+                  },
+                  [
+                    _vm._v(
+                      "\n                            働いていて“楽しい”と感じるのはどんな時ですか？"
+                    )
+                  ]
+                ),
+                _vm._v(" "),
+                _c(
+                  "p",
+                  {
+                    staticClass:
+                      "text-13 tracking-wider leading-loose py-4 text-grey-darkest"
+                  },
+                  [
+                    _vm._v(
+                      "\n                            施術自体が楽しいです！丁寧にお客さまのご要望やイメージにあわせてつけていく時が、本当に楽しい瞬間ですね。\n                        "
+                    )
+                  ]
+                )
+              ])
+            ])
+          ])
+        ]
+      )
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("section", { staticClass: "lg:mb-24" }, [
+      _c(
+        "div",
+        { staticClass: "max-w-1000 mx-auto border-b border-grey-light" },
+        [
+          _c("div", { staticClass: "flex sm:flex-wrap sm:justify-center" }, [
+            _c("figure", { staticClass: "lg:w-2/5 pl-8 tw-flex-end" }, [
+              _c("img", { attrs: { src: "/staff/EMINA.jpg", alt: "EMINA" } })
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "lg:w-3/5 sm:w-full pl-8 lg:mb-16" }, [
+              _c(
+                "h2",
+                {
+                  staticClass:
+                    "tracking-wide leading-normal text-4xl font-adobe pb-6 mb-8"
+                },
+                [
+                  _vm._v("\n                        #EMINA"),
+                  _c("br"),
+                  _vm._v(" "),
+                  _c(
+                    "span",
+                    {
+                      staticClass:
+                        "text-sm font-adobe tracking-loose leading-loose font-normal relative tw-bar"
+                    },
+                    [
+                      _vm._v(
+                        "\n                            施術歴4年 チーフ\n                        "
+                      )
+                    ]
+                  )
+                ]
+              ),
+              _vm._v(" "),
+              _c("article", { staticClass: "pb-4" }, [
+                _c(
+                  "h6",
+                  {
+                    staticClass:
+                      "tw-mask inline-block text-sm font-adobe tracking-loose"
+                  },
+                  [
+                    _vm._v(
+                      "\n                            NANAに入社した理由はなんですか？\n                        "
+                    )
+                  ]
+                ),
+                _vm._v(" "),
+                _c(
+                  "p",
+                  {
+                    staticClass:
+                      "text-13 tracking-wider leading-loose py-4 text-grey-darkest"
+                  },
+                  [
+                    _vm._v(
+                      "\n                            実は採用される前は、お客さま側として通ってたんです。その時から、お店の雰囲気の良さとか、モチの良さとかの技術力の高さとかが気になってました。次に行く店は技術力の高いところがいいと考えてたので、雰囲気なども合わせて考えて、NANAに応募したという感じです。あとは、離職率が低いこととか、立地の良さもポイントでした。\n                        "
+                    )
+                  ]
+                )
+              ]),
+              _vm._v(" "),
+              _c("article", { staticClass: "pb-4" }, [
+                _c(
+                  "h6",
+                  {
+                    staticClass:
+                      "tw-mask inline-block text-sm font-adobe tracking-loose"
+                  },
+                  [
+                    _vm._v(
+                      "\n                            会社の教育制度についてどのように感じていますか？\n                        "
+                    )
+                  ]
+                ),
+                _vm._v(" "),
+                _c(
+                  "p",
+                  {
+                    staticClass:
+                      "text-13 tracking-wider leading-loose py-4 text-grey-darkest"
+                  },
+                  [
+                    _vm._v(
+                      "\n                            店長だけ、チーフだけ、とかじゃなくて、いろんな人にみてもらえて、その分たくさんの意見を聞けたのは良かったです。人によってやり方とか、使ってるツィザー（ピンセット）の種類とかまで違うので、型にとらわれなくていいんだ！　と思えました。自分の引き出しが増えた感覚です。\n                        "
+                    )
+                  ]
+                )
+              ]),
+              _vm._v(" "),
+              _c("article", { staticClass: "pb-4" }, [
+                _c(
+                  "h6",
+                  {
+                    staticClass:
+                      "tw-mask inline-block text-sm font-adobe tracking-loose"
+                  },
+                  [
+                    _vm._v(
+                      "\n                            働いていて“楽しい”と感じるのはどんな時ですか？\n                        "
+                    )
+                  ]
+                ),
+                _vm._v(" "),
+                _c(
+                  "p",
+                  {
+                    staticClass:
+                      "text-13 tracking-wider leading-loose py-4 text-grey-darkest"
+                  },
+                  [
+                    _vm._v(
+                      "\n                            キレイな仕上がりにできた時です！　やっぱりお客さまに喜んでもらえるのが一番嬉しいです。\n                        "
+                    )
+                  ]
+                )
+              ])
+            ])
+          ])
+        ]
+      )
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("section", { staticClass: "lg:mb-24" }, [
+      _c(
+        "div",
+        { staticClass: "max-w-1000 mx-auto border-b border-grey-light" },
+        [
+          _c("div", { staticClass: "flex sm:flex-wrap sm:justify-center" }, [
+            _c("figure", { staticClass: "lg:w-2/5 pr-8" }, [
+              _c("img", {
+                attrs: { src: "/staff/NATSUMI.jpg", alt: "NATSUMI" }
+              })
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "lg:w-3/5 sm:w-full pl-8 lg:mb-16" }, [
+              _c(
+                "h2",
+                {
+                  staticClass:
+                    "tracking-wide leading-normal text-4xl font-adobe pb-6 mb-8"
+                },
+                [
+                  _vm._v("\n                        #NATSUMI"),
+                  _c("br"),
+                  _vm._v(" "),
+                  _c(
+                    "span",
+                    {
+                      staticClass:
+                        "text-sm font-adobe tracking-loose leading-loose font-normal relative tw-bar"
+                    },
+                    [
+                      _vm._v(
+                        "\n                            施術歴3年 チーフ\n                        "
+                      )
+                    ]
+                  )
+                ]
+              ),
+              _vm._v(" "),
+              _c("article", { staticClass: "pb-4" }, [
+                _c(
+                  "h6",
+                  {
+                    staticClass:
+                      "tw-mask inline-block text-sm font-adobe tracking-loose"
+                  },
+                  [_vm._v("NANAに入社した理由はなんですか？")]
+                ),
+                _vm._v(" "),
+                _c(
+                  "p",
+                  {
+                    staticClass:
+                      "text-13 tracking-wider leading-loose py-4 text-grey-darkest"
+                  },
+                  [
+                    _vm._v(
+                      "\n                            美容師免許を持っているので、それを活かしたかったんです。それと、以前は大型チェーン店にいたので、意見とかも通りにくかったり、上下関係に疲れていたりもしました。NANAだと人数も少なくて、社長にもすぐに意見が通る環境だと感じたので応募しました。\n                        "
+                    )
+                  ]
+                )
+              ]),
+              _vm._v(" "),
+              _c("article", { staticClass: "pb-4" }, [
+                _c(
+                  "h6",
+                  {
+                    staticClass:
+                      "tw-mask inline-block text-sm font-adobe tracking-loose"
+                  },
+                  [
+                    _vm._v(
+                      "\n                            会社の教育制度についてどのように感じていますか？\n                        "
+                    )
+                  ]
+                ),
+                _vm._v(" "),
+                _c(
+                  "p",
+                  {
+                    staticClass:
+                      "text-13 tracking-wider leading-loose py-4 text-grey-darkest"
+                  },
+                  [
+                    _vm._v(
+                      "\n                            NANAは1期上の先輩が後輩を指導することになっているので、その距離感がベストですね。自分が教育係になったときも接しやすいです。歴の長い先輩にはやっぱり相談しにくい部分とかもあるし、逆に自分が先輩になった時に、歴が離れていると言いにくかったりすることも、直接教えている子にそっと伝えてもらうこともできるので。近すぎず遠すぎず、ちょうどいい距離だと思います。\n                        "
+                    )
+                  ]
+                )
+              ]),
+              _vm._v(" "),
+              _c("article", { staticClass: "pb-4" }, [
+                _c(
+                  "h6",
+                  {
+                    staticClass:
+                      "tw-mask inline-block text-sm font-adobe tracking-loose"
+                  },
+                  [
+                    _vm._v(
+                      "\n                            働いていて“楽しい”と感じるのはどんな時ですか？\n                        "
+                    )
+                  ]
+                ),
+                _vm._v(" "),
+                _c(
+                  "p",
+                  {
+                    staticClass:
+                      "text-13 tracking-wider leading-loose py-4 text-grey-darkest"
+                  },
+                  [
+                    _vm._v(
+                      "\n                            スタッフ同士の仲がいいんです。嘘みたいに聞こえるかもしれないけど、これは本当で。スタッフ同士で施術し合うことがNANAではできるんですけど、その時に他のチーフや店長から指名されたら「よっしゃ！」と思います。やっぱりみんなそれぞれ技術が高いので、その中から選んでもらえるのは嬉しいです。もちろんそれはお客さまも同じで、「キレイにしてもらってありがとう」とか言っていただくと、頑張ってよかった！って本当に感じます。\n                        "
+                    )
+                  ]
+                )
+              ])
+            ])
+          ])
+        ]
+      )
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("section", { staticClass: "lg:mb-24" }, [
+      _c(
+        "div",
+        { staticClass: "max-w-1000 mx-auto border-b border-grey-light" },
+        [
+          _c("div", { staticClass: "flex sm:flex-wrap sm:justify-center" }, [
+            _c("figure", { staticClass: "lg:w-2/5 pl-8 tw-flex-end" }, [
+              _c("img", { attrs: { src: "/staff/AKKO.jpg", alt: "AKKO" } })
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "lg:w-3/5 sm:w-full pl-8 lg:mb-16" }, [
+              _c(
+                "h2",
+                {
+                  staticClass:
+                    "tracking-wide leading-normal text-4xl font-adobe pb-6 mb-8"
+                },
+                [
+                  _vm._v("\n                        #AKKO"),
+                  _c("br"),
+                  _vm._v(" "),
+                  _c(
+                    "span",
+                    {
+                      staticClass:
+                        "text-sm font-adobe tracking-loose leading-loose font-normal relative tw-bar"
+                    },
+                    [
+                      _vm._v(
+                        "\n                            施術歴4年 チーフ\n                        "
+                      )
+                    ]
+                  )
+                ]
+              ),
+              _vm._v(" "),
+              _c("article", { staticClass: "pb-4" }, [
+                _c(
+                  "h6",
+                  {
+                    staticClass:
+                      "tw-mask inline-block text-sm font-adobe tracking-loose"
+                  },
+                  [
+                    _vm._v(
+                      "\n                            NANAに入社した理由はなんですか？\n                        "
+                    )
+                  ]
+                ),
+                _vm._v(" "),
+                _c(
+                  "p",
+                  {
+                    staticClass:
+                      "text-13 tracking-wider leading-loose py-4 text-grey-darkest"
+                  },
+                  [
+                    _vm._v(
+                      "\n                            わたしはオープニングスタッフとして関われる部分が一番大きかったです。すでにやり方があるという場所は経験していたので、次はなにか自分でイチから、プライドを持って『ネイリストの仕事』ができるやりがいがあるなと。次は、離職率が低いところですね。退職するとしても、結婚や出産など、ポジティブな理由が多いことも魅力的でした。あとは、週に4回程度、お昼ご飯用のお弁当を栄養士さんが作って店舗に持ってきてくれるのですが、それも嬉しいポイントでした。\n                        "
+                    )
+                  ]
+                )
+              ]),
+              _vm._v(" "),
+              _c("article", { staticClass: "pb-4" }, [
+                _c(
+                  "h6",
+                  {
+                    staticClass:
+                      "tw-mask inline-block text-sm font-adobe tracking-loose"
+                  },
+                  [
+                    _vm._v(
+                      "\n                            会社の教育制度についてどのように感じていますか？\n                        "
+                    )
+                  ]
+                ),
+                _vm._v(" "),
+                _c(
+                  "p",
+                  {
+                    staticClass:
+                      "text-13 tracking-wider leading-loose py-4 text-grey-darkest"
+                  },
+                  [
+                    _vm._v(
+                      "\n                            丁寧に教えてくれるところは素直にすごいなと思ってます。やり忘れていたこともいつの間にか終わってて、注意されるというよりは“気づかせてくれる”といった感じ。自分で考えて行動するチカラが身につきますね。\n                        "
+                    )
+                  ]
+                )
+              ]),
+              _vm._v(" "),
+              _c("article", { staticClass: "pb-4" }, [
+                _c(
+                  "h6",
+                  {
+                    staticClass:
+                      "tw-mask inline-block text-sm font-adobe tracking-loose"
+                  },
+                  [
+                    _vm._v(
+                      "\n                            働いていて“楽しい”と感じるのはどんな時ですか？\n                        "
+                    )
+                  ]
+                ),
+                _vm._v(" "),
+                _c(
+                  "p",
+                  {
+                    staticClass:
+                      "text-13 tracking-wider leading-loose py-4 text-grey-darkest"
+                  },
+                  [
+                    _vm._v(
+                      "\n                            お客さまに頼ってもらった時です！「ノープランで来たんですけど」と言われても、「じゃあこうしましょう！」って提案ができて、それを喜んでもらえるんです。お客さまとコミュニケーションを取りながら仕事ができるのは、本当に楽しいです。\n                        "
+                    )
+                  ]
+                )
+              ])
+            ])
+          ])
+        ]
+      )
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("section", { staticClass: "lg:mb-24 mx-auto max-w-1000" }, [
+      _c("div", { staticClass: "flex lg:mb-16" }, [
+        _c("p", { staticClass: "lg:w-1/12 relative" }, [
+          _c(
+            "span",
+            {
+              staticClass:
+                "ref-title text-2xl tracking-loose leading-loose border-b-2 border-black"
+            },
+            [_vm._v("ENTRY!")]
+          )
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "p-16 bg-teal-lightest lg:w-11/12" }, [
+          _c("div", { staticClass: "flex flex-col" }, [
+            _c(
+              "p",
+              {
+                staticClass:
+                  "text-center text-xs tracking-wider leading-loose text-grey-darker pt-4"
+              },
+              [
+                _vm._v(
+                  "\n                        それぞれの個性で “お客様を美しく”。"
+                ),
+                _c("br"),
+                _vm._v(
+                  "\n                        NANAで働きたいという方のご応募を心よりお待ちしております。\n                    "
+                )
+              ]
+            ),
+            _vm._v(" "),
+            _c("div", { staticClass: "w-full flex justify-center" }, [
+              _c(
+                "a",
+                {
+                  staticClass:
+                    "tw-btn inline-block h-50 leading-50 text-xs w-1/2 text-center hover:bg-yellow-lighter m-8",
+                  attrs: {
+                    href: "https://beauty.hotpepper.jp/kr/slnH000248220/review/"
+                  }
+                },
+                [
+                  _vm._v(
+                    "\n                            ネイルのご予約はこちら\n                        "
+                  )
+                ]
+              )
             ])
           ])
         ])
@@ -57103,10 +62075,34 @@ var routes = [{
 }, {
   path: '/recruit',
   component: __webpack_require__(/*! ./views/Recruit.vue */ "./resources/js/views/Recruit.vue").default
+}, {
+  path: '/recruit/staff',
+  component: __webpack_require__(/*! ./views/_RecruitStaff */ "./resources/js/views/_RecruitStaff.vue").default
+}, {
+  path: '/recruit/day',
+  component: __webpack_require__(/*! ./views/_RecruitDay */ "./resources/js/views/_RecruitDay.vue").default
+}, {
+  path: '/recruit/hire',
+  component: __webpack_require__(/*! ./views/_RecruitHire */ "./resources/js/views/_RecruitHire.vue").default
 }];
 /* harmony default export */ __webpack_exports__["default"] = (new vue_router__WEBPACK_IMPORTED_MODULE_0__["default"]({
   routes: routes,
-  linkActiveClass: 'is-active'
+  linkActiveClass: 'is-active',
+  linkExactActiveClass: 'is-exact-active',
+  scrollBehavior: function scrollBehavior(to) {
+    if (to.hash) return {
+      selector: to.hash
+    }; // 如果有指定hash的話滾動到hash的位置
+
+    return new Promise(function (resolve) {
+      setTimeout(function () {
+        resolve({
+          x: 0,
+          y: 0
+        });
+      }, 500);
+    });
+  }
 }));
 
 /***/ }),
@@ -57802,6 +62798,267 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Voice_vue_vue_type_template_id_3cb21ea3_scoped_true___WEBPACK_IMPORTED_MODULE_0__["render"]; });
 
 /* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Voice_vue_vue_type_template_id_3cb21ea3_scoped_true___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
+
+
+
+/***/ }),
+
+/***/ "./resources/js/views/_RecruitDay.vue":
+/*!********************************************!*\
+  !*** ./resources/js/views/_RecruitDay.vue ***!
+  \********************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _RecruitDay_vue_vue_type_template_id_2c7f068e_scoped_true___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./_RecruitDay.vue?vue&type=template&id=2c7f068e&scoped=true& */ "./resources/js/views/_RecruitDay.vue?vue&type=template&id=2c7f068e&scoped=true&");
+/* harmony import */ var _RecruitDay_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./_RecruitDay.vue?vue&type=script&lang=js& */ "./resources/js/views/_RecruitDay.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport *//* harmony import */ var _RecruitDay_vue_vue_type_style_index_0_id_2c7f068e_scoped_true_lang_scss___WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./_RecruitDay.vue?vue&type=style&index=0&id=2c7f068e&scoped=true&lang=scss& */ "./resources/js/views/_RecruitDay.vue?vue&type=style&index=0&id=2c7f068e&scoped=true&lang=scss&");
+/* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+
+
+
+
+
+
+/* normalize component */
+
+var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_3__["default"])(
+  _RecruitDay_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__["default"],
+  _RecruitDay_vue_vue_type_template_id_2c7f068e_scoped_true___WEBPACK_IMPORTED_MODULE_0__["render"],
+  _RecruitDay_vue_vue_type_template_id_2c7f068e_scoped_true___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"],
+  false,
+  null,
+  "2c7f068e",
+  null
+  
+)
+
+/* hot reload */
+if (false) { var api; }
+component.options.__file = "resources/js/views/_RecruitDay.vue"
+/* harmony default export */ __webpack_exports__["default"] = (component.exports);
+
+/***/ }),
+
+/***/ "./resources/js/views/_RecruitDay.vue?vue&type=script&lang=js&":
+/*!*********************************************************************!*\
+  !*** ./resources/js/views/_RecruitDay.vue?vue&type=script&lang=js& ***!
+  \*********************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_RecruitDay_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/babel-loader/lib??ref--4-0!../../../node_modules/vue-loader/lib??vue-loader-options!./_RecruitDay.vue?vue&type=script&lang=js& */ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/views/_RecruitDay.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport */ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_RecruitDay_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__["default"]); 
+
+/***/ }),
+
+/***/ "./resources/js/views/_RecruitDay.vue?vue&type=style&index=0&id=2c7f068e&scoped=true&lang=scss&":
+/*!******************************************************************************************************!*\
+  !*** ./resources/js/views/_RecruitDay.vue?vue&type=style&index=0&id=2c7f068e&scoped=true&lang=scss& ***!
+  \******************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_style_loader_index_js_node_modules_css_loader_index_js_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_7_2_node_modules_sass_loader_lib_loader_js_ref_7_3_node_modules_vue_loader_lib_index_js_vue_loader_options_RecruitDay_vue_vue_type_style_index_0_id_2c7f068e_scoped_true_lang_scss___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/style-loader!../../../node_modules/css-loader!../../../node_modules/vue-loader/lib/loaders/stylePostLoader.js!../../../node_modules/postcss-loader/src??ref--7-2!../../../node_modules/sass-loader/lib/loader.js??ref--7-3!../../../node_modules/vue-loader/lib??vue-loader-options!./_RecruitDay.vue?vue&type=style&index=0&id=2c7f068e&scoped=true&lang=scss& */ "./node_modules/style-loader/index.js!./node_modules/css-loader/index.js!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/lib/loader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/views/_RecruitDay.vue?vue&type=style&index=0&id=2c7f068e&scoped=true&lang=scss&");
+/* harmony import */ var _node_modules_style_loader_index_js_node_modules_css_loader_index_js_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_7_2_node_modules_sass_loader_lib_loader_js_ref_7_3_node_modules_vue_loader_lib_index_js_vue_loader_options_RecruitDay_vue_vue_type_style_index_0_id_2c7f068e_scoped_true_lang_scss___WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_style_loader_index_js_node_modules_css_loader_index_js_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_7_2_node_modules_sass_loader_lib_loader_js_ref_7_3_node_modules_vue_loader_lib_index_js_vue_loader_options_RecruitDay_vue_vue_type_style_index_0_id_2c7f068e_scoped_true_lang_scss___WEBPACK_IMPORTED_MODULE_0__);
+/* harmony reexport (unknown) */ for(var __WEBPACK_IMPORT_KEY__ in _node_modules_style_loader_index_js_node_modules_css_loader_index_js_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_7_2_node_modules_sass_loader_lib_loader_js_ref_7_3_node_modules_vue_loader_lib_index_js_vue_loader_options_RecruitDay_vue_vue_type_style_index_0_id_2c7f068e_scoped_true_lang_scss___WEBPACK_IMPORTED_MODULE_0__) if(__WEBPACK_IMPORT_KEY__ !== 'default') (function(key) { __webpack_require__.d(__webpack_exports__, key, function() { return _node_modules_style_loader_index_js_node_modules_css_loader_index_js_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_7_2_node_modules_sass_loader_lib_loader_js_ref_7_3_node_modules_vue_loader_lib_index_js_vue_loader_options_RecruitDay_vue_vue_type_style_index_0_id_2c7f068e_scoped_true_lang_scss___WEBPACK_IMPORTED_MODULE_0__[key]; }) }(__WEBPACK_IMPORT_KEY__));
+ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_style_loader_index_js_node_modules_css_loader_index_js_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_7_2_node_modules_sass_loader_lib_loader_js_ref_7_3_node_modules_vue_loader_lib_index_js_vue_loader_options_RecruitDay_vue_vue_type_style_index_0_id_2c7f068e_scoped_true_lang_scss___WEBPACK_IMPORTED_MODULE_0___default.a); 
+
+/***/ }),
+
+/***/ "./resources/js/views/_RecruitDay.vue?vue&type=template&id=2c7f068e&scoped=true&":
+/*!***************************************************************************************!*\
+  !*** ./resources/js/views/_RecruitDay.vue?vue&type=template&id=2c7f068e&scoped=true& ***!
+  \***************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_RecruitDay_vue_vue_type_template_id_2c7f068e_scoped_true___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../node_modules/vue-loader/lib??vue-loader-options!./_RecruitDay.vue?vue&type=template&id=2c7f068e&scoped=true& */ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/views/_RecruitDay.vue?vue&type=template&id=2c7f068e&scoped=true&");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_RecruitDay_vue_vue_type_template_id_2c7f068e_scoped_true___WEBPACK_IMPORTED_MODULE_0__["render"]; });
+
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_RecruitDay_vue_vue_type_template_id_2c7f068e_scoped_true___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
+
+
+
+/***/ }),
+
+/***/ "./resources/js/views/_RecruitHire.vue":
+/*!*********************************************!*\
+  !*** ./resources/js/views/_RecruitHire.vue ***!
+  \*********************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _RecruitHire_vue_vue_type_template_id_bde6771c_scoped_true___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./_RecruitHire.vue?vue&type=template&id=bde6771c&scoped=true& */ "./resources/js/views/_RecruitHire.vue?vue&type=template&id=bde6771c&scoped=true&");
+/* harmony import */ var _RecruitHire_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./_RecruitHire.vue?vue&type=script&lang=js& */ "./resources/js/views/_RecruitHire.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport *//* harmony import */ var _RecruitHire_vue_vue_type_style_index_0_id_bde6771c_scoped_true_lang_scss___WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./_RecruitHire.vue?vue&type=style&index=0&id=bde6771c&scoped=true&lang=scss& */ "./resources/js/views/_RecruitHire.vue?vue&type=style&index=0&id=bde6771c&scoped=true&lang=scss&");
+/* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+
+
+
+
+
+
+/* normalize component */
+
+var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_3__["default"])(
+  _RecruitHire_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__["default"],
+  _RecruitHire_vue_vue_type_template_id_bde6771c_scoped_true___WEBPACK_IMPORTED_MODULE_0__["render"],
+  _RecruitHire_vue_vue_type_template_id_bde6771c_scoped_true___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"],
+  false,
+  null,
+  "bde6771c",
+  null
+  
+)
+
+/* hot reload */
+if (false) { var api; }
+component.options.__file = "resources/js/views/_RecruitHire.vue"
+/* harmony default export */ __webpack_exports__["default"] = (component.exports);
+
+/***/ }),
+
+/***/ "./resources/js/views/_RecruitHire.vue?vue&type=script&lang=js&":
+/*!**********************************************************************!*\
+  !*** ./resources/js/views/_RecruitHire.vue?vue&type=script&lang=js& ***!
+  \**********************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_RecruitHire_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/babel-loader/lib??ref--4-0!../../../node_modules/vue-loader/lib??vue-loader-options!./_RecruitHire.vue?vue&type=script&lang=js& */ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/views/_RecruitHire.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport */ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_RecruitHire_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__["default"]); 
+
+/***/ }),
+
+/***/ "./resources/js/views/_RecruitHire.vue?vue&type=style&index=0&id=bde6771c&scoped=true&lang=scss&":
+/*!*******************************************************************************************************!*\
+  !*** ./resources/js/views/_RecruitHire.vue?vue&type=style&index=0&id=bde6771c&scoped=true&lang=scss& ***!
+  \*******************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_style_loader_index_js_node_modules_css_loader_index_js_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_7_2_node_modules_sass_loader_lib_loader_js_ref_7_3_node_modules_vue_loader_lib_index_js_vue_loader_options_RecruitHire_vue_vue_type_style_index_0_id_bde6771c_scoped_true_lang_scss___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/style-loader!../../../node_modules/css-loader!../../../node_modules/vue-loader/lib/loaders/stylePostLoader.js!../../../node_modules/postcss-loader/src??ref--7-2!../../../node_modules/sass-loader/lib/loader.js??ref--7-3!../../../node_modules/vue-loader/lib??vue-loader-options!./_RecruitHire.vue?vue&type=style&index=0&id=bde6771c&scoped=true&lang=scss& */ "./node_modules/style-loader/index.js!./node_modules/css-loader/index.js!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/lib/loader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/views/_RecruitHire.vue?vue&type=style&index=0&id=bde6771c&scoped=true&lang=scss&");
+/* harmony import */ var _node_modules_style_loader_index_js_node_modules_css_loader_index_js_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_7_2_node_modules_sass_loader_lib_loader_js_ref_7_3_node_modules_vue_loader_lib_index_js_vue_loader_options_RecruitHire_vue_vue_type_style_index_0_id_bde6771c_scoped_true_lang_scss___WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_style_loader_index_js_node_modules_css_loader_index_js_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_7_2_node_modules_sass_loader_lib_loader_js_ref_7_3_node_modules_vue_loader_lib_index_js_vue_loader_options_RecruitHire_vue_vue_type_style_index_0_id_bde6771c_scoped_true_lang_scss___WEBPACK_IMPORTED_MODULE_0__);
+/* harmony reexport (unknown) */ for(var __WEBPACK_IMPORT_KEY__ in _node_modules_style_loader_index_js_node_modules_css_loader_index_js_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_7_2_node_modules_sass_loader_lib_loader_js_ref_7_3_node_modules_vue_loader_lib_index_js_vue_loader_options_RecruitHire_vue_vue_type_style_index_0_id_bde6771c_scoped_true_lang_scss___WEBPACK_IMPORTED_MODULE_0__) if(__WEBPACK_IMPORT_KEY__ !== 'default') (function(key) { __webpack_require__.d(__webpack_exports__, key, function() { return _node_modules_style_loader_index_js_node_modules_css_loader_index_js_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_7_2_node_modules_sass_loader_lib_loader_js_ref_7_3_node_modules_vue_loader_lib_index_js_vue_loader_options_RecruitHire_vue_vue_type_style_index_0_id_bde6771c_scoped_true_lang_scss___WEBPACK_IMPORTED_MODULE_0__[key]; }) }(__WEBPACK_IMPORT_KEY__));
+ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_style_loader_index_js_node_modules_css_loader_index_js_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_7_2_node_modules_sass_loader_lib_loader_js_ref_7_3_node_modules_vue_loader_lib_index_js_vue_loader_options_RecruitHire_vue_vue_type_style_index_0_id_bde6771c_scoped_true_lang_scss___WEBPACK_IMPORTED_MODULE_0___default.a); 
+
+/***/ }),
+
+/***/ "./resources/js/views/_RecruitHire.vue?vue&type=template&id=bde6771c&scoped=true&":
+/*!****************************************************************************************!*\
+  !*** ./resources/js/views/_RecruitHire.vue?vue&type=template&id=bde6771c&scoped=true& ***!
+  \****************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_RecruitHire_vue_vue_type_template_id_bde6771c_scoped_true___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../node_modules/vue-loader/lib??vue-loader-options!./_RecruitHire.vue?vue&type=template&id=bde6771c&scoped=true& */ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/views/_RecruitHire.vue?vue&type=template&id=bde6771c&scoped=true&");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_RecruitHire_vue_vue_type_template_id_bde6771c_scoped_true___WEBPACK_IMPORTED_MODULE_0__["render"]; });
+
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_RecruitHire_vue_vue_type_template_id_bde6771c_scoped_true___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
+
+
+
+/***/ }),
+
+/***/ "./resources/js/views/_RecruitStaff.vue":
+/*!**********************************************!*\
+  !*** ./resources/js/views/_RecruitStaff.vue ***!
+  \**********************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _RecruitStaff_vue_vue_type_template_id_50ee555c_scoped_true___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./_RecruitStaff.vue?vue&type=template&id=50ee555c&scoped=true& */ "./resources/js/views/_RecruitStaff.vue?vue&type=template&id=50ee555c&scoped=true&");
+/* harmony import */ var _RecruitStaff_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./_RecruitStaff.vue?vue&type=script&lang=js& */ "./resources/js/views/_RecruitStaff.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport *//* harmony import */ var _RecruitStaff_vue_vue_type_style_index_0_id_50ee555c_scoped_true_lang_scss___WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./_RecruitStaff.vue?vue&type=style&index=0&id=50ee555c&scoped=true&lang=scss& */ "./resources/js/views/_RecruitStaff.vue?vue&type=style&index=0&id=50ee555c&scoped=true&lang=scss&");
+/* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+
+
+
+
+
+
+/* normalize component */
+
+var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_3__["default"])(
+  _RecruitStaff_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__["default"],
+  _RecruitStaff_vue_vue_type_template_id_50ee555c_scoped_true___WEBPACK_IMPORTED_MODULE_0__["render"],
+  _RecruitStaff_vue_vue_type_template_id_50ee555c_scoped_true___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"],
+  false,
+  null,
+  "50ee555c",
+  null
+  
+)
+
+/* hot reload */
+if (false) { var api; }
+component.options.__file = "resources/js/views/_RecruitStaff.vue"
+/* harmony default export */ __webpack_exports__["default"] = (component.exports);
+
+/***/ }),
+
+/***/ "./resources/js/views/_RecruitStaff.vue?vue&type=script&lang=js&":
+/*!***********************************************************************!*\
+  !*** ./resources/js/views/_RecruitStaff.vue?vue&type=script&lang=js& ***!
+  \***********************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_RecruitStaff_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/babel-loader/lib??ref--4-0!../../../node_modules/vue-loader/lib??vue-loader-options!./_RecruitStaff.vue?vue&type=script&lang=js& */ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/views/_RecruitStaff.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport */ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_RecruitStaff_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__["default"]); 
+
+/***/ }),
+
+/***/ "./resources/js/views/_RecruitStaff.vue?vue&type=style&index=0&id=50ee555c&scoped=true&lang=scss&":
+/*!********************************************************************************************************!*\
+  !*** ./resources/js/views/_RecruitStaff.vue?vue&type=style&index=0&id=50ee555c&scoped=true&lang=scss& ***!
+  \********************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_style_loader_index_js_node_modules_css_loader_index_js_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_7_2_node_modules_sass_loader_lib_loader_js_ref_7_3_node_modules_vue_loader_lib_index_js_vue_loader_options_RecruitStaff_vue_vue_type_style_index_0_id_50ee555c_scoped_true_lang_scss___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/style-loader!../../../node_modules/css-loader!../../../node_modules/vue-loader/lib/loaders/stylePostLoader.js!../../../node_modules/postcss-loader/src??ref--7-2!../../../node_modules/sass-loader/lib/loader.js??ref--7-3!../../../node_modules/vue-loader/lib??vue-loader-options!./_RecruitStaff.vue?vue&type=style&index=0&id=50ee555c&scoped=true&lang=scss& */ "./node_modules/style-loader/index.js!./node_modules/css-loader/index.js!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/lib/loader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/views/_RecruitStaff.vue?vue&type=style&index=0&id=50ee555c&scoped=true&lang=scss&");
+/* harmony import */ var _node_modules_style_loader_index_js_node_modules_css_loader_index_js_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_7_2_node_modules_sass_loader_lib_loader_js_ref_7_3_node_modules_vue_loader_lib_index_js_vue_loader_options_RecruitStaff_vue_vue_type_style_index_0_id_50ee555c_scoped_true_lang_scss___WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_style_loader_index_js_node_modules_css_loader_index_js_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_7_2_node_modules_sass_loader_lib_loader_js_ref_7_3_node_modules_vue_loader_lib_index_js_vue_loader_options_RecruitStaff_vue_vue_type_style_index_0_id_50ee555c_scoped_true_lang_scss___WEBPACK_IMPORTED_MODULE_0__);
+/* harmony reexport (unknown) */ for(var __WEBPACK_IMPORT_KEY__ in _node_modules_style_loader_index_js_node_modules_css_loader_index_js_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_7_2_node_modules_sass_loader_lib_loader_js_ref_7_3_node_modules_vue_loader_lib_index_js_vue_loader_options_RecruitStaff_vue_vue_type_style_index_0_id_50ee555c_scoped_true_lang_scss___WEBPACK_IMPORTED_MODULE_0__) if(__WEBPACK_IMPORT_KEY__ !== 'default') (function(key) { __webpack_require__.d(__webpack_exports__, key, function() { return _node_modules_style_loader_index_js_node_modules_css_loader_index_js_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_7_2_node_modules_sass_loader_lib_loader_js_ref_7_3_node_modules_vue_loader_lib_index_js_vue_loader_options_RecruitStaff_vue_vue_type_style_index_0_id_50ee555c_scoped_true_lang_scss___WEBPACK_IMPORTED_MODULE_0__[key]; }) }(__WEBPACK_IMPORT_KEY__));
+ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_style_loader_index_js_node_modules_css_loader_index_js_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_7_2_node_modules_sass_loader_lib_loader_js_ref_7_3_node_modules_vue_loader_lib_index_js_vue_loader_options_RecruitStaff_vue_vue_type_style_index_0_id_50ee555c_scoped_true_lang_scss___WEBPACK_IMPORTED_MODULE_0___default.a); 
+
+/***/ }),
+
+/***/ "./resources/js/views/_RecruitStaff.vue?vue&type=template&id=50ee555c&scoped=true&":
+/*!*****************************************************************************************!*\
+  !*** ./resources/js/views/_RecruitStaff.vue?vue&type=template&id=50ee555c&scoped=true& ***!
+  \*****************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_RecruitStaff_vue_vue_type_template_id_50ee555c_scoped_true___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../node_modules/vue-loader/lib??vue-loader-options!./_RecruitStaff.vue?vue&type=template&id=50ee555c&scoped=true& */ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/views/_RecruitStaff.vue?vue&type=template&id=50ee555c&scoped=true&");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_RecruitStaff_vue_vue_type_template_id_50ee555c_scoped_true___WEBPACK_IMPORTED_MODULE_0__["render"]; });
+
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_RecruitStaff_vue_vue_type_template_id_50ee555c_scoped_true___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
 
 
 

@@ -33,9 +33,31 @@ let routes = [
         path: '/recruit',
         component: require('./views/Recruit.vue').default,
     },
+    {
+        path: '/recruit/staff',
+        component: require('./views/_RecruitStaff').default,
+    },
+    {
+        path: '/recruit/day',
+        component: require('./views/_RecruitDay').default,
+    },
+    {
+        path: '/recruit/hire',
+        component: require('./views/_RecruitHire').default,
+    }
 ];
 
 export default new VueRouter({
     routes,
-    linkActiveClass: 'is-active'
+    linkActiveClass: 'is-active',
+    linkExactActiveClass: 'is-exact-active',
+    scrollBehavior(to) {
+        if (to.hash) return {selector: to.hash}; // 如果有指定hash的話滾動到hash的位置
+
+        return new Promise((resolve) => {
+            setTimeout(() => {
+                resolve({ x: 0, y: 0 })
+            }, 500)
+        })
+    }
 });

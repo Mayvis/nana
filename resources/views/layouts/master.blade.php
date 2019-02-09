@@ -21,7 +21,9 @@
 
     <main>
         <div class="mx-auto" style="min-height: 6000px;">
-            <router-view></router-view>
+            <transition name="fade" mode="out-in">
+                <router-view></router-view>
+            </transition>
         </div>
     </main>
 
@@ -30,7 +32,9 @@
             <span class="leading-50">Copyright © CASABLANCA All Rights Reserved.</span>
 
             <div>
-                <a href="/" class="leading-50 text-grey-darker">Recruit</a> / <a href="/" class="leading-50 text-grey-darker">Site Map</a>
+                <a href="/" class="leading-50 text-grey-darker">Recruit</a> / <a href="/"
+                                                                                 class="leading-50 text-grey-darker">Site
+                    Map</a>
             </div>
         </div>
     </footer>
