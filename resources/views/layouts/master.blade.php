@@ -20,9 +20,11 @@
     @include('layouts.header')
 
     <main>
-        <div class="mx-auto" style="min-height: 6000px;">
+        <div class="mx-auto">
             <transition name="fade" mode="out-in">
-                <router-view></router-view>
+                <keep-alive>
+                    <router-view></router-view>
+                </keep-alive>
             </transition>
         </div>
     </main>

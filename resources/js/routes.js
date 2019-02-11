@@ -26,6 +26,18 @@ let routes = [
         component: require('./views/Beauty.vue').default,
     },
     {
+        path: '/beauty/care',
+        component: require('./views/_BeautyCare').default,
+    },
+    {
+        path: '/beauty/life',
+        component: require('./views/_BeautyLife').default,
+    },
+    {
+        path: '/beauty/gallery',
+        component: require('./views/_BeautyGallery').default,
+    },
+    {
         path: '/nail',
         component: require('./views/Nail.vue').default,
     },
