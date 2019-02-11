@@ -37,8 +37,8 @@
                 const accessToken = '10852513017.c1b883c.3ebd9833bd2840f8be1e0d808949afd2';
 
                 // using jquery to handle axios cors problem.
-                $.get("https://api.instagram.com/v1/users/self/media/recent/?access_token=" + accessToken, res => {
-                    $.each(res.data, index => {
+                window.$.get("https://api.instagram.com/v1/users/self/media/recent/?access_token=" + accessToken, res => {
+                    window.$.each(res.data, index => {
                         flkty.append($('<img class="carousel-cell" src="' + res.data[index].images.standard_resolution.url + '" alt="instagram">'));
                     });
                 });
