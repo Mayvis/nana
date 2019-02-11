@@ -12,219 +12,228 @@
 
         <section class="lg:mb-24 flex flex-col items-center max-w-1000 mx-auto">
             <div class="w-3/5 flex">
-                <router-link tag="a" to="/recruit" class="tw-recruit hover:bg-grey-lighter">
+                <router-link tag="a" to="/recruit" class="tw-link-group hover:bg-grey-lighter">
                     NANAでの働きがい
                 </router-link>
 
-                <router-link tag="a" to="/recruit/staff" class="tw-recruit hover:bg-grey-lighter">
+                <router-link tag="a" to="/recruit/staff" class="tw-link-group hover:bg-grey-lighter">
                     先輩スタッフの声
                 </router-link>
             </div>
 
             <div class="w-3/5 flex">
-                <router-link tag="a" to="/recruit/day" class="tw-recruit hover:bg-grey-lighter border-b">
+                <router-link tag="a" to="/recruit/day" class="tw-link-group hover:bg-grey-lighter border-b">
                     スタッフの１日
                 </router-link>
 
-                <router-link tag="a" to="/recruit/hire" class="tw-recruit hover:bg-grey-lighter border-b">
+                <router-link tag="a" to="/recruit/hire" class="tw-link-group hover:bg-grey-lighter border-b">
                     募集要項
                 </router-link>
             </div>
         </section>
 
-        <!--   01    -->
         <section class="lg:mb-24">
             <div class="max-w-1000 mx-auto">
-
                 <div class="tw-title text-center relative lg:mb-16">
-                    <span class="text-350 absolute sub-title">01</span>
-                    <h2 class="leading-normal font-san p-8">“愛されネイル”で気持ちを</h2>
-                </div>
-
-                <div class="flex sm:flex-wrap sm:justify-center px-4">
-                    <figure class="lg:w-1/3 pl-8 tw-flex-end">
-                        <img src="/decoration/recruit/recruit_5.jpg" alt="“愛されネイル”で気持ちを上げて、一歩踏み出そう">
-                    </figure>
-
-                    <div class="lg:w-2/3 sm:w-full pr-8 lg:mb-16">
-                        <article>
-                            <h3 class="text-teal tracking-wide leading-loose text-base pb-6">
-                                季節、イベント、髪型に合わせたデザイン。<br>
-                                指先ひとつで、モチベーションが変わる。
-                            </h3>
-                            <p class="text-13 tracking-wider leading-loose pb-8 text-grey-darkest">
-                                ネイルは、日常生活に絶対に必要なもの、ではありません。ではなぜ、みんなネイルをするのでしょうか？「
-                                <span class="tw-mask">ネイルをしていると、気分が上がる</span>
-                                」。小さな変化ですが、日常生活にあっては大きな変化です。
-                            </p>
-                            <p class="text-13 tracking-wider leading-loose pb-8 text-grey-darkest">
-                                手元はやはり、
-                                <span class="tw-mask">何をしていても視界に入りやすい部分</span>
-                                です。そこが美しいネイルに彩られているだけで、モチベーションが変わります。「週末のイベントに合わせたカラーにしてほしい」「これからの季節のモチーフを取り入れたい」「髪型を変えたから、ネイルも新しい色に挑戦してみたい」などなど。きっかけはさまざまでも、ネイルをしたいときは、やっぱりポジティヴになりたいときではないでしょうか。
-                            </p>
-                        </article>
-
-                        <article>
-                            <h3 class="text-teal tracking-wide leading-loose text-base pb-6">
-                                ネイリストと話す至福の時間。<br>
-                                ネイルは勇気をもらって一歩踏み出す大切なアイテム。
-                            </h3>
-                            <p class="text-13 tracking-wider leading-loose pb-8 text-grey-darkest">
-                                ふかふかのソファに座ってネイリストさんと話をしながら、ゆったりとした時間を過ごす。そして、
-                                <span class="tw-mask">出来上がったネイルを見て気持ちが華やぎ、視線がぐっと上を向く。</span>
-                                少し落ちこんだ時、少しだけ勇気が欲しい時、そっと見つめる自分の指先。日常の中にあっても星のように瞬く“キラキラ”が、そこにはある。さまざまな気持ちを抱えた人たち
-                                <span class="tw-mask">背中をそっと押すチカラ</span>
-                                が、そのネイルにこめられています。
-                            </p>
-                        </article>
-                    </div>
-
+                    <span
+                        class="font-fotura leading-loose tracking-loose absolute sub-title font-sm">ONE DAY</span>
+                    <h2 class="leading-normal font-san p-8 pt-12">NANAで働くスタッフの１日をご紹介！</h2>
                 </div>
             </div>
         </section>
 
-        <!--    02    -->
         <section class="lg:mb-24">
-            <div class="max-w-1000 mx-auto">
-
-                <div class="tw-title text-center relative lg:mb-16">
-                    <span class="text-350 absolute sub-title">02</span>
-                    <h2 class="leading-normal font-san p-8">セルフネイルじゃダメ？プロに任せる理由とは</h2>
-                </div>
-
-                <div class="flex sm:flex-wrap sm:justify-center px-4">
-                    <figure class="lg:w-1/3 pr-8">
-                        <img src="/decoration/recruit/recruit_6.jpg" alt="セルフネイルじゃダメ？プロに任せる理由とは">
-                    </figure>
-
-                    <div class="lg:w-2/3 sm:w-full pl-8 lg:mb-16">
-                        <article>
-                            <h3 class="text-teal tracking-wide leading-loose text-base pb-6">
-                                アートもカラーも思いのまま。<br>
-                                「短時間×長期間の輝き」は、サロンだけの魅力。
-                            </h3>
-                            <p class="text-13 tracking-wider leading-loose pb-8 text-grey-darkest">
-                                ネイルは、今では自宅でもできる気軽なオシャレになっています。しかし自分でやるとなると、「乾くまでに一日を費やしてしまった」「利き手がうまくデザインできなかった」「2〜3日で取れてしまった」ということもしばしば。
-                            </p>
-                            <p class="text-13 tracking-wider leading-loose pb-8 text-grey-darkest">
-                                その点、サロンで行うネイルは、プロのネイリストの手によるもの。きらびやかなアートやさまざまなカラーにも対応でき、
-                                <span class="tw-mask">出来上がりの輝きはバツグン</span>
-                                。プロの施術による
-                                <span class="tw-mask">ネイルには浮き（剥がれ）がありません。</span>
-                                またデコラティブなものはもちろん、シンプルで上品な愛されネイルほど、ネイリストの腕の見せどころ。
-                            </p>
-                            <p class="text-13 tracking-wider leading-loose pb-8 text-grey-darkest">
-                                さらに
-                                <span class="tw-mask">1〜2時間という短時間の施術で3〜4週間楽しめるといったモチの良さ</span>
-                                も、大きな魅力です。
-                            </p>
-                        </article>
-                    </div>
-
-                </div>
-
-                <div class="flex">
+            <div class="max-w-1000 mx-auto border-l border-grey-light flex flex-col px-24 py-12 tw-dot relative">
+                <div class="flex lg:mb-16">
                     <p class="lg:w-1/12 relative">
                         <span
-                            class="ref-title text-2xl tracking-loose leading-loose border-b-2 border-black">CHECK!</span>
+                            class="sub-des text-3xl tracking-loose leading-loose border-b-2 border-yellow-light"
+                        >
+                            #9:15
+                        </span>
                     </p>
 
-                    <div class="p-16 bg-grey-lighter lg:w-11/12 flex justify-center">
-                        <table class="tw-price-table">
-                            <tr>
-                                <th></th>
-                                <th>
-                                    <span class="tw-name relative inline-block px-8 bg-yellow-light">サロンネイル</span>
-                                </th>
-                                <th>
-                                    <span class="tw-name relative inline-block px-8 bg-white">セルフネイル</span>
-                                </th>
-                            </tr>
-                            <tr>
-                                <th>価格</th>
-                                <td>△</td>
-                                <td>○</td>
-                            </tr>
-                            <tr>
-                                <th>仕上がり</th>
-                                <td>◎</td>
-                                <td>△</td>
-                            </tr>
-                            <tr>
-                                <th>施術時間</th>
-                                <td>◎</td>
-                                <td>△</td>
-                            </tr>
-                            <tr>
-                                <th>デザイン</th>
-                                <td>◎</td>
-                                <td>○</td>
-                            </tr>
-                            <tr>
-                                <th>ネイルの持ち・崩れにくさ</th>
-                                <td>○</td>
-                                <td>△</td>
-                            </tr>
-                            <tr>
-                                <th>爪へのダメージ</th>
-                                <td>◎</td>
-                                <td>△</td>
-                            </tr>
-                            <tr>
-                                <th>総合コスパ</th>
-                                <td>◎</td>
-                                <td>△</td>
-                            </tr>
-                        </table>
+                    <div class="p-16 bg-grey-lighter lg:w-11/12">
+                        <div class="flex flex-col p-16">
+                            <h6 class="text-normal mb-8">
+                                <span class="tw-name text-15 relative px-8 inline-block bg-white">出勤・着替え・準備</span>
+                            </h6>
+
+                            <p class="text-xs tracking-wider leading-loose text-grey-darker">
+                                ここでは開店前の作業を行います。ベッドメイキング、お客さまにお渡しするジュースの補充、夜の間に入った予約の確認と予約票の記入、来店されるお客さまのカルテチェックなどを行います。実はNANAの制服は、スタッフみんなで選んでいます！　私服と間違われるくらいかわいいものを選んでいるので、着替えも楽しいです。3ヶ月に1回、季節に合わせて新しい制服に変えるんですが、スタッフのやる気だけじゃなくてお客さまにも好評なので考えがいがあります。
+                            </p>
+                        </div>
+
+                        <figure class="px-16">
+                            <img src="/decoration/recruit/recruit_5.jpg" alt="出勤・着替え・準備">
+                        </figure>
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="max-w-1000 mx-auto border-l border-grey-light flex flex-col px-24 py-12 tw-dot relative">
+                <div class="flex lg:mb-16">
+                    <p class="lg:w-1/12 relative">
+                        <span
+                            class="sub-des text-3xl tracking-loose leading-loose border-b-2 border-yellow-light"
+                        >
+                            #10:00
+                        </span>
+                    </p>
+
+                    <div class="p-16 bg-grey-lighter lg:w-11/12">
+                        <div class="flex flex-col p-16">
+                            <h6 class="text-lg mb-8">
+                                <span class="tw-name text-15 bg-white relative px-8 inline-block">開店・施術スタート</span>
+                            </h6>
+
+                            <p class="text-xs tracking-wider leading-loose text-grey-darker">
+                                開店してお客さまがいらっしゃいます。NANAではスタッフに均等にお客さまが入るようにしているので、誰かだけが忙しいとかはありません。みんな適度な緊張感と思いやりを持って仕事に取り組んでいます。
+                            </p>
+                        </div>
+
+                        <figure class="px-16">
+                            <img src="/decoration/recruit/recruit_6.jpg" alt="開店・施術スタート">
+                        </figure>
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="max-w-1000 mx-auto border-l border-grey-light flex flex-col px-24 py-12 tw-dot relative">
+                <div class="flex lg:mb-16">
+                    <p class="lg:w-1/12 relative">
+                        <span
+                            class="sub-des text-3xl tracking-loose leading-loose border-b-2 border-yellow-light"
+                        >
+                            #13:00
+                        </span>
+                    </p>
+
+                    <div class="p-16 bg-grey-lighter lg:w-11/12">
+                        <div class="flex flex-col p-16">
+                            <h6 class="text-lg mb-8">
+                                <span class="tw-name text-15 bg-white relative px-8 inline-block">ランチタイム</span>
+                            </h6>
+
+                            <p class="text-xs tracking-wider leading-loose text-grey-darker">
+                                みんなが大好きなお弁当が届く時間です！<br>
+                                みんなの予約の様子を見ながら、休憩を取ります。
+                            </p>
+                        </div>
                     </div>
                 </div>
+            </div>
 
+            <div class="max-w-1000 mx-auto border-l border-grey-light flex flex-col px-24 py-12 tw-dot relative">
+                <div class="flex lg:mb-16">
+                    <p class="lg:w-1/12 relative">
+                        <span
+                            class="sub-des text-3xl tracking-loose leading-loose border-b-2 border-yellow-light"
+                        >
+                            #14:00
+                        </span>
+                    </p>
+
+                    <div class="p-16 bg-grey-lighter lg:w-11/12">
+                        <div class="flex flex-col p-16">
+                            <h6 class="text-lg mb-8">
+                                <span class="tw-name text-15 bg-white relative px-8 inline-block">ブログ・インスタの投稿</span>
+                            </h6>
+
+                            <p class="text-xs tracking-wider leading-loose text-grey-darker">
+                                HotPepperのブログや、インスタの投稿をします。「休みの日にこんなところに行ってきた」とか、「今はこんなキャンペーンをやってます」とか。考えるのは大変だけど、見てくださっているお客さまに喜んでもらえるように工夫しながら書いています。他にも、施術の空いた時間には、口コミの返信や、商品の整理、商材の注文を行ったり、新しいキャンペーン内容を考えたりもします。施術もしながら、考えることもたくさんあります。
+                            </p>
+                        </div>
+
+                        <figure class="px-16">
+                            <img src="/decoration/recruit/recruit_7.jpg" alt="ブログ・インスタの投稿">
+                        </figure>
+
+                        <div class="px-16 pt-4">
+                            <a href="/"
+                               class="pl-8 text-light text-sm tracking-loose leading-loose tw-center-line relative hover:text-grey">
+                                NANA INSTAGRAM
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="max-w-1000 mx-auto border-l border-grey-light flex flex-col px-24 py-12 tw-dot relative">
+                <div class="flex lg:mb-16">
+                    <p class="lg:w-1/12 relative">
+                        <span
+                            class="sub-des text-3xl tracking-loose leading-loose border-b-2 border-yellow-light"
+                        >
+                            #17:00
+                        </span>
+                    </p>
+
+                    <div class="p-16 bg-grey-lighter lg:w-11/12">
+                        <div class="flex flex-col p-16">
+                            <h6 class="text-lg mb-8">
+                                <span class="tw-name text-15 bg-white relative px-8 inline-block">新人さんへのレッスン</span>
+                            </h6>
+
+                            <p class="text-xs tracking-wider leading-loose text-grey-darker">
+                                日によって時間はまちまちですが、空き時間を活用して新人さんへのレッスンも行います。どんなふうにするとうまく伝えられるのか、考えながら教えていくのは難しいですが、やりがいも大きいですね！
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="max-w-1000 mx-auto border-l border-grey-light flex flex-col px-24 py-12 tw-dot relative">
+                <div class="flex lg:mb-16">
+                    <p class="lg:w-1/12 relative">
+                        <span
+                            class="sub-des text-3xl tracking-loose leading-loose border-b-2 border-yellow-light"
+                        >
+                            #20:00
+                        </span>
+                    </p>
+
+                    <div class="p-16 bg-grey-lighter lg:w-11/12">
+                        <div class="flex flex-col p-16">
+                            <h6 class="text-lg mb-8">
+                                <span class="tw-name text-15 bg-white relative px-8 inline-block">閉店作業</span>
+                            </h6>
+
+                            <p class="text-xs tracking-wider leading-loose text-grey-darker">
+                                NANAの最終受付は19:30なので、20:00になったらすぐに締め作業に入ります。終礼はないです。その代わりに今日あったことをカルテに書き込んだり、みんなで話したりします。でも全員ダラダラせずにテキパキと行動するので、20:10には店を出ますね。日によっては、そのままみんなとご飯に行くこともあります。本当にNANAのみんなは仲が良いです！
+                            </p>
+                        </div>
+
+                        <figure class="px-16">
+                            <img src="/decoration/recruit/recruit_8.jpg" alt="閉店作業">
+                        </figure>
+                    </div>
+                </div>
             </div>
         </section>
 
-        <!--    03    -->
-        <section class="lg:mb-24">
-            <div class="max-w-1000 mx-auto">
+        <section class="lg:mb-24 mx-auto max-w-1000">
+            <div class="flex lg:mb-16">
+                <p class="lg:w-1/12 relative">
+                        <span
+                            class="ref-title text-2xl tracking-loose leading-loose border-b-2 border-black">ENTRY!</span>
+                </p>
 
-                <div class="tw-title text-center relative lg:mb-16">
-                    <span class="text-350 absolute sub-title">03</span>
-                    <h2 class="leading-normal font-san p-8">派手さだけじゃない。大切な“爪のケア”にこそネイルがぴったり</h2>
-                </div>
+                <div class="p-16 bg-teal-lightest lg:w-11/12">
+                    <div class="flex flex-col">
+                        <p class="text-center text-xs tracking-wider leading-loose text-grey-darker pt-4">
+                            それぞれの個性で “お客様を美しく”。<br>
+                            NANAで働きたいという方のご応募を心よりお待ちしております。
+                        </p>
 
-                <div class="flex sm:flex-wrap sm:justify-center px-4">
-                    <figure class="lg:w-1/3 pl-8 tw-flex-end">
-                        <img src="/decoration/recruit/recruit_7.jpg" alt="派手さだけじゃない。大切な“爪のケア”にこそネイルがぴったり">
-                    </figure>
-
-                    <div class="lg:w-2/3 sm:w-full pr-8 lg:mb-16">
-                        <article>
-                            <h3 class="text-teal tracking-wide leading-loose text-base pb-6">
-                                ネイルの本質は“爪のケア”。<br>
-                                トラブルの補修・キレイな爪をつくることがサロンの役割。
-                            </h3>
-                            <p class="text-13 tracking-wider leading-loose pb-8 text-grey-darkest">
-                                「ネイル＝派手なデザイン」というイメージを持つ方も多いかもしれませんが、ネイルを受ける方には、「爪のケア」を目的とされている方も多くいらっしゃいます。
-                            </p>
-                            <p class="text-13 tracking-wider leading-loose pb-8 text-grey-darkest">
-                                カラーリングする前の爪の状態を確認し、甘皮の処理、割れ・欠けなどの爪のトラブルの補修などはもちろん、男爪、鉤爪、巻爪なども、形を整えながら成長させることができ、
-                                <span class="tw-mask">キレイな形の爪</span>
-                                を作ることができます。短く清潔で自然に見えるネイルをオーダーする方も多く、特にオフィスネイルといったシンプルなデザインに加え爪の保護・補強を目的としたものなど、
-                                <span class="tw-mask">ひとりひとりに合わせたケア</span>
-                                が行える点もサロンネイルの特徴です。
-                            </p>
-                        </article>
-
-                        <article>
-                            <h3 class="text-teal tracking-wide leading-loose text-base pb-6">
-                                名刺交換、会議。シンプルで美しい指先が、<br>
-                                やわらかいコミュニケーションを生み出す。
-                            </h3>
-                            <p class="text-13 tracking-wider leading-loose pb-8 text-grey-darkest">
-                                また、美しく上品に整えられた指先は、思わぬ効果をもたらすこともあります。たとえば名刺交換の際にふと目に入った指先から話が広がり、リラックスして会議に臨めた、といったことも。
-                                <span class="tw-mask">ネイルは人と人とのやわらかなコミュニケーションを生み出すアイテム</span>
-                                でもあるのです。ぜひみなさんも、自分らしい素敵なネイルライフをお過ごしください！
-                            </p>
-                        </article>
+                        <div class="w-full flex justify-center">
+                            <a href="https://work.salonboard.com/kr/slnH000364510/"
+                               class="tw-btn inline-block h-50 leading-50 text-xs w-1/2 text-center hover:bg-yellow-lighter m-8">
+                                エントリーはこちらから
+                            </a>
+                        </div>
                     </div>
 
                 </div>
@@ -233,21 +242,21 @@
 
         <section class="lg:mb-24 flex flex-col items-center max-w-1000 mx-auto">
             <div class="w-3/5 flex">
-                <router-link tag="a" to="/recruit" class="tw-recruit hover:bg-grey-lighter">
+                <router-link tag="a" to="/recruit" class="tw-link-group hover:bg-grey-lighter">
                     NANAでの働きがい
                 </router-link>
 
-                <router-link tag="a" to="/recruit/staff" class="tw-recruit hover:bg-grey-lighter">
+                <router-link tag="a" to="/recruit/staff" class="tw-link-group hover:bg-grey-lighter">
                     先輩スタッフの声
                 </router-link>
             </div>
 
             <div class="w-3/5 flex">
-                <router-link tag="a" to="/recruit/day" class="tw-recruit hover:bg-grey-lighter border-b">
+                <router-link tag="a" to="/recruit/day" class="tw-link-group hover:bg-grey-lighter border-b">
                     スタッフの１日
                 </router-link>
 
-                <router-link tag="a" to="/recruit/hire" class="tw-recruit hover:bg-grey-lighter border-b">
+                <router-link tag="a" to="/recruit/hire" class="tw-link-group hover:bg-grey-lighter border-b">
                     募集要項
                 </router-link>
             </div>
@@ -327,12 +336,68 @@
 
     .sub-title {
         position: absolute;
-        top: 0;
+        top: 30%;
         left: 50%;
         transform: translate(-50%, -50%);
     }
 
-    .tw-recruit {
+    .sub-des {
+        position: absolute;
+        top: 20px;
+        left: 30px;
+    }
+
+    .ref-title {
+        position: absolute;
+        top: 20px;
+        left: 0;
+    }
+
+    .tw-dot {
+        &:before {
+            content: '';
+            position: absolute;
+            top: 50%;
+            transform: translate(-50%, -50%);
+            left: 0;
+            background-color: #dae1e7;
+            width: 16px;
+            height: 16px;
+            -webkit-border-radius: 16px;
+            -moz-border-radius: 16px;
+            border-radius: 16px;
+            z-index: 2;
+        }
+
+        &:after {
+            content: '';
+            position: absolute;
+            top: 50%;
+            left: 0;
+            background-color: #dae1e7;
+            width: 20%;
+            height: 1px;
+            z-index: -1;
+        }
+    }
+
+    .tw-center-line {
+        &:before {
+            content: "";
+            width: 20px;
+            height: 1px;
+            position: absolute;
+            top: 8px;
+            left: 0;
+            background-color: #555;
+        }
+
+        &:hover:before {
+            background: #b8c2cc;
+        }
+    }
+
+    .tw-link-group {
         @apply w-1/2 p-8 border-t border-grey-light mr-4 text-sm text-grey-darkest relative;
 
         &:after {
