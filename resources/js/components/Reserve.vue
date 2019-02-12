@@ -13,12 +13,14 @@
             <div class="flex justify-center">
                 <a href="/"
                    class="tw-btn inline-block h-50 leading-50 text-xs w-1/4 text-center hover:bg-yellow-lighter lg:m-12"
+                   data-aos="zoom-in-up"
                 >
                     MILANO & LA ROCHELLE
                 </a>
 
                 <a href="/"
                    class="tw-btn inline-block h-50 leading-50 text-xs w-1/4 text-center hover:bg-yellow-lighter lg:m-12"
+                   data-aos="zoom-in-up"
                 >
                     LISBON
                 </a>
@@ -28,9 +30,7 @@
 </template>
 
 <script>
-    export default {
 
-    }
 </script>
 
 <style scoped lang="scss">

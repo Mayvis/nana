@@ -10,11 +10,15 @@
 
         <section class="lg:mb-16 container mx-auto">
             <div class="flex lg:pl-8">
-                <figure class="w-2/5">
+                <figure class="w-2/5"
+                        data-aos="zoom-in-up"
+                >
                     <img src="/decoration/concept.png" alt="concept">
                 </figure>
 
-                <div class="w-3/5 m-16 bg-teal-lightest p-50 pl-90" style="box-sizing: border-box">
+                <div class="w-3/5 m-16 bg-teal-lightest p-50 pl-90" style="box-sizing: border-box"
+                     data-aos="zoom-in-up"
+                >
                     <article>
                         <h3 class="tracking-loosest text-4xl leading-loose">CONCEPT</h3>
 
@@ -51,7 +55,9 @@
                     <h3 class="tracking-loosest text-4xl text-black font-fotura">NANA SALON</h3>
                 </li>
 
-                <li class="lg:w-2/3">
+                <li class="lg:w-2/3"
+                    data-aos="zoom-in-up"
+                >
                     <ul class="flex py-4">
                         <li class="lg:mr-12 tw-thumbnail">
                             <a href="/">
@@ -136,10 +142,14 @@
 
         <section class="lg:mb-24">
             <div class="container mx-auto bg-grey-lighter flex justify-center flex-col lg:p-24">
-                <h3 class="tracking-loosest text-4xl text-black font-adobe leading-loosest text-center">MENU&PRICE</h3>
+                <h3 class="tracking-loosest text-4xl text-black font-adobe leading-loosest text-center"
+                    data-aos="zoom-in-up"
+                >MENU&PRICE</h3>
 
                 <div class="flex">
-                    <div class="flex-1 lg:pl-60">
+                    <div class="flex-1 lg:pl-60"
+                        data-aos="zoom-in-up"
+                    >
                         <h4 class="item-h">Eyelash</h4>
 
                         <table class="price">
@@ -174,7 +184,9 @@
                         </table>
                     </div>
 
-                    <div class="flex-1 lg:pl-60">
+                    <div class="flex-1 lg:pl-60"
+                        data-aos="zoom-in-up"
+                    >
                         <h4 class="item-h">Nail</h4>
 
                         <table class="price">
@@ -206,7 +218,9 @@
                     </div>
                 </div>
 
-                <div class="lg:pt-16">
+                <div class="lg:pt-16"
+                    data-aos="zoom-in-up"
+                >
                     <p class="text-center text-xs text-grey-darkest lg:pb-16">
                         ＊ メニュー・金額は一例です。各メニューの詳細やお得なクーポンはHOTPEPPER Beautyをご確認ください。
                     </p>
@@ -243,9 +257,13 @@
 
         <section class="lg:mb-24">
             <div class="max-w-1000 mx-auto">
-                <h3 class="tracking-loosest text-4xl text-black font-fotura leading-loose mb-4">BEAUTY×LIFE</h3>
+                <h3 class="tracking-loosest text-4xl text-black font-fotura leading-loose mb-4"
+                    data-aos="fade-in"
+                >BEAUTY×LIFE</h3>
 
-                <ul class="flex">
+                <ul class="flex"
+                    data-aos="fade"
+                >
                     <li class="flex-1 p-4 thumbnail">
                         <router-link to="/beauty" tag="a">
                             <figure>

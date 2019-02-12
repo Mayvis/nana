@@ -1,6 +1,10 @@
 <template>
     <ul class="flex flex-wrap">
-        <li v-for="user in users" class="w-1/6 p-2 relative cabinet">
+        <li v-for="(user, index) in users"
+            class="w-1/6 p-2 relative cabinet"
+            data-aos="fade-in"
+            :data-aos-delay="index*50"
+        >
             <router-link to="/salon">
                 <img :src="user.avatar_path" alt="staff" class="align-middle">
 
@@ -23,11 +27,11 @@
         },
 
         mounted() {
-            axios.get('/api/users/avatar')
+            window.axios.get('/api/users/avatar')
                 .then(res => {
                     this.users = res.data
                 });
-        }
+        },
     }
 </script>
 
