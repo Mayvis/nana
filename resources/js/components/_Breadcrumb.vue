@@ -11,8 +11,8 @@
                         </router-link>
                     </li>
 
-                    <li class="text-xs tracking-wider leading-loose text-grey-darkest">
-                        {{ this.name }}&nbsp|&nbsp
+                    <li class="text-xs tracking-wider leading-loose text-grey-darkest" v-show="this.middle">
+                        {{ this.middle.name }}&nbsp|&nbsp
                     </li>
 
                     <li>
@@ -30,7 +30,12 @@
 
 <script>
     export default {
-        props: ['name'],
+        props: {
+            middle: {
+                name: '',
+                default: false,
+            }
+        }
     }
 </script>
 

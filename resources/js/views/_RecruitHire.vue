@@ -127,7 +127,7 @@
 
         <links></links>
 
-        <breadcrumb name="RECRUIT"></breadcrumb>
+        <breadcrumb :middle="{name: 'RECRUIT', default: true}"></breadcrumb>
 
         <reserve></reserve>
     </div>
@@ -135,10 +135,9 @@
 
 <script>
     import links from '../components/recruit/_Links';
-    import breadcrumb from '../components/_Breadcrumb';
 
     export default {
-        components: {links, breadcrumb},
+        components: {links},
     }
 </script>
 

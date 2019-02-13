@@ -444,28 +444,7 @@
             </div>
         </section>
 
-        <section class="lg:mb-24">
-            <div class="max-w-1200 border-b border-grey pb-4 tw-line relative">
-                <div class="max-w-600">
-                    <ul class="flex justify-center">
-                        <li>
-                            <router-link to="/"
-                                         class="text-xs tracking-wider leading-loose pb-8 text-grey-darkest hover:text-grey-dark"
-                            >
-                                HOME&nbsp|&nbsp
-                            </router-link>
-                        </li>
-                        <li>
-                            <router-link to="/voice"
-                                         class="text-xs tracking-wider leading-loose pb-8 text-grey-darkest text-teal"
-                            >
-                                VOICE
-                            </router-link>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </section>
+        <breadcrumb></breadcrumb>
 
         <reserve></reserve>
     </div>

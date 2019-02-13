@@ -66,7 +66,7 @@
 
         <links></links>
 
-        <breadcrumb name="BEAUTY & LIFE"></breadcrumb>
+        <breadcrumb :middle="{name: 'BEAUTY x LIFE', default: true}"></breadcrumb>
 
         <reserve></reserve>
     </div>
@@ -75,10 +75,9 @@
 <script>
     import links from '../components/beauty/_Links';
     import collection from '../components/_collection';
-    import breadcrumb from '../components/_Breadcrumb';
 
     export default {
-        components: {links, collection, breadcrumb},
+        components: {links, collection},
     }
 </script>
 

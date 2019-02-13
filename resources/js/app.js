@@ -33,6 +33,7 @@ Vue.use(PortalVue);
 Vue.component('menu-list', require('./components/MenuList.vue').default);
 Vue.component('menu-hamburger', require('./components/MenuHamburger.vue').default);
 Vue.component('info', require('./components/Info.vue').default);
+Vue.component('breadcrumb', require('./components/_Breadcrumb.vue').default);
 Vue.component('reserve', require('./components/Reserve.vue').default);
 
 /**

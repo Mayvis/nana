@@ -2155,7 +2155,12 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 /* harmony default export */ __webpack_exports__["default"] = ({
-  props: ['name']
+  props: {
+    middle: {
+      name: '',
+      default: false
+    }
+  }
 });
 
 /***/ }),
@@ -2451,7 +2456,6 @@ __webpack_require__.r(__webpack_exports__);
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _components_beauty_Links__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../components/beauty/_Links */ "./resources/js/components/beauty/_Links.vue");
-/* harmony import */ var _components_Breadcrumb__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../components/_Breadcrumb */ "./resources/js/components/_Breadcrumb.vue");
 //
 //
 //
@@ -2769,12 +2773,10 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
-
 
 /* harmony default export */ __webpack_exports__["default"] = ({
   components: {
-    links: _components_beauty_Links__WEBPACK_IMPORTED_MODULE_0__["default"],
-    breadcrumb: _components_Breadcrumb__WEBPACK_IMPORTED_MODULE_1__["default"]
+    links: _components_beauty_Links__WEBPACK_IMPORTED_MODULE_0__["default"]
   }
 });
 
@@ -2789,27 +2791,6 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
 //
 //
 //
@@ -3561,27 +3542,6 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
 /* harmony default export */ __webpack_exports__["default"] = ({
   created: function created() {// axios
   }
@@ -3598,27 +3558,6 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
 //
 //
 //
@@ -3841,7 +3780,6 @@ __webpack_require__.r(__webpack_exports__);
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _components_recruit_Links__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../components/recruit/_Links */ "./resources/js/components/recruit/_Links.vue");
-/* harmony import */ var _components_Breadcrumb__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../components/_Breadcrumb */ "./resources/js/components/_Breadcrumb.vue");
 //
 //
 //
@@ -4188,12 +4126,13 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
-
+//
+//
+//
 
 /* harmony default export */ __webpack_exports__["default"] = ({
   components: {
-    links: _components_recruit_Links__WEBPACK_IMPORTED_MODULE_0__["default"],
-    breadcrumb: _components_Breadcrumb__WEBPACK_IMPORTED_MODULE_1__["default"]
+    links: _components_recruit_Links__WEBPACK_IMPORTED_MODULE_0__["default"]
   }
 });
 
@@ -4208,27 +4147,6 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
 //
 //
 //
@@ -4854,27 +4772,6 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
 /* harmony default export */ __webpack_exports__["default"] = ({
   created: function created() {// axios
   }
@@ -4892,7 +4789,6 @@ __webpack_require__.r(__webpack_exports__);
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _components_beauty_Links__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../components/beauty/_Links */ "./resources/js/components/beauty/_Links.vue");
-/* harmony import */ var _components_Breadcrumb__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../components/_Breadcrumb */ "./resources/js/components/_Breadcrumb.vue");
 //
 //
 //
@@ -5015,11 +4911,9 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
-
 
 /* harmony default export */ __webpack_exports__["default"] = ({
   components: {
-    breadcrumb: _components_Breadcrumb__WEBPACK_IMPORTED_MODULE_1__["default"],
     links: _components_beauty_Links__WEBPACK_IMPORTED_MODULE_0__["default"]
   }
 });
@@ -5037,7 +4931,6 @@ __webpack_require__.r(__webpack_exports__);
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _components_beauty_Links__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../components/beauty/_Links */ "./resources/js/components/beauty/_Links.vue");
 /* harmony import */ var _components_collection__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../components/_collection */ "./resources/js/components/_collection.vue");
-/* harmony import */ var _components_Breadcrumb__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../components/_Breadcrumb */ "./resources/js/components/_Breadcrumb.vue");
 //
 //
 //
@@ -5112,14 +5005,12 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
-
 
 
 /* harmony default export */ __webpack_exports__["default"] = ({
   components: {
     links: _components_beauty_Links__WEBPACK_IMPORTED_MODULE_0__["default"],
-    collection: _components_collection__WEBPACK_IMPORTED_MODULE_1__["default"],
-    breadcrumb: _components_Breadcrumb__WEBPACK_IMPORTED_MODULE_2__["default"]
+    collection: _components_collection__WEBPACK_IMPORTED_MODULE_1__["default"]
   }
 });
 
@@ -5135,7 +5026,6 @@ __webpack_require__.r(__webpack_exports__);
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _components_beauty_Links__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../components/beauty/_Links */ "./resources/js/components/beauty/_Links.vue");
-/* harmony import */ var _components_Breadcrumb__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../components/_Breadcrumb */ "./resources/js/components/_Breadcrumb.vue");
 //
 //
 //
@@ -5369,11 +5259,9 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
-
 
 /* harmony default export */ __webpack_exports__["default"] = ({
   components: {
-    breadcrumb: _components_Breadcrumb__WEBPACK_IMPORTED_MODULE_1__["default"],
     links: _components_beauty_Links__WEBPACK_IMPORTED_MODULE_0__["default"]
   }
 });
@@ -5390,7 +5278,6 @@ __webpack_require__.r(__webpack_exports__);
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _components_recruit_Links__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../components/recruit/_Links */ "./resources/js/components/recruit/_Links.vue");
-/* harmony import */ var _components_Breadcrumb__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../components/_Breadcrumb */ "./resources/js/components/_Breadcrumb.vue");
 //
 //
 //
@@ -5623,12 +5510,10 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
-
 
 /* harmony default export */ __webpack_exports__["default"] = ({
   components: {
-    links: _components_recruit_Links__WEBPACK_IMPORTED_MODULE_0__["default"],
-    breadcrumb: _components_Breadcrumb__WEBPACK_IMPORTED_MODULE_1__["default"]
+    links: _components_recruit_Links__WEBPACK_IMPORTED_MODULE_0__["default"]
   }
 });
 
@@ -5644,7 +5529,6 @@ __webpack_require__.r(__webpack_exports__);
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _components_recruit_Links__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../components/recruit/_Links */ "./resources/js/components/recruit/_Links.vue");
-/* harmony import */ var _components_Breadcrumb__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../components/_Breadcrumb */ "./resources/js/components/_Breadcrumb.vue");
 //
 //
 //
@@ -5780,12 +5664,10 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
-
 
 /* harmony default export */ __webpack_exports__["default"] = ({
   components: {
-    links: _components_recruit_Links__WEBPACK_IMPORTED_MODULE_0__["default"],
-    breadcrumb: _components_Breadcrumb__WEBPACK_IMPORTED_MODULE_1__["default"]
+    links: _components_recruit_Links__WEBPACK_IMPORTED_MODULE_0__["default"]
   }
 });
 
@@ -5801,7 +5683,6 @@ __webpack_require__.r(__webpack_exports__);
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _components_recruit_Links__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../components/recruit/_Links */ "./resources/js/components/recruit/_Links.vue");
-/* harmony import */ var _components_Breadcrumb__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../components/_Breadcrumb */ "./resources/js/components/_Breadcrumb.vue");
 //
 //
 //
@@ -6060,12 +5941,10 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
-
 
 /* harmony default export */ __webpack_exports__["default"] = ({
   components: {
-    links: _components_recruit_Links__WEBPACK_IMPORTED_MODULE_0__["default"],
-    breadcrumb: _components_Breadcrumb__WEBPACK_IMPORTED_MODULE_1__["default"]
+    links: _components_recruit_Links__WEBPACK_IMPORTED_MODULE_0__["default"]
   }
 });
 
@@ -40773,13 +40652,21 @@ var render = function() {
             _c(
               "li",
               {
+                directives: [
+                  {
+                    name: "show",
+                    rawName: "v-show",
+                    value: this.middle,
+                    expression: "this.middle"
+                  }
+                ],
                 staticClass:
                   "text-xs tracking-wider leading-loose text-grey-darkest"
               },
               [
                 _vm._v(
                   "\n                    " +
-                    _vm._s(this.name) +
+                    _vm._s(this.middle.name) +
                     " | \n                "
                 )
               ]
@@ -41390,7 +41277,9 @@ var render = function() {
       _vm._v(" "),
       _c("links"),
       _vm._v(" "),
-      _c("breadcrumb"),
+      _c("breadcrumb", {
+        attrs: { middle: { name: "BEAUTY x LIFE", default: true } }
+      }),
       _vm._v(" "),
       _c("reserve")
     ],
@@ -42035,59 +41924,7 @@ var render = function() {
       _vm._v(" "),
       _vm._m(4),
       _vm._v(" "),
-      _c("section", { staticClass: "lg:mb-24" }, [
-        _c(
-          "div",
-          {
-            staticClass: "max-w-1200 border-b border-grey pb-4 tw-line relative"
-          },
-          [
-            _c("div", { staticClass: "max-w-600" }, [
-              _c("ul", { staticClass: "flex justify-center" }, [
-                _c(
-                  "li",
-                  [
-                    _c(
-                      "router-link",
-                      {
-                        staticClass:
-                          "text-xs tracking-wider leading-loose text-black pb-8 text-grey-darkest hover:text-grey-dark",
-                        attrs: { to: "/" }
-                      },
-                      [
-                        _vm._v(
-                          "\n                            HOME | \n                        "
-                        )
-                      ]
-                    )
-                  ],
-                  1
-                ),
-                _vm._v(" "),
-                _c(
-                  "li",
-                  [
-                    _c(
-                      "router-link",
-                      {
-                        staticClass:
-                          "text-xs tracking-wider leading-loose text-black pb-8 text-grey-darkest text-teal",
-                        attrs: { to: "/concept" }
-                      },
-                      [
-                        _vm._v(
-                          "\n                            CONCEPT\n                        "
-                        )
-                      ]
-                    )
-                  ],
-                  1
-                )
-              ])
-            ])
-          ]
-        )
-      ]),
+      _c("breadcrumb"),
       _vm._v(" "),
       _c("reserve")
     ],
@@ -43300,59 +43137,7 @@ var render = function() {
       _vm._v(" "),
       _vm._m(3),
       _vm._v(" "),
-      _c("section", { staticClass: "lg:mb-24" }, [
-        _c(
-          "div",
-          {
-            staticClass: "max-w-1200 border-b border-grey pb-4 tw-line relative"
-          },
-          [
-            _c("div", { staticClass: "max-w-600" }, [
-              _c("ul", { staticClass: "flex justify-center" }, [
-                _c(
-                  "li",
-                  [
-                    _c(
-                      "router-link",
-                      {
-                        staticClass:
-                          "text-xs tracking-wider leading-loose text-black pb-8 text-grey-darkest hover:text-grey-dark",
-                        attrs: { to: "/" }
-                      },
-                      [
-                        _vm._v(
-                          "\n                            HOME | \n                        "
-                        )
-                      ]
-                    )
-                  ],
-                  1
-                ),
-                _vm._v(" "),
-                _c(
-                  "li",
-                  [
-                    _c(
-                      "router-link",
-                      {
-                        staticClass:
-                          "text-xs tracking-wider leading-loose text-black pb-8 text-grey-darkest text-teal",
-                        attrs: { to: "/menu" }
-                      },
-                      [
-                        _vm._v(
-                          "\n                            MENU & PRICE\n                        "
-                        )
-                      ]
-                    )
-                  ],
-                  1
-                )
-              ])
-            ])
-          ]
-        )
-      ]),
+      _c("breadcrumb"),
       _vm._v(" "),
       _c("reserve")
     ],
@@ -43670,59 +43455,7 @@ var render = function() {
         ])
       ]),
       _vm._v(" "),
-      _c("section", { staticClass: "lg:mb-24" }, [
-        _c(
-          "div",
-          {
-            staticClass: "max-w-1200 border-b border-grey pb-4 tw-line relative"
-          },
-          [
-            _c("div", { staticClass: "max-w-600" }, [
-              _c("ul", { staticClass: "flex justify-center" }, [
-                _c(
-                  "li",
-                  [
-                    _c(
-                      "router-link",
-                      {
-                        staticClass:
-                          "text-xs tracking-wider leading-loose text-black pb-8 text-grey-darkest hover:text-grey-dark",
-                        attrs: { to: "/" }
-                      },
-                      [
-                        _vm._v(
-                          "\n                            HOME | \n                        "
-                        )
-                      ]
-                    )
-                  ],
-                  1
-                ),
-                _vm._v(" "),
-                _c(
-                  "li",
-                  [
-                    _c(
-                      "router-link",
-                      {
-                        staticClass:
-                          "text-xs tracking-wider leading-loose text-black pb-8 text-grey-darkest text-teal",
-                        attrs: { to: "/nail" }
-                      },
-                      [
-                        _vm._v(
-                          "\n                            NAIL\n                        "
-                        )
-                      ]
-                    )
-                  ],
-                  1
-                )
-              ])
-            ])
-          ]
-        )
-      ]),
+      _c("breadcrumb"),
       _vm._v(" "),
       _c("reserve")
     ],
@@ -44221,7 +43954,9 @@ var render = function() {
       _vm._v(" "),
       _c("links"),
       _vm._v(" "),
-      _c("breadcrumb", { attrs: { name: "RECRUIT" } }),
+      _c("breadcrumb", {
+        attrs: { middle: { name: "RECRUIT", default: true } }
+      }),
       _vm._v(" "),
       _c("reserve")
     ],
@@ -45065,59 +44800,7 @@ var render = function() {
       _vm._v(" "),
       _vm._m(3),
       _vm._v(" "),
-      _c("section", { staticClass: "lg:mb-24" }, [
-        _c(
-          "div",
-          {
-            staticClass: "max-w-1200 border-b border-grey pb-4 tw-line relative"
-          },
-          [
-            _c("div", { staticClass: "max-w-600" }, [
-              _c("ul", { staticClass: "flex justify-center" }, [
-                _c(
-                  "li",
-                  [
-                    _c(
-                      "router-link",
-                      {
-                        staticClass:
-                          "text-xs tracking-wider leading-loose text-black pb-8 text-grey-darkest hover:text-grey-dark",
-                        attrs: { to: "/" }
-                      },
-                      [
-                        _vm._v(
-                          "\n                            HOME | \n                        "
-                        )
-                      ]
-                    )
-                  ],
-                  1
-                ),
-                _vm._v(" "),
-                _c(
-                  "li",
-                  [
-                    _c(
-                      "router-link",
-                      {
-                        staticClass:
-                          "text-xs tracking-wider leading-loose text-black pb-8 text-grey-darkest text-teal",
-                        attrs: { to: "/salon" }
-                      },
-                      [
-                        _vm._v(
-                          "\n                            SALON\n                        "
-                        )
-                      ]
-                    )
-                  ],
-                  1
-                )
-              ])
-            ])
-          ]
-        )
-      ]),
+      _c("breadcrumb"),
       _vm._v(" "),
       _c("reserve")
     ],
@@ -45517,59 +45200,7 @@ var render = function() {
       _vm._v(" "),
       _vm._m(3),
       _vm._v(" "),
-      _c("section", { staticClass: "lg:mb-24" }, [
-        _c(
-          "div",
-          {
-            staticClass: "max-w-1200 border-b border-grey pb-4 tw-line relative"
-          },
-          [
-            _c("div", { staticClass: "max-w-600" }, [
-              _c("ul", { staticClass: "flex justify-center" }, [
-                _c(
-                  "li",
-                  [
-                    _c(
-                      "router-link",
-                      {
-                        staticClass:
-                          "text-xs tracking-wider leading-loose pb-8 text-grey-darkest hover:text-grey-dark",
-                        attrs: { to: "/" }
-                      },
-                      [
-                        _vm._v(
-                          "\n                            HOME | \n                        "
-                        )
-                      ]
-                    )
-                  ],
-                  1
-                ),
-                _vm._v(" "),
-                _c(
-                  "li",
-                  [
-                    _c(
-                      "router-link",
-                      {
-                        staticClass:
-                          "text-xs tracking-wider leading-loose pb-8 text-grey-darkest text-teal",
-                        attrs: { to: "/voice" }
-                      },
-                      [
-                        _vm._v(
-                          "\n                            VOICE\n                        "
-                        )
-                      ]
-                    )
-                  ],
-                  1
-                )
-              ])
-            ])
-          ]
-        )
-      ]),
+      _c("breadcrumb"),
       _vm._v(" "),
       _c("reserve")
     ],
@@ -46699,7 +46330,9 @@ var render = function() {
       _vm._v(" "),
       _c("links"),
       _vm._v(" "),
-      _c("breadcrumb", { attrs: { name: "BEAUTY & LIFE" } }),
+      _c("breadcrumb", {
+        attrs: { middle: { name: "BEAUTY x LIFE", default: true } }
+      }),
       _vm._v(" "),
       _c("reserve")
     ],
@@ -47023,7 +46656,9 @@ var render = function() {
       _vm._v(" "),
       _c("links"),
       _vm._v(" "),
-      _c("breadcrumb", { attrs: { name: "BEAUTY & LIFE" } }),
+      _c("breadcrumb", {
+        attrs: { middle: { name: "BEAUTY x LIFE", default: true } }
+      }),
       _vm._v(" "),
       _c("reserve")
     ],
@@ -47199,7 +46834,9 @@ var render = function() {
       _vm._v(" "),
       _c("links"),
       _vm._v(" "),
-      _c("breadcrumb", { attrs: { name: "BEAUTY & LIFE" } }),
+      _c("breadcrumb", {
+        attrs: { middle: { name: "BEAUTY x LIFE", default: true } }
+      }),
       _vm._v(" "),
       _c("reserve")
     ],
@@ -47651,7 +47288,9 @@ var render = function() {
       _vm._v(" "),
       _c("links"),
       _vm._v(" "),
-      _c("breadcrumb", { attrs: { name: "RECRUIT" } }),
+      _c("breadcrumb", {
+        attrs: { middle: { name: "RECRUIT", default: true } }
+      }),
       _vm._v(" "),
       _c("reserve")
     ],
@@ -48140,7 +47779,9 @@ var render = function() {
       _vm._v(" "),
       _c("links"),
       _vm._v(" "),
-      _c("breadcrumb", { attrs: { name: "RECRUIT" } }),
+      _c("breadcrumb", {
+        attrs: { middle: { name: "RECRUIT", default: true } }
+      }),
       _vm._v(" "),
       _c("reserve")
     ],
@@ -48447,7 +48088,9 @@ var render = function() {
       _vm._v(" "),
       _c("links"),
       _vm._v(" "),
-      _c("breadcrumb", { attrs: { name: "RECRUIT" } }),
+      _c("breadcrumb", {
+        attrs: { middle: { name: "RECRUIT", default: true } }
+      }),
       _vm._v(" "),
       _c("reserve")
     ],
@@ -62895,6 +62538,7 @@ vue__WEBPACK_IMPORTED_MODULE_0___default.a.use(portal_vue__WEBPACK_IMPORTED_MODU
 vue__WEBPACK_IMPORTED_MODULE_0___default.a.component('menu-list', __webpack_require__(/*! ./components/MenuList.vue */ "./resources/js/components/MenuList.vue").default);
 vue__WEBPACK_IMPORTED_MODULE_0___default.a.component('menu-hamburger', __webpack_require__(/*! ./components/MenuHamburger.vue */ "./resources/js/components/MenuHamburger.vue").default);
 vue__WEBPACK_IMPORTED_MODULE_0___default.a.component('info', __webpack_require__(/*! ./components/Info.vue */ "./resources/js/components/Info.vue").default);
+vue__WEBPACK_IMPORTED_MODULE_0___default.a.component('breadcrumb', __webpack_require__(/*! ./components/_Breadcrumb.vue */ "./resources/js/components/_Breadcrumb.vue").default);
 vue__WEBPACK_IMPORTED_MODULE_0___default.a.component('reserve', __webpack_require__(/*! ./components/Reserve.vue */ "./resources/js/components/Reserve.vue").default);
 /**
  * Next, we will create a fresh Vue application instance and attach it to
@@ -63974,19 +63618,24 @@ __webpack_require__.r(__webpack_exports__);
 
 var routes = [{
   path: '/',
-  component: __webpack_require__(/*! ./views/Home */ "./resources/js/views/Home.vue").default
+  component: __webpack_require__(/*! ./views/Home */ "./resources/js/views/Home.vue").default,
+  name: 'HOME'
 }, {
   path: '/concept',
-  component: __webpack_require__(/*! ./views/Concept */ "./resources/js/views/Concept.vue").default
+  component: __webpack_require__(/*! ./views/Concept */ "./resources/js/views/Concept.vue").default,
+  name: 'CONCEPT'
 }, {
   path: '/voice',
-  component: __webpack_require__(/*! ./views/Voice */ "./resources/js/views/Voice.vue").default
+  component: __webpack_require__(/*! ./views/Voice */ "./resources/js/views/Voice.vue").default,
+  name: 'VOICE'
 }, {
   path: '/menu',
-  component: __webpack_require__(/*! ./views/Menu */ "./resources/js/views/Menu.vue").default
+  component: __webpack_require__(/*! ./views/Menu */ "./resources/js/views/Menu.vue").default,
+  name: 'MENU & PRICE'
 }, {
   path: '/salon',
-  component: __webpack_require__(/*! ./views/Salon */ "./resources/js/views/Salon.vue").default
+  component: __webpack_require__(/*! ./views/Salon */ "./resources/js/views/Salon.vue").default,
+  name: 'SALON'
 }, {
   path: '/beauty',
   component: __webpack_require__(/*! ./views/Beauty */ "./resources/js/views/Beauty.vue").default,
@@ -64005,7 +63654,8 @@ var routes = [{
   name: 'お客様 × NANA'
 }, {
   path: '/nail',
-  component: __webpack_require__(/*! ./views/Nail */ "./resources/js/views/Nail.vue").default
+  component: __webpack_require__(/*! ./views/Nail */ "./resources/js/views/Nail.vue").default,
+  name: 'NAIL'
 }, {
   path: '/recruit',
   component: __webpack_require__(/*! ./views/Recruit */ "./resources/js/views/Recruit.vue").default,

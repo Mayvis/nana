@@ -6,6 +6,7 @@
                 <svg width="100%" height="86" class="svg-concept">
                     <text x="50%" y="50%" text-anchor="middle" dominant-baseline="central">RECRUIT</text>
                 </svg>
+
                 <p class="text-center">採用情報</p>
             </div>
         </section>
@@ -17,6 +18,7 @@
                 <div class="lg:w-2/3 pl-8 pr-8">
                     <div class="flex items-center p-4 tw-title mb-12">
                         <span class="text-350 pl-4 pr-4">01</span>
+
                         <h2 class="leading-normal font-sans">
                             全員が正社員雇用。<br>
                             それぞれの個性で “お客さまを美しく”
@@ -28,6 +30,7 @@
                             未経験者も正社員採用。<br>
                             個々の意見を大切にし、スタッフの権利をしっかり守る。
                         </h3>
+
                         <p class="text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest">
                             NANAでは未経験者であっても
                             <span class="tw-mask">全員が正社員として採用</span>
@@ -338,7 +341,7 @@
 
         <links></links>
 
-        <breadcrumb name="RECRUIT"></breadcrumb>
+        <breadcrumb :middle="{name: 'RECRUIT', default: true}"></breadcrumb>
 
         <reserve></reserve>
     </div>
@@ -346,10 +349,9 @@
 
 <script>
     import links from '../components/recruit/_Links';
-    import breadcrumb from '../components/_Breadcrumb';
 
     export default {
-        components: {links, breadcrumb},
+        components: {links},
     }
 </script>
 

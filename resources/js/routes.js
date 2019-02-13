@@ -4,22 +4,27 @@ let routes = [
     {
         path: '/',
         component: require('./views/Home').default,
+        name: 'HOME',
     },
     {
         path: '/concept',
         component: require('./views/Concept').default,
+        name: 'CONCEPT',
     },
     {
         path: '/voice',
-        component: require('./views/Voice').default
+        component: require('./views/Voice').default,
+        name: 'VOICE',
     },
     {
         path: '/menu',
         component: require('./views/Menu').default,
+        name: 'MENU & PRICE',
     },
     {
         path: '/salon',
         component: require('./views/Salon').default,
+        name: 'SALON',
     },
     {
         path: '/beauty',
@@ -39,11 +44,12 @@ let routes = [
     {
         path: '/beauty/gallery',
         component: require('./views/_BeautyGallery').default,
-        name: 'お客様 × NANA'
+        name: 'お客様 × NANA',
     },
     {
         path: '/nail',
         component: require('./views/Nail').default,
+        name: 'NAIL',
     },
     {
         path: '/recruit',
