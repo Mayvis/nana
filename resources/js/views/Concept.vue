@@ -22,7 +22,8 @@
                             NANAは美容業界でもっとも<br>
                             “愛される場所”であり続けます。
                         </h2>
-                        <p class="font-fotura font-adobe mt-7 mb-7 text-xs tracking-wider leading-loose text-black relative">
+
+                        <p class="font-fotura my-7 text-xs relative">
                             Just a little more consideration leads your trust.<br>
                             NANA continues to be the "most loved place" in the beauty industry.<br>
                             Because we have relief, trust, compassion, not only to customers but also to staff.
@@ -47,11 +48,13 @@
                             丁寧な接客、寝心地の良いベッド、メイクブース。<br>
                             無防備になるからこその安心を。
                         </h3>
-                        <p class="text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest">
+
+                        <p class="pb-8">
                             マツエクはまぶたに施術することから、お客さまには目を閉じていただく必要があります。エステや美容室と違い、普段より無防備になる。だからこそNANAは
                             <span class="tw-mask">お客さまの居心地の良さを大切に</span>しています。
                         </p>
-                        <p class="text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest">
+
+                        <p class="pb-8">
                             女性に好まれる、清潔で寝心地の良いベッド。丁寧な接客、静かな会話。施術後のメイク直しができるメイクブース。NANAにあるのは、
                             <span class="tw-mask">お客さまにくつろいでいただくための空間</span>です。
                         </p>
@@ -62,7 +65,8 @@
                             肌で感じるやわらかな雰囲気。<br>
                             スタッフのやさしさに包まれるサロン。
                         </h3>
-                        <p class="text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest">
+
+                        <p class="pb-8">
                             <span class="tw-mask">目に見えない、肌にふれる“雰囲気”</span>
                             を大切にしています。NANAにあるやわらかな雰囲気は、まさにスタッフから生まれているものです。スタッフ同士に通いあう和やかな関係性がサロンのやわらかな空気を生み出しています。
                         </p>
@@ -84,6 +88,7 @@
                 <div class="lg:w-3/5 pl-10 pr-10">
                     <div class="flex items-center p-4 tw-title mb-12">
                         <span class="text-350 pl-4 pr-4">02</span>
+
                         <h2 class="leading-normal font-sans">
                             安心・安全の確かな技術。<br>
                             マツエクデビューならNANAで！
@@ -95,7 +100,8 @@
                             他店より長い研修は、未経験者でも経験者でも同じ。<br>
                             全員が美容師免許保持者。
                         </h3>
-                        <p class="text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest">
+
+                        <p class="pb-8">
                             NANAのスタッフは他店よりもはるかに長いレッスン期間を経験しています。未経験者なら5ヶ月から10ヶ月、経験者でも1ヶ月ほどは研修期間を設けています。
                             <span class="tw-mask">全員が美容師免許を持ち、店長はさらに管理美容師免許を取得</span>しています。
                         </p>
@@ -105,7 +111,8 @@
                         <h3 class="text-teal tracking-wide leading-loose text-base pb-6">
                             お客さまの時間を大切にするための、最大限のスピード。
                         </h3>
-                        <p class="text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest">
+
+                        <p class="pb-8">
                             また、NANAでは施術スピードも大切にしています。貴重なお客さまの時間をいただいて施術を行っているという意識を持つことこそが、より
                             <span class="tw-mask">集中力のある丁寧で確実な施術</span>
                             の原動力。日常の中でのほんの少し、しかし大切な時間をいただいているからこそ、
@@ -121,6 +128,7 @@
                 <div class="lg:w-2/3 pl-8 pr-8">
                     <div class="flex items-center p-4 tw-title mb-12">
                         <span class="text-350 pl-4 pr-4">03</span>
+
                         <h2 class="leading-normal font-sans">
                             愛され、大切にされる<br>
                             女性になるために
@@ -132,7 +140,8 @@
                             成人式、結婚式、仕事の商談。<br>
                             その人の印象を変える“目ヂカラ”を演出。
                         </h3>
-                        <p class="text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest">
+
+                        <p class="pb-8">
                             「目は口ほどにものを言う」という言葉があります。<br>
                             <span class="tw-mask">特に女性は目元が変わるだけで、受ける印象がガラッと変わるほど。</span>
                             そのため、成人式の前撮りや結婚式といったイベントごとの前だけではなく、営業のお仕事をされている方が「大切な商談の前だから、目ヂカラをしっかり作って気分を上げておきたい」と来店されることも多々あります。
@@ -144,7 +153,8 @@
                             まつ毛がもつ個性を活かし、<br>
                             その瞬間にふさわしい理想の目元をつくる。
                         </h3>
-                        <p class="text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest">
+
+                        <p class="pb-8">
                             お客さまのまつ毛にはそれぞれ個性があり、その時々の状況があります。人と会う限りかならず目に触れる“目元”だからこそ、
                             <span class="tw-mask">その人がその時に心に描いている理想のデザインを実現できるよう、NANAでは毎回のカウンセリングを大切</span>
                             にしています。
@@ -167,6 +177,7 @@
                 <div class="lg:w-3/5 pl-10 pr-10">
                     <div class="flex items-center p-4 tw-title mb-12">
                         <span class="text-350 pl-4 pr-4">04</span>
+
                         <h2 class="leading-normal font-sans">
                             スタッフが美しいと<br>
                             お客さまもまた、美しい
@@ -178,7 +189,8 @@
                             国家資格保持者というプライドが、<br>
                             お客さまに接する美意識につながる。
                         </h3>
-                        <p class="text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest">
+
+                        <p class="pb-8">
                             美容師というのは国家資格を持った美容のプロ。
                             <span class="tw-mask">スタッフ全員が美意識を高く持ち、プロであるプライドを持って仕事をしています。</span>
                             これがあるからこそスタッフは胸を張って笑顔でお客さまをお迎えし、美しくなったお客さまをお送りできるのです。
@@ -190,12 +202,14 @@
                             安心、信頼、思いやり。<br>
                             自発的な行動こそがサロンの質であり、お客さまの満足度。
                         </h3>
-                        <p class="text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest">
+
+                        <p class="pb-8">
                             お客さまのことを想い、自発的に考えて新しいことに挑戦し、
                             <span class="tw-mask">スタッフの質</span>
                             を上げていく。これがNANAの考える働きがいです。
                         </p>
-                        <p class="text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest">
+
+                        <p class="pb-8">
                             <span class="tw-mask">ほんの少しの“想い”が、お客さまの信頼につながる。</span>
                             安心、信頼、思いやり。お客さまだけではなくスタッフ同士にも共通する意識を持ち、NANAは美容業界でもっとも
                             <span class="tw-mask">“愛される場所”</span>

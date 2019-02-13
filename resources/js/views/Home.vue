@@ -22,13 +22,13 @@
                     <article>
                         <h3 class="tracking-loosest text-4xl leading-loose">CONCEPT</h3>
 
-                        <p class="font-fotura font-adobe mt-7 mb-7 text-xs tracking-wider leading-loose text-black">
+                        <p class="font-fotura my-7 text-xs">
                             Just a little more consideration leads your trust.<br>
                             NANA continues to be the "most loved place" in the beauty industry.<br>
                             Because we have relief, trust, compassion, not only to customers but also to staff.
                         </p>
 
-                        <p class="font-fotura font-adobe mt-7 mb-7 text-xs tracking-wider leading-loose text-black">
+                        <p class="font-fotura my-7 text-xs">
                             ほんの少しの“想い”が、お客さまの信頼につながる。<br>
                             安心、信頼、思いやり。<br>
                             お客さまだけではなくスタッフ同士にも共通する意識を持ち、<br>
@@ -73,7 +73,7 @@
                                     </ul>
                                 </div>
 
-                                <p>サロン紹介 & ご予約</p>
+                                <p class="text-sm relative pl-8">サロン紹介 & ご予約</p>
                             </a>
                         </li>
                         <li class="tw-thumbnail lg:mr-12">
@@ -90,7 +90,7 @@
                                     </ul>
                                 </div>
 
-                                <p>サロン紹介 & ご予約</p>
+                                <p class="text-sm relative pl-8">サロン紹介 & ご予約</p>
                             </a>
                         </li>
                         <li class="tw-thumbnail">
@@ -107,7 +107,7 @@
                                     </ul>
                                 </div>
 
-                                <p>サロン紹介 & ご予約</p>
+                                <p class="text-sm relative pl-8">サロン紹介 & ご予約</p>
                             </a>
                         </li>
                     </ul>
@@ -221,15 +221,15 @@
                 <div class="lg:pt-16"
                     data-aos="zoom-in-up"
                 >
-                    <p class="text-center text-xs text-grey-darkest lg:pb-16">
+                    <p class="text-center text-xs lg:pb-16">
                         ＊ メニュー・金額は一例です。各メニューの詳細やお得なクーポンはHOTPEPPER Beautyをご確認ください。
                     </p>
 
                     <div class="border-black border flex relative justify-center lg:pt-12">
-                        <p class="absolute flex flex-col text-center p-8 bg-grey-lighter" style="top: -40px">
+                        <p class="absolute flex flex-col text-center p-8 bg-grey-lighter" style="top: -45px">
                             <span>メニュー＆クーポン一覧</span>
 
-                            <span class="text-xs text-grey-darkest">( HOTPEPPER Beautyへリンクします )</span>
+                            <span class="text-xs">( HOTPEPPER Beautyへリンクします )</span>
                         </p>
 
                         <a href="https://beauty.hotpepper.jp/kr/slnH000248220/coupon/"
@@ -237,6 +237,7 @@
                         >
                             MILANO & LA ROCHELLE
                         </a>
+
                         <a href="https://beauty.hotpepper.jp/kr/slnH000364510/coupon/"
                            class="tw-btn inline-block h-50 leading-50 text-xs w-1/4 text-center hover:bg-yellow-lighter lg:m-12"
                         >
@@ -272,11 +273,13 @@
 
                             <article class="font-fotura font-adobe">
                                 <h4 class="leading-loose text-xl tracking-loose pt-6">#マツエクのある毎日</h4>
-                                <p class="font-thin text-sm tracking-wider leading-loose pb-6">Eyelash Life</p>
-                                <p class="text-xs tracking-wider leading-loose text-black pb-8">
-                                    いつでも可愛くありたい、どんなときもキレイでいたい。誰もが持つそんな気持ちを、ほんのちょっとすくい上げる安心感がある。それがマツエクなのです。</p>
-                                <p class="text-xs tracking-wider leading-loose text-black more relative pl-8">READ
-                                    MORE</p>
+
+                                <p class="font-thin text-sm pb-6">Eyelash Life</p>
+                                <p class="text-xs pb-8">
+                                    いつでも可愛くありたい、どんなときもキレイでいたい。誰もが持つそんな気持ちを、ほんのちょっとすくい上げる安心感がある。それがマツエクなのです。
+                                </p>
+
+                                <p class="text-xs more relative pl-8">READ MORE</p>
                             </article>
                         </router-link>
                     </li>
@@ -289,11 +292,14 @@
 
                             <article class="font-fotura font-adobe">
                                 <h4 class="leading-loose text-xl tracking-loose pt-6">#お手入れ方法</h4>
-                                <p class="font-thin text-sm tracking-wider leading-loose pb-6">Eyelash Care</p>
-                                <p class="text-xs tracking-wider leading-loose text-black pb-8">
-                                    きれいなまつ毛を保つためにはどうしたらいいんだろう？みなさんに素敵なマツエクライフをお過ごしいただくための、プロ目線からの適切な対処法をお伝えします。</p>
-                                <p class="text-xs tracking-wider leading-loose text-black more relative pl-8">READ
-                                    MORE</p>
+
+                                <p class="font-thin text-sm pb-6">Eyelash Care</p>
+
+                                <p class="text-xs pb-8">
+                                    きれいなまつ毛を保つためにはどうしたらいいんだろう？みなさんに素敵なマツエクライフをお過ごしいただくための、プロ目線からの適切な対処法をお伝えします。
+                                </p>
+
+                                <p class="text-xs more relative pl-8">READ MORE</p>
                             </article>
                         </router-link>
                     </li>
@@ -306,11 +312,14 @@
 
                             <article class="font-fotura font-adobe">
                                 <h4 class="leading-loose text-xl tracking-loose pt-6">#ネイルのある毎日</h4>
-                                <p class="font-thin text-sm tracking-wider leading-loose pb-6">Nail Life</p>
-                                <p class="text-xs tracking-wider leading-loose text-black pb-8">
-                                    季節、イベント、髪型。あなたを彩る、もうひとつの魔法を指先に。日常の中にあっても星のように瞬く“キラキラ”が、そこにはあるのです。</p>
-                                <p class="text-xs tracking-wider leading-loose text-black more relative pl-8">READ
-                                    MORE</p>
+
+                                <p class="font-thin text-sm pb-6">Nail Life</p>
+
+                                <p class="text-xs text-black pb-8">
+                                    季節、イベント、髪型。あなたを彩る、もうひとつの魔法を指先に。日常の中にあっても星のように瞬く“キラキラ”が、そこにはあるのです。
+                                </p>
+
+                                <p class="text-xs more relative pl-8">READ MORE</p>
                             </article>
                         </router-link>
                     </li>
@@ -416,8 +425,6 @@
         }
 
         p {
-            @apply text-sm relative pl-8;
-
             &:before {
                 content: "";
                 width: 20px;

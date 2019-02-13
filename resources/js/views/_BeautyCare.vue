@@ -6,6 +6,7 @@
                 <svg width="100%" height="86" class="svg-concept">
                     <text x="50%" y="50%" text-anchor="middle" dominant-baseline="central">BEAUTY × LIFE</text>
                 </svg>
+
                 <p class="text-center">マツエクのある毎日</p>
             </div>
         </section>
@@ -41,7 +42,7 @@
                 </div>
 
                 <div class="flex items-center justify-center lg:mb-16">
-                    <p class="text-center text-13 leading-loose tracking-loose text-light text-grey-darkest">
+                    <p class="text-center text-light">
                         以下の点を押さえておくと、マツエクはとても簡単、そして安全に使用できます。<br>
                         不安な点、疑問点は、NANAのスタッフにご相談ください。<br>
                         プロ目線からの適切な対処法をお伝えします。<br>
@@ -58,8 +59,10 @@
 
                             <article class="leading-loose tracking-loose">
                                 <h3>オイルクレンジングは使用しない</h3>
-                                <span class="block py-4">No Cleansing Oil</span>
-                                <p class="text-13 tracking-wider leading-loose pb-8 text-grey-darkest">
+
+                                <span class="block py-4 font-fotura">No Cleansing Oil</span>
+
+                                <p class="pb-8">
                                     接着剤であるグルーには油分・水分に弱い性質があります。オイルタイプを使用すると接着剤が分解してしまうおそれがあるため基本は
                                     <span class="tw-mask">「オイルフリー」のクレンジングを使用</span>
                                     しましょう。
@@ -74,8 +77,10 @@
 
                             <article class="leading-loose tracking-loose">
                                 <h3>優しく乾かす</h3>
-                                <span class="block py-4">Dry Gently</span>
-                                <p class="text-13 tracking-wider leading-loose pb-8 text-grey-darkest">
+
+                                <span class="block py-4 font-fotura">Dry Gently</span>
+
+                                <p class="pb-8">
                                     マツエクは非常にデリケートです。洗顔後にタオルで強くこすったりせず、
                                     <span class="tw-mask">タオルで優しく押さえる、ドライヤーで乾かす</span>
                                     など、丁寧に扱うことが重要です。
@@ -92,8 +97,10 @@
 
                             <article class="leading-loose tracking-loose">
                                 <h3>コーム・美容液などでお手入れしよう</h3>
+
                                 <span class="block py-4 font-fotura">Comb & Essence</span>
-                                <p class="text-13 tracking-wider leading-loose pb-8 text-grey-darkest">
+
+                                <p class="pb-8">
                                     まつ毛専用のコームや美容液があります。髪などと同様にきちんと
                                     <span class="tw-mask">お手入れすることが長持ちさせるためのポイント</span>
                                     です。
@@ -108,8 +115,10 @@
 
                             <article class="leading-loose tracking-loose">
                                 <h3>リペアのサイクルを作ろう</h3>
+
                                 <span class="block py-4 font-fotura">Repair Cycle</span>
-                                <p class="text-13 tracking-wider leading-loose pb-8 text-grey-darkest">
+
+                                <p class="pb-8">
                                     日々まつ毛も生まれ変わります。NANAのマツエクのモチはおおよそ1.5ヶ月と長めですが、
                                     <span class="tw-mask">数ヶ月に一度はきちんとオフ</span>
                                     をして、きれいな状態を保つようにしましょう。

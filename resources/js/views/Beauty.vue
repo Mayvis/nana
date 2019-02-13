@@ -52,7 +52,8 @@
                                 すっぴんはもう怖くない！<br>
                                 海水浴も野外ライブも、マツエクで楽しもう。
                             </h3>
-                            <p class="text-13 tracking-wider leading-loose pb-8 text-grey-darkest">
+
+                            <p class="pb-8">
                                 例えば、お友だちや彼氏と温泉に行くなど、すっぴんになる機会があるとき。<br>
                                 「どうしようかな」と思ってしまうこともあるのはないでしょうか？<br>
                                 マツエクだと、マスカラのように色が落ちてしまう心配もありません。プールや海水浴といった水のレジャーに加え、野外ライブなども思いっきり楽しむことができます。
@@ -63,7 +64,8 @@
                             <h3 class="text-teal tracking-wide leading-loose text-base pb-6">
                                 ナチュラルな目元をキープ。朝のメイク時間をもっとラクに。
                             </h3>
-                            <p class="text-13 tracking-wider leading-loose pb-8 text-grey-darkest">
+
+                            <p class="pb-8">
                                 また、マツエクをしている皆さんが口を揃えて言うのは「毎日のお化粧がとてもラクになった」ということ。
                                 <span class="tw-mask">朝の忙しい時間の中で、きっちりメイクをするのは実はとても大変</span>
                                 だ、ということは、女性なら誰しも経験していることでしょう。<br>
@@ -84,6 +86,7 @@
 
                 <div class="tw-title text-center relative lg:mb-16">
                     <span class="text-350 absolute sub-title">02</span>
+
                     <h2 class="leading-normal font-san p-8">実際にはどう違うの？ マスカラ・つけまつげと比べてみよう</h2>
                 </div>
 
@@ -93,7 +96,8 @@
                             <h3 class="text-teal tracking-wide leading-loose text-base pb-6">
                                 お風呂もOK、仕上がりもキレイ、そして、コスパ抜群！
                             </h3>
-                            <p class="text-13 tracking-wider leading-loose pb-8 text-grey-darkest">
+
+                            <p class="pb-8">
                                 とはいえ、「つけまつげでも同じじゃない？」「マスカラのほうが金額的にも安い」という声も聞こえます。 それぞれのメリット・デメリットを紐解いてみましょう。
                             </p>
                         </article>
@@ -233,7 +237,7 @@
                     <article class="relative flex flex-col items-center justify-center w-2/3 h-full">
                         <span class="tw-center">マツエクはコスパ抜群！</span>
 
-                        <p class="text-13 tracking-wider leading-loose text-grey-darkest h-full">
+                        <p class="h-full">
                             それぞれのメリット・デメリットを比較するとこのような点が挙げられます。すべてマツエクのほうが優れているとは言い切れませんが、「仕上がりがキレイ」「時間短縮になる」「そのままお風呂に入れる」などの点からみても、マツエクのメリットは多いのです。
                             日々の生活のちょっとした“安心”を感じられる点が、マツエクの一番の特徴と言えます。
                         </p>
@@ -262,10 +266,12 @@
                                 いつでも可愛く、いつでもキレイ。<br>
                                 少しの自信が、体を内側から元気にする。
                             </h3>
-                            <p class="text-13 tracking-wider leading-loose pb-8 text-grey-darkest">
+
+                            <p class="pb-8">
                                 「まつげがついていないと、気分が上がらない」。この言葉は実際にお客さまが言われたものです。目元というほんのちょっとの差ですが、女性ならではの心境の変化をよく言い当てた言葉ではないでしょうか。
                             </p>
-                            <p class="text-13 tracking-wider leading-loose pb-8 text-grey-darkest">
+
+                            <p class="pb-8">
                                 心というのは不思議なもので、ほんのちょっと
                                 <span class="tw-mask">自分に自信が持てると体は内側から元気になります。</span>
                                 植物が水を得てみずみずしくなるように、女性は自分が美しいと感じると、どんどんキレイになっていきます。
@@ -277,11 +283,13 @@
                                 仕事も人間関係も、もっとスムーズに。<br>
                                 マツエクは、心から美人になれる原動力。
                             </h3>
-                            <p class="text-13 tracking-wider leading-loose pb-8 text-grey-darkest">
+
+                            <p class="pb-8">
                                 <span class="tw-mask">美しさとは、まさに健康そのもの。</span>
                                 心がポジティブになると、もっと外に出ていきたくなり、笑顔になり、仕事や人間関係など、さまざまなものを円滑に進みます。その原動力となる美しさのひとつが、マツエクです。
                             </p>
-                            <p class="text-13 tracking-wider leading-loose pb-8 text-grey-darkest">
+
+                            <p class="pb-8">
                                 いつでも可愛くありたい、どんなときもキレイでいたい。誰もが持つそんな気持ちを、
                                 <span class="tw-mask">ほんのちょっとすくい上げる安心感がある。</span>
                                 それがマツエクなのです。
@@ -299,7 +307,7 @@
                     <p class="absolute flex flex-col text-center p-8 bg-white" style="top: -40px">
                         <span>メニュー＆クーポン一覧</span>
 
-                        <span class="text-xs text-grey-darkest pt-4">( HOTPEPPER Beautyへリンクします )</span>
+                        <span class="text-xs pt-4">( HOTPEPPER Beautyへリンクします )</span>
                     </p>
 
                     <a href="https://beauty.hotpepper.jp/kr/slnH000248220/coupon/"
@@ -307,6 +315,7 @@
                     >
                         MILANO & LA ROCHELLE
                     </a>
+
                     <a href="https://beauty.hotpepper.jp/kr/slnH000364510/coupon/"
                        class="tw-btn inline-block h-50 leading-50 text-xs w-1/4 text-center hover:bg-yellow-lighter lg:m-12"
                     >

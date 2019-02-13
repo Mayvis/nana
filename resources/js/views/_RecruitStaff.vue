@@ -2,6 +2,7 @@
     <div>
         <section class="lg:mb-24">
             <div class="hero-concept"></div>
+
             <div>
                 <svg width="100%" height="86" class="svg-concept">
                     <text x="50%" y="50%" text-anchor="middle" dominant-baseline="central">RECRUIT</text>
@@ -57,7 +58,7 @@
 
                         <article class="pb-4">
                             <h6 class="tw-mask inline-block text-sm font-adobe tracking-loose">NANAに入社した理由はなんですか？</h6>
-                            <p class="text-13 tracking-wider leading-loose py-4 text-grey-darkest">
+                            <p class="py-4">
                                 未経験でも採用してくれる場所を探していたところ、NANAの募集を見かけました。口コミが多かったし、内容も良いものばかりだったので信頼できるお店だ、と思って応募しました。未経験でもお給料が他のお店よりも高かったことも、大きなポイントでしたね。NANAではお弁当が支給されるので、さらにお財布的にとても助かっています！
                             </p>
                         </article>
@@ -66,15 +67,18 @@
                             <h6 class="tw-mask inline-block text-sm font-adobe tracking-loose">
                                 会社の教育制度についてどのように感じていますか？
                             </h6>
-                            <p class="text-13 tracking-wider leading-loose py-4 text-grey-darkest">
+
+                            <p class="py-4">
                                 NANAはひとつ上の先輩が教えるシステムをとっているので、実際に自分が教える側になったときが大変でした。教わっている時は言われたことに注意すればよかったのですが、いざ『技術』を教えるとなると、言葉に落とし込むのが難しかったりします。その分自分でも「どうやってこの作業をしてたっけ？」と考えるキッカケにもなりました。
                             </p>
                         </article>
 
                         <article class="pb-4">
                             <h6 class="tw-mask inline-block text-sm font-adobe tracking-loose">
-                                働いていて“楽しい”と感じるのはどんな時ですか？</h6>
-                            <p class="text-13 tracking-wider leading-loose py-4 text-grey-darkest">
+                                働いていて“楽しい”と感じるのはどんな時ですか？
+                            </h6>
+
+                            <p class="py-4">
                                 施術自体が楽しいです！丁寧にお客さまのご要望やイメージにあわせてつけていく時が、本当に楽しい瞬間ですね。
                             </p>
                         </article>
@@ -105,7 +109,8 @@
                             <h6 class="tw-mask inline-block text-sm font-adobe tracking-loose">
                                 NANAに入社した理由はなんですか？
                             </h6>
-                            <p class="text-13 tracking-wider leading-loose py-4 text-grey-darkest">
+
+                            <p class="py-4">
                                 実は採用される前は、お客さま側として通ってたんです。その時から、お店の雰囲気の良さとか、モチの良さとかの技術力の高さとかが気になってました。次に行く店は技術力の高いところがいいと考えてたので、雰囲気なども合わせて考えて、NANAに応募したという感じです。あとは、離職率が低いこととか、立地の良さもポイントでした。
                             </p>
                         </article>
@@ -114,7 +119,8 @@
                             <h6 class="tw-mask inline-block text-sm font-adobe tracking-loose">
                                 会社の教育制度についてどのように感じていますか？
                             </h6>
-                            <p class="text-13 tracking-wider leading-loose py-4 text-grey-darkest">
+
+                            <p class="py-4">
                                 店長だけ、チーフだけ、とかじゃなくて、いろんな人にみてもらえて、その分たくさんの意見を聞けたのは良かったです。人によってやり方とか、使ってるツィザー（ピンセット）の種類とかまで違うので、型にとらわれなくていいんだ！　と思えました。自分の引き出しが増えた感覚です。
                             </p>
                         </article>
@@ -123,7 +129,8 @@
                             <h6 class="tw-mask inline-block text-sm font-adobe tracking-loose">
                                 働いていて“楽しい”と感じるのはどんな時ですか？
                             </h6>
-                            <p class="text-13 tracking-wider leading-loose py-4 text-grey-darkest">
+
+                            <p class="py-4">
                                 キレイな仕上がりにできた時です！　やっぱりお客さまに喜んでもらえるのが一番嬉しいです。
                             </p>
                         </article>
@@ -152,7 +159,8 @@
 
                         <article class="pb-4">
                             <h6 class="tw-mask inline-block text-sm font-adobe tracking-loose">NANAに入社した理由はなんですか？</h6>
-                            <p class="text-13 tracking-wider leading-loose py-4 text-grey-darkest">
+
+                            <p class="py-4">
                                 美容師免許を持っているので、それを活かしたかったんです。それと、以前は大型チェーン店にいたので、意見とかも通りにくかったり、上下関係に疲れていたりもしました。NANAだと人数も少なくて、社長にもすぐに意見が通る環境だと感じたので応募しました。
                             </p>
                         </article>
@@ -161,7 +169,8 @@
                             <h6 class="tw-mask inline-block text-sm font-adobe tracking-loose">
                                 会社の教育制度についてどのように感じていますか？
                             </h6>
-                            <p class="text-13 tracking-wider leading-loose py-4 text-grey-darkest">
+
+                            <p class="py-4">
                                 NANAは1期上の先輩が後輩を指導することになっているので、その距離感がベストですね。自分が教育係になったときも接しやすいです。歴の長い先輩にはやっぱり相談しにくい部分とかもあるし、逆に自分が先輩になった時に、歴が離れていると言いにくかったりすることも、直接教えている子にそっと伝えてもらうこともできるので。近すぎず遠すぎず、ちょうどいい距離だと思います。
                             </p>
                         </article>
@@ -170,7 +179,8 @@
                             <h6 class="tw-mask inline-block text-sm font-adobe tracking-loose">
                                 働いていて“楽しい”と感じるのはどんな時ですか？
                             </h6>
-                            <p class="text-13 tracking-wider leading-loose py-4 text-grey-darkest">
+
+                            <p class="py-4">
                                 スタッフ同士の仲がいいんです。嘘みたいに聞こえるかもしれないけど、これは本当で。スタッフ同士で施術し合うことがNANAではできるんですけど、その時に他のチーフや店長から指名されたら「よっしゃ！」と思います。やっぱりみんなそれぞれ技術が高いので、その中から選んでもらえるのは嬉しいです。もちろんそれはお客さまも同じで、「キレイにしてもらってありがとう」とか言っていただくと、頑張ってよかった！って本当に感じます。
                             </p>
                         </article>
@@ -201,7 +211,8 @@
                             <h6 class="tw-mask inline-block text-sm font-adobe tracking-loose">
                                 NANAに入社した理由はなんですか？
                             </h6>
-                            <p class="text-13 tracking-wider leading-loose py-4 text-grey-darkest">
+
+                            <p class="py-4">
                                 わたしはオープニングスタッフとして関われる部分が一番大きかったです。すでにやり方があるという場所は経験していたので、次はなにか自分でイチから、プライドを持って『ネイリストの仕事』ができるやりがいがあるなと。次は、離職率が低いところですね。退職するとしても、結婚や出産など、ポジティブな理由が多いことも魅力的でした。あとは、週に4回程度、お昼ご飯用のお弁当を栄養士さんが作って店舗に持ってきてくれるのですが、それも嬉しいポイントでした。
                             </p>
                         </article>
@@ -210,7 +221,8 @@
                             <h6 class="tw-mask inline-block text-sm font-adobe tracking-loose">
                                 会社の教育制度についてどのように感じていますか？
                             </h6>
-                            <p class="text-13 tracking-wider leading-loose py-4 text-grey-darkest">
+
+                            <p class="py-4">
                                 丁寧に教えてくれるところは素直にすごいなと思ってます。やり忘れていたこともいつの間にか終わってて、注意されるというよりは“気づかせてくれる”といった感じ。自分で考えて行動するチカラが身につきますね。
                             </p>
                         </article>
@@ -219,7 +231,8 @@
                             <h6 class="tw-mask inline-block text-sm font-adobe tracking-loose">
                                 働いていて“楽しい”と感じるのはどんな時ですか？
                             </h6>
-                            <p class="text-13 tracking-wider leading-loose py-4 text-grey-darkest">
+
+                            <p class="py-4">
                                 お客さまに頼ってもらった時です！「ノープランで来たんですけど」と言われても、「じゃあこうしましょう！」って提案ができて、それを喜んでもらえるんです。お客さまとコミュニケーションを取りながら仕事ができるのは、本当に楽しいです。
                             </p>
                         </article>
@@ -238,7 +251,7 @@
 
                 <div class="p-16 bg-teal-lightest lg:w-11/12">
                     <div class="flex flex-col">
-                        <p class="text-center text-xs tracking-wider leading-loose text-grey-darker pt-4">
+                        <p class="text-center pt-4">
                             それぞれの個性で “お客様を美しく”。<br>
                             NANAで働きたいという方のご応募を心よりお待ちしております。
                         </p>

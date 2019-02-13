@@ -59,7 +59,7 @@
                                 <span class="tw-name text-15 relative px-8 inline-block bg-white">出勤・着替え・準備</span>
                             </h6>
 
-                            <p class="text-xs tracking-wider leading-loose text-grey-darker">
+                            <p class="text-xs">
                                 ここでは開店前の作業を行います。ベッドメイキング、お客さまにお渡しするジュースの補充、夜の間に入った予約の確認と予約票の記入、来店されるお客さまのカルテチェックなどを行います。実はNANAの制服は、スタッフみんなで選んでいます！　私服と間違われるくらいかわいいものを選んでいるので、着替えも楽しいです。3ヶ月に1回、季節に合わせて新しい制服に変えるんですが、スタッフのやる気だけじゃなくてお客さまにも好評なので考えがいがあります。
                             </p>
                         </div>
@@ -88,7 +88,7 @@
                                 <span class="tw-name text-15 bg-white relative px-8 inline-block">開店・施術スタート</span>
                             </h6>
 
-                            <p class="text-xs tracking-wider leading-loose text-grey-darker">
+                            <p class="text-xs">
                                 開店してお客さまがいらっしゃいます。NANAではスタッフに均等にお客さまが入るようにしているので、誰かだけが忙しいとかはありません。みんな適度な緊張感と思いやりを持って仕事に取り組んでいます。
                             </p>
                         </div>
@@ -117,7 +117,7 @@
                                 <span class="tw-name text-15 bg-white relative px-8 inline-block">ランチタイム</span>
                             </h6>
 
-                            <p class="text-xs tracking-wider leading-loose text-grey-darker">
+                            <p class="text-xs">
                                 みんなが大好きなお弁当が届く時間です！<br>
                                 みんなの予約の様子を見ながら、休憩を取ります。
                             </p>
@@ -142,7 +142,7 @@
                                 <span class="tw-name text-15 bg-white relative px-8 inline-block">ブログ・インスタの投稿</span>
                             </h6>
 
-                            <p class="text-xs tracking-wider leading-loose text-grey-darker">
+                            <p class="text-xs">
                                 HotPepperのブログや、インスタの投稿をします。「休みの日にこんなところに行ってきた」とか、「今はこんなキャンペーンをやってます」とか。考えるのは大変だけど、見てくださっているお客さまに喜んでもらえるように工夫しながら書いています。他にも、施術の空いた時間には、口コミの返信や、商品の整理、商材の注文を行ったり、新しいキャンペーン内容を考えたりもします。施術もしながら、考えることもたくさんあります。
                             </p>
                         </div>
@@ -177,7 +177,7 @@
                                 <span class="tw-name text-15 bg-white relative px-8 inline-block">新人さんへのレッスン</span>
                             </h6>
 
-                            <p class="text-xs tracking-wider leading-loose text-grey-darker">
+                            <p class="text-xs">
                                 日によって時間はまちまちですが、空き時間を活用して新人さんへのレッスンも行います。どんなふうにするとうまく伝えられるのか、考えながら教えていくのは難しいですが、やりがいも大きいですね！
                             </p>
                         </div>
@@ -201,7 +201,7 @@
                                 <span class="tw-name text-15 bg-white relative px-8 inline-block">閉店作業</span>
                             </h6>
 
-                            <p class="text-xs tracking-wider leading-loose text-grey-darker">
+                            <p class="text-xs">
                                 NANAの最終受付は19:30なので、20:00になったらすぐに締め作業に入ります。終礼はないです。その代わりに今日あったことをカルテに書き込んだり、みんなで話したりします。でも全員ダラダラせずにテキパキと行動するので、20:10には店を出ますね。日によっては、そのままみんなとご飯に行くこともあります。本当にNANAのみんなは仲が良いです！
                             </p>
                         </div>
@@ -218,12 +218,12 @@
             <div class="flex lg:mb-16">
                 <p class="lg:w-1/12 relative">
                         <span
-                            class="ref-title text-2xl tracking-loose leading-loose border-b-2 border-black">ENTRY!</span>
+                            class="ref-title text-2xl tracking-loose border-b-2 border-black">ENTRY!</span>
                 </p>
 
                 <div class="p-16 bg-teal-lightest lg:w-11/12">
                     <div class="flex flex-col">
-                        <p class="text-center text-xs tracking-wider leading-loose text-grey-darker pt-4">
+                        <p class="text-center pt-4">
                             それぞれの個性で “お客様を美しく”。<br>
                             NANAで働きたいという方のご応募を心よりお待ちしております。
                         </p>

@@ -6,6 +6,7 @@
                 <svg width="100%" height="86" class="svg-concept">
                     <text x="50%" y="50%" text-anchor="middle" dominant-baseline="central">NAIL</text>
                 </svg>
+
                 <p class="text-center">ネイル</p>
             </div>
         </section>
@@ -15,6 +16,7 @@
                 <div class="lg:w-3/5 pl-8 pr-8">
                     <div class="flex items-center p-4 tw-title mb-12">
                         <span class="text-350 pl-4 pr-4">01</span>
+
                         <h2 class="leading-normal font-sans">
                             手に入れるのは<br>
                             “しなやかな” 美しさ
@@ -26,7 +28,8 @@
                             しぐさが変わって、もっと女性らしく。<br>
                             あなたの印象を変えるのが“ネイル”。
                         </h3>
-                        <p class="text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest">
+
+                        <p class="pb-8">
                             不思議なことに、ネイルをすることによって変わるのが、
                             <span class="tw-mask">“しぐさ”</span>です。<br>
                             指先が彩られることによって、ちょっとした動き、そして雰囲気までしなやかになり、女性らしさが加わる。日々キレイにしておくことで、ひとつの動作が丁寧になる。気持ちがもっと華やかになり、背筋がぴんと伸びる。ネイルとは女性の印象をがらりと変えるものなのです。
@@ -38,12 +41,14 @@
                             ひとりひとりの爪の形、肌の色に合わせた施術。<br>
                             自然体の美しさで、日常生活を魅力的に。
                         </h3>
-                        <p class="text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest">
+
+                        <p class="pb-8">
                             ネイルの色は組み合わせ次第で無限に作り出すことができます。そこにお客さまひとりひとりが持つ爪の長さ・短さや肌の色を鑑み、
                             <span class="tw-mask">女性が本来持っているかわいらしさや美しさを引き立てる表現</span>
                             を乗せていきます。
                         </p>
-                        <p class="text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest">
+
+                        <p class="pb-8">
                             NANAのネイルは、
                             <span class="tw-mask">“愛されるネイル”</span>
                             です。恋人に限らず、友人、家族、職場のみなさんに愛される。アートでデコラティブなだけではなく、シンプル、かつナチュラルで、美しい。ひとりひとりにふさわしい、
@@ -68,6 +73,7 @@
                 <div class="lg:w-3/5 pl-10 pr-10">
                     <div class="flex items-center p-4 tw-title mb-12">
                         <span class="text-350 pl-4 pr-4">02</span>
+
                         <h2 class="leading-normal font-sans">
                             大切な“美容デー”を充実させて<br>
                             “自分らしい美しさ”を纏う
@@ -79,11 +85,13 @@
                             ライフスタイル、爪のコンディション。<br>
                             経験豊富なネイリストと、じっくり話し合う。
                         </h3>
-                        <p class="text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest">
+
+                        <p class="pb-8">
                             NANAに所属しているネイリストは、経験豊富なJNAネイリスト技能検定1級取得者。そして、お客さまとのコミュニケーションをとても大切にしています。テレビやタブレット端末で映画などを見れるサロンが多い中、NANAでは
                             <span class="tw-mask">静かでゆったりとした空間を提供しています。</span>
                         </p>
-                        <p class="text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest">
+
+                        <p class="pb-8">
                             特に初めてネイルをされる方は緊張もされているため、
                             <span class="tw-mask">話しやすい雰囲気を作ること</span>
                             はとても大切です。ライフスタイルはもちろんのこと、ご自身の爪の好きなところ、コンプレックスの部分、ご来店時の状態、今後のイベントなどの内容をお尋ねし、「こんなデザインはいかがですか？」とデザインを提案。ときには身近な方には打ち明けにくい話なども交えながら、じっくりとお客さまの心の声に耳を傾けながら施術を行います。
@@ -95,20 +103,24 @@
                             多彩なカラー・パーツ、そしてスピーディな施術で、<br>
                             みんなの「美しくなりたい」を叶える。
                         </h3>
-                        <p class="text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest">
+
+                        <p class="pb-8">
                             一日の中でネイルやマツエク、美容室などをまたぐ“美容デー”を設けている方も多い中、
                             <span class="tw-mask">スピーディに上品で輝かしい仕上がりをご提供するのがNANAのネイル</span>
                             です。モチベーションをアップさせたい、爪の保護をしたい、指を長く見せたい……
                             <span class="tw-mask">すべて、お客さまの「自分らしく、美しくありたい」という気持ち</span>
                             から生まれる言葉です。
                         </p>
-                        <p class="text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest">
+
+                        <p class="pb-8">
                             NANAではカラー・パーツ、いずれも多数取り揃えています。「初心者だからどうしていいかわからない」「まったくデザインを考えていなかった」という方でも、どうぞ安心して来ていただきたいと思っています。
                         </p>
-                        <p class="text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest">
+
+                        <p class="pb-8">
                             ネイルは特別なものではありません。誰もが美しくなるために自然と身につけているものを、そっと引き立てるのがNANAのネイル。それがあなたをさらに“特別”にします。
                         </p>
-                        <p class="text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest">
+
+                        <p class="pb-8">
                             ぜひNANAのネイルで、
                             <span class="tw-mask">あなただけの“色”を纏ってみませんか？</span>
                         </p>
@@ -144,7 +156,7 @@
 
                         <div class="p-16 bg-teal-lightest lg:w-11/12">
                             <div class="flex flex-wrap">
-                                <p class="w-full text-center text-sm font-bold pt-8 leading-loose">
+                                <p class="w-full text-center text-sm font-bold pt-8">
                                     NAIL RESERVATION<br>
                                     <span
                                         class="tracking-wider text-black pb-8 text-grey-darker font-fotura font-normal text-xs"

@@ -52,12 +52,12 @@
                                 季節、イベント、髪型に合わせたデザイン。<br>
                                 指先ひとつで、モチベーションが変わる。
                             </h3>
-                            <p class="text-13 tracking-wider leading-loose pb-8 text-grey-darkest">
+                            <p class="pb-8">
                                 ネイルは、日常生活に絶対に必要なもの、ではありません。ではなぜ、みんなネイルをするのでしょうか？「
                                 <span class="tw-mask">ネイルをしていると、気分が上がる</span>
                                 」。小さな変化ですが、日常生活にあっては大きな変化です。
                             </p>
-                            <p class="text-13 tracking-wider leading-loose pb-8 text-grey-darkest">
+                            <p class="pb-8">
                                 手元はやはり、
                                 <span class="tw-mask">何をしていても視界に入りやすい部分</span>
                                 です。そこが美しいネイルに彩られているだけで、モチベーションが変わります。「週末のイベントに合わせたカラーにしてほしい」「これからの季節のモチーフを取り入れたい」「髪型を変えたから、ネイルも新しい色に挑戦してみたい」などなど。きっかけはさまざまでも、ネイルをしたいときは、やっぱりポジティヴになりたいときではないでしょうか。
@@ -69,7 +69,7 @@
                                 ネイリストと話す至福の時間。<br>
                                 ネイルは勇気をもらって一歩踏み出す大切なアイテム。
                             </h3>
-                            <p class="text-13 tracking-wider leading-loose pb-8 text-grey-darkest">
+                            <p class="pb-8">
                                 ふかふかのソファに座ってネイリストさんと話をしながら、ゆったりとした時間を過ごす。そして、
                                 <span class="tw-mask">出来上がったネイルを見て気持ちが華やぎ、視線がぐっと上を向く。</span>
                                 少し落ちこんだ時、少しだけ勇気が欲しい時、そっと見つめる自分の指先。日常の中にあっても星のように瞬く“キラキラ”が、そこにはある。さまざまな気持ちを抱えた人たち
@@ -103,17 +103,17 @@
                                 アートもカラーも思いのまま。<br>
                                 「短時間×長期間の輝き」は、サロンだけの魅力。
                             </h3>
-                            <p class="text-13 tracking-wider leading-loose pb-8 text-grey-darkest">
+                            <p class="pb-8">
                                 ネイルは、今では自宅でもできる気軽なオシャレになっています。しかし自分でやるとなると、「乾くまでに一日を費やしてしまった」「利き手がうまくデザインできなかった」「2〜3日で取れてしまった」ということもしばしば。
                             </p>
-                            <p class="text-13 tracking-wider leading-loose pb-8 text-grey-darkest">
+                            <p class="pb-8">
                                 その点、サロンで行うネイルは、プロのネイリストの手によるもの。きらびやかなアートやさまざまなカラーにも対応でき、
                                 <span class="tw-mask">出来上がりの輝きはバツグン</span>
                                 。プロの施術による
                                 <span class="tw-mask">ネイルには浮き（剥がれ）がありません。</span>
                                 またデコラティブなものはもちろん、シンプルで上品な愛されネイルほど、ネイリストの腕の見せどころ。
                             </p>
-                            <p class="text-13 tracking-wider leading-loose pb-8 text-grey-darkest">
+                            <p class="pb-8">
                                 さらに
                                 <span class="tw-mask">1〜2時間という短時間の施術で3〜4週間楽しめるといったモチの良さ</span>
                                 も、大きな魅力です。
@@ -188,6 +188,7 @@
 
                 <div class="tw-title text-center relative lg:mb-16">
                     <span class="text-350 absolute sub-title">03</span>
+                    
                     <h2 class="leading-normal font-san p-8">派手さだけじゃない。大切な“爪のケア”にこそネイルがぴったり</h2>
                 </div>
 
@@ -202,10 +203,12 @@
                                 ネイルの本質は“爪のケア”。<br>
                                 トラブルの補修・キレイな爪をつくることがサロンの役割。
                             </h3>
-                            <p class="text-13 tracking-wider leading-loose pb-8 text-grey-darkest">
+
+                            <p class="pb-8">
                                 「ネイル＝派手なデザイン」というイメージを持つ方も多いかもしれませんが、ネイルを受ける方には、「爪のケア」を目的とされている方も多くいらっしゃいます。
                             </p>
-                            <p class="text-13 tracking-wider leading-loose pb-8 text-grey-darkest">
+
+                            <p class="pb-8">
                                 カラーリングする前の爪の状態を確認し、甘皮の処理、割れ・欠けなどの爪のトラブルの補修などはもちろん、男爪、鉤爪、巻爪なども、形を整えながら成長させることができ、
                                 <span class="tw-mask">キレイな形の爪</span>
                                 を作ることができます。短く清潔で自然に見えるネイルをオーダーする方も多く、特にオフィスネイルといったシンプルなデザインに加え爪の保護・補強を目的としたものなど、
@@ -219,7 +222,8 @@
                                 名刺交換、会議。シンプルで美しい指先が、<br>
                                 やわらかいコミュニケーションを生み出す。
                             </h3>
-                            <p class="text-13 tracking-wider leading-loose pb-8 text-grey-darkest">
+
+                            <p class="pb-8">
                                 また、美しく上品に整えられた指先は、思わぬ効果をもたらすこともあります。たとえば名刺交換の際にふと目に入った指先から話が広がり、リラックスして会議に臨めた、といったことも。
                                 <span class="tw-mask">ネイルは人と人とのやわらかなコミュニケーションを生み出すアイテム</span>
                                 でもあるのです。ぜひみなさんも、自分らしい素敵なネイルライフをお過ごしください！

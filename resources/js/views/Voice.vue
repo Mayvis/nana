@@ -7,6 +7,7 @@
                 <svg width="100%" height="86" class="svg-concept">
                     <text x="50%" y="50%" text-anchor="middle" dominant-baseline="central">VOICE</text>
                 </svg>
+
                 <p class="text-center">口コミで人気の秘密</p>
             </div>
         </section>
@@ -30,11 +31,13 @@
                                 「高い技術×厳選商材」で、<br>
                                 1.5ヶ月という圧倒的なモチの良さを実現。
                             </h3>
-                            <p class="text-13 tracking-wider leading-loose pb-8 text-grey-darkest">
+
+                            <p class="pb-8">
                                 <span class="tw-mask">「NANAのマツエクはモチが良い！」</span>
                                 いうお褒めの言葉を多くいただいています。通常、マツエクは1ヶ月ほどで次の施術のサイクルが来ますが、当店の施術ではさらに2週間ほど長く、1.5ヶ月ほどもつという方が多いようです。
                             </p>
-                            <p class="text-13 tracking-wider leading-loose pb-8 text-grey-darkest">
+
+                            <p class="pb-8">
                                 理由のひとつめは、
                                 <span class="tw-mask">スタッフの技術の高さ。</span>
                                 全員が数ヶ月にわたるレッスンを受けて入客しているので、丁寧でしっかりとした施術を行うことができるんです。ふたつめは、
@@ -48,12 +51,14 @@
                                 モチがいい＝次の施術まで余裕がある。<br>
                                 だからお財布にも“安心”。
                             </h3>
-                            <p class="text-13 tracking-wider leading-loose pb-8 text-grey-darkest">
+
+                            <p class="pb-8">
                                 良質なグルーはしっかりとした接着を実現します。つまり、一回の施術でのマツエクのモチが良いということ。さらにモチが良いということは、次の施術までに余裕が生まれます。
                                 <span class="tw-mask">金額面でもおトク</span>
                                 なのが、NANAのマツエクなのです。
                             </p>
-                            <p class="text-13 tracking-wider leading-loose pb-8 text-grey-darkest">
+
+                            <p class="pb-8">
                                 <span class="tw-mask">スタッフみずから商材を厳選</span>
                                 する。それが初心者の方に“安心”を与えることができ、さらにリピーターさんにも喜ばれる。NANAが“マツエク初心者”の方にも安心していただける、大きな理由です。j
                             </p>
@@ -72,7 +77,7 @@
                             <div class="lg:w-1/2 m-8 border-grey-darkest border-b">
                                 <h5 class="text-center bg-white font-normal tw-name relative">きいさん ： 女性 / 50代</h5>
 
-                                <p class="text-xs tracking-wider leading-loose pb-8 text-grey-darker pt-4">
+                                <p class="text-xs pb-8 text-grey-darker pt-4">
                                     いつもありがとうございます。希望通りの仕上がりで綺麗にしていただいて感謝してます！色々なサロンを経験してますが、モチがいいし雰囲気も大好きです。また来月宜しくお願いします。
                                 </p>
                             </div>
@@ -80,7 +85,7 @@
                             <div class="lg:w-1/2 m-8 border-grey-darkest border-b">
                                 <h5 class="text-center bg-white font-normal tw-name relative">Mamiさん ： 女性 / 30代前半</h5>
 
-                                <p class="text-xs tracking-wider leading-loose pb-8 text-grey-darker pt-4">
+                                <p class="text-xs pb-8 text-grey-darker pt-4">
                                     色々なアイラッシュサロンへ行きましたが、今までの中で１番モチがいいです。１ヶ月以上いつももちます。これからもお世話になります。
                                 </p>
                             </div>
@@ -90,7 +95,7 @@
                             <div class="lg:w-1/2 m-8 border-grey-darkest border-b">
                                 <h5 class="text-center bg-white font-normal tw-name relative">たけのこさん ： 女性 / 30代前半</h5>
 
-                                <p class="text-xs tracking-wider leading-loose pb-8 text-grey-darker pt-4">
+                                <p class="text-xs pb-8 text-grey-darker pt-4">
                                     ほぼ1年通っています。とーってもお上手です。うとうとしてしまいます。施術がおわると、目がパッチリしています。モチもすごくいいです。<br>
                                     そしてスタッフみなさまかわいい(^-^)終わった後のジュースとお菓子も心がこもっていてうれしいです。これからもよろしくお願いします☆
                                 </p>
@@ -99,7 +104,7 @@
                             <div class="lg:w-1/2 m-8 border-grey-darkest border-b">
                                 <h5 class="text-center bg-white font-normal tw-name relative">ぱきんこさん ： 女性 / 50代</h5>
 
-                                <p class="text-xs tracking-wider leading-loose pb-8 text-grey-darker pt-4">
+                                <p class="text-xs pb-8 text-grey-darker pt-4">
                                     いつもお世話になっています。お昼からの仕事の前に通わせて頂いていますが、いつも綺麗で清潔な店内で落ち着きます。施術も丁寧で、マツエクのもちもいい感じです。また心地よくて、施術中につい眠ってしまうほどです。終わりに飲み物とお菓子まで頂けますが、持ち帰る事もでき、仕事の途中の癒しにもなっています。
                                 </p>
                             </div>
@@ -134,6 +139,7 @@
 
                 <div class="tw-title text-center relative lg:mb-16">
                     <span class="text-350 absolute sub-title">02</span>
+
                     <h2 class="leading-normal font-san p-8">しっかりとしたカウンセリングで、自分に合ったデザインに</h2>
                 </div>
 
@@ -148,12 +154,14 @@
                                 デザイン、色、本数、長さ。<br>
                                 丁寧なカウンセリングで、ピッタリな施術を。
                             </h3>
-                            <p class="text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest">
+
+                            <p class="pb-8">
                                 マツエクをつけてはじめてわかる、
                                 <span class="tw-mask">ひとりひとり違う“まつ毛”。</span>
                                 自覚がなくても 「実はくせ毛だった」「毛先が下に向きやすい」というそれぞれの個性があります。
                             </p>
-                            <p class="text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest">
+
+                            <p class="pb-8">
                                 「初めてマツエクをするから不安…」といった方でも安心して過ごしていただけるように、NANAでは施術前にしっかりと
                                 <span class="tw-mask">カウンセリング</span>
                                 を行います。また、カウンセリングは初回だけではありません。来ていただいた時のまつ毛の状態に合わせ、デザイン、色、本数、長さなどを細かくお話しし、
@@ -167,7 +175,8 @@
                                 スタッフは無料で指名OK。<br>
                                 しっかり相談して、理想の目元を演出。
                             </h3>
-                            <p class="text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest">
+
+                            <p class="pb-8">
                                 さらに
                                 <span class="tw-mask">NANAではスタッフの指名も可能ですが、指名料はいただいていません</span>
                                 。信頼できるスタッフとじっくり、自分の状態や理想の形を相談していただきたいと考えています。もちろんメンテナンス方法などもしっかりとお伝えしています。不安な点は何でもご相談ください！
@@ -187,7 +196,7 @@
                             <div class="lg:w-1/2 m-8 border-grey-darkest border-b">
                                 <h5 class="text-center bg-white font-normal tw-name relative">あいこさん ： 女性 / 30代前半</h5>
 
-                                <p class="text-xs tracking-wider leading-loose pb-8 text-grey-darker pt-4">
+                                <p class="text-xs pb-8 text-grey-darker pt-4">
                                     初めてのマツエクで不安もありましたが、丁寧にカウンセリングして頂き、仕上がりは大満足でした。モチも2週間程経ちますが、今のところ問題ないです。またお願いしたいと思います。
                                 </p>
                             </div>
@@ -195,7 +204,7 @@
                             <div class="lg:w-1/2 m-8 border-grey-darkest border-b">
                                 <h5 class="text-center bg-white font-normal tw-name relative">めぐみさん ： 女性 / 40代</h5>
 
-                                <p class="text-xs tracking-wider leading-loose pb-8 text-grey-darker pt-4">
+                                <p class="text-xs pb-8 text-grey-darker pt-4">
                                     カウンセリングから最後までとても丁寧にしていただいて、仕上がりも接客も今までで一番でした♪何も不満がなかったのはこれが初めてです！！お姉さんもとても可愛い方で次回もまたお願いしようと思います(*´∀`*)
                                 </p>
                             </div>
@@ -205,7 +214,7 @@
                             <div class="lg:w-1/2 m-8 border-grey-darkest border-b">
                                 <h5 class="text-center bg-white font-normal tw-name relative">ちゃんななさん ： 女性 / 20代後半</h5>
 
-                                <p class="text-xs tracking-wider leading-loose pb-8 text-grey-darker pt-4">
+                                <p class="text-xs pb-8 text-grey-darker pt-4">
                                     前回、他店で初めてマツエクを施術してもらい、目を開けると痛くて一日中目がゴロゴロしていましたが、今回は痛みやヒリヒリした感じが全くなく快適です。<br>
                                     仕上がりもとても綺麗、丁寧にカウンセリングして下さり、何度も寝落ちしてしまいました、可愛らしいスタッフの方でとても癒された時間でした。ありがとうございました。また伺います！
                                 </p>
@@ -214,7 +223,7 @@
                             <div class="lg:w-1/2 m-8 border-grey-darkest border-b">
                                 <h5 class="text-center bg-white font-normal tw-name relative">みさきさん ： 女性 / 20代前半</h5>
 
-                                <p class="text-xs tracking-wider leading-loose pb-8 text-grey-darker pt-4">
+                                <p class="text-xs pb-8 text-grey-darker pt-4">
                                     マツエクする時はいつもこちらにお伺いさせて頂いてます。毎回来た時に必ずカウセリングを行なって頂いて、お店の雰囲気も落ち着いており、寝てしまうくらいです、、。笑 仕上がりもパーフェクトで、本当に毎回感謝です。<br>
                                     メイク直しやヘアーアイロンの貸し出しなどゆっくりできるのも本当に嬉しいです。これからもお伺いした時はよろしくお願います。いつもありがとうございます！！
                                 </p>
@@ -265,11 +274,11 @@
                                 フットクッションもある極上の安らぎ空間。
                             </h3>
 
-                            <p class="text-13 tracking-wider leading-loose pb-8 text-grey-darkest">
+                            <p class="pb-8">
                                 NANAのお客さまの口コミに多く寄せられるのが、「施術中にぐっすり寝てしまいました」という声です。
                             </p>
 
-                            <p class="text-13 tracking-wider leading-loose pb-8 text-grey-darkest">
+                            <p class="pb-8">
                                 マツエクサロンの多くはリクライニング式のチェアを採用していますが、NANAでは全店舗
                                 <span class="tw-mask">ベッドを導入</span>
                                 しています！　包み込まれるような寝心地のベッドに加え、ふんわりとやわらかい枕は「つい眠ってしまう」と、どのお客さまにも人気です。フットクッションもお好みに合わせてご用意。まさに
@@ -361,7 +370,7 @@
                                 “60分”でできるのが、マツエクのポイント。
                             </h3>
 
-                            <p class="text-13 tracking-wider leading-loose pb-8 text-grey-darkest">
+                            <p class="pb-8">
                                 マツエクのポイントのひとつに「
                                 <span class="tw-mask">短時間でできる</span>
                                 」ことがあります。そのため、仕事の休憩時間やお買い物のちょっとした合間などにいらっしゃる方も多く見受けられます。NANAの施術時間は約60分。オフをするともっと長くなりますが、
@@ -375,7 +384,7 @@
                                 お客さまの時間を第一に。
                             </h3>
 
-                            <p class="text-13 tracking-wider leading-loose pb-8 text-grey-darkest">
+                            <p class="pb-8">
                                 <span class="tw-mask">お客さまの大切な時間をいただいて施術を行っている</span>
                                 」。このことをとても大切にしているからこそ、施術後の飲み物とお菓子も持ち帰りOKなものをご用意しています。
                                 <span class="tw-mask">マツエクで気持ちを上向きにして、とびきりの笑顔で次の予定へ</span>

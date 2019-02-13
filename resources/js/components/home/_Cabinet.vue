@@ -9,8 +9,10 @@
                 <img :src="user.avatar_path" alt="staff" class="align-middle">
 
                 <div class="mask">
-                    <p class="leading-normal tracking-loose">{{ user.name.split(' ')[0] }}</p>
-                    <p class="text-xs leading-loosest font-thin tracking-loose">{{ user.name.split(' ')[1] }}</p>
+                    <p class="text-white">{{ user.name.split(' ')[0] }}</p>
+
+                    <p class="text-white text-xs">{{ user.name.split(' ')[1] }}</p>
+
                     <img src="/icon/right_arrow.png" alt="icon" class="opacity-75">
                 </div>
             </router-link>
@@ -38,7 +40,7 @@
 <style scoped lang="scss">
     .cabinet {
         .mask {
-            @apply font-adobe text-white absolute text-center;
+            @apply font-adobe absolute text-center;
             width: 120px;
             height: 120px;
             padding: 20px 10px;

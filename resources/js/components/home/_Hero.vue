@@ -1,6 +1,7 @@
 <template>
     <div class="hero absolute z-10">
         <h2 class="relative flex items-stretch">
+
             <span id="line-group"><span class="line-1"></span><span class="line-2"></span><span
                 class="line-3"></span><span class="line-4"></span><span class="line-5"></span><span
                 class="line-6"></span><span class="line-7"></span><span class="line-8"></span><span

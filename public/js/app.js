@@ -1878,6 +1878,8 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
+//
 /* harmony default export */ __webpack_exports__["default"] = ({
   data: function data() {
     return {
@@ -2186,6 +2188,8 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
+//
 /* harmony default export */ __webpack_exports__["default"] = ({
   data: function data() {
     return {
@@ -2313,6 +2317,7 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
 /* harmony default export */ __webpack_exports__["default"] = ({});
 
 /***/ }),
@@ -2326,6 +2331,15 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
+//
+//
+//
+//
+//
+//
+//
+//
+//
 //
 //
 //
@@ -2947,6 +2961,20 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 /* harmony default export */ __webpack_exports__["default"] = ({
   created: function created() {// axios
   }
@@ -2967,6 +2995,15 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _components_home_Hero__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../components/home/_Hero */ "./resources/js/components/home/_Hero.vue");
 /* harmony import */ var _components_Slider__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../components/Slider */ "./resources/js/components/Slider.vue");
 /* harmony import */ var _components_home_Cabinet__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../components/home/_Cabinet */ "./resources/js/components/home/_Cabinet.vue");
+//
+//
+//
+//
+//
+//
+//
+//
+//
 //
 //
 //
@@ -3497,6 +3534,18 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 //
 //
 //
@@ -4331,6 +4380,9 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
+//
+//
 /* harmony default export */ __webpack_exports__["default"] = ({});
 
 /***/ }),
@@ -4344,6 +4396,15 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
+//
+//
+//
+//
+//
+//
+//
+//
+//
 //
 //
 //
@@ -5000,6 +5061,15 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
+//
+//
+//
+//
+//
+//
+//
+//
 /* harmony default export */ __webpack_exports__["default"] = ({
   created: function created() {// axios
   }
@@ -5017,6 +5087,8 @@ __webpack_require__.r(__webpack_exports__);
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _components_collection__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../components/_collection */ "./resources/js/components/_collection.vue");
+//
+//
 //
 //
 //
@@ -5170,6 +5242,10 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
+//
+//
+//
+//
 //
 //
 //
@@ -6303,6 +6379,19 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 /* harmony default export */ __webpack_exports__["default"] = ({
   created: function created() {// axios
   }
@@ -6341,7 +6430,7 @@ exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loa
 
 
 // module
-exports.push([module.i, ".list[data-v-a38a56ce] {\n  transition: background-color .4s;\n  background-color: #b0c9d2;\n}\n.list[data-v-a38a56ce]:hover {\n  background-color: #cedee3;\n}\n.info[data-v-a38a56ce] {\n  color: #fff;\n  letter-spacing: .2em;\n  font-size: .875rem;\n  font-family: futura-pt, sans-serif;\n  line-height: 50px;\n  display: block;\n  padding-left: 3rem;\n}\n.arrow[data-v-a38a56ce] {\n  background: url(\"/icon/right_arrow.png\") 30px center/10px 10px no-repeat;\n}\n.slide-fade-enter-active[data-v-a38a56ce] {\n  transition: all .3s ease;\n}\n.slide-fade-leave-active[data-v-a38a56ce] {\n  transition: all .3s cubic-bezier(1, .5, .8, 1);\n}\n.slide-fade-enter[data-v-a38a56ce],\n.slide-fade-leave-to[data-v-a38a56ce] {\n  -webkit-transform: translateX(10px);\n          transform: translateX(10px);\n  opacity: 0;\n}\n", ""]);
+exports.push([module.i, ".list[data-v-a38a56ce] {\n  transition: background-color .4s;\n  background-color: #b0c9d2;\n}\n.list[data-v-a38a56ce]:hover {\n  background-color: #cedee3;\n}\n.info[data-v-a38a56ce] {\n  color: #fff;\n  font-size: .875rem;\n  font-family: futura-pt, sans-serif;\n  line-height: 50px;\n  display: block;\n  padding-left: 3rem;\n}\n.arrow[data-v-a38a56ce] {\n  background: url(\"/icon/right_arrow.png\") 30px center/10px 10px no-repeat;\n}\n.slide-fade-enter-active[data-v-a38a56ce] {\n  transition: all .3s ease;\n}\n.slide-fade-leave-active[data-v-a38a56ce] {\n  transition: all .3s cubic-bezier(1, .5, .8, 1);\n}\n.slide-fade-enter[data-v-a38a56ce],\n.slide-fade-leave-to[data-v-a38a56ce] {\n  -webkit-transform: translateX(10px);\n          transform: translateX(10px);\n  opacity: 0;\n}\n", ""]);
 
 // exports
 
@@ -6398,7 +6487,7 @@ exports = module.exports = __webpack_require__(/*! ../../../../node_modules/css-
 
 
 // module
-exports.push([module.i, ".cabinet .mask[data-v-1fc69124] {\n  font-family: sofia-pro-condensed, sans-serif;\n  color: #fff;\n  position: absolute;\n  text-align: center;\n  width: 120px;\n  height: 120px;\n  padding: 20px 10px;\n  opacity: 0;\n  top: calc(50% - 60px);\n  left: calc(50% - 60px);\n  -webkit-transform: rotateX(-180deg);\n          transform: rotateX(-180deg);\n  transition: all .6s ease;\n  background: url(\"/icon/left_top_w.svg\") left 3px top/8px 15px no-repeat, url(\"/icon/right_top_w.svg\") right 3px top/8px 15px no-repeat, url(\"/icon/left_bottom_w.svg\") left 3px bottom/8px 15px no-repeat, url(\"/icon/right_bottom_w.svg\") right 3px bottom/8px 15px no-repeat rgba(0, 0, 0, .2);\n}\n.cabinet .mask img[data-v-1fc69124] {\n  width: 10px;\n  height: 10px;\n}\n.cabinet:hover .mask[data-v-1fc69124] {\n  -webkit-transform: rotateX(0deg);\n          transform: rotateX(0deg);\n  opacity: 1;\n}\n", ""]);
+exports.push([module.i, ".cabinet .mask[data-v-1fc69124] {\n  font-family: sofia-pro-condensed, sans-serif;\n  position: absolute;\n  text-align: center;\n  width: 120px;\n  height: 120px;\n  padding: 20px 10px;\n  opacity: 0;\n  top: calc(50% - 60px);\n  left: calc(50% - 60px);\n  -webkit-transform: rotateX(-180deg);\n          transform: rotateX(-180deg);\n  transition: all .6s ease;\n  background: url(\"/icon/left_top_w.svg\") left 3px top/8px 15px no-repeat, url(\"/icon/right_top_w.svg\") right 3px top/8px 15px no-repeat, url(\"/icon/left_bottom_w.svg\") left 3px bottom/8px 15px no-repeat, url(\"/icon/right_bottom_w.svg\") right 3px bottom/8px 15px no-repeat rgba(0, 0, 0, .2);\n}\n.cabinet .mask img[data-v-1fc69124] {\n  width: 10px;\n  height: 10px;\n}\n.cabinet:hover .mask[data-v-1fc69124] {\n  -webkit-transform: rotateX(0deg);\n          transform: rotateX(0deg);\n  opacity: 1;\n}\n", ""]);
 
 // exports
 
@@ -6417,7 +6506,7 @@ exports = module.exports = __webpack_require__(/*! ../../../../node_modules/css-
 
 
 // module
-exports.push([module.i, "[data-aos=fill-animation][data-v-920bb058] {\n  fill: #c3b282;\n  transition-property: fill;\n}\n[data-aos=fill-animation].aos-animate[data-v-920bb058] {\n  fill: transparent;\n}\n.line-1[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-1-data-v-920bb058 .8s linear .61s;\n          animation: bump-1-data-v-920bb058 .8s linear .61s;\n}\n@-webkit-keyframes bump-1-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 3px;\n    left: 4px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 45px;\n    left: 16px;\n}\n100% {\n    background-color: transparent;\n    bottom: 55px;\n    left: 2px;\n}\n}\n@keyframes bump-1-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 3px;\n    left: 4px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 45px;\n    left: 16px;\n}\n100% {\n    background-color: transparent;\n    bottom: 55px;\n    left: 2px;\n}\n}\n.line-2[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-2-data-v-920bb058 .8s linear .62s;\n          animation: bump-2-data-v-920bb058 .8s linear .62s;\n}\n@-webkit-keyframes bump-2-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 44px;\n    left: 6px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 3px;\n    left: 16px;\n}\n100% {\n    background-color: transparent;\n    bottom: 34px;\n    left: 5px;\n}\n}\n@keyframes bump-2-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 44px;\n    left: 6px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 3px;\n    left: 16px;\n}\n100% {\n    background-color: transparent;\n    bottom: 34px;\n    left: 5px;\n}\n}\n.line-3[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-3-data-v-920bb058 .8s linear .63s;\n          animation: bump-3-data-v-920bb058 .8s linear .63s;\n}\n@-webkit-keyframes bump-3-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 34px;\n    left: 7px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 38px;\n    left: 5px;\n}\n100% {\n    background-color: transparent;\n    bottom: 60px;\n    left: 3px;\n}\n}\n@keyframes bump-3-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 34px;\n    left: 7px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 38px;\n    left: 5px;\n}\n100% {\n    background-color: transparent;\n    bottom: 60px;\n    left: 3px;\n}\n}\n.line-4[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-4-data-v-920bb058 .8s linear .64s;\n          animation: bump-4-data-v-920bb058 .8s linear .64s;\n}\n@-webkit-keyframes bump-4-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 46px;\n    left: 4px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 23px;\n    left: 12px;\n}\n100% {\n    background-color: transparent;\n    bottom: 26px;\n    left: 2px;\n}\n}\n@keyframes bump-4-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 46px;\n    left: 4px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 23px;\n    left: 12px;\n}\n100% {\n    background-color: transparent;\n    bottom: 26px;\n    left: 2px;\n}\n}\n.line-5[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-5-data-v-920bb058 .8s linear .65s;\n          animation: bump-5-data-v-920bb058 .8s linear .65s;\n}\n@-webkit-keyframes bump-5-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 49px;\n    left: 2px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 13px;\n    left: 4px;\n}\n100% {\n    background-color: transparent;\n    bottom: 23px;\n    left: 7px;\n}\n}\n@keyframes bump-5-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 49px;\n    left: 2px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 13px;\n    left: 4px;\n}\n100% {\n    background-color: transparent;\n    bottom: 23px;\n    left: 7px;\n}\n}\n.line-6[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-6-data-v-920bb058 .8s linear .66s;\n          animation: bump-6-data-v-920bb058 .8s linear .66s;\n}\n@-webkit-keyframes bump-6-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 55px;\n    left: 3px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 77px;\n    left: 15px;\n}\n100% {\n    background-color: transparent;\n    bottom: 43px;\n    left: 7px;\n}\n}\n@keyframes bump-6-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 55px;\n    left: 3px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 77px;\n    left: 15px;\n}\n100% {\n    background-color: transparent;\n    bottom: 43px;\n    left: 7px;\n}\n}\n.line-7[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-7-data-v-920bb058 .8s linear .67s;\n          animation: bump-7-data-v-920bb058 .8s linear .67s;\n}\n@-webkit-keyframes bump-7-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 16px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 25px;\n    left: 3px;\n}\n100% {\n    background-color: transparent;\n    bottom: 43px;\n    left: 10px;\n}\n}\n@keyframes bump-7-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 16px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 25px;\n    left: 3px;\n}\n100% {\n    background-color: transparent;\n    bottom: 43px;\n    left: 10px;\n}\n}\n.line-8[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-8-data-v-920bb058 .8s linear .68s;\n          animation: bump-8-data-v-920bb058 .8s linear .68s;\n}\n@-webkit-keyframes bump-8-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 31px;\n    left: 3px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 17px;\n    left: 20px;\n}\n100% {\n    background-color: transparent;\n    bottom: 25px;\n    left: 8px;\n}\n}\n@keyframes bump-8-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 31px;\n    left: 3px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 17px;\n    left: 20px;\n}\n100% {\n    background-color: transparent;\n    bottom: 25px;\n    left: 8px;\n}\n}\n.line-9[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-9-data-v-920bb058 .8s linear .69s;\n          animation: bump-9-data-v-920bb058 .8s linear .69s;\n}\n@-webkit-keyframes bump-9-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 34px;\n    left: 4px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 3px;\n    left: 16px;\n}\n100% {\n    background-color: transparent;\n    bottom: 37px;\n    left: 1px;\n}\n}\n@keyframes bump-9-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 34px;\n    left: 4px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 3px;\n    left: 16px;\n}\n100% {\n    background-color: transparent;\n    bottom: 37px;\n    left: 1px;\n}\n}\n.line-10[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-10-data-v-920bb058 .8s linear .61s;\n          animation: bump-10-data-v-920bb058 .8s linear .61s;\n}\n@-webkit-keyframes bump-10-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 47px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 52px;\n    left: 5px;\n}\n100% {\n    background-color: transparent;\n    bottom: 24px;\n    left: 7px;\n}\n}\n@keyframes bump-10-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 47px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 52px;\n    left: 5px;\n}\n100% {\n    background-color: transparent;\n    bottom: 24px;\n    left: 7px;\n}\n}\n.line-11[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-11-data-v-920bb058 .8s linear .611s;\n          animation: bump-11-data-v-920bb058 .8s linear .611s;\n}\n@-webkit-keyframes bump-11-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 48px;\n    left: 5px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 11px;\n    left: 15px;\n}\n100% {\n    background-color: transparent;\n    bottom: 50px;\n    left: 10px;\n}\n}\n@keyframes bump-11-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 48px;\n    left: 5px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 11px;\n    left: 15px;\n}\n100% {\n    background-color: transparent;\n    bottom: 50px;\n    left: 10px;\n}\n}\n.line-12[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-12-data-v-920bb058 .8s linear .612s;\n          animation: bump-12-data-v-920bb058 .8s linear .612s;\n}\n@-webkit-keyframes bump-12-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 5px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 78px;\n    left: 7px;\n}\n100% {\n    background-color: transparent;\n    bottom: 29px;\n    left: 5px;\n}\n}\n@keyframes bump-12-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 5px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 78px;\n    left: 7px;\n}\n100% {\n    background-color: transparent;\n    bottom: 29px;\n    left: 5px;\n}\n}\n.line-13[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-13-data-v-920bb058 .8s linear .613s;\n          animation: bump-13-data-v-920bb058 .8s linear .613s;\n}\n@-webkit-keyframes bump-13-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 56px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 12px;\n    left: 6px;\n}\n100% {\n    background-color: transparent;\n    bottom: 6px;\n    left: 10px;\n}\n}\n@keyframes bump-13-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 56px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 12px;\n    left: 6px;\n}\n100% {\n    background-color: transparent;\n    bottom: 6px;\n    left: 10px;\n}\n}\n.line-14[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-14-data-v-920bb058 .8s linear .614s;\n          animation: bump-14-data-v-920bb058 .8s linear .614s;\n}\n@-webkit-keyframes bump-14-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 6px;\n    left: 8px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 57px;\n    left: 10px;\n}\n100% {\n    background-color: transparent;\n    bottom: 14px;\n    left: 8px;\n}\n}\n@keyframes bump-14-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 6px;\n    left: 8px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 57px;\n    left: 10px;\n}\n100% {\n    background-color: transparent;\n    bottom: 14px;\n    left: 8px;\n}\n}\n.line-15[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-15-data-v-920bb058 .8s linear .615s;\n          animation: bump-15-data-v-920bb058 .8s linear .615s;\n}\n@-webkit-keyframes bump-15-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 14px;\n    left: 6px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 7px;\n    left: 17px;\n}\n100% {\n    background-color: transparent;\n    bottom: 21px;\n    left: 2px;\n}\n}\n@keyframes bump-15-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 14px;\n    left: 6px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 7px;\n    left: 17px;\n}\n100% {\n    background-color: transparent;\n    bottom: 21px;\n    left: 2px;\n}\n}\n.line-16[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-16-data-v-920bb058 .8s linear .616s;\n          animation: bump-16-data-v-920bb058 .8s linear .616s;\n}\n@-webkit-keyframes bump-16-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 25px;\n    left: 3px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 21px;\n    left: 10px;\n}\n100% {\n    background-color: transparent;\n    bottom: 43px;\n    left: 9px;\n}\n}\n@keyframes bump-16-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 25px;\n    left: 3px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 21px;\n    left: 10px;\n}\n100% {\n    background-color: transparent;\n    bottom: 43px;\n    left: 9px;\n}\n}\n.line-17[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-17-data-v-920bb058 .8s linear .617s;\n          animation: bump-17-data-v-920bb058 .8s linear .617s;\n}\n@-webkit-keyframes bump-17-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 8px;\n    left: 3px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 35px;\n    left: 19px;\n}\n100% {\n    background-color: transparent;\n    bottom: 49px;\n    left: 7px;\n}\n}\n@keyframes bump-17-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 8px;\n    left: 3px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 35px;\n    left: 19px;\n}\n100% {\n    background-color: transparent;\n    bottom: 49px;\n    left: 7px;\n}\n}\n.line-18[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-18-data-v-920bb058 .8s linear .618s;\n          animation: bump-18-data-v-920bb058 .8s linear .618s;\n}\n@-webkit-keyframes bump-18-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 36px;\n    left: 5px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 38px;\n    left: 17px;\n}\n100% {\n    background-color: transparent;\n    bottom: 26px;\n    left: 5px;\n}\n}\n@keyframes bump-18-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 36px;\n    left: 5px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 38px;\n    left: 17px;\n}\n100% {\n    background-color: transparent;\n    bottom: 26px;\n    left: 5px;\n}\n}\n.line-19[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-19-data-v-920bb058 .8s linear .819s;\n          animation: bump-19-data-v-920bb058 .8s linear .819s;\n}\n@-webkit-keyframes bump-19-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 49px;\n    left: 4px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 64px;\n    left: 12px;\n}\n100% {\n    background-color: transparent;\n    bottom: 29px;\n    left: 5px;\n}\n}\n@keyframes bump-19-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 49px;\n    left: 4px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 64px;\n    left: 12px;\n}\n100% {\n    background-color: transparent;\n    bottom: 29px;\n    left: 5px;\n}\n}\n.line-20[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-20-data-v-920bb058 .8s linear .82s;\n          animation: bump-20-data-v-920bb058 .8s linear .82s;\n}\n@-webkit-keyframes bump-20-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 26px;\n    left: 6px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 46px;\n    left: 10px;\n}\n100% {\n    background-color: transparent;\n    bottom: 3px;\n    left: 2px;\n}\n}\n@keyframes bump-20-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 26px;\n    left: 6px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 46px;\n    left: 10px;\n}\n100% {\n    background-color: transparent;\n    bottom: 3px;\n    left: 2px;\n}\n}\n.line-21[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-21-data-v-920bb058 .8s linear .821s;\n          animation: bump-21-data-v-920bb058 .8s linear .821s;\n}\n@-webkit-keyframes bump-21-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 23px;\n    left: 8px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 24px;\n    left: 1px;\n}\n100% {\n    background-color: transparent;\n    bottom: 28px;\n    left: 8px;\n}\n}\n@keyframes bump-21-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 23px;\n    left: 8px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 24px;\n    left: 1px;\n}\n100% {\n    background-color: transparent;\n    bottom: 28px;\n    left: 8px;\n}\n}\n.line-22[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-22-data-v-920bb058 .8s linear .822s;\n          animation: bump-22-data-v-920bb058 .8s linear .822s;\n}\n@-webkit-keyframes bump-22-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 1px;\n    left: 6px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 17px;\n    left: 1px;\n}\n100% {\n    background-color: transparent;\n    bottom: 42px;\n    left: 3px;\n}\n}\n@keyframes bump-22-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 1px;\n    left: 6px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 17px;\n    left: 1px;\n}\n100% {\n    background-color: transparent;\n    bottom: 42px;\n    left: 3px;\n}\n}\n.line-23[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-23-data-v-920bb058 .8s linear .823s;\n          animation: bump-23-data-v-920bb058 .8s linear .823s;\n}\n@-webkit-keyframes bump-23-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 34px;\n    left: 10px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 46px;\n    left: 10px;\n}\n100% {\n    background-color: transparent;\n    bottom: 10px;\n    left: 10px;\n}\n}\n@keyframes bump-23-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 34px;\n    left: 10px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 46px;\n    left: 10px;\n}\n100% {\n    background-color: transparent;\n    bottom: 10px;\n    left: 10px;\n}\n}\n.line-24[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-24-data-v-920bb058 .8s linear .824s;\n          animation: bump-24-data-v-920bb058 .8s linear .824s;\n}\n@-webkit-keyframes bump-24-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 4px;\n    left: 6px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 71px;\n    left: 2px;\n}\n100% {\n    background-color: transparent;\n    bottom: 45px;\n    left: 4px;\n}\n}\n@keyframes bump-24-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 4px;\n    left: 6px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 71px;\n    left: 2px;\n}\n100% {\n    background-color: transparent;\n    bottom: 45px;\n    left: 4px;\n}\n}\n.line-25[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-25-data-v-920bb058 .8s linear .825s;\n          animation: bump-25-data-v-920bb058 .8s linear .825s;\n}\n@-webkit-keyframes bump-25-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 58px;\n    left: 3px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 39px;\n    left: 8px;\n}\n100% {\n    background-color: transparent;\n    bottom: 3px;\n    left: 5px;\n}\n}\n@keyframes bump-25-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 58px;\n    left: 3px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 39px;\n    left: 8px;\n}\n100% {\n    background-color: transparent;\n    bottom: 3px;\n    left: 5px;\n}\n}\n.line-26[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-26-data-v-920bb058 .8s linear .826s;\n          animation: bump-26-data-v-920bb058 .8s linear .826s;\n}\n@-webkit-keyframes bump-26-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 50px;\n    left: 5px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 65px;\n    left: 18px;\n}\n100% {\n    background-color: transparent;\n    bottom: 34px;\n    left: 5px;\n}\n}\n@keyframes bump-26-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 50px;\n    left: 5px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 65px;\n    left: 18px;\n}\n100% {\n    background-color: transparent;\n    bottom: 34px;\n    left: 5px;\n}\n}\n.line-27[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-27-data-v-920bb058 .8s linear .827s;\n          animation: bump-27-data-v-920bb058 .8s linear .827s;\n}\n@-webkit-keyframes bump-27-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 1px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 11px;\n    left: 4px;\n}\n100% {\n    background-color: transparent;\n    bottom: 46px;\n    left: 7px;\n}\n}\n@keyframes bump-27-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 1px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 11px;\n    left: 4px;\n}\n100% {\n    background-color: transparent;\n    bottom: 46px;\n    left: 7px;\n}\n}\n.line-28[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-28-data-v-920bb058 .8s linear .828s;\n          animation: bump-28-data-v-920bb058 .8s linear .828s;\n}\n@-webkit-keyframes bump-28-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 44px;\n    left: 2px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 74px;\n    left: 20px;\n}\n100% {\n    background-color: transparent;\n    bottom: 57px;\n    left: 5px;\n}\n}\n@keyframes bump-28-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 44px;\n    left: 2px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 74px;\n    left: 20px;\n}\n100% {\n    background-color: transparent;\n    bottom: 57px;\n    left: 5px;\n}\n}\n.line-29[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-29-data-v-920bb058 .8s linear .829s;\n          animation: bump-29-data-v-920bb058 .8s linear .829s;\n}\n@-webkit-keyframes bump-29-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 23px;\n    left: 1px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 79px;\n    left: 7px;\n}\n100% {\n    background-color: transparent;\n    bottom: 50px;\n    left: 8px;\n}\n}\n@keyframes bump-29-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 23px;\n    left: 1px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 79px;\n    left: 7px;\n}\n100% {\n    background-color: transparent;\n    bottom: 50px;\n    left: 8px;\n}\n}\n.line-30[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-30-data-v-920bb058 .8s linear .83s;\n          animation: bump-30-data-v-920bb058 .8s linear .83s;\n}\n@-webkit-keyframes bump-30-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 51px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 27px;\n    left: 6px;\n}\n100% {\n    background-color: transparent;\n    bottom: 1px;\n    left: 9px;\n}\n}\n@keyframes bump-30-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 51px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 27px;\n    left: 6px;\n}\n100% {\n    background-color: transparent;\n    bottom: 1px;\n    left: 9px;\n}\n}\n.line-31[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-31-data-v-920bb058 .8s linear .831s;\n          animation: bump-31-data-v-920bb058 .8s linear .831s;\n}\n@-webkit-keyframes bump-31-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 20px;\n    left: 3px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 21px;\n    left: 11px;\n}\n100% {\n    background-color: transparent;\n    bottom: 21px;\n    left: 5px;\n}\n}\n@keyframes bump-31-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 20px;\n    left: 3px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 21px;\n    left: 11px;\n}\n100% {\n    background-color: transparent;\n    bottom: 21px;\n    left: 5px;\n}\n}\n.line-32[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-32-data-v-920bb058 .8s linear .832s;\n          animation: bump-32-data-v-920bb058 .8s linear .832s;\n}\n@-webkit-keyframes bump-32-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 59px;\n    left: 3px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 24px;\n    left: 8px;\n}\n100% {\n    background-color: transparent;\n    bottom: 37px;\n    left: 2px;\n}\n}\n@keyframes bump-32-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 59px;\n    left: 3px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 24px;\n    left: 8px;\n}\n100% {\n    background-color: transparent;\n    bottom: 37px;\n    left: 2px;\n}\n}\n.line-33[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-33-data-v-920bb058 .8s linear .833s;\n          animation: bump-33-data-v-920bb058 .8s linear .833s;\n}\n@-webkit-keyframes bump-33-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 26px;\n    left: 5px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 16px;\n    left: 5px;\n}\n100% {\n    background-color: transparent;\n    bottom: 42px;\n    left: 1px;\n}\n}\n@keyframes bump-33-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 26px;\n    left: 5px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 16px;\n    left: 5px;\n}\n100% {\n    background-color: transparent;\n    bottom: 42px;\n    left: 1px;\n}\n}\n.line-34[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-34-data-v-920bb058 .8s linear .834s;\n          animation: bump-34-data-v-920bb058 .8s linear .834s;\n}\n@-webkit-keyframes bump-34-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 19px;\n    left: 4px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 15px;\n    left: 15px;\n}\n100% {\n    background-color: transparent;\n    bottom: 49px;\n    left: 2px;\n}\n}\n@keyframes bump-34-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 19px;\n    left: 4px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 15px;\n    left: 15px;\n}\n100% {\n    background-color: transparent;\n    bottom: 49px;\n    left: 2px;\n}\n}\n.line-35[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-35-data-v-920bb058 .8s linear .835s;\n          animation: bump-35-data-v-920bb058 .8s linear .835s;\n}\n@-webkit-keyframes bump-35-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 8px;\n    left: 1px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 15px;\n    left: 6px;\n}\n100% {\n    background-color: transparent;\n    bottom: 10px;\n    left: 1px;\n}\n}\n@keyframes bump-35-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 8px;\n    left: 1px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 15px;\n    left: 6px;\n}\n100% {\n    background-color: transparent;\n    bottom: 10px;\n    left: 1px;\n}\n}\n.line-36[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-36-data-v-920bb058 .8s linear .836s;\n          animation: bump-36-data-v-920bb058 .8s linear .836s;\n}\n@-webkit-keyframes bump-36-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 14px;\n    left: 1px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 21px;\n    left: 3px;\n}\n100% {\n    background-color: transparent;\n    bottom: 13px;\n    left: 7px;\n}\n}\n@keyframes bump-36-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 14px;\n    left: 1px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 21px;\n    left: 3px;\n}\n100% {\n    background-color: transparent;\n    bottom: 13px;\n    left: 7px;\n}\n}\n.line-37[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-37-data-v-920bb058 .8s linear .837s;\n          animation: bump-37-data-v-920bb058 .8s linear .837s;\n}\n@-webkit-keyframes bump-37-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 32px;\n    left: 4px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 5px;\n    left: 6px;\n}\n100% {\n    background-color: transparent;\n    bottom: 45px;\n    left: 7px;\n}\n}\n@keyframes bump-37-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 32px;\n    left: 4px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 5px;\n    left: 6px;\n}\n100% {\n    background-color: transparent;\n    bottom: 45px;\n    left: 7px;\n}\n}\n.line-38[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-38-data-v-920bb058 .8s linear 138s;\n          animation: bump-38-data-v-920bb058 .8s linear 138s;\n}\n@-webkit-keyframes bump-38-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 49px;\n    left: 6px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 48px;\n    left: 20px;\n}\n100% {\n    background-color: transparent;\n    bottom: 42px;\n    left: 4px;\n}\n}\n@keyframes bump-38-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 49px;\n    left: 6px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 48px;\n    left: 20px;\n}\n100% {\n    background-color: transparent;\n    bottom: 42px;\n    left: 4px;\n}\n}\n.line-39[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-39-data-v-920bb058 .8s linear 139s;\n          animation: bump-39-data-v-920bb058 .8s linear 139s;\n}\n@-webkit-keyframes bump-39-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 7px;\n    left: 4px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 16px;\n    left: 20px;\n}\n100% {\n    background-color: transparent;\n    bottom: 33px;\n    left: 4px;\n}\n}\n@keyframes bump-39-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 7px;\n    left: 4px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 16px;\n    left: 20px;\n}\n100% {\n    background-color: transparent;\n    bottom: 33px;\n    left: 4px;\n}\n}\n.line-40[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-40-data-v-920bb058 .8s linear 140s;\n          animation: bump-40-data-v-920bb058 .8s linear 140s;\n}\n@-webkit-keyframes bump-40-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 3px;\n    left: 3px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 52px;\n    left: 14px;\n}\n100% {\n    background-color: transparent;\n    bottom: 41px;\n    left: 6px;\n}\n}\n@keyframes bump-40-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 3px;\n    left: 3px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 52px;\n    left: 14px;\n}\n100% {\n    background-color: transparent;\n    bottom: 41px;\n    left: 6px;\n}\n}\n.line-41[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-41-data-v-920bb058 .8s linear 141s;\n          animation: bump-41-data-v-920bb058 .8s linear 141s;\n}\n@-webkit-keyframes bump-41-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 23px;\n    left: 6px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 57px;\n    left: 1px;\n}\n100% {\n    background-color: transparent;\n    bottom: 15px;\n    left: 3px;\n}\n}\n@keyframes bump-41-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 23px;\n    left: 6px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 57px;\n    left: 1px;\n}\n100% {\n    background-color: transparent;\n    bottom: 15px;\n    left: 3px;\n}\n}\n.line-42[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-42-data-v-920bb058 .8s linear 142s;\n          animation: bump-42-data-v-920bb058 .8s linear 142s;\n}\n@-webkit-keyframes bump-42-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 19px;\n    left: 5px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 20px;\n    left: 12px;\n}\n100% {\n    background-color: transparent;\n    bottom: 40px;\n    left: 4px;\n}\n}\n@keyframes bump-42-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 19px;\n    left: 5px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 20px;\n    left: 12px;\n}\n100% {\n    background-color: transparent;\n    bottom: 40px;\n    left: 4px;\n}\n}\n.line-43[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-43-data-v-920bb058 .8s linear 143s;\n          animation: bump-43-data-v-920bb058 .8s linear 143s;\n}\n@-webkit-keyframes bump-43-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 8px;\n    left: 10px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 75px;\n    left: 6px;\n}\n100% {\n    background-color: transparent;\n    bottom: 35px;\n    left: 9px;\n}\n}\n@keyframes bump-43-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 8px;\n    left: 10px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 75px;\n    left: 6px;\n}\n100% {\n    background-color: transparent;\n    bottom: 35px;\n    left: 9px;\n}\n}\n.line-44[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-44-data-v-920bb058 .8s linear 144s;\n          animation: bump-44-data-v-920bb058 .8s linear 144s;\n}\n@-webkit-keyframes bump-44-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 55px;\n    left: 2px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 42px;\n    left: 11px;\n}\n100% {\n    background-color: transparent;\n    bottom: 1px;\n    left: 9px;\n}\n}\n@keyframes bump-44-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 55px;\n    left: 2px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 42px;\n    left: 11px;\n}\n100% {\n    background-color: transparent;\n    bottom: 1px;\n    left: 9px;\n}\n}\n.line-45[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-45-data-v-920bb058 .8s linear 145s;\n          animation: bump-45-data-v-920bb058 .8s linear 145s;\n}\n@-webkit-keyframes bump-45-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 18px;\n    left: 6px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 41px;\n    left: 20px;\n}\n100% {\n    background-color: transparent;\n    bottom: 20px;\n    left: 9px;\n}\n}\n@keyframes bump-45-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 18px;\n    left: 6px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 41px;\n    left: 20px;\n}\n100% {\n    background-color: transparent;\n    bottom: 20px;\n    left: 9px;\n}\n}\n.line-46[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-46-data-v-920bb058 .8s linear 146s;\n          animation: bump-46-data-v-920bb058 .8s linear 146s;\n}\n@-webkit-keyframes bump-46-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 40px;\n    left: 4px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 37px;\n    left: 17px;\n}\n100% {\n    background-color: transparent;\n    bottom: 53px;\n    left: 9px;\n}\n}\n@keyframes bump-46-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 40px;\n    left: 4px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 37px;\n    left: 17px;\n}\n100% {\n    background-color: transparent;\n    bottom: 53px;\n    left: 9px;\n}\n}\n.line-47[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-47-data-v-920bb058 .8s linear 147s;\n          animation: bump-47-data-v-920bb058 .8s linear 147s;\n}\n@-webkit-keyframes bump-47-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 44px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 23px;\n    left: 1px;\n}\n100% {\n    background-color: transparent;\n    bottom: 14px;\n    left: 8px;\n}\n}\n@keyframes bump-47-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 44px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 23px;\n    left: 1px;\n}\n100% {\n    background-color: transparent;\n    bottom: 14px;\n    left: 8px;\n}\n}\n.line-48[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-48-data-v-920bb058 .8s linear 148s;\n          animation: bump-48-data-v-920bb058 .8s linear 148s;\n}\n@-webkit-keyframes bump-48-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 22px;\n    left: 8px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 42px;\n    left: 4px;\n}\n100% {\n    background-color: transparent;\n    bottom: 57px;\n    left: 7px;\n}\n}\n@keyframes bump-48-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 22px;\n    left: 8px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 42px;\n    left: 4px;\n}\n100% {\n    background-color: transparent;\n    bottom: 57px;\n    left: 7px;\n}\n}\n.line-49[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-49-data-v-920bb058 .8s linear 149s;\n          animation: bump-49-data-v-920bb058 .8s linear 149s;\n}\n@-webkit-keyframes bump-49-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 23px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 15px;\n    left: 2px;\n}\n100% {\n    background-color: transparent;\n    bottom: 3px;\n    left: 5px;\n}\n}\n@keyframes bump-49-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 23px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 15px;\n    left: 2px;\n}\n100% {\n    background-color: transparent;\n    bottom: 3px;\n    left: 5px;\n}\n}\n.line-50[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-50-data-v-920bb058 .8s linear 150s;\n          animation: bump-50-data-v-920bb058 .8s linear 150s;\n}\n@-webkit-keyframes bump-50-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 16px;\n    left: 10px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 50px;\n    left: 15px;\n}\n100% {\n    background-color: transparent;\n    bottom: 12px;\n    left: 6px;\n}\n}\n@keyframes bump-50-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 16px;\n    left: 10px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 50px;\n    left: 15px;\n}\n100% {\n    background-color: transparent;\n    bottom: 12px;\n    left: 6px;\n}\n}\n.line-51[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-51-data-v-920bb058 .8s linear 151s;\n          animation: bump-51-data-v-920bb058 .8s linear 151s;\n}\n@-webkit-keyframes bump-51-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 9px;\n    left: 7px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 60px;\n    left: 17px;\n}\n100% {\n    background-color: transparent;\n    bottom: 18px;\n    left: 4px;\n}\n}\n@keyframes bump-51-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 9px;\n    left: 7px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 60px;\n    left: 17px;\n}\n100% {\n    background-color: transparent;\n    bottom: 18px;\n    left: 4px;\n}\n}\n.line-52[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-52-data-v-920bb058 .8s linear 152s;\n          animation: bump-52-data-v-920bb058 .8s linear 152s;\n}\n@-webkit-keyframes bump-52-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 24px;\n    left: 2px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 53px;\n    left: 17px;\n}\n100% {\n    background-color: transparent;\n    bottom: 44px;\n    left: 6px;\n}\n}\n@keyframes bump-52-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 24px;\n    left: 2px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 53px;\n    left: 17px;\n}\n100% {\n    background-color: transparent;\n    bottom: 44px;\n    left: 6px;\n}\n}\n.line-53[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-53-data-v-920bb058 .8s linear 153s;\n          animation: bump-53-data-v-920bb058 .8s linear 153s;\n}\n@-webkit-keyframes bump-53-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 11px;\n    left: 4px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 45px;\n    left: 2px;\n}\n100% {\n    background-color: transparent;\n    bottom: 2px;\n    left: 8px;\n}\n}\n@keyframes bump-53-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 11px;\n    left: 4px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 45px;\n    left: 2px;\n}\n100% {\n    background-color: transparent;\n    bottom: 2px;\n    left: 8px;\n}\n}\n.line-54[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-54-data-v-920bb058 .8s linear 154s;\n          animation: bump-54-data-v-920bb058 .8s linear 154s;\n}\n@-webkit-keyframes bump-54-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 36px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 6px;\n    left: 3px;\n}\n100% {\n    background-color: transparent;\n    bottom: 39px;\n    left: 8px;\n}\n}\n@keyframes bump-54-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 36px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 6px;\n    left: 3px;\n}\n100% {\n    background-color: transparent;\n    bottom: 39px;\n    left: 8px;\n}\n}\n.line-55[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-55-data-v-920bb058 .8s linear 155s;\n          animation: bump-55-data-v-920bb058 .8s linear 155s;\n}\n@-webkit-keyframes bump-55-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 45px;\n    left: 2px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 27px;\n    left: 6px;\n}\n100% {\n    background-color: transparent;\n    bottom: 49px;\n    left: 10px;\n}\n}\n@keyframes bump-55-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 45px;\n    left: 2px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 27px;\n    left: 6px;\n}\n100% {\n    background-color: transparent;\n    bottom: 49px;\n    left: 10px;\n}\n}\n.line-56[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-56-data-v-920bb058 .8s linear 156s;\n          animation: bump-56-data-v-920bb058 .8s linear 156s;\n}\n@-webkit-keyframes bump-56-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 49px;\n    left: 5px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 44px;\n    left: 13px;\n}\n100% {\n    background-color: transparent;\n    bottom: 31px;\n    left: 8px;\n}\n}\n@keyframes bump-56-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 49px;\n    left: 5px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 44px;\n    left: 13px;\n}\n100% {\n    background-color: transparent;\n    bottom: 31px;\n    left: 8px;\n}\n}\n.line-57[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-57-data-v-920bb058 .8s linear 1.257s;\n          animation: bump-57-data-v-920bb058 .8s linear 1.257s;\n}\n@-webkit-keyframes bump-57-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 11px;\n    left: 2px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 43px;\n    left: 10px;\n}\n100% {\n    background-color: transparent;\n    bottom: 4px;\n    left: 8px;\n}\n}\n@keyframes bump-57-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 11px;\n    left: 2px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 43px;\n    left: 10px;\n}\n100% {\n    background-color: transparent;\n    bottom: 4px;\n    left: 8px;\n}\n}\n.line-58[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-58-data-v-920bb058 .8s linear 1.258s;\n          animation: bump-58-data-v-920bb058 .8s linear 1.258s;\n}\n@-webkit-keyframes bump-58-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 33px;\n    left: 1px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 38px;\n    left: 7px;\n}\n100% {\n    background-color: transparent;\n    bottom: 19px;\n    left: 9px;\n}\n}\n@keyframes bump-58-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 33px;\n    left: 1px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 38px;\n    left: 7px;\n}\n100% {\n    background-color: transparent;\n    bottom: 19px;\n    left: 9px;\n}\n}\n.line-59[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-59-data-v-920bb058 .8s linear 1.259s;\n          animation: bump-59-data-v-920bb058 .8s linear 1.259s;\n}\n@-webkit-keyframes bump-59-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 42px;\n    left: 4px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 44px;\n    left: 9px;\n}\n100% {\n    background-color: transparent;\n    bottom: 23px;\n    left: 6px;\n}\n}\n@keyframes bump-59-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 42px;\n    left: 4px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 44px;\n    left: 9px;\n}\n100% {\n    background-color: transparent;\n    bottom: 23px;\n    left: 6px;\n}\n}\n.line-60[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-60-data-v-920bb058 .8s linear 1.26s;\n          animation: bump-60-data-v-920bb058 .8s linear 1.26s;\n}\n@-webkit-keyframes bump-60-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 3px;\n    left: 3px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 42px;\n    left: 2px;\n}\n100% {\n    background-color: transparent;\n    bottom: 52px;\n    left: 2px;\n}\n}\n@keyframes bump-60-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 3px;\n    left: 3px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 42px;\n    left: 2px;\n}\n100% {\n    background-color: transparent;\n    bottom: 52px;\n    left: 2px;\n}\n}\n.line-61[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-61-data-v-920bb058 .8s linear 1.261s;\n          animation: bump-61-data-v-920bb058 .8s linear 1.261s;\n}\n@-webkit-keyframes bump-61-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 4px;\n    left: 3px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 27px;\n    left: 1px;\n}\n100% {\n    background-color: transparent;\n    bottom: 1px;\n    left: 8px;\n}\n}\n@keyframes bump-61-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 4px;\n    left: 3px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 27px;\n    left: 1px;\n}\n100% {\n    background-color: transparent;\n    bottom: 1px;\n    left: 8px;\n}\n}\n.line-62[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-62-data-v-920bb058 .8s linear 1.262s;\n          animation: bump-62-data-v-920bb058 .8s linear 1.262s;\n}\n@-webkit-keyframes bump-62-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 56px;\n    left: 2px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 67px;\n    left: 8px;\n}\n100% {\n    background-color: transparent;\n    bottom: 2px;\n    left: 3px;\n}\n}\n@keyframes bump-62-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 56px;\n    left: 2px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 67px;\n    left: 8px;\n}\n100% {\n    background-color: transparent;\n    bottom: 2px;\n    left: 3px;\n}\n}\n.line-63[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-63-data-v-920bb058 .8s linear 1.263s;\n          animation: bump-63-data-v-920bb058 .8s linear 1.263s;\n}\n@-webkit-keyframes bump-63-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 6px;\n    left: 3px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 79px;\n    left: 20px;\n}\n100% {\n    background-color: transparent;\n    bottom: 5px;\n    left: 8px;\n}\n}\n@keyframes bump-63-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 6px;\n    left: 3px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 79px;\n    left: 20px;\n}\n100% {\n    background-color: transparent;\n    bottom: 5px;\n    left: 8px;\n}\n}\n.line-64[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-64-data-v-920bb058 .8s linear 1.264s;\n          animation: bump-64-data-v-920bb058 .8s linear 1.264s;\n}\n@-webkit-keyframes bump-64-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 59px;\n    left: 10px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 77px;\n    left: 10px;\n}\n100% {\n    background-color: transparent;\n    bottom: 11px;\n    left: 3px;\n}\n}\n@keyframes bump-64-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 59px;\n    left: 10px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 77px;\n    left: 10px;\n}\n100% {\n    background-color: transparent;\n    bottom: 11px;\n    left: 3px;\n}\n}\n.line-65[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-65-data-v-920bb058 .8s linear 1.265s;\n          animation: bump-65-data-v-920bb058 .8s linear 1.265s;\n}\n@-webkit-keyframes bump-65-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 29px;\n    left: 2px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 52px;\n    left: 6px;\n}\n100% {\n    background-color: transparent;\n    bottom: 18px;\n    left: 10px;\n}\n}\n@keyframes bump-65-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 29px;\n    left: 2px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 52px;\n    left: 6px;\n}\n100% {\n    background-color: transparent;\n    bottom: 18px;\n    left: 10px;\n}\n}\n.line-66[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-66-data-v-920bb058 .8s linear 1.266s;\n          animation: bump-66-data-v-920bb058 .8s linear 1.266s;\n}\n@-webkit-keyframes bump-66-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 28px;\n    left: 6px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 51px;\n    left: 19px;\n}\n100% {\n    background-color: transparent;\n    bottom: 5px;\n    left: 8px;\n}\n}\n@keyframes bump-66-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 28px;\n    left: 6px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 51px;\n    left: 19px;\n}\n100% {\n    background-color: transparent;\n    bottom: 5px;\n    left: 8px;\n}\n}\n.line-67[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-67-data-v-920bb058 .8s linear 1.267s;\n          animation: bump-67-data-v-920bb058 .8s linear 1.267s;\n}\n@-webkit-keyframes bump-67-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 25px;\n    left: 7px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 47px;\n    left: 17px;\n}\n100% {\n    background-color: transparent;\n    bottom: 43px;\n    left: 6px;\n}\n}\n@keyframes bump-67-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 25px;\n    left: 7px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 47px;\n    left: 17px;\n}\n100% {\n    background-color: transparent;\n    bottom: 43px;\n    left: 6px;\n}\n}\n.line-68[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-68-data-v-920bb058 .8s linear 1.268s;\n          animation: bump-68-data-v-920bb058 .8s linear 1.268s;\n}\n@-webkit-keyframes bump-68-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 27px;\n    left: 5px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 22px;\n    left: 20px;\n}\n100% {\n    background-color: transparent;\n    bottom: 36px;\n    left: 8px;\n}\n}\n@keyframes bump-68-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 27px;\n    left: 5px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 22px;\n    left: 20px;\n}\n100% {\n    background-color: transparent;\n    bottom: 36px;\n    left: 8px;\n}\n}\n.line-69[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-69-data-v-920bb058 .8s linear 1.269s;\n          animation: bump-69-data-v-920bb058 .8s linear 1.269s;\n}\n@-webkit-keyframes bump-69-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 45px;\n    left: 8px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 44px;\n    left: 2px;\n}\n100% {\n    background-color: transparent;\n    bottom: 7px;\n    left: 2px;\n}\n}\n@keyframes bump-69-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 45px;\n    left: 8px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 44px;\n    left: 2px;\n}\n100% {\n    background-color: transparent;\n    bottom: 7px;\n    left: 2px;\n}\n}\n.line-70[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-70-data-v-920bb058 .8s linear 1.27s;\n          animation: bump-70-data-v-920bb058 .8s linear 1.27s;\n}\n@-webkit-keyframes bump-70-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 43px;\n    left: 2px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 77px;\n    left: 16px;\n}\n100% {\n    background-color: transparent;\n    bottom: 49px;\n    left: 7px;\n}\n}\n@keyframes bump-70-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 43px;\n    left: 2px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 77px;\n    left: 16px;\n}\n100% {\n    background-color: transparent;\n    bottom: 49px;\n    left: 7px;\n}\n}\n.line-71[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-71-data-v-920bb058 .8s linear 1.271s;\n          animation: bump-71-data-v-920bb058 .8s linear 1.271s;\n}\n@-webkit-keyframes bump-71-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 8px;\n    left: 6px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 2px;\n    left: 13px;\n}\n100% {\n    background-color: transparent;\n    bottom: 34px;\n    left: 7px;\n}\n}\n@keyframes bump-71-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 8px;\n    left: 6px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 2px;\n    left: 13px;\n}\n100% {\n    background-color: transparent;\n    bottom: 34px;\n    left: 7px;\n}\n}\n.line-72[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-72-data-v-920bb058 .8s linear 1.272s;\n          animation: bump-72-data-v-920bb058 .8s linear 1.272s;\n}\n@-webkit-keyframes bump-72-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 53px;\n    left: 7px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 42px;\n    left: 7px;\n}\n100% {\n    background-color: transparent;\n    bottom: 39px;\n    left: 8px;\n}\n}\n@keyframes bump-72-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 53px;\n    left: 7px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 42px;\n    left: 7px;\n}\n100% {\n    background-color: transparent;\n    bottom: 39px;\n    left: 8px;\n}\n}\n.line-73[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-73-data-v-920bb058 .8s linear 1.273s;\n          animation: bump-73-data-v-920bb058 .8s linear 1.273s;\n}\n@-webkit-keyframes bump-73-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 9px;\n    left: 2px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 23px;\n    left: 5px;\n}\n100% {\n    background-color: transparent;\n    bottom: 58px;\n    left: 7px;\n}\n}\n@keyframes bump-73-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 9px;\n    left: 2px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 23px;\n    left: 5px;\n}\n100% {\n    background-color: transparent;\n    bottom: 58px;\n    left: 7px;\n}\n}\n.line-74[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-74-data-v-920bb058 .8s linear 1.274s;\n          animation: bump-74-data-v-920bb058 .8s linear 1.274s;\n}\n@-webkit-keyframes bump-74-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 33px;\n    left: 6px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 3px;\n    left: 8px;\n}\n100% {\n    background-color: transparent;\n    bottom: 27px;\n    left: 7px;\n}\n}\n@keyframes bump-74-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 33px;\n    left: 6px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 3px;\n    left: 8px;\n}\n100% {\n    background-color: transparent;\n    bottom: 27px;\n    left: 7px;\n}\n}\n.line-75[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-75-data-v-920bb058 .8s linear 1.275s;\n          animation: bump-75-data-v-920bb058 .8s linear 1.275s;\n}\n@-webkit-keyframes bump-75-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 13px;\n    left: 5px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 22px;\n    left: 6px;\n}\n100% {\n    background-color: transparent;\n    bottom: 53px;\n    left: 7px;\n}\n}\n@keyframes bump-75-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 13px;\n    left: 5px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 22px;\n    left: 6px;\n}\n100% {\n    background-color: transparent;\n    bottom: 53px;\n    left: 7px;\n}\n}\n.line-76[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-76-data-v-920bb058 .8s linear 1.276s;\n          animation: bump-76-data-v-920bb058 .8s linear 1.276s;\n}\n@-webkit-keyframes bump-76-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 60px;\n    left: 6px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 66px;\n    left: 19px;\n}\n100% {\n    background-color: transparent;\n    bottom: 48px;\n    left: 5px;\n}\n}\n@keyframes bump-76-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 60px;\n    left: 6px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 66px;\n    left: 19px;\n}\n100% {\n    background-color: transparent;\n    bottom: 48px;\n    left: 5px;\n}\n}\n#line-group[data-v-920bb058] {\n  position: absolute;\n  top: 50%;\n  left: 0;\n  width: 100%;\n  height: 100%;\n}\n", ""]);
+exports.push([module.i, "[data-aos=fill-animation][data-v-920bb058] {\n  fill: #c3b282;\n  transition-property: fill;\n}\n[data-aos=fill-animation].aos-animate[data-v-920bb058] {\n  fill: transparent;\n}\n.line-1[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-1-data-v-920bb058 .8s linear .61s;\n          animation: bump-1-data-v-920bb058 .8s linear .61s;\n}\n@-webkit-keyframes bump-1-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 8px;\n    left: 1px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 45px;\n    left: 4px;\n}\n100% {\n    background-color: transparent;\n    bottom: 55px;\n    left: 3px;\n}\n}\n@keyframes bump-1-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 8px;\n    left: 1px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 45px;\n    left: 4px;\n}\n100% {\n    background-color: transparent;\n    bottom: 55px;\n    left: 3px;\n}\n}\n.line-2[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-2-data-v-920bb058 .8s linear .62s;\n          animation: bump-2-data-v-920bb058 .8s linear .62s;\n}\n@-webkit-keyframes bump-2-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 38px;\n    left: 3px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 70px;\n    left: 15px;\n}\n100% {\n    background-color: transparent;\n    bottom: 30px;\n    left: 3px;\n}\n}\n@keyframes bump-2-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 38px;\n    left: 3px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 70px;\n    left: 15px;\n}\n100% {\n    background-color: transparent;\n    bottom: 30px;\n    left: 3px;\n}\n}\n.line-3[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-3-data-v-920bb058 .8s linear .63s;\n          animation: bump-3-data-v-920bb058 .8s linear .63s;\n}\n@-webkit-keyframes bump-3-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 24px;\n    left: 8px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 52px;\n    left: 18px;\n}\n100% {\n    background-color: transparent;\n    bottom: 59px;\n    left: 3px;\n}\n}\n@keyframes bump-3-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 24px;\n    left: 8px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 52px;\n    left: 18px;\n}\n100% {\n    background-color: transparent;\n    bottom: 59px;\n    left: 3px;\n}\n}\n.line-4[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-4-data-v-920bb058 .8s linear .64s;\n          animation: bump-4-data-v-920bb058 .8s linear .64s;\n}\n@-webkit-keyframes bump-4-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 54px;\n    left: 6px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 34px;\n    left: 6px;\n}\n100% {\n    background-color: transparent;\n    bottom: 4px;\n    left: 3px;\n}\n}\n@keyframes bump-4-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 54px;\n    left: 6px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 34px;\n    left: 6px;\n}\n100% {\n    background-color: transparent;\n    bottom: 4px;\n    left: 3px;\n}\n}\n.line-5[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-5-data-v-920bb058 .8s linear .65s;\n          animation: bump-5-data-v-920bb058 .8s linear .65s;\n}\n@-webkit-keyframes bump-5-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 37px;\n    left: 10px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 51px;\n    left: 3px;\n}\n100% {\n    background-color: transparent;\n    bottom: 39px;\n    left: 7px;\n}\n}\n@keyframes bump-5-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 37px;\n    left: 10px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 51px;\n    left: 3px;\n}\n100% {\n    background-color: transparent;\n    bottom: 39px;\n    left: 7px;\n}\n}\n.line-6[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-6-data-v-920bb058 .8s linear .66s;\n          animation: bump-6-data-v-920bb058 .8s linear .66s;\n}\n@-webkit-keyframes bump-6-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 15px;\n    left: 3px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 63px;\n    left: 10px;\n}\n100% {\n    background-color: transparent;\n    bottom: 42px;\n    left: 5px;\n}\n}\n@keyframes bump-6-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 15px;\n    left: 3px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 63px;\n    left: 10px;\n}\n100% {\n    background-color: transparent;\n    bottom: 42px;\n    left: 5px;\n}\n}\n.line-7[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-7-data-v-920bb058 .8s linear .67s;\n          animation: bump-7-data-v-920bb058 .8s linear .67s;\n}\n@-webkit-keyframes bump-7-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 38px;\n    left: 10px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 37px;\n    left: 5px;\n}\n100% {\n    background-color: transparent;\n    bottom: 34px;\n    left: 10px;\n}\n}\n@keyframes bump-7-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 38px;\n    left: 10px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 37px;\n    left: 5px;\n}\n100% {\n    background-color: transparent;\n    bottom: 34px;\n    left: 10px;\n}\n}\n.line-8[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-8-data-v-920bb058 .8s linear .68s;\n          animation: bump-8-data-v-920bb058 .8s linear .68s;\n}\n@-webkit-keyframes bump-8-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 45px;\n    left: 7px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 74px;\n    left: 18px;\n}\n100% {\n    background-color: transparent;\n    bottom: 27px;\n    left: 9px;\n}\n}\n@keyframes bump-8-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 45px;\n    left: 7px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 74px;\n    left: 18px;\n}\n100% {\n    background-color: transparent;\n    bottom: 27px;\n    left: 9px;\n}\n}\n.line-9[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-9-data-v-920bb058 .8s linear .69s;\n          animation: bump-9-data-v-920bb058 .8s linear .69s;\n}\n@-webkit-keyframes bump-9-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 10px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 7px;\n    left: 19px;\n}\n100% {\n    background-color: transparent;\n    bottom: 22px;\n    left: 10px;\n}\n}\n@keyframes bump-9-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 10px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 7px;\n    left: 19px;\n}\n100% {\n    background-color: transparent;\n    bottom: 22px;\n    left: 10px;\n}\n}\n.line-10[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-10-data-v-920bb058 .8s linear .61s;\n          animation: bump-10-data-v-920bb058 .8s linear .61s;\n}\n@-webkit-keyframes bump-10-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 47px;\n    left: 7px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 43px;\n    left: 13px;\n}\n100% {\n    background-color: transparent;\n    bottom: 22px;\n    left: 4px;\n}\n}\n@keyframes bump-10-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 47px;\n    left: 7px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 43px;\n    left: 13px;\n}\n100% {\n    background-color: transparent;\n    bottom: 22px;\n    left: 4px;\n}\n}\n.line-11[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-11-data-v-920bb058 .8s linear .611s;\n          animation: bump-11-data-v-920bb058 .8s linear .611s;\n}\n@-webkit-keyframes bump-11-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 49px;\n    left: 3px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 44px;\n    left: 19px;\n}\n100% {\n    background-color: transparent;\n    bottom: 18px;\n    left: 4px;\n}\n}\n@keyframes bump-11-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 49px;\n    left: 3px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 44px;\n    left: 19px;\n}\n100% {\n    background-color: transparent;\n    bottom: 18px;\n    left: 4px;\n}\n}\n.line-12[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-12-data-v-920bb058 .8s linear .612s;\n          animation: bump-12-data-v-920bb058 .8s linear .612s;\n}\n@-webkit-keyframes bump-12-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 17px;\n    left: 6px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 48px;\n    left: 14px;\n}\n100% {\n    background-color: transparent;\n    bottom: 13px;\n    left: 6px;\n}\n}\n@keyframes bump-12-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 17px;\n    left: 6px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 48px;\n    left: 14px;\n}\n100% {\n    background-color: transparent;\n    bottom: 13px;\n    left: 6px;\n}\n}\n.line-13[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-13-data-v-920bb058 .8s linear .613s;\n          animation: bump-13-data-v-920bb058 .8s linear .613s;\n}\n@-webkit-keyframes bump-13-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 14px;\n    left: 7px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 14px;\n    left: 4px;\n}\n100% {\n    background-color: transparent;\n    bottom: 27px;\n    left: 1px;\n}\n}\n@keyframes bump-13-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 14px;\n    left: 7px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 14px;\n    left: 4px;\n}\n100% {\n    background-color: transparent;\n    bottom: 27px;\n    left: 1px;\n}\n}\n.line-14[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-14-data-v-920bb058 .8s linear .614s;\n          animation: bump-14-data-v-920bb058 .8s linear .614s;\n}\n@-webkit-keyframes bump-14-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 27px;\n    left: 1px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 56px;\n    left: 19px;\n}\n100% {\n    background-color: transparent;\n    bottom: 36px;\n    left: 2px;\n}\n}\n@keyframes bump-14-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 27px;\n    left: 1px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 56px;\n    left: 19px;\n}\n100% {\n    background-color: transparent;\n    bottom: 36px;\n    left: 2px;\n}\n}\n.line-15[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-15-data-v-920bb058 .8s linear .615s;\n          animation: bump-15-data-v-920bb058 .8s linear .615s;\n}\n@-webkit-keyframes bump-15-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 58px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 1px;\n    left: 1px;\n}\n100% {\n    background-color: transparent;\n    bottom: 40px;\n    left: 5px;\n}\n}\n@keyframes bump-15-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 58px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 1px;\n    left: 1px;\n}\n100% {\n    background-color: transparent;\n    bottom: 40px;\n    left: 5px;\n}\n}\n.line-16[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-16-data-v-920bb058 .8s linear .616s;\n          animation: bump-16-data-v-920bb058 .8s linear .616s;\n}\n@-webkit-keyframes bump-16-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 37px;\n    left: 10px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 13px;\n    left: 9px;\n}\n100% {\n    background-color: transparent;\n    bottom: 50px;\n    left: 10px;\n}\n}\n@keyframes bump-16-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 37px;\n    left: 10px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 13px;\n    left: 9px;\n}\n100% {\n    background-color: transparent;\n    bottom: 50px;\n    left: 10px;\n}\n}\n.line-17[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-17-data-v-920bb058 .8s linear .617s;\n          animation: bump-17-data-v-920bb058 .8s linear .617s;\n}\n@-webkit-keyframes bump-17-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 48px;\n    left: 6px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 26px;\n    left: 4px;\n}\n100% {\n    background-color: transparent;\n    bottom: 37px;\n    left: 7px;\n}\n}\n@keyframes bump-17-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 48px;\n    left: 6px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 26px;\n    left: 4px;\n}\n100% {\n    background-color: transparent;\n    bottom: 37px;\n    left: 7px;\n}\n}\n.line-18[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-18-data-v-920bb058 .8s linear .618s;\n          animation: bump-18-data-v-920bb058 .8s linear .618s;\n}\n@-webkit-keyframes bump-18-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 38px;\n    left: 7px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 30px;\n    left: 8px;\n}\n100% {\n    background-color: transparent;\n    bottom: 40px;\n    left: 10px;\n}\n}\n@keyframes bump-18-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 38px;\n    left: 7px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 30px;\n    left: 8px;\n}\n100% {\n    background-color: transparent;\n    bottom: 40px;\n    left: 10px;\n}\n}\n.line-19[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-19-data-v-920bb058 .8s linear .819s;\n          animation: bump-19-data-v-920bb058 .8s linear .819s;\n}\n@-webkit-keyframes bump-19-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 31px;\n    left: 2px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 21px;\n    left: 7px;\n}\n100% {\n    background-color: transparent;\n    bottom: 20px;\n    left: 9px;\n}\n}\n@keyframes bump-19-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 31px;\n    left: 2px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 21px;\n    left: 7px;\n}\n100% {\n    background-color: transparent;\n    bottom: 20px;\n    left: 9px;\n}\n}\n.line-20[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-20-data-v-920bb058 .8s linear .82s;\n          animation: bump-20-data-v-920bb058 .8s linear .82s;\n}\n@-webkit-keyframes bump-20-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 9px;\n    left: 4px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 20px;\n    left: 3px;\n}\n100% {\n    background-color: transparent;\n    bottom: 54px;\n    left: 6px;\n}\n}\n@keyframes bump-20-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 9px;\n    left: 4px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 20px;\n    left: 3px;\n}\n100% {\n    background-color: transparent;\n    bottom: 54px;\n    left: 6px;\n}\n}\n.line-21[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-21-data-v-920bb058 .8s linear .821s;\n          animation: bump-21-data-v-920bb058 .8s linear .821s;\n}\n@-webkit-keyframes bump-21-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 16px;\n    left: 6px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 24px;\n    left: 20px;\n}\n100% {\n    background-color: transparent;\n    bottom: 21px;\n    left: 6px;\n}\n}\n@keyframes bump-21-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 16px;\n    left: 6px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 24px;\n    left: 20px;\n}\n100% {\n    background-color: transparent;\n    bottom: 21px;\n    left: 6px;\n}\n}\n.line-22[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-22-data-v-920bb058 .8s linear .822s;\n          animation: bump-22-data-v-920bb058 .8s linear .822s;\n}\n@-webkit-keyframes bump-22-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 47px;\n    left: 5px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 73px;\n    left: 15px;\n}\n100% {\n    background-color: transparent;\n    bottom: 52px;\n    left: 1px;\n}\n}\n@keyframes bump-22-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 47px;\n    left: 5px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 73px;\n    left: 15px;\n}\n100% {\n    background-color: transparent;\n    bottom: 52px;\n    left: 1px;\n}\n}\n.line-23[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-23-data-v-920bb058 .8s linear .823s;\n          animation: bump-23-data-v-920bb058 .8s linear .823s;\n}\n@-webkit-keyframes bump-23-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 13px;\n    left: 10px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 78px;\n    left: 11px;\n}\n100% {\n    background-color: transparent;\n    bottom: 17px;\n    left: 6px;\n}\n}\n@keyframes bump-23-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 13px;\n    left: 10px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 78px;\n    left: 11px;\n}\n100% {\n    background-color: transparent;\n    bottom: 17px;\n    left: 6px;\n}\n}\n.line-24[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-24-data-v-920bb058 .8s linear .824s;\n          animation: bump-24-data-v-920bb058 .8s linear .824s;\n}\n@-webkit-keyframes bump-24-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 41px;\n    left: 10px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 24px;\n    left: 12px;\n}\n100% {\n    background-color: transparent;\n    bottom: 19px;\n    left: 8px;\n}\n}\n@keyframes bump-24-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 41px;\n    left: 10px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 24px;\n    left: 12px;\n}\n100% {\n    background-color: transparent;\n    bottom: 19px;\n    left: 8px;\n}\n}\n.line-25[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-25-data-v-920bb058 .8s linear .825s;\n          animation: bump-25-data-v-920bb058 .8s linear .825s;\n}\n@-webkit-keyframes bump-25-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 14px;\n    left: 4px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 28px;\n    left: 13px;\n}\n100% {\n    background-color: transparent;\n    bottom: 7px;\n    left: 7px;\n}\n}\n@keyframes bump-25-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 14px;\n    left: 4px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 28px;\n    left: 13px;\n}\n100% {\n    background-color: transparent;\n    bottom: 7px;\n    left: 7px;\n}\n}\n.line-26[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-26-data-v-920bb058 .8s linear .826s;\n          animation: bump-26-data-v-920bb058 .8s linear .826s;\n}\n@-webkit-keyframes bump-26-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 30px;\n    left: 1px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 68px;\n    left: 7px;\n}\n100% {\n    background-color: transparent;\n    bottom: 21px;\n    left: 10px;\n}\n}\n@keyframes bump-26-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 30px;\n    left: 1px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 68px;\n    left: 7px;\n}\n100% {\n    background-color: transparent;\n    bottom: 21px;\n    left: 10px;\n}\n}\n.line-27[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-27-data-v-920bb058 .8s linear .827s;\n          animation: bump-27-data-v-920bb058 .8s linear .827s;\n}\n@-webkit-keyframes bump-27-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 10px;\n    left: 2px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 55px;\n    left: 12px;\n}\n100% {\n    background-color: transparent;\n    bottom: 32px;\n    left: 7px;\n}\n}\n@keyframes bump-27-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 10px;\n    left: 2px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 55px;\n    left: 12px;\n}\n100% {\n    background-color: transparent;\n    bottom: 32px;\n    left: 7px;\n}\n}\n.line-28[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-28-data-v-920bb058 .8s linear .828s;\n          animation: bump-28-data-v-920bb058 .8s linear .828s;\n}\n@-webkit-keyframes bump-28-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 38px;\n    left: 1px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 35px;\n    left: 19px;\n}\n100% {\n    background-color: transparent;\n    bottom: 12px;\n    left: 8px;\n}\n}\n@keyframes bump-28-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 38px;\n    left: 1px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 35px;\n    left: 19px;\n}\n100% {\n    background-color: transparent;\n    bottom: 12px;\n    left: 8px;\n}\n}\n.line-29[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-29-data-v-920bb058 .8s linear .829s;\n          animation: bump-29-data-v-920bb058 .8s linear .829s;\n}\n@-webkit-keyframes bump-29-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 31px;\n    left: 1px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 54px;\n    left: 15px;\n}\n100% {\n    background-color: transparent;\n    bottom: 59px;\n    left: 7px;\n}\n}\n@keyframes bump-29-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 31px;\n    left: 1px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 54px;\n    left: 15px;\n}\n100% {\n    background-color: transparent;\n    bottom: 59px;\n    left: 7px;\n}\n}\n.line-30[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-30-data-v-920bb058 .8s linear .83s;\n          animation: bump-30-data-v-920bb058 .8s linear .83s;\n}\n@-webkit-keyframes bump-30-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 52px;\n    left: 10px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 59px;\n    left: 10px;\n}\n100% {\n    background-color: transparent;\n    bottom: 38px;\n    left: 10px;\n}\n}\n@keyframes bump-30-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 52px;\n    left: 10px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 59px;\n    left: 10px;\n}\n100% {\n    background-color: transparent;\n    bottom: 38px;\n    left: 10px;\n}\n}\n.line-31[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-31-data-v-920bb058 .8s linear .831s;\n          animation: bump-31-data-v-920bb058 .8s linear .831s;\n}\n@-webkit-keyframes bump-31-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 29px;\n    left: 8px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 68px;\n    left: 1px;\n}\n100% {\n    background-color: transparent;\n    bottom: 26px;\n    left: 2px;\n}\n}\n@keyframes bump-31-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 29px;\n    left: 8px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 68px;\n    left: 1px;\n}\n100% {\n    background-color: transparent;\n    bottom: 26px;\n    left: 2px;\n}\n}\n.line-32[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-32-data-v-920bb058 .8s linear .832s;\n          animation: bump-32-data-v-920bb058 .8s linear .832s;\n}\n@-webkit-keyframes bump-32-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 22px;\n    left: 6px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 22px;\n    left: 14px;\n}\n100% {\n    background-color: transparent;\n    bottom: 26px;\n    left: 2px;\n}\n}\n@keyframes bump-32-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 22px;\n    left: 6px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 22px;\n    left: 14px;\n}\n100% {\n    background-color: transparent;\n    bottom: 26px;\n    left: 2px;\n}\n}\n.line-33[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-33-data-v-920bb058 .8s linear .833s;\n          animation: bump-33-data-v-920bb058 .8s linear .833s;\n}\n@-webkit-keyframes bump-33-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 44px;\n    left: 2px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 42px;\n    left: 19px;\n}\n100% {\n    background-color: transparent;\n    bottom: 51px;\n    left: 1px;\n}\n}\n@keyframes bump-33-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 44px;\n    left: 2px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 42px;\n    left: 19px;\n}\n100% {\n    background-color: transparent;\n    bottom: 51px;\n    left: 1px;\n}\n}\n.line-34[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-34-data-v-920bb058 .8s linear .834s;\n          animation: bump-34-data-v-920bb058 .8s linear .834s;\n}\n@-webkit-keyframes bump-34-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 58px;\n    left: 1px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 8px;\n    left: 16px;\n}\n100% {\n    background-color: transparent;\n    bottom: 50px;\n    left: 6px;\n}\n}\n@keyframes bump-34-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 58px;\n    left: 1px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 8px;\n    left: 16px;\n}\n100% {\n    background-color: transparent;\n    bottom: 50px;\n    left: 6px;\n}\n}\n.line-35[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-35-data-v-920bb058 .8s linear .835s;\n          animation: bump-35-data-v-920bb058 .8s linear .835s;\n}\n@-webkit-keyframes bump-35-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 19px;\n    left: 3px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 72px;\n    left: 19px;\n}\n100% {\n    background-color: transparent;\n    bottom: 53px;\n    left: 1px;\n}\n}\n@keyframes bump-35-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 19px;\n    left: 3px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 72px;\n    left: 19px;\n}\n100% {\n    background-color: transparent;\n    bottom: 53px;\n    left: 1px;\n}\n}\n.line-36[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-36-data-v-920bb058 .8s linear .836s;\n          animation: bump-36-data-v-920bb058 .8s linear .836s;\n}\n@-webkit-keyframes bump-36-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 47px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 55px;\n    left: 11px;\n}\n100% {\n    background-color: transparent;\n    bottom: 49px;\n    left: 1px;\n}\n}\n@keyframes bump-36-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 47px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 55px;\n    left: 11px;\n}\n100% {\n    background-color: transparent;\n    bottom: 49px;\n    left: 1px;\n}\n}\n.line-37[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-37-data-v-920bb058 .8s linear .837s;\n          animation: bump-37-data-v-920bb058 .8s linear .837s;\n}\n@-webkit-keyframes bump-37-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 15px;\n    left: 6px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 78px;\n    left: 2px;\n}\n100% {\n    background-color: transparent;\n    bottom: 44px;\n    left: 1px;\n}\n}\n@keyframes bump-37-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 15px;\n    left: 6px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 78px;\n    left: 2px;\n}\n100% {\n    background-color: transparent;\n    bottom: 44px;\n    left: 1px;\n}\n}\n.line-38[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-38-data-v-920bb058 .8s linear 138s;\n          animation: bump-38-data-v-920bb058 .8s linear 138s;\n}\n@-webkit-keyframes bump-38-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 60px;\n    left: 10px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 40px;\n    left: 14px;\n}\n100% {\n    background-color: transparent;\n    bottom: 6px;\n    left: 3px;\n}\n}\n@keyframes bump-38-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 60px;\n    left: 10px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 40px;\n    left: 14px;\n}\n100% {\n    background-color: transparent;\n    bottom: 6px;\n    left: 3px;\n}\n}\n.line-39[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-39-data-v-920bb058 .8s linear 139s;\n          animation: bump-39-data-v-920bb058 .8s linear 139s;\n}\n@-webkit-keyframes bump-39-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 18px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 57px;\n    left: 9px;\n}\n100% {\n    background-color: transparent;\n    bottom: 13px;\n    left: 8px;\n}\n}\n@keyframes bump-39-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 18px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 57px;\n    left: 9px;\n}\n100% {\n    background-color: transparent;\n    bottom: 13px;\n    left: 8px;\n}\n}\n.line-40[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-40-data-v-920bb058 .8s linear 140s;\n          animation: bump-40-data-v-920bb058 .8s linear 140s;\n}\n@-webkit-keyframes bump-40-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 23px;\n    left: 4px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 80px;\n    left: 14px;\n}\n100% {\n    background-color: transparent;\n    bottom: 44px;\n    left: 5px;\n}\n}\n@keyframes bump-40-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 23px;\n    left: 4px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 80px;\n    left: 14px;\n}\n100% {\n    background-color: transparent;\n    bottom: 44px;\n    left: 5px;\n}\n}\n.line-41[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-41-data-v-920bb058 .8s linear 141s;\n          animation: bump-41-data-v-920bb058 .8s linear 141s;\n}\n@-webkit-keyframes bump-41-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 16px;\n    left: 3px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 46px;\n    left: 19px;\n}\n100% {\n    background-color: transparent;\n    bottom: 57px;\n    left: 9px;\n}\n}\n@keyframes bump-41-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 16px;\n    left: 3px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 46px;\n    left: 19px;\n}\n100% {\n    background-color: transparent;\n    bottom: 57px;\n    left: 9px;\n}\n}\n.line-42[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-42-data-v-920bb058 .8s linear 142s;\n          animation: bump-42-data-v-920bb058 .8s linear 142s;\n}\n@-webkit-keyframes bump-42-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 56px;\n    left: 4px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 59px;\n    left: 16px;\n}\n100% {\n    background-color: transparent;\n    bottom: 55px;\n    left: 5px;\n}\n}\n@keyframes bump-42-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 56px;\n    left: 4px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 59px;\n    left: 16px;\n}\n100% {\n    background-color: transparent;\n    bottom: 55px;\n    left: 5px;\n}\n}\n.line-43[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-43-data-v-920bb058 .8s linear 143s;\n          animation: bump-43-data-v-920bb058 .8s linear 143s;\n}\n@-webkit-keyframes bump-43-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 53px;\n    left: 8px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 12px;\n    left: 12px;\n}\n100% {\n    background-color: transparent;\n    bottom: 10px;\n    left: 2px;\n}\n}\n@keyframes bump-43-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 53px;\n    left: 8px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 12px;\n    left: 12px;\n}\n100% {\n    background-color: transparent;\n    bottom: 10px;\n    left: 2px;\n}\n}\n.line-44[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-44-data-v-920bb058 .8s linear 144s;\n          animation: bump-44-data-v-920bb058 .8s linear 144s;\n}\n@-webkit-keyframes bump-44-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 25px;\n    left: 1px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 27px;\n    left: 11px;\n}\n100% {\n    background-color: transparent;\n    bottom: 28px;\n    left: 8px;\n}\n}\n@keyframes bump-44-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 25px;\n    left: 1px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 27px;\n    left: 11px;\n}\n100% {\n    background-color: transparent;\n    bottom: 28px;\n    left: 8px;\n}\n}\n.line-45[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-45-data-v-920bb058 .8s linear 145s;\n          animation: bump-45-data-v-920bb058 .8s linear 145s;\n}\n@-webkit-keyframes bump-45-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 41px;\n    left: 10px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 15px;\n    left: 15px;\n}\n100% {\n    background-color: transparent;\n    bottom: 17px;\n    left: 5px;\n}\n}\n@keyframes bump-45-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 41px;\n    left: 10px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 15px;\n    left: 15px;\n}\n100% {\n    background-color: transparent;\n    bottom: 17px;\n    left: 5px;\n}\n}\n.line-46[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-46-data-v-920bb058 .8s linear 146s;\n          animation: bump-46-data-v-920bb058 .8s linear 146s;\n}\n@-webkit-keyframes bump-46-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 59px;\n    left: 3px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 17px;\n    left: 4px;\n}\n100% {\n    background-color: transparent;\n    bottom: 50px;\n    left: 9px;\n}\n}\n@keyframes bump-46-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 59px;\n    left: 3px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 17px;\n    left: 4px;\n}\n100% {\n    background-color: transparent;\n    bottom: 50px;\n    left: 9px;\n}\n}\n.line-47[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-47-data-v-920bb058 .8s linear 147s;\n          animation: bump-47-data-v-920bb058 .8s linear 147s;\n}\n@-webkit-keyframes bump-47-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 44px;\n    left: 10px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 62px;\n    left: 11px;\n}\n100% {\n    background-color: transparent;\n    bottom: 55px;\n    left: 10px;\n}\n}\n@keyframes bump-47-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 44px;\n    left: 10px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 62px;\n    left: 11px;\n}\n100% {\n    background-color: transparent;\n    bottom: 55px;\n    left: 10px;\n}\n}\n.line-48[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-48-data-v-920bb058 .8s linear 148s;\n          animation: bump-48-data-v-920bb058 .8s linear 148s;\n}\n@-webkit-keyframes bump-48-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 60px;\n    left: 2px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 36px;\n    left: 17px;\n}\n100% {\n    background-color: transparent;\n    bottom: 9px;\n    left: 2px;\n}\n}\n@keyframes bump-48-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 60px;\n    left: 2px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 36px;\n    left: 17px;\n}\n100% {\n    background-color: transparent;\n    bottom: 9px;\n    left: 2px;\n}\n}\n.line-49[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-49-data-v-920bb058 .8s linear 149s;\n          animation: bump-49-data-v-920bb058 .8s linear 149s;\n}\n@-webkit-keyframes bump-49-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 11px;\n    left: 4px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 45px;\n    left: 10px;\n}\n100% {\n    background-color: transparent;\n    bottom: 28px;\n    left: 6px;\n}\n}\n@keyframes bump-49-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 11px;\n    left: 4px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 45px;\n    left: 10px;\n}\n100% {\n    background-color: transparent;\n    bottom: 28px;\n    left: 6px;\n}\n}\n.line-50[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-50-data-v-920bb058 .8s linear 150s;\n          animation: bump-50-data-v-920bb058 .8s linear 150s;\n}\n@-webkit-keyframes bump-50-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 18px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 77px;\n    left: 10px;\n}\n100% {\n    background-color: transparent;\n    bottom: 2px;\n    left: 6px;\n}\n}\n@keyframes bump-50-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 18px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 77px;\n    left: 10px;\n}\n100% {\n    background-color: transparent;\n    bottom: 2px;\n    left: 6px;\n}\n}\n.line-51[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-51-data-v-920bb058 .8s linear 151s;\n          animation: bump-51-data-v-920bb058 .8s linear 151s;\n}\n@-webkit-keyframes bump-51-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 47px;\n    left: 5px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 55px;\n    left: 10px;\n}\n100% {\n    background-color: transparent;\n    bottom: 13px;\n    left: 1px;\n}\n}\n@keyframes bump-51-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 47px;\n    left: 5px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 55px;\n    left: 10px;\n}\n100% {\n    background-color: transparent;\n    bottom: 13px;\n    left: 1px;\n}\n}\n.line-52[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-52-data-v-920bb058 .8s linear 152s;\n          animation: bump-52-data-v-920bb058 .8s linear 152s;\n}\n@-webkit-keyframes bump-52-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 15px;\n    left: 8px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 23px;\n    left: 4px;\n}\n100% {\n    background-color: transparent;\n    bottom: 14px;\n    left: 1px;\n}\n}\n@keyframes bump-52-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 15px;\n    left: 8px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 23px;\n    left: 4px;\n}\n100% {\n    background-color: transparent;\n    bottom: 14px;\n    left: 1px;\n}\n}\n.line-53[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-53-data-v-920bb058 .8s linear 153s;\n          animation: bump-53-data-v-920bb058 .8s linear 153s;\n}\n@-webkit-keyframes bump-53-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 49px;\n    left: 1px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 60px;\n    left: 1px;\n}\n100% {\n    background-color: transparent;\n    bottom: 32px;\n    left: 3px;\n}\n}\n@keyframes bump-53-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 49px;\n    left: 1px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 60px;\n    left: 1px;\n}\n100% {\n    background-color: transparent;\n    bottom: 32px;\n    left: 3px;\n}\n}\n.line-54[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-54-data-v-920bb058 .8s linear 154s;\n          animation: bump-54-data-v-920bb058 .8s linear 154s;\n}\n@-webkit-keyframes bump-54-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 49px;\n    left: 2px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 29px;\n    left: 2px;\n}\n100% {\n    background-color: transparent;\n    bottom: 6px;\n    left: 5px;\n}\n}\n@keyframes bump-54-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 49px;\n    left: 2px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 29px;\n    left: 2px;\n}\n100% {\n    background-color: transparent;\n    bottom: 6px;\n    left: 5px;\n}\n}\n.line-55[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-55-data-v-920bb058 .8s linear 155s;\n          animation: bump-55-data-v-920bb058 .8s linear 155s;\n}\n@-webkit-keyframes bump-55-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 50px;\n    left: 8px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 9px;\n    left: 3px;\n}\n100% {\n    background-color: transparent;\n    bottom: 24px;\n    left: 2px;\n}\n}\n@keyframes bump-55-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 50px;\n    left: 8px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 9px;\n    left: 3px;\n}\n100% {\n    background-color: transparent;\n    bottom: 24px;\n    left: 2px;\n}\n}\n.line-56[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-56-data-v-920bb058 .8s linear 156s;\n          animation: bump-56-data-v-920bb058 .8s linear 156s;\n}\n@-webkit-keyframes bump-56-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 15px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 30px;\n    left: 4px;\n}\n100% {\n    background-color: transparent;\n    bottom: 30px;\n    left: 8px;\n}\n}\n@keyframes bump-56-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 15px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 30px;\n    left: 4px;\n}\n100% {\n    background-color: transparent;\n    bottom: 30px;\n    left: 8px;\n}\n}\n.line-57[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-57-data-v-920bb058 .8s linear 1.257s;\n          animation: bump-57-data-v-920bb058 .8s linear 1.257s;\n}\n@-webkit-keyframes bump-57-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 26px;\n    left: 3px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 46px;\n    left: 2px;\n}\n100% {\n    background-color: transparent;\n    bottom: 60px;\n    left: 8px;\n}\n}\n@keyframes bump-57-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 26px;\n    left: 3px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 46px;\n    left: 2px;\n}\n100% {\n    background-color: transparent;\n    bottom: 60px;\n    left: 8px;\n}\n}\n.line-58[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-58-data-v-920bb058 .8s linear 1.258s;\n          animation: bump-58-data-v-920bb058 .8s linear 1.258s;\n}\n@-webkit-keyframes bump-58-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 13px;\n    left: 10px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 27px;\n    left: 10px;\n}\n100% {\n    background-color: transparent;\n    bottom: 28px;\n    left: 10px;\n}\n}\n@keyframes bump-58-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 13px;\n    left: 10px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 27px;\n    left: 10px;\n}\n100% {\n    background-color: transparent;\n    bottom: 28px;\n    left: 10px;\n}\n}\n.line-59[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-59-data-v-920bb058 .8s linear 1.259s;\n          animation: bump-59-data-v-920bb058 .8s linear 1.259s;\n}\n@-webkit-keyframes bump-59-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 52px;\n    left: 4px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 65px;\n    left: 9px;\n}\n100% {\n    background-color: transparent;\n    bottom: 51px;\n    left: 9px;\n}\n}\n@keyframes bump-59-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 52px;\n    left: 4px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 65px;\n    left: 9px;\n}\n100% {\n    background-color: transparent;\n    bottom: 51px;\n    left: 9px;\n}\n}\n.line-60[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-60-data-v-920bb058 .8s linear 1.26s;\n          animation: bump-60-data-v-920bb058 .8s linear 1.26s;\n}\n@-webkit-keyframes bump-60-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 15px;\n    left: 5px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 44px;\n    left: 4px;\n}\n100% {\n    background-color: transparent;\n    bottom: 27px;\n    left: 3px;\n}\n}\n@keyframes bump-60-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 15px;\n    left: 5px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 44px;\n    left: 4px;\n}\n100% {\n    background-color: transparent;\n    bottom: 27px;\n    left: 3px;\n}\n}\n.line-61[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-61-data-v-920bb058 .8s linear 1.261s;\n          animation: bump-61-data-v-920bb058 .8s linear 1.261s;\n}\n@-webkit-keyframes bump-61-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 13px;\n    left: 2px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 49px;\n    left: 15px;\n}\n100% {\n    background-color: transparent;\n    bottom: 13px;\n    left: 1px;\n}\n}\n@keyframes bump-61-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 13px;\n    left: 2px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 49px;\n    left: 15px;\n}\n100% {\n    background-color: transparent;\n    bottom: 13px;\n    left: 1px;\n}\n}\n.line-62[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-62-data-v-920bb058 .8s linear 1.262s;\n          animation: bump-62-data-v-920bb058 .8s linear 1.262s;\n}\n@-webkit-keyframes bump-62-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 45px;\n    left: 3px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 43px;\n    left: 17px;\n}\n100% {\n    background-color: transparent;\n    bottom: 9px;\n    left: 2px;\n}\n}\n@keyframes bump-62-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 45px;\n    left: 3px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 43px;\n    left: 17px;\n}\n100% {\n    background-color: transparent;\n    bottom: 9px;\n    left: 2px;\n}\n}\n.line-63[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-63-data-v-920bb058 .8s linear 1.263s;\n          animation: bump-63-data-v-920bb058 .8s linear 1.263s;\n}\n@-webkit-keyframes bump-63-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 46px;\n    left: 5px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 28px;\n    left: 1px;\n}\n100% {\n    background-color: transparent;\n    bottom: 57px;\n    left: 7px;\n}\n}\n@keyframes bump-63-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 46px;\n    left: 5px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 28px;\n    left: 1px;\n}\n100% {\n    background-color: transparent;\n    bottom: 57px;\n    left: 7px;\n}\n}\n.line-64[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-64-data-v-920bb058 .8s linear 1.264s;\n          animation: bump-64-data-v-920bb058 .8s linear 1.264s;\n}\n@-webkit-keyframes bump-64-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 43px;\n    left: 7px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 49px;\n    left: 12px;\n}\n100% {\n    background-color: transparent;\n    bottom: 41px;\n    left: 7px;\n}\n}\n@keyframes bump-64-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 43px;\n    left: 7px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 49px;\n    left: 12px;\n}\n100% {\n    background-color: transparent;\n    bottom: 41px;\n    left: 7px;\n}\n}\n.line-65[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-65-data-v-920bb058 .8s linear 1.265s;\n          animation: bump-65-data-v-920bb058 .8s linear 1.265s;\n}\n@-webkit-keyframes bump-65-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 48px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 43px;\n    left: 7px;\n}\n100% {\n    background-color: transparent;\n    bottom: 17px;\n    left: 3px;\n}\n}\n@keyframes bump-65-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 48px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 43px;\n    left: 7px;\n}\n100% {\n    background-color: transparent;\n    bottom: 17px;\n    left: 3px;\n}\n}\n.line-66[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-66-data-v-920bb058 .8s linear 1.266s;\n          animation: bump-66-data-v-920bb058 .8s linear 1.266s;\n}\n@-webkit-keyframes bump-66-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 14px;\n    left: 7px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 57px;\n    left: 11px;\n}\n100% {\n    background-color: transparent;\n    bottom: 20px;\n    left: 9px;\n}\n}\n@keyframes bump-66-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 14px;\n    left: 7px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 57px;\n    left: 11px;\n}\n100% {\n    background-color: transparent;\n    bottom: 20px;\n    left: 9px;\n}\n}\n.line-67[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-67-data-v-920bb058 .8s linear 1.267s;\n          animation: bump-67-data-v-920bb058 .8s linear 1.267s;\n}\n@-webkit-keyframes bump-67-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 17px;\n    left: 7px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 23px;\n    left: 7px;\n}\n100% {\n    background-color: transparent;\n    bottom: 31px;\n    left: 7px;\n}\n}\n@keyframes bump-67-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 17px;\n    left: 7px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 23px;\n    left: 7px;\n}\n100% {\n    background-color: transparent;\n    bottom: 31px;\n    left: 7px;\n}\n}\n.line-68[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-68-data-v-920bb058 .8s linear 1.268s;\n          animation: bump-68-data-v-920bb058 .8s linear 1.268s;\n}\n@-webkit-keyframes bump-68-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 7px;\n    left: 8px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 60px;\n    left: 12px;\n}\n100% {\n    background-color: transparent;\n    bottom: 54px;\n    left: 6px;\n}\n}\n@keyframes bump-68-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 7px;\n    left: 8px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 60px;\n    left: 12px;\n}\n100% {\n    background-color: transparent;\n    bottom: 54px;\n    left: 6px;\n}\n}\n.line-69[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-69-data-v-920bb058 .8s linear 1.269s;\n          animation: bump-69-data-v-920bb058 .8s linear 1.269s;\n}\n@-webkit-keyframes bump-69-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 60px;\n    left: 6px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 40px;\n    left: 1px;\n}\n100% {\n    background-color: transparent;\n    bottom: 37px;\n    left: 1px;\n}\n}\n@keyframes bump-69-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 60px;\n    left: 6px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 40px;\n    left: 1px;\n}\n100% {\n    background-color: transparent;\n    bottom: 37px;\n    left: 1px;\n}\n}\n.line-70[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-70-data-v-920bb058 .8s linear 1.27s;\n          animation: bump-70-data-v-920bb058 .8s linear 1.27s;\n}\n@-webkit-keyframes bump-70-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 32px;\n    left: 10px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 30px;\n    left: 2px;\n}\n100% {\n    background-color: transparent;\n    bottom: 29px;\n    left: 5px;\n}\n}\n@keyframes bump-70-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 32px;\n    left: 10px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 30px;\n    left: 2px;\n}\n100% {\n    background-color: transparent;\n    bottom: 29px;\n    left: 5px;\n}\n}\n.line-71[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-71-data-v-920bb058 .8s linear 1.271s;\n          animation: bump-71-data-v-920bb058 .8s linear 1.271s;\n}\n@-webkit-keyframes bump-71-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 12px;\n    left: 2px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 33px;\n    left: 17px;\n}\n100% {\n    background-color: transparent;\n    bottom: 45px;\n    left: 8px;\n}\n}\n@keyframes bump-71-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 12px;\n    left: 2px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 33px;\n    left: 17px;\n}\n100% {\n    background-color: transparent;\n    bottom: 45px;\n    left: 8px;\n}\n}\n.line-72[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-72-data-v-920bb058 .8s linear 1.272s;\n          animation: bump-72-data-v-920bb058 .8s linear 1.272s;\n}\n@-webkit-keyframes bump-72-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 18px;\n    left: 3px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 48px;\n    left: 1px;\n}\n100% {\n    background-color: transparent;\n    bottom: 20px;\n    left: 5px;\n}\n}\n@keyframes bump-72-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 18px;\n    left: 3px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 48px;\n    left: 1px;\n}\n100% {\n    background-color: transparent;\n    bottom: 20px;\n    left: 5px;\n}\n}\n.line-73[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-73-data-v-920bb058 .8s linear 1.273s;\n          animation: bump-73-data-v-920bb058 .8s linear 1.273s;\n}\n@-webkit-keyframes bump-73-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 35px;\n    left: 4px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 75px;\n    left: 7px;\n}\n100% {\n    background-color: transparent;\n    bottom: 31px;\n    left: 3px;\n}\n}\n@keyframes bump-73-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 35px;\n    left: 4px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 75px;\n    left: 7px;\n}\n100% {\n    background-color: transparent;\n    bottom: 31px;\n    left: 3px;\n}\n}\n.line-74[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-74-data-v-920bb058 .8s linear 1.274s;\n          animation: bump-74-data-v-920bb058 .8s linear 1.274s;\n}\n@-webkit-keyframes bump-74-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 38px;\n    left: 5px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 17px;\n    left: 11px;\n}\n100% {\n    background-color: transparent;\n    bottom: 43px;\n    left: 7px;\n}\n}\n@keyframes bump-74-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 38px;\n    left: 5px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 17px;\n    left: 11px;\n}\n100% {\n    background-color: transparent;\n    bottom: 43px;\n    left: 7px;\n}\n}\n.line-75[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-75-data-v-920bb058 .8s linear 1.275s;\n          animation: bump-75-data-v-920bb058 .8s linear 1.275s;\n}\n@-webkit-keyframes bump-75-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 39px;\n    left: 6px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 16px;\n    left: 4px;\n}\n100% {\n    background-color: transparent;\n    bottom: 14px;\n    left: 4px;\n}\n}\n@keyframes bump-75-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 39px;\n    left: 6px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 16px;\n    left: 4px;\n}\n100% {\n    background-color: transparent;\n    bottom: 14px;\n    left: 4px;\n}\n}\n.line-76[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-76-data-v-920bb058 .8s linear 1.276s;\n          animation: bump-76-data-v-920bb058 .8s linear 1.276s;\n}\n@-webkit-keyframes bump-76-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 49px;\n    left: 1px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 21px;\n    left: 18px;\n}\n100% {\n    background-color: transparent;\n    bottom: 55px;\n    left: 7px;\n}\n}\n@keyframes bump-76-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 49px;\n    left: 1px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 21px;\n    left: 18px;\n}\n100% {\n    background-color: transparent;\n    bottom: 55px;\n    left: 7px;\n}\n}\n#line-group[data-v-920bb058] {\n  position: absolute;\n  top: 50%;\n  left: 0;\n  width: 100%;\n  height: 100%;\n}\n", ""]);
 
 // exports
 
@@ -6474,7 +6563,7 @@ exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loa
 
 
 // module
-exports.push([module.i, ".hero {\n  top: 160px;\n  left: 130px;\n}\n.hero text {\n  fill: rgba(255, 255, 255, 0);\n  stroke: #333;\n  font-size: 76px;\n  stroke-width: .8;\n  stroke-linejoin: round;\n  line-height: 1;\n}\n.hero .sub {\n  letter-spacing: .3em;\n}\n.hero .line {\n  width: 72px;\n  height: auto;\n}\n.hero .list li {\n  font-family: futura-pt, sans-serif;\n  font-size: 15px;\n  letter-spacing: .6em;\n  line-height: 3.5;\n}\n.scroll {\n  -webkit-transform: rotate(90deg);\n          transform: rotate(90deg);\n  bottom: 40px;\n  right: -75px;\n  -webkit-animation: pos 2s ease-in-out infinite;\n          animation: pos 2s ease-in-out infinite;\n}\n@-webkit-keyframes pos {\n0% {\n    bottom: 50px;\n}\n50% {\n    bottom: 40px;\n}\n100% {\n    bottom: 50px;\n}\n}\n@keyframes pos {\n0% {\n    bottom: 50px;\n}\n50% {\n    bottom: 40px;\n}\n100% {\n    bottom: 50px;\n}\n}\n.tw-btn {\n  transition: background-color .2s;\n  background: url(\"/icon/left_top.svg\") left top/10px 10px no-repeat, url(\"/icon/right_top.svg\") right top/10px 8px no-repeat, url(\"/icon/left_bottom.svg\") left bottom/10px 10px no-repeat, url(\"/icon/right_bottom.svg\") right bottom/10px 8px no-repeat #fff;\n}\n.tw-thumbnail {\n  color: #22292f;\n  transition: opacity .2s;\n}\n.tw-thumbnail:hover {\n  opacity: .5;\n}\n.tw-thumbnail h4 {\n  letter-spacing: .3em;\n  font-size: 1.25rem;\n  line-height: 3.5;\n}\n.tw-thumbnail li {\n  font-family: futura-pt, sans-serif;\n  font-family: sofia-pro-condensed, sans-serif;\n  font-size: .75rem;\n  letter-spacing: .15em;\n  line-height: 2;\n  color: #22292f;\n}\n.tw-thumbnail p {\n  font-size: .875rem;\n  position: relative;\n  padding-left: 2rem;\n}\n.tw-thumbnail p:before {\n  content: \"\";\n  width: 20px;\n  height: 1px;\n  position: absolute;\n  top: 8px;\n  left: 0;\n  background-color: #555;\n}\n.ig-link {\n  display: block;\n  font-family: futura-pt, sans-serif;\n  font-size: .75rem;\n  letter-spacing: .2em;\n  line-height: 2;\n  position: relative;\n  transition: opacity .4s;\n}\n.ig-link:before {\n  content: \"\";\n  width: 20px;\n  height: 1px;\n  background: black;\n  position: absolute;\n  top: 50%;\n  left: 0;\n  -webkit-transform: translateY(-50%);\n          transform: translateY(-50%);\n}\n.ig-link:hover {\n  opacity: .5;\n}\n.ig-link span {\n  display: inline-block;\n  padding-left: 30px;\n}\n.item-h {\n  font-family: sofia-pro-condensed, sans-serif;\n  letter-spacing: .3em;\n  font-size: 1.25rem;\n  font-weight: 400;\n  position: relative;\n  line-height: 2;\n  margin-bottom: 20px;\n}\n.item-h:after {\n  content: \"\";\n  width: 30px;\n  height: 1px;\n  background: #555;\n  position: absolute;\n  left: 0;\n  bottom: 0;\n}\n.price {\n  text-align: left;\n  font-size: .875rem;\n  color: #22292f;\n  line-height: 2;\n}\n.price tr {\n  padding-top: 10px;\n}\n.price th,\n.price td {\n  padding-right: 30px;\n  font-weight: 300;\n}\n.thumbnail {\n  transition: opacity .4s;\n}\n.thumbnail:hover {\n  opacity: .6;\n}\n.thumbnail .more:before {\n  content: \"\";\n  width: 20px;\n  height: 1px;\n  position: absolute;\n  top: 10px;\n  left: 0;\n  background-color: #555;\n}\n.tw-nana {\n  position: absolute;\n  top: -8%;\n  left: 50%;\n  -webkit-transform: translateX(-50%);\n          transform: translateX(-50%);\n}\n.tw-nana img {\n  width: 196px;\n  height: auto;\n}\n.tw-article {\n  display: flex;\n  justify-content: center;\n  margin-left: auto;\n  margin-right: auto;\n  padding: 4rem;\n  font-size: .75rem;\n  letter-spacing: .3em;\n  line-height: 2;\n  max-width: 1000px;\n  background: url(\"/icon/left_top.svg\") left top/10px 10px no-repeat, url(\"/icon/right_top.svg\") right top/10px 8px no-repeat, url(\"/icon/left_bottom.svg\") left bottom/10px 10px no-repeat, url(\"/icon/right_bottom.svg\") right bottom/10px 8px no-repeat #fff;\n}\n", ""]);
+exports.push([module.i, ".hero {\n  top: 160px;\n  left: 130px;\n}\n.hero text {\n  fill: rgba(255, 255, 255, 0);\n  stroke: #333;\n  font-size: 76px;\n  stroke-width: .8;\n  stroke-linejoin: round;\n  line-height: 1;\n}\n.hero .sub {\n  letter-spacing: .3em;\n}\n.hero .line {\n  width: 72px;\n  height: auto;\n}\n.hero .list li {\n  font-family: futura-pt, sans-serif;\n  font-size: 15px;\n  letter-spacing: .6em;\n  line-height: 3.5;\n}\n.scroll {\n  -webkit-transform: rotate(90deg);\n          transform: rotate(90deg);\n  bottom: 40px;\n  right: -75px;\n  -webkit-animation: pos 2s ease-in-out infinite;\n          animation: pos 2s ease-in-out infinite;\n}\n@-webkit-keyframes pos {\n0% {\n    bottom: 50px;\n}\n50% {\n    bottom: 40px;\n}\n100% {\n    bottom: 50px;\n}\n}\n@keyframes pos {\n0% {\n    bottom: 50px;\n}\n50% {\n    bottom: 40px;\n}\n100% {\n    bottom: 50px;\n}\n}\n.tw-btn {\n  transition: background-color .2s;\n  background: url(\"/icon/left_top.svg\") left top/10px 10px no-repeat, url(\"/icon/right_top.svg\") right top/10px 8px no-repeat, url(\"/icon/left_bottom.svg\") left bottom/10px 10px no-repeat, url(\"/icon/right_bottom.svg\") right bottom/10px 8px no-repeat #fff;\n}\n.tw-thumbnail {\n  color: #22292f;\n  transition: opacity .2s;\n}\n.tw-thumbnail:hover {\n  opacity: .5;\n}\n.tw-thumbnail h4 {\n  letter-spacing: .3em;\n  font-size: 1.25rem;\n  line-height: 3.5;\n}\n.tw-thumbnail li {\n  font-family: futura-pt, sans-serif;\n  font-family: sofia-pro-condensed, sans-serif;\n  font-size: .75rem;\n  letter-spacing: .15em;\n  line-height: 2;\n  color: #22292f;\n}\n.tw-thumbnail p:before {\n  content: \"\";\n  width: 20px;\n  height: 1px;\n  position: absolute;\n  top: 8px;\n  left: 0;\n  background-color: #555;\n}\n.ig-link {\n  display: block;\n  font-family: futura-pt, sans-serif;\n  font-size: .75rem;\n  letter-spacing: .2em;\n  line-height: 2;\n  position: relative;\n  transition: opacity .4s;\n}\n.ig-link:before {\n  content: \"\";\n  width: 20px;\n  height: 1px;\n  background: black;\n  position: absolute;\n  top: 50%;\n  left: 0;\n  -webkit-transform: translateY(-50%);\n          transform: translateY(-50%);\n}\n.ig-link:hover {\n  opacity: .5;\n}\n.ig-link span {\n  display: inline-block;\n  padding-left: 30px;\n}\n.item-h {\n  font-family: sofia-pro-condensed, sans-serif;\n  letter-spacing: .3em;\n  font-size: 1.25rem;\n  font-weight: 400;\n  position: relative;\n  line-height: 2;\n  margin-bottom: 20px;\n}\n.item-h:after {\n  content: \"\";\n  width: 30px;\n  height: 1px;\n  background: #555;\n  position: absolute;\n  left: 0;\n  bottom: 0;\n}\n.price {\n  text-align: left;\n  font-size: .875rem;\n  color: #22292f;\n  line-height: 2;\n}\n.price tr {\n  padding-top: 10px;\n}\n.price th,\n.price td {\n  padding-right: 30px;\n  font-weight: 300;\n}\n.thumbnail {\n  transition: opacity .4s;\n}\n.thumbnail:hover {\n  opacity: .6;\n}\n.thumbnail .more:before {\n  content: \"\";\n  width: 20px;\n  height: 1px;\n  position: absolute;\n  top: 10px;\n  left: 0;\n  background-color: #555;\n}\n.tw-nana {\n  position: absolute;\n  top: -8%;\n  left: 50%;\n  -webkit-transform: translateX(-50%);\n          transform: translateX(-50%);\n}\n.tw-nana img {\n  width: 196px;\n  height: auto;\n}\n.tw-article {\n  display: flex;\n  justify-content: center;\n  margin-left: auto;\n  margin-right: auto;\n  padding: 4rem;\n  font-size: .75rem;\n  letter-spacing: .3em;\n  line-height: 2;\n  max-width: 1000px;\n  background: url(\"/icon/left_top.svg\") left top/10px 10px no-repeat, url(\"/icon/right_top.svg\") right top/10px 8px no-repeat, url(\"/icon/left_bottom.svg\") left bottom/10px 10px no-repeat, url(\"/icon/right_bottom.svg\") right bottom/10px 8px no-repeat #fff;\n}\n", ""]);
 
 // exports
 
@@ -40935,18 +41024,13 @@ var render = function() {
             }),
             _vm._v(" "),
             _c("div", { staticClass: "mask" }, [
-              _c("p", { staticClass: "leading-normal tracking-loose" }, [
+              _c("p", { staticClass: "text-white" }, [
                 _vm._v(_vm._s(user.name.split(" ")[0]))
               ]),
               _vm._v(" "),
-              _c(
-                "p",
-                {
-                  staticClass:
-                    "text-xs leading-loosest font-thin tracking-loose"
-                },
-                [_vm._v(_vm._s(user.name.split(" ")[1]))]
-              ),
+              _c("p", { staticClass: "text-white text-xs" }, [
+                _vm._v(_vm._s(user.name.split(" ")[1]))
+              ]),
               _vm._v(" "),
               _c("img", {
                 staticClass: "opacity-75",
@@ -41527,26 +41611,19 @@ var staticRenderFns = [
                 ]
               ),
               _vm._v(" "),
-              _c(
-                "p",
-                {
-                  staticClass:
-                    "text-13 tracking-wider leading-loose pb-8 text-grey-darkest"
-                },
-                [
-                  _vm._v(
-                    "\n                            例えば、お友だちや彼氏と温泉に行くなど、すっぴんになる機会があるとき。"
-                  ),
-                  _c("br"),
-                  _vm._v(
-                    "\n                            「どうしようかな」と思ってしまうこともあるのはないでしょうか？"
-                  ),
-                  _c("br"),
-                  _vm._v(
-                    "\n                            マツエクだと、マスカラのように色が落ちてしまう心配もありません。プールや海水浴といった水のレジャーに加え、野外ライブなども思いっきり楽しむことができます。\n                        "
-                  )
-                ]
-              )
+              _c("p", { staticClass: "pb-8" }, [
+                _vm._v(
+                  "\n                            例えば、お友だちや彼氏と温泉に行くなど、すっぴんになる機会があるとき。"
+                ),
+                _c("br"),
+                _vm._v(
+                  "\n                            「どうしようかな」と思ってしまうこともあるのはないでしょうか？"
+                ),
+                _c("br"),
+                _vm._v(
+                  "\n                            マツエクだと、マスカラのように色が落ちてしまう心配もありません。プールや海水浴といった水のレジャーに加え、野外ライブなども思いっきり楽しむことができます。\n                        "
+                )
+              ])
             ]),
             _vm._v(" "),
             _c("article", [
@@ -41563,36 +41640,29 @@ var staticRenderFns = [
                 ]
               ),
               _vm._v(" "),
-              _c(
-                "p",
-                {
-                  staticClass:
-                    "text-13 tracking-wider leading-loose pb-8 text-grey-darkest"
-                },
-                [
+              _c("p", { staticClass: "pb-8" }, [
+                _vm._v(
+                  "\n                            また、マツエクをしている皆さんが口を揃えて言うのは「毎日のお化粧がとてもラクになった」ということ。\n                            "
+                ),
+                _c("span", { staticClass: "tw-mask" }, [
                   _vm._v(
-                    "\n                            また、マツエクをしている皆さんが口を揃えて言うのは「毎日のお化粧がとてもラクになった」ということ。\n                            "
-                  ),
-                  _c("span", { staticClass: "tw-mask" }, [
-                    _vm._v(
-                      "朝の忙しい時間の中で、きっちりメイクをするのは実はとても大変"
-                    )
-                  ]),
-                  _vm._v(
-                    "\n                            だ、ということは、女性なら誰しも経験していることでしょう。"
-                  ),
-                  _c("br"),
-                  _vm._v(
-                    "\n                            そういった時にも、マツエクは大活躍！　常にナチュラルな目元を維持できます。まさに「\n                            "
-                  ),
-                  _c("span", { staticClass: "tw-mask" }, [
-                    _vm._v("オンナノコのラクを作ってくれる")
-                  ]),
-                  _vm._v(
-                    "\n                            」のがマツエクなのです。\n                        "
+                    "朝の忙しい時間の中で、きっちりメイクをするのは実はとても大変"
                   )
-                ]
-              )
+                ]),
+                _vm._v(
+                  "\n                            だ、ということは、女性なら誰しも経験していることでしょう。"
+                ),
+                _c("br"),
+                _vm._v(
+                  "\n                            そういった時にも、マツエクは大活躍！　常にナチュラルな目元を維持できます。まさに「\n                            "
+                ),
+                _c("span", { staticClass: "tw-mask" }, [
+                  _vm._v("オンナノコのラクを作ってくれる")
+                ]),
+                _vm._v(
+                  "\n                            」のがマツエクなのです。\n                        "
+                )
+              ])
             ])
           ])
         ])
@@ -41631,18 +41701,11 @@ var staticRenderFns = [
                 ]
               ),
               _vm._v(" "),
-              _c(
-                "p",
-                {
-                  staticClass:
-                    "text-13 tracking-wider leading-loose pb-8 text-grey-darkest"
-                },
-                [
-                  _vm._v(
-                    "\n                            とはいえ、「つけまつげでも同じじゃない？」「マスカラのほうが金額的にも安い」という声も聞こえます。 それぞれのメリット・デメリットを紐解いてみましょう。\n                        "
-                  )
-                ]
-              )
+              _c("p", { staticClass: "pb-8" }, [
+                _vm._v(
+                  "\n                            とはいえ、「つけまつげでも同じじゃない？」「マスカラのほうが金額的にも安い」という声も聞こえます。 それぞれのメリット・デメリットを紐解いてみましょう。\n                        "
+                )
+              ])
             ])
           ])
         ]),
@@ -41921,18 +41984,11 @@ var staticRenderFns = [
                   _vm._v("マツエクはコスパ抜群！")
                 ]),
                 _vm._v(" "),
-                _c(
-                  "p",
-                  {
-                    staticClass:
-                      "text-13 tracking-wider leading-loose text-grey-darkest h-full"
-                  },
-                  [
-                    _vm._v(
-                      "\n                        それぞれのメリット・デメリットを比較するとこのような点が挙げられます。すべてマツエクのほうが優れているとは言い切れませんが、「仕上がりがキレイ」「時間短縮になる」「そのままお風呂に入れる」などの点からみても、マツエクのメリットは多いのです。\n                        日々の生活のちょっとした“安心”を感じられる点が、マツエクの一番の特徴と言えます。\n                    "
-                    )
-                  ]
-                )
+                _c("p", { staticClass: "h-full" }, [
+                  _vm._v(
+                    "\n                        それぞれのメリット・デメリットを比較するとこのような点が挙げられます。すべてマツエクのほうが優れているとは言い切れませんが、「仕上がりがキレイ」「時間短縮になる」「そのままお風呂に入れる」などの点からみても、マツエクのメリットは多いのです。\n                        日々の生活のちょっとした“安心”を感じられる点が、マツエクの一番の特徴と言えます。\n                    "
+                  )
+                ])
               ]
             )
           ]
@@ -41985,37 +42041,23 @@ var staticRenderFns = [
                 ]
               ),
               _vm._v(" "),
-              _c(
-                "p",
-                {
-                  staticClass:
-                    "text-13 tracking-wider leading-loose pb-8 text-grey-darkest"
-                },
-                [
-                  _vm._v(
-                    "\n                            「まつげがついていないと、気分が上がらない」。この言葉は実際にお客さまが言われたものです。目元というほんのちょっとの差ですが、女性ならではの心境の変化をよく言い当てた言葉ではないでしょうか。\n                        "
-                  )
-                ]
-              ),
+              _c("p", { staticClass: "pb-8" }, [
+                _vm._v(
+                  "\n                            「まつげがついていないと、気分が上がらない」。この言葉は実際にお客さまが言われたものです。目元というほんのちょっとの差ですが、女性ならではの心境の変化をよく言い当てた言葉ではないでしょうか。\n                        "
+                )
+              ]),
               _vm._v(" "),
-              _c(
-                "p",
-                {
-                  staticClass:
-                    "text-13 tracking-wider leading-loose pb-8 text-grey-darkest"
-                },
-                [
-                  _vm._v(
-                    "\n                            心というのは不思議なもので、ほんのちょっと\n                            "
-                  ),
-                  _c("span", { staticClass: "tw-mask" }, [
-                    _vm._v("自分に自信が持てると体は内側から元気になります。")
-                  ]),
-                  _vm._v(
-                    "\n                            植物が水を得てみずみずしくなるように、女性は自分が美しいと感じると、どんどんキレイになっていきます。\n                        "
-                  )
-                ]
-              )
+              _c("p", { staticClass: "pb-8" }, [
+                _vm._v(
+                  "\n                            心というのは不思議なもので、ほんのちょっと\n                            "
+                ),
+                _c("span", { staticClass: "tw-mask" }, [
+                  _vm._v("自分に自信が持てると体は内側から元気になります。")
+                ]),
+                _vm._v(
+                  "\n                            植物が水を得てみずみずしくなるように、女性は自分が美しいと感じると、どんどんキレイになっていきます。\n                        "
+                )
+              ])
             ]),
             _vm._v(" "),
             _c("article", [
@@ -42036,40 +42078,26 @@ var staticRenderFns = [
                 ]
               ),
               _vm._v(" "),
-              _c(
-                "p",
-                {
-                  staticClass:
-                    "text-13 tracking-wider leading-loose pb-8 text-grey-darkest"
-                },
-                [
-                  _c("span", { staticClass: "tw-mask" }, [
-                    _vm._v("美しさとは、まさに健康そのもの。")
-                  ]),
-                  _vm._v(
-                    "\n                            心がポジティブになると、もっと外に出ていきたくなり、笑顔になり、仕事や人間関係など、さまざまなものを円滑に進みます。その原動力となる美しさのひとつが、マツエクです。\n                        "
-                  )
-                ]
-              ),
+              _c("p", { staticClass: "pb-8" }, [
+                _c("span", { staticClass: "tw-mask" }, [
+                  _vm._v("美しさとは、まさに健康そのもの。")
+                ]),
+                _vm._v(
+                  "\n                            心がポジティブになると、もっと外に出ていきたくなり、笑顔になり、仕事や人間関係など、さまざまなものを円滑に進みます。その原動力となる美しさのひとつが、マツエクです。\n                        "
+                )
+              ]),
               _vm._v(" "),
-              _c(
-                "p",
-                {
-                  staticClass:
-                    "text-13 tracking-wider leading-loose pb-8 text-grey-darkest"
-                },
-                [
-                  _vm._v(
-                    "\n                            いつでも可愛くありたい、どんなときもキレイでいたい。誰もが持つそんな気持ちを、\n                            "
-                  ),
-                  _c("span", { staticClass: "tw-mask" }, [
-                    _vm._v("ほんのちょっとすくい上げる安心感がある。")
-                  ]),
-                  _vm._v(
-                    "\n                            それがマツエクなのです。\n                        "
-                  )
-                ]
-              )
+              _c("p", { staticClass: "pb-8" }, [
+                _vm._v(
+                  "\n                            いつでも可愛くありたい、どんなときもキレイでいたい。誰もが持つそんな気持ちを、\n                            "
+                ),
+                _c("span", { staticClass: "tw-mask" }, [
+                  _vm._v("ほんのちょっとすくい上げる安心感がある。")
+                ]),
+                _vm._v(
+                  "\n                            それがマツエクなのです。\n                        "
+                )
+              ])
             ])
           ])
         ])
@@ -42098,7 +42126,7 @@ var staticRenderFns = [
               [
                 _c("span", [_vm._v("メニュー＆クーポン一覧")]),
                 _vm._v(" "),
-                _c("span", { staticClass: "text-xs text-grey-darkest pt-4" }, [
+                _c("span", { staticClass: "text-xs pt-4" }, [
                   _vm._v("( HOTPEPPER Beautyへリンクします )")
                 ])
               ]
@@ -42294,26 +42322,19 @@ var staticRenderFns = [
               ]
             ),
             _vm._v(" "),
-            _c(
-              "p",
-              {
-                staticClass:
-                  "font-fotura font-adobe mt-7 mb-7 text-xs tracking-wider leading-loose text-black relative"
-              },
-              [
-                _vm._v(
-                  "\n                        Just a little more consideration leads your trust."
-                ),
-                _c("br"),
-                _vm._v(
-                  '\n                        NANA continues to be the "most loved place" in the beauty industry.'
-                ),
-                _c("br"),
-                _vm._v(
-                  "\n                        Because we have relief, trust, compassion, not only to customers but also to staff.\n                    "
-                )
-              ]
-            )
+            _c("p", { staticClass: "font-fotura my-7 text-xs relative" }, [
+              _vm._v(
+                "\n                        Just a little more consideration leads your trust."
+              ),
+              _c("br"),
+              _vm._v(
+                '\n                        NANA continues to be the "most loved place" in the beauty industry.'
+              ),
+              _c("br"),
+              _vm._v(
+                "\n                        Because we have relief, trust, compassion, not only to customers but also to staff.\n                    "
+              )
+            ])
           ])
         ])
       ])
@@ -42354,39 +42375,25 @@ var staticRenderFns = [
               ]
             ),
             _vm._v(" "),
-            _c(
-              "p",
-              {
-                staticClass:
-                  "text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest"
-              },
-              [
-                _vm._v(
-                  "\n                        マツエクはまぶたに施術することから、お客さまには目を閉じていただく必要があります。エステや美容室と違い、普段より無防備になる。だからこそNANAは\n                        "
-                ),
-                _c("span", { staticClass: "tw-mask" }, [
-                  _vm._v("お客さまの居心地の良さを大切に")
-                ]),
-                _vm._v("しています。\n                    ")
-              ]
-            ),
+            _c("p", { staticClass: "pb-8" }, [
+              _vm._v(
+                "\n                        マツエクはまぶたに施術することから、お客さまには目を閉じていただく必要があります。エステや美容室と違い、普段より無防備になる。だからこそNANAは\n                        "
+              ),
+              _c("span", { staticClass: "tw-mask" }, [
+                _vm._v("お客さまの居心地の良さを大切に")
+              ]),
+              _vm._v("しています。\n                    ")
+            ]),
             _vm._v(" "),
-            _c(
-              "p",
-              {
-                staticClass:
-                  "text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest"
-              },
-              [
-                _vm._v(
-                  "\n                        女性に好まれる、清潔で寝心地の良いベッド。丁寧な接客、静かな会話。施術後のメイク直しができるメイクブース。NANAにあるのは、\n                        "
-                ),
-                _c("span", { staticClass: "tw-mask" }, [
-                  _vm._v("お客さまにくつろいでいただくための空間")
-                ]),
-                _vm._v("です。\n                    ")
-              ]
-            )
+            _c("p", { staticClass: "pb-8" }, [
+              _vm._v(
+                "\n                        女性に好まれる、清潔で寝心地の良いベッド。丁寧な接客、静かな会話。施術後のメイク直しができるメイクブース。NANAにあるのは、\n                        "
+              ),
+              _c("span", { staticClass: "tw-mask" }, [
+                _vm._v("お客さまにくつろいでいただくための空間")
+              ]),
+              _vm._v("です。\n                    ")
+            ])
           ]),
           _vm._v(" "),
           _c("article", [
@@ -42407,21 +42414,14 @@ var staticRenderFns = [
               ]
             ),
             _vm._v(" "),
-            _c(
-              "p",
-              {
-                staticClass:
-                  "text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest"
-              },
-              [
-                _c("span", { staticClass: "tw-mask" }, [
-                  _vm._v("目に見えない、肌にふれる“雰囲気”")
-                ]),
-                _vm._v(
-                  "\n                        を大切にしています。NANAにあるやわらかな雰囲気は、まさにスタッフから生まれているものです。スタッフ同士に通いあう和やかな関係性がサロンのやわらかな空気を生み出しています。\n                    "
-                )
-              ]
-            )
+            _c("p", { staticClass: "pb-8" }, [
+              _c("span", { staticClass: "tw-mask" }, [
+                _vm._v("目に見えない、肌にふれる“雰囲気”")
+              ]),
+              _vm._v(
+                "\n                        を大切にしています。NANAにあるやわらかな雰囲気は、まさにスタッフから生まれているものです。スタッフ同士に通いあう和やかな関係性がサロンのやわらかな空気を生み出しています。\n                    "
+              )
+            ])
           ])
         ]),
         _vm._v(" "),
@@ -42482,24 +42482,17 @@ var staticRenderFns = [
               ]
             ),
             _vm._v(" "),
-            _c(
-              "p",
-              {
-                staticClass:
-                  "text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest"
-              },
-              [
+            _c("p", { staticClass: "pb-8" }, [
+              _vm._v(
+                "\n                        NANAのスタッフは他店よりもはるかに長いレッスン期間を経験しています。未経験者なら5ヶ月から10ヶ月、経験者でも1ヶ月ほどは研修期間を設けています。\n                        "
+              ),
+              _c("span", { staticClass: "tw-mask" }, [
                 _vm._v(
-                  "\n                        NANAのスタッフは他店よりもはるかに長いレッスン期間を経験しています。未経験者なら5ヶ月から10ヶ月、経験者でも1ヶ月ほどは研修期間を設けています。\n                        "
-                ),
-                _c("span", { staticClass: "tw-mask" }, [
-                  _vm._v(
-                    "全員が美容師免許を持ち、店長はさらに管理美容師免許を取得"
-                  )
-                ]),
-                _vm._v("しています。\n                    ")
-              ]
-            )
+                  "全員が美容師免許を持ち、店長はさらに管理美容師免許を取得"
+                )
+              ]),
+              _vm._v("しています。\n                    ")
+            ])
           ]),
           _vm._v(" "),
           _c("article", [
@@ -42516,27 +42509,20 @@ var staticRenderFns = [
               ]
             ),
             _vm._v(" "),
-            _c(
-              "p",
-              {
-                staticClass:
-                  "text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest"
-              },
-              [
-                _vm._v(
-                  "\n                        また、NANAでは施術スピードも大切にしています。貴重なお客さまの時間をいただいて施術を行っているという意識を持つことこそが、より\n                        "
-                ),
-                _c("span", { staticClass: "tw-mask" }, [
-                  _vm._v("集中力のある丁寧で確実な施術")
-                ]),
-                _vm._v(
-                  "\n                        の原動力。日常の中でのほんの少し、しかし大切な時間をいただいているからこそ、\n                        "
-                ),
-                _c("span", { staticClass: "tw-mask" }, [
-                  _vm._v("最大限のチカラでお客さまの美しさを引き出します。")
-                ])
-              ]
-            )
+            _c("p", { staticClass: "pb-8" }, [
+              _vm._v(
+                "\n                        また、NANAでは施術スピードも大切にしています。貴重なお客さまの時間をいただいて施術を行っているという意識を持つことこそが、より\n                        "
+              ),
+              _c("span", { staticClass: "tw-mask" }, [
+                _vm._v("集中力のある丁寧で確実な施術")
+              ]),
+              _vm._v(
+                "\n                        の原動力。日常の中でのほんの少し、しかし大切な時間をいただいているからこそ、\n                        "
+              ),
+              _c("span", { staticClass: "tw-mask" }, [
+                _vm._v("最大限のチカラでお客さまの美しさを引き出します。")
+              ])
+            ])
           ])
         ])
       ])
@@ -42579,28 +42565,21 @@ var staticRenderFns = [
               ]
             ),
             _vm._v(" "),
-            _c(
-              "p",
-              {
-                staticClass:
-                  "text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest"
-              },
-              [
+            _c("p", { staticClass: "pb-8" }, [
+              _vm._v(
+                "\n                        「目は口ほどにものを言う」という言葉があります。"
+              ),
+              _c("br"),
+              _vm._v(" "),
+              _c("span", { staticClass: "tw-mask" }, [
                 _vm._v(
-                  "\n                        「目は口ほどにものを言う」という言葉があります。"
-                ),
-                _c("br"),
-                _vm._v(" "),
-                _c("span", { staticClass: "tw-mask" }, [
-                  _vm._v(
-                    "特に女性は目元が変わるだけで、受ける印象がガラッと変わるほど。"
-                  )
-                ]),
-                _vm._v(
-                  "\n                        そのため、成人式の前撮りや結婚式といったイベントごとの前だけではなく、営業のお仕事をされている方が「大切な商談の前だから、目ヂカラをしっかり作って気分を上げておきたい」と来店されることも多々あります。\n                    "
+                  "特に女性は目元が変わるだけで、受ける印象がガラッと変わるほど。"
                 )
-              ]
-            )
+              ]),
+              _vm._v(
+                "\n                        そのため、成人式の前撮りや結婚式といったイベントごとの前だけではなく、営業のお仕事をされている方が「大切な商談の前だから、目ヂカラをしっかり作って気分を上げておきたい」と来店されることも多々あります。\n                    "
+              )
+            ])
           ]),
           _vm._v(" "),
           _c("article", [
@@ -42619,26 +42598,19 @@ var staticRenderFns = [
               ]
             ),
             _vm._v(" "),
-            _c(
-              "p",
-              {
-                staticClass:
-                  "text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest"
-              },
-              [
+            _c("p", { staticClass: "pb-8" }, [
+              _vm._v(
+                "\n                        お客さまのまつ毛にはそれぞれ個性があり、その時々の状況があります。人と会う限りかならず目に触れる“目元”だからこそ、\n                        "
+              ),
+              _c("span", { staticClass: "tw-mask" }, [
                 _vm._v(
-                  "\n                        お客さまのまつ毛にはそれぞれ個性があり、その時々の状況があります。人と会う限りかならず目に触れる“目元”だからこそ、\n                        "
-                ),
-                _c("span", { staticClass: "tw-mask" }, [
-                  _vm._v(
-                    "その人がその時に心に描いている理想のデザインを実現できるよう、NANAでは毎回のカウンセリングを大切"
-                  )
-                ]),
-                _vm._v(
-                  "\n                        にしています。\n                    "
+                  "その人がその時に心に描いている理想のデザインを実現できるよう、NANAでは毎回のカウンセリングを大切"
                 )
-              ]
-            )
+              ]),
+              _vm._v(
+                "\n                        にしています。\n                    "
+              )
+            ])
           ])
         ]),
         _vm._v(" "),
@@ -42700,26 +42672,19 @@ var staticRenderFns = [
               ]
             ),
             _vm._v(" "),
-            _c(
-              "p",
-              {
-                staticClass:
-                  "text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest"
-              },
-              [
+            _c("p", { staticClass: "pb-8" }, [
+              _vm._v(
+                "\n                        美容師というのは国家資格を持った美容のプロ。\n                        "
+              ),
+              _c("span", { staticClass: "tw-mask" }, [
                 _vm._v(
-                  "\n                        美容師というのは国家資格を持った美容のプロ。\n                        "
-                ),
-                _c("span", { staticClass: "tw-mask" }, [
-                  _vm._v(
-                    "スタッフ全員が美意識を高く持ち、プロであるプライドを持って仕事をしています。"
-                  )
-                ]),
-                _vm._v(
-                  "\n                        これがあるからこそスタッフは胸を張って笑顔でお客さまをお迎えし、美しくなったお客さまをお送りできるのです。\n                    "
+                  "スタッフ全員が美意識を高く持ち、プロであるプライドを持って仕事をしています。"
                 )
-              ]
-            )
+              ]),
+              _vm._v(
+                "\n                        これがあるからこそスタッフは胸を張って笑顔でお客さまをお迎えし、美しくなったお客さまをお送りできるのです。\n                    "
+              )
+            ])
           ]),
           _vm._v(" "),
           _c("article", [
@@ -42738,46 +42703,30 @@ var staticRenderFns = [
               ]
             ),
             _vm._v(" "),
-            _c(
-              "p",
-              {
-                staticClass:
-                  "text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest"
-              },
-              [
-                _vm._v(
-                  "\n                        お客さまのことを想い、自発的に考えて新しいことに挑戦し、\n                        "
-                ),
-                _c("span", { staticClass: "tw-mask" }, [
-                  _vm._v("スタッフの質")
-                ]),
-                _vm._v(
-                  "\n                        を上げていく。これがNANAの考える働きがいです。\n                    "
-                )
-              ]
-            ),
+            _c("p", { staticClass: "pb-8" }, [
+              _vm._v(
+                "\n                        お客さまのことを想い、自発的に考えて新しいことに挑戦し、\n                        "
+              ),
+              _c("span", { staticClass: "tw-mask" }, [_vm._v("スタッフの質")]),
+              _vm._v(
+                "\n                        を上げていく。これがNANAの考える働きがいです。\n                    "
+              )
+            ]),
             _vm._v(" "),
-            _c(
-              "p",
-              {
-                staticClass:
-                  "text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest"
-              },
-              [
-                _c("span", { staticClass: "tw-mask" }, [
-                  _vm._v("ほんの少しの“想い”が、お客さまの信頼につながる。")
-                ]),
-                _vm._v(
-                  "\n                        安心、信頼、思いやり。お客さまだけではなくスタッフ同士にも共通する意識を持ち、NANAは美容業界でもっとも\n                        "
-                ),
-                _c("span", { staticClass: "tw-mask" }, [
-                  _vm._v("“愛される場所”")
-                ]),
-                _vm._v(
-                  "\n                        であり続けます。\n                    "
-                )
-              ]
-            )
+            _c("p", { staticClass: "pb-8" }, [
+              _c("span", { staticClass: "tw-mask" }, [
+                _vm._v("ほんの少しの“想い”が、お客さまの信頼につながる。")
+              ]),
+              _vm._v(
+                "\n                        安心、信頼、思いやり。お客さまだけではなくスタッフ同士にも共通する意識を持ち、NANAは美容業界でもっとも\n                        "
+              ),
+              _c("span", { staticClass: "tw-mask" }, [
+                _vm._v("“愛される場所”")
+              ]),
+              _vm._v(
+                "\n                        であり続けます。\n                    "
+              )
+            ])
           ])
         ])
       ])
@@ -42944,36 +42893,19 @@ var render = function() {
                       [_vm._v("#マツエクのある毎日")]
                     ),
                     _vm._v(" "),
-                    _c(
-                      "p",
-                      {
-                        staticClass:
-                          "font-thin text-sm tracking-wider leading-loose pb-6"
-                      },
-                      [_vm._v("Eyelash Life")]
-                    ),
+                    _c("p", { staticClass: "font-thin text-sm pb-6" }, [
+                      _vm._v("Eyelash Life")
+                    ]),
                     _vm._v(" "),
-                    _c(
-                      "p",
-                      {
-                        staticClass:
-                          "text-xs tracking-wider leading-loose text-black pb-8"
-                      },
-                      [
-                        _vm._v(
-                          "\n                                いつでも可愛くありたい、どんなときもキレイでいたい。誰もが持つそんな気持ちを、ほんのちょっとすくい上げる安心感がある。それがマツエクなのです。"
-                        )
-                      ]
-                    ),
+                    _c("p", { staticClass: "text-xs pb-8" }, [
+                      _vm._v(
+                        "\n                                いつでも可愛くありたい、どんなときもキレイでいたい。誰もが持つそんな気持ちを、ほんのちょっとすくい上げる安心感がある。それがマツエクなのです。\n                            "
+                      )
+                    ]),
                     _vm._v(" "),
-                    _c(
-                      "p",
-                      {
-                        staticClass:
-                          "text-xs tracking-wider leading-loose text-black more relative pl-8"
-                      },
-                      [_vm._v("READ\n                                MORE")]
-                    )
+                    _c("p", { staticClass: "text-xs more relative pl-8" }, [
+                      _vm._v("READ MORE")
+                    ])
                   ])
                 ])
               ],
@@ -43003,36 +42935,19 @@ var render = function() {
                       [_vm._v("#お手入れ方法")]
                     ),
                     _vm._v(" "),
-                    _c(
-                      "p",
-                      {
-                        staticClass:
-                          "font-thin text-sm tracking-wider leading-loose pb-6"
-                      },
-                      [_vm._v("Eyelash Care")]
-                    ),
+                    _c("p", { staticClass: "font-thin text-sm pb-6" }, [
+                      _vm._v("Eyelash Care")
+                    ]),
                     _vm._v(" "),
-                    _c(
-                      "p",
-                      {
-                        staticClass:
-                          "text-xs tracking-wider leading-loose text-black pb-8"
-                      },
-                      [
-                        _vm._v(
-                          "\n                                きれいなまつ毛を保つためにはどうしたらいいんだろう？みなさんに素敵なマツエクライフをお過ごしいただくための、プロ目線からの適切な対処法をお伝えします。"
-                        )
-                      ]
-                    ),
+                    _c("p", { staticClass: "text-xs pb-8" }, [
+                      _vm._v(
+                        "\n                                きれいなまつ毛を保つためにはどうしたらいいんだろう？みなさんに素敵なマツエクライフをお過ごしいただくための、プロ目線からの適切な対処法をお伝えします。\n                            "
+                      )
+                    ]),
                     _vm._v(" "),
-                    _c(
-                      "p",
-                      {
-                        staticClass:
-                          "text-xs tracking-wider leading-loose text-black more relative pl-8"
-                      },
-                      [_vm._v("READ\n                                MORE")]
-                    )
+                    _c("p", { staticClass: "text-xs more relative pl-8" }, [
+                      _vm._v("READ MORE")
+                    ])
                   ])
                 ])
               ],
@@ -43062,36 +42977,19 @@ var render = function() {
                       [_vm._v("#ネイルのある毎日")]
                     ),
                     _vm._v(" "),
-                    _c(
-                      "p",
-                      {
-                        staticClass:
-                          "font-thin text-sm tracking-wider leading-loose pb-6"
-                      },
-                      [_vm._v("Nail Life")]
-                    ),
+                    _c("p", { staticClass: "font-thin text-sm pb-6" }, [
+                      _vm._v("Nail Life")
+                    ]),
                     _vm._v(" "),
-                    _c(
-                      "p",
-                      {
-                        staticClass:
-                          "text-xs tracking-wider leading-loose text-black pb-8"
-                      },
-                      [
-                        _vm._v(
-                          "\n                                季節、イベント、髪型。あなたを彩る、もうひとつの魔法を指先に。日常の中にあっても星のように瞬く“キラキラ”が、そこにはあるのです。"
-                        )
-                      ]
-                    ),
+                    _c("p", { staticClass: "text-xs text-black pb-8" }, [
+                      _vm._v(
+                        "\n                                季節、イベント、髪型。あなたを彩る、もうひとつの魔法を指先に。日常の中にあっても星のように瞬く“キラキラ”が、そこにはあるのです。\n                            "
+                      )
+                    ]),
                     _vm._v(" "),
-                    _c(
-                      "p",
-                      {
-                        staticClass:
-                          "text-xs tracking-wider leading-loose text-black more relative pl-8"
-                      },
-                      [_vm._v("READ\n                                MORE")]
-                    )
+                    _c("p", { staticClass: "text-xs more relative pl-8" }, [
+                      _vm._v("READ MORE")
+                    ])
                   ])
                 ])
               ],
@@ -43128,49 +43026,35 @@ var staticRenderFns = [
         _vm._v("CONCEPT")
       ]),
       _vm._v(" "),
-      _c(
-        "p",
-        {
-          staticClass:
-            "font-fotura font-adobe mt-7 mb-7 text-xs tracking-wider leading-loose text-black"
-        },
-        [
-          _vm._v(
-            "\n                        Just a little more consideration leads your trust."
-          ),
-          _c("br"),
-          _vm._v(
-            '\n                        NANA continues to be the "most loved place" in the beauty industry.'
-          ),
-          _c("br"),
-          _vm._v(
-            "\n                        Because we have relief, trust, compassion, not only to customers but also to staff.\n                    "
-          )
-        ]
-      ),
+      _c("p", { staticClass: "font-fotura my-7 text-xs" }, [
+        _vm._v(
+          "\n                        Just a little more consideration leads your trust."
+        ),
+        _c("br"),
+        _vm._v(
+          '\n                        NANA continues to be the "most loved place" in the beauty industry.'
+        ),
+        _c("br"),
+        _vm._v(
+          "\n                        Because we have relief, trust, compassion, not only to customers but also to staff.\n                    "
+        )
+      ]),
       _vm._v(" "),
-      _c(
-        "p",
-        {
-          staticClass:
-            "font-fotura font-adobe mt-7 mb-7 text-xs tracking-wider leading-loose text-black"
-        },
-        [
-          _vm._v(
-            "\n                        ほんの少しの“想い”が、お客さまの信頼につながる。"
-          ),
-          _c("br"),
-          _vm._v("\n                        安心、信頼、思いやり。"),
-          _c("br"),
-          _vm._v(
-            "\n                        お客さまだけではなくスタッフ同士にも共通する意識を持ち、"
-          ),
-          _c("br"),
-          _vm._v(
-            "\n                        NANAは美容業界でもっとも“愛される場所”であり続けます。\n                    "
-          )
-        ]
-      )
+      _c("p", { staticClass: "font-fotura my-7 text-xs" }, [
+        _vm._v(
+          "\n                        ほんの少しの“想い”が、お客さまの信頼につながる。"
+        ),
+        _c("br"),
+        _vm._v("\n                        安心、信頼、思いやり。"),
+        _c("br"),
+        _vm._v(
+          "\n                        お客さまだけではなくスタッフ同士にも共通する意識を持ち、"
+        ),
+        _c("br"),
+        _vm._v(
+          "\n                        NANAは美容業界でもっとも“愛される場所”であり続けます。\n                    "
+        )
+      ])
     ])
   },
   function() {
@@ -43219,7 +43103,9 @@ var staticRenderFns = [
                       ])
                     ]),
                     _vm._v(" "),
-                    _c("p", [_vm._v("サロン紹介 & ご予約")])
+                    _c("p", { staticClass: "text-sm relative pl-8" }, [
+                      _vm._v("サロン紹介 & ご予約")
+                    ])
                   ])
                 ]),
                 _vm._v(" "),
@@ -43248,7 +43134,9 @@ var staticRenderFns = [
                       ])
                     ]),
                     _vm._v(" "),
-                    _c("p", [_vm._v("サロン紹介 & ご予約")])
+                    _c("p", { staticClass: "text-sm relative pl-8" }, [
+                      _vm._v("サロン紹介 & ご予約")
+                    ])
                   ])
                 ]),
                 _vm._v(" "),
@@ -43274,7 +43162,9 @@ var staticRenderFns = [
                       ])
                     ]),
                     _vm._v(" "),
-                    _c("p", [_vm._v("サロン紹介 & ご予約")])
+                    _c("p", { staticClass: "text-sm relative pl-8" }, [
+                      _vm._v("サロン紹介 & ご予約")
+                    ])
                   ])
                 ])
               ])
@@ -43459,17 +43349,11 @@ var staticRenderFns = [
             "div",
             { staticClass: "lg:pt-16", attrs: { "data-aos": "zoom-in-up" } },
             [
-              _c(
-                "p",
-                {
-                  staticClass: "text-center text-xs text-grey-darkest lg:pb-16"
-                },
-                [
-                  _vm._v(
-                    "\n                    ＊ メニュー・金額は一例です。各メニューの詳細やお得なクーポンはHOTPEPPER Beautyをご確認ください。\n                "
-                  )
-                ]
-              ),
+              _c("p", { staticClass: "text-center text-xs lg:pb-16" }, [
+                _vm._v(
+                  "\n                    ＊ メニュー・金額は一例です。各メニューの詳細やお得なクーポンはHOTPEPPER Beautyをご確認ください。\n                "
+                )
+              ]),
               _vm._v(" "),
               _c(
                 "div",
@@ -43483,12 +43367,12 @@ var staticRenderFns = [
                     {
                       staticClass:
                         "absolute flex flex-col text-center p-8 bg-grey-lighter",
-                      staticStyle: { top: "-40px" }
+                      staticStyle: { top: "-45px" }
                     },
                     [
                       _c("span", [_vm._v("メニュー＆クーポン一覧")]),
                       _vm._v(" "),
-                      _c("span", { staticClass: "text-xs text-grey-darkest" }, [
+                      _c("span", { staticClass: "text-xs" }, [
                         _vm._v("( HOTPEPPER Beautyへリンクします )")
                       ])
                     ]
@@ -43677,18 +43561,11 @@ var staticRenderFns = [
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
     return _c("section", { staticClass: "lg:mb-16" }, [
-      _c(
-        "p",
-        {
-          staticClass:
-            "text-center tracking-wider text-black pb-8 text-grey-darker font-fotura font-norma text-xs"
-        },
-        [
-          _vm._v(
-            "\n            ＊ メニュー・金額は一例です。各メニューの詳細やお得なクーポンはHOTPEPPER Beautyをご確認ください。\n        "
-          )
-        ]
-      )
+      _c("p", { staticClass: "text-center pb-8 font-fotura text-xs" }, [
+        _vm._v(
+          "\n            ＊ メニュー・金額は一例です。各メニューの詳細やお得なクーポンはHOTPEPPER Beautyをご確認ください。\n        "
+        )
+      ])
     ])
   },
   function() {
@@ -43864,12 +43741,12 @@ var staticRenderFns = [
               "p",
               {
                 staticClass: "absolute flex flex-col text-center p-8 bg-white",
-                staticStyle: { top: "-40px" }
+                staticStyle: { top: "-45px" }
               },
               [
                 _c("span", [_vm._v("メニュー＆クーポン一覧")]),
                 _vm._v(" "),
-                _c("span", { staticClass: "text-xs text-grey-darkest pt-4" }, [
+                _c("span", { staticClass: "text-xs pt-4" }, [
                   _vm._v("( HOTPEPPER Beautyへリンクします )")
                 ])
               ]
@@ -44086,24 +43963,17 @@ var staticRenderFns = [
               ]
             ),
             _vm._v(" "),
-            _c(
-              "p",
-              {
-                staticClass:
-                  "text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest"
-              },
-              [
-                _vm._v(
-                  "\n                        不思議なことに、ネイルをすることによって変わるのが、\n                        "
-                ),
-                _c("span", { staticClass: "tw-mask" }, [_vm._v("“しぐさ”")]),
-                _vm._v("です。"),
-                _c("br"),
-                _vm._v(
-                  "\n                        指先が彩られることによって、ちょっとした動き、そして雰囲気までしなやかになり、女性らしさが加わる。日々キレイにしておくことで、ひとつの動作が丁寧になる。気持ちがもっと華やかになり、背筋がぴんと伸びる。ネイルとは女性の印象をがらりと変えるものなのです。\n                    "
-                )
-              ]
-            )
+            _c("p", { staticClass: "pb-8" }, [
+              _vm._v(
+                "\n                        不思議なことに、ネイルをすることによって変わるのが、\n                        "
+              ),
+              _c("span", { staticClass: "tw-mask" }, [_vm._v("“しぐさ”")]),
+              _vm._v("です。"),
+              _c("br"),
+              _vm._v(
+                "\n                        指先が彩られることによって、ちょっとした動き、そして雰囲気までしなやかになり、女性らしさが加わる。日々キレイにしておくことで、ひとつの動作が丁寧になる。気持ちがもっと華やかになり、背筋がぴんと伸びる。ネイルとは女性の印象をがらりと変えるものなのです。\n                    "
+              )
+            ])
           ]),
           _vm._v(" "),
           _c("article", [
@@ -44124,51 +43994,37 @@ var staticRenderFns = [
               ]
             ),
             _vm._v(" "),
-            _c(
-              "p",
-              {
-                staticClass:
-                  "text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest"
-              },
-              [
+            _c("p", { staticClass: "pb-8" }, [
+              _vm._v(
+                "\n                        ネイルの色は組み合わせ次第で無限に作り出すことができます。そこにお客さまひとりひとりが持つ爪の長さ・短さや肌の色を鑑み、\n                        "
+              ),
+              _c("span", { staticClass: "tw-mask" }, [
                 _vm._v(
-                  "\n                        ネイルの色は組み合わせ次第で無限に作り出すことができます。そこにお客さまひとりひとりが持つ爪の長さ・短さや肌の色を鑑み、\n                        "
-                ),
-                _c("span", { staticClass: "tw-mask" }, [
-                  _vm._v(
-                    "女性が本来持っているかわいらしさや美しさを引き立てる表現"
-                  )
-                ]),
-                _vm._v(
-                  "\n                        を乗せていきます。\n                    "
+                  "女性が本来持っているかわいらしさや美しさを引き立てる表現"
                 )
-              ]
-            ),
+              ]),
+              _vm._v(
+                "\n                        を乗せていきます。\n                    "
+              )
+            ]),
             _vm._v(" "),
-            _c(
-              "p",
-              {
-                staticClass:
-                  "text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest"
-              },
-              [
-                _vm._v(
-                  "\n                        NANAのネイルは、\n                        "
-                ),
-                _c("span", { staticClass: "tw-mask" }, [
-                  _vm._v("“愛されるネイル”")
-                ]),
-                _vm._v(
-                  "\n                        です。恋人に限らず、友人、家族、職場のみなさんに愛される。アートでデコラティブなだけではなく、シンプル、かつナチュラルで、美しい。ひとりひとりにふさわしい、\n                        "
-                ),
-                _c("span", { staticClass: "tw-mask" }, [
-                  _vm._v("“愛されるネイル”")
-                ]),
-                _vm._v(
-                  "\n                        を提供するのが、NANAのネイルです。\n                    "
-                )
-              ]
-            )
+            _c("p", { staticClass: "pb-8" }, [
+              _vm._v(
+                "\n                        NANAのネイルは、\n                        "
+              ),
+              _c("span", { staticClass: "tw-mask" }, [
+                _vm._v("“愛されるネイル”")
+              ]),
+              _vm._v(
+                "\n                        です。恋人に限らず、友人、家族、職場のみなさんに愛される。アートでデコラティブなだけではなく、シンプル、かつナチュラルで、美しい。ひとりひとりにふさわしい、\n                        "
+              ),
+              _c("span", { staticClass: "tw-mask" }, [
+                _vm._v("“愛されるネイル”")
+              ]),
+              _vm._v(
+                "\n                        を提供するのが、NANAのネイルです。\n                    "
+              )
+            ])
           ])
         ]),
         _vm._v(" "),
@@ -44229,40 +44085,26 @@ var staticRenderFns = [
               ]
             ),
             _vm._v(" "),
-            _c(
-              "p",
-              {
-                staticClass:
-                  "text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest"
-              },
-              [
-                _vm._v(
-                  "\n                        NANAに所属しているネイリストは、経験豊富なJNAネイリスト技能検定1級取得者。そして、お客さまとのコミュニケーションをとても大切にしています。テレビやタブレット端末で映画などを見れるサロンが多い中、NANAでは\n                        "
-                ),
-                _c("span", { staticClass: "tw-mask" }, [
-                  _vm._v("静かでゆったりとした空間を提供しています。")
-                ])
-              ]
-            ),
+            _c("p", { staticClass: "pb-8" }, [
+              _vm._v(
+                "\n                        NANAに所属しているネイリストは、経験豊富なJNAネイリスト技能検定1級取得者。そして、お客さまとのコミュニケーションをとても大切にしています。テレビやタブレット端末で映画などを見れるサロンが多い中、NANAでは\n                        "
+              ),
+              _c("span", { staticClass: "tw-mask" }, [
+                _vm._v("静かでゆったりとした空間を提供しています。")
+              ])
+            ]),
             _vm._v(" "),
-            _c(
-              "p",
-              {
-                staticClass:
-                  "text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest"
-              },
-              [
-                _vm._v(
-                  "\n                        特に初めてネイルをされる方は緊張もされているため、\n                        "
-                ),
-                _c("span", { staticClass: "tw-mask" }, [
-                  _vm._v("話しやすい雰囲気を作ること")
-                ]),
-                _vm._v(
-                  "\n                        はとても大切です。ライフスタイルはもちろんのこと、ご自身の爪の好きなところ、コンプレックスの部分、ご来店時の状態、今後のイベントなどの内容をお尋ねし、「こんなデザインはいかがですか？」とデザインを提案。ときには身近な方には打ち明けにくい話なども交えながら、じっくりとお客さまの心の声に耳を傾けながら施術を行います。\n                    "
-                )
-              ]
-            )
+            _c("p", { staticClass: "pb-8" }, [
+              _vm._v(
+                "\n                        特に初めてネイルをされる方は緊張もされているため、\n                        "
+              ),
+              _c("span", { staticClass: "tw-mask" }, [
+                _vm._v("話しやすい雰囲気を作ること")
+              ]),
+              _vm._v(
+                "\n                        はとても大切です。ライフスタイルはもちろんのこと、ご自身の爪の好きなところ、コンプレックスの部分、ご来店時の状態、今後のイベントなどの内容をお尋ねし、「こんなデザインはいかがですか？」とデザインを提案。ときには身近な方には打ち明けにくい話なども交えながら、じっくりとお客さまの心の声に耳を傾けながら施術を行います。\n                    "
+              )
+            ])
           ]),
           _vm._v(" "),
           _c("article", [
@@ -44283,76 +44125,48 @@ var staticRenderFns = [
               ]
             ),
             _vm._v(" "),
-            _c(
-              "p",
-              {
-                staticClass:
-                  "text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest"
-              },
-              [
+            _c("p", { staticClass: "pb-8" }, [
+              _vm._v(
+                "\n                        一日の中でネイルやマツエク、美容室などをまたぐ“美容デー”を設けている方も多い中、\n                        "
+              ),
+              _c("span", { staticClass: "tw-mask" }, [
                 _vm._v(
-                  "\n                        一日の中でネイルやマツエク、美容室などをまたぐ“美容デー”を設けている方も多い中、\n                        "
-                ),
-                _c("span", { staticClass: "tw-mask" }, [
-                  _vm._v(
-                    "スピーディに上品で輝かしい仕上がりをご提供するのがNANAのネイル"
-                  )
-                ]),
-                _vm._v(
-                  "\n                        です。モチベーションをアップさせたい、爪の保護をしたい、指を長く見せたい……\n                        "
-                ),
-                _c("span", { staticClass: "tw-mask" }, [
-                  _vm._v(
-                    "すべて、お客さまの「自分らしく、美しくありたい」という気持ち"
-                  )
-                ]),
-                _vm._v(
-                  "\n                        から生まれる言葉です。\n                    "
+                  "スピーディに上品で輝かしい仕上がりをご提供するのがNANAのネイル"
                 )
-              ]
-            ),
-            _vm._v(" "),
-            _c(
-              "p",
-              {
-                staticClass:
-                  "text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest"
-              },
-              [
+              ]),
+              _vm._v(
+                "\n                        です。モチベーションをアップさせたい、爪の保護をしたい、指を長く見せたい……\n                        "
+              ),
+              _c("span", { staticClass: "tw-mask" }, [
                 _vm._v(
-                  "\n                        NANAではカラー・パーツ、いずれも多数取り揃えています。「初心者だからどうしていいかわからない」「まったくデザインを考えていなかった」という方でも、どうぞ安心して来ていただきたいと思っています。\n                    "
+                  "すべて、お客さまの「自分らしく、美しくありたい」という気持ち"
                 )
-              ]
-            ),
+              ]),
+              _vm._v(
+                "\n                        から生まれる言葉です。\n                    "
+              )
+            ]),
             _vm._v(" "),
-            _c(
-              "p",
-              {
-                staticClass:
-                  "text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest"
-              },
-              [
-                _vm._v(
-                  "\n                        ネイルは特別なものではありません。誰もが美しくなるために自然と身につけているものを、そっと引き立てるのがNANAのネイル。それがあなたをさらに“特別”にします。\n                    "
-                )
-              ]
-            ),
+            _c("p", { staticClass: "pb-8" }, [
+              _vm._v(
+                "\n                        NANAではカラー・パーツ、いずれも多数取り揃えています。「初心者だからどうしていいかわからない」「まったくデザインを考えていなかった」という方でも、どうぞ安心して来ていただきたいと思っています。\n                    "
+              )
+            ]),
             _vm._v(" "),
-            _c(
-              "p",
-              {
-                staticClass:
-                  "text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest"
-              },
-              [
-                _vm._v(
-                  "\n                        ぜひNANAのネイルで、\n                        "
-                ),
-                _c("span", { staticClass: "tw-mask" }, [
-                  _vm._v("あなただけの“色”を纏ってみませんか？")
-                ])
-              ]
-            )
+            _c("p", { staticClass: "pb-8" }, [
+              _vm._v(
+                "\n                        ネイルは特別なものではありません。誰もが美しくなるために自然と身につけているものを、そっと引き立てるのがNANAのネイル。それがあなたをさらに“特別”にします。\n                    "
+              )
+            ]),
+            _vm._v(" "),
+            _c("p", { staticClass: "pb-8" }, [
+              _vm._v(
+                "\n                        ぜひNANAのネイルで、\n                        "
+              ),
+              _c("span", { staticClass: "tw-mask" }, [
+                _vm._v("あなただけの“色”を纏ってみませんか？")
+              ])
+            ])
           ])
         ])
       ])
@@ -44412,10 +44226,7 @@ var staticRenderFns = [
         _c("div", { staticClass: "flex flex-wrap" }, [
           _c(
             "p",
-            {
-              staticClass:
-                "w-full text-center text-sm font-bold pt-8 leading-loose"
-            },
+            { staticClass: "w-full text-center text-sm font-bold pt-8" },
             [
               _vm._v("\n                                NAIL RESERVATION"),
               _c("br"),
@@ -45532,22 +45343,15 @@ var staticRenderFns = [
         _vm._v(" "),
         _c("div", { staticClass: "p-16 bg-teal-lightest lg:w-11/12" }, [
           _c("div", { staticClass: "flex flex-col" }, [
-            _c(
-              "p",
-              {
-                staticClass:
-                  "text-center text-xs tracking-wider leading-loose text-grey-darker pt-4"
-              },
-              [
-                _vm._v(
-                  "\n                        それぞれの個性で “お客様を美しく”。"
-                ),
-                _c("br"),
-                _vm._v(
-                  "\n                        NANAで働きたいという方のご応募を心よりお待ちしております。\n                    "
-                )
-              ]
-            ),
+            _c("p", { staticClass: "text-center pt-4" }, [
+              _vm._v(
+                "\n                        それぞれの個性で “お客様を美しく”。"
+              ),
+              _c("br"),
+              _vm._v(
+                "\n                        NANAで働きたいという方のご応募を心よりお待ちしております。\n                    "
+              )
+            ]),
             _vm._v(" "),
             _c("div", { staticClass: "w-full flex justify-center" }, [
               _c(
@@ -45741,18 +45545,11 @@ var staticRenderFns = [
                 [_vm._v("\n                        MILANO")]
               ),
               _vm._v(" "),
-              _c(
-                "p",
-                {
-                  staticClass:
-                    "text-xs tracking-wider leading-loose text-black pb-8 text-grey-darker"
-                },
-                [
-                  _vm._v(
-                    "\n                        Salon information\n                    "
-                  )
-                ]
-              ),
+              _c("p", { staticClass: "text-xs pb-8 text-grey-darker" }, [
+                _vm._v(
+                  "\n                        Salon information\n                    "
+                )
+              ]),
               _vm._v(" "),
               _c(
                 "ul",
@@ -45858,18 +45655,11 @@ var staticRenderFns = [
                 ]
               ),
               _vm._v(" "),
-              _c(
-                "p",
-                {
-                  staticClass:
-                    "text-xs tracking-wider leading-loose text-black pb-8 text-grey-darker"
-                },
-                [
-                  _vm._v(
-                    "\n                        Salon information\n                    "
-                  )
-                ]
-              ),
+              _c("p", { staticClass: "text-xs pb-8 text-grey-darker" }, [
+                _vm._v(
+                  "\n                        Salon information\n                    "
+                )
+              ]),
               _vm._v(" "),
               _c(
                 "ul",
@@ -45968,18 +45758,11 @@ var staticRenderFns = [
                 ]
               ),
               _vm._v(" "),
-              _c(
-                "p",
-                {
-                  staticClass:
-                    "text-xs tracking-wider leading-loose text-black pb-8 text-grey-darker"
-                },
-                [
-                  _vm._v(
-                    "\n                        Salon information\n                    "
-                  )
-                ]
-              ),
+              _c("p", { staticClass: "text-xs pb-8 text-grey-darker" }, [
+                _vm._v(
+                  "\n                        Salon information\n                    "
+                )
+              ]),
               _vm._v(" "),
               _c(
                 "ul",
@@ -46212,46 +45995,32 @@ var staticRenderFns = [
                 ]
               ),
               _vm._v(" "),
-              _c(
-                "p",
-                {
-                  staticClass:
-                    "text-13 tracking-wider leading-loose pb-8 text-grey-darkest"
-                },
-                [
-                  _c("span", { staticClass: "tw-mask" }, [
-                    _vm._v("「NANAのマツエクはモチが良い！」")
-                  ]),
-                  _vm._v(
-                    "\n                            いうお褒めの言葉を多くいただいています。通常、マツエクは1ヶ月ほどで次の施術のサイクルが来ますが、当店の施術ではさらに2週間ほど長く、1.5ヶ月ほどもつという方が多いようです。\n                        "
-                  )
-                ]
-              ),
+              _c("p", { staticClass: "pb-8" }, [
+                _c("span", { staticClass: "tw-mask" }, [
+                  _vm._v("「NANAのマツエクはモチが良い！」")
+                ]),
+                _vm._v(
+                  "\n                            いうお褒めの言葉を多くいただいています。通常、マツエクは1ヶ月ほどで次の施術のサイクルが来ますが、当店の施術ではさらに2週間ほど長く、1.5ヶ月ほどもつという方が多いようです。\n                        "
+                )
+              ]),
               _vm._v(" "),
-              _c(
-                "p",
-                {
-                  staticClass:
-                    "text-13 tracking-wider leading-loose pb-8 text-grey-darkest"
-                },
-                [
-                  _vm._v(
-                    "\n                            理由のひとつめは、\n                            "
-                  ),
-                  _c("span", { staticClass: "tw-mask" }, [
-                    _vm._v("スタッフの技術の高さ。")
-                  ]),
-                  _vm._v(
-                    "\n                            全員が数ヶ月にわたるレッスンを受けて入客しているので、丁寧でしっかりとした施術を行うことができるんです。ふたつめは、\n                            "
-                  ),
-                  _c("span", { staticClass: "tw-mask" }, [
-                    _vm._v("良質な国産のグルー（接着剤）を使用している点。")
-                  ]),
-                  _vm._v(
-                    "\n                            しっかりと接着するので安心です。\n                        "
-                  )
-                ]
-              )
+              _c("p", { staticClass: "pb-8" }, [
+                _vm._v(
+                  "\n                            理由のひとつめは、\n                            "
+                ),
+                _c("span", { staticClass: "tw-mask" }, [
+                  _vm._v("スタッフの技術の高さ。")
+                ]),
+                _vm._v(
+                  "\n                            全員が数ヶ月にわたるレッスンを受けて入客しているので、丁寧でしっかりとした施術を行うことができるんです。ふたつめは、\n                            "
+                ),
+                _c("span", { staticClass: "tw-mask" }, [
+                  _vm._v("良質な国産のグルー（接着剤）を使用している点。")
+                ]),
+                _vm._v(
+                  "\n                            しっかりと接着するので安心です。\n                        "
+                )
+              ])
             ]),
             _vm._v(" "),
             _c("article", [
@@ -46272,40 +46041,26 @@ var staticRenderFns = [
                 ]
               ),
               _vm._v(" "),
-              _c(
-                "p",
-                {
-                  staticClass:
-                    "text-13 tracking-wider leading-loose pb-8 text-grey-darkest"
-                },
-                [
-                  _vm._v(
-                    "\n                            良質なグルーはしっかりとした接着を実現します。つまり、一回の施術でのマツエクのモチが良いということ。さらにモチが良いということは、次の施術までに余裕が生まれます。\n                            "
-                  ),
-                  _c("span", { staticClass: "tw-mask" }, [
-                    _vm._v("金額面でもおトク")
-                  ]),
-                  _vm._v(
-                    "\n                            なのが、NANAのマツエクなのです。\n                        "
-                  )
-                ]
-              ),
+              _c("p", { staticClass: "pb-8" }, [
+                _vm._v(
+                  "\n                            良質なグルーはしっかりとした接着を実現します。つまり、一回の施術でのマツエクのモチが良いということ。さらにモチが良いということは、次の施術までに余裕が生まれます。\n                            "
+                ),
+                _c("span", { staticClass: "tw-mask" }, [
+                  _vm._v("金額面でもおトク")
+                ]),
+                _vm._v(
+                  "\n                            なのが、NANAのマツエクなのです。\n                        "
+                )
+              ]),
               _vm._v(" "),
-              _c(
-                "p",
-                {
-                  staticClass:
-                    "text-13 tracking-wider leading-loose pb-8 text-grey-darkest"
-                },
-                [
-                  _c("span", { staticClass: "tw-mask" }, [
-                    _vm._v("スタッフみずから商材を厳選")
-                  ]),
-                  _vm._v(
-                    "\n                            する。それが初心者の方に“安心”を与えることができ、さらにリピーターさんにも喜ばれる。NANAが“マツエク初心者”の方にも安心していただける、大きな理由です。j\n                        "
-                  )
-                ]
-              )
+              _c("p", { staticClass: "pb-8" }, [
+                _c("span", { staticClass: "tw-mask" }, [
+                  _vm._v("スタッフみずから商材を厳選")
+                ]),
+                _vm._v(
+                  "\n                            する。それが初心者の方に“安心”を与えることができ、さらにリピーターさんにも喜ばれる。NANAが“マツエク初心者”の方にも安心していただける、大きな理由です。j\n                        "
+                )
+              ])
             ])
           ])
         ]),
@@ -46339,10 +46094,7 @@ var staticRenderFns = [
                   _vm._v(" "),
                   _c(
                     "p",
-                    {
-                      staticClass:
-                        "text-xs tracking-wider leading-loose pb-8 text-grey-darker pt-4"
-                    },
+                    { staticClass: "text-xs pb-8 text-grey-darker pt-4" },
                     [
                       _vm._v(
                         "\n                                いつもありがとうございます。希望通りの仕上がりで綺麗にしていただいて感謝してます！色々なサロンを経験してますが、モチがいいし雰囲気も大好きです。また来月宜しくお願いします。\n                            "
@@ -46367,10 +46119,7 @@ var staticRenderFns = [
                   _vm._v(" "),
                   _c(
                     "p",
-                    {
-                      staticClass:
-                        "text-xs tracking-wider leading-loose pb-8 text-grey-darker pt-4"
-                    },
+                    { staticClass: "text-xs pb-8 text-grey-darker pt-4" },
                     [
                       _vm._v(
                         "\n                                色々なアイラッシュサロンへ行きましたが、今までの中で１番モチがいいです。１ヶ月以上いつももちます。これからもお世話になります。\n                            "
@@ -46397,10 +46146,7 @@ var staticRenderFns = [
                   _vm._v(" "),
                   _c(
                     "p",
-                    {
-                      staticClass:
-                        "text-xs tracking-wider leading-loose pb-8 text-grey-darker pt-4"
-                    },
+                    { staticClass: "text-xs pb-8 text-grey-darker pt-4" },
                     [
                       _vm._v(
                         "\n                                ほぼ1年通っています。とーってもお上手です。うとうとしてしまいます。施術がおわると、目がパッチリしています。モチもすごくいいです。"
@@ -46429,10 +46175,7 @@ var staticRenderFns = [
                   _vm._v(" "),
                   _c(
                     "p",
-                    {
-                      staticClass:
-                        "text-xs tracking-wider leading-loose pb-8 text-grey-darker pt-4"
-                    },
+                    { staticClass: "text-xs pb-8 text-grey-darker pt-4" },
                     [
                       _vm._v(
                         "\n                                いつもお世話になっています。お昼からの仕事の前に通わせて頂いていますが、いつも綺麗で清潔な店内で落ち着きます。施術も丁寧で、マツエクのもちもいい感じです。また心地よくて、施術中につい眠ってしまうほどです。終わりに飲み物とお菓子まで頂けますが、持ち帰る事もでき、仕事の途中の癒しにもなっています。\n                            "
@@ -46544,49 +46287,35 @@ var staticRenderFns = [
                 ]
               ),
               _vm._v(" "),
-              _c(
-                "p",
-                {
-                  staticClass:
-                    "text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest"
-                },
-                [
-                  _vm._v(
-                    "\n                            マツエクをつけてはじめてわかる、\n                            "
-                  ),
-                  _c("span", { staticClass: "tw-mask" }, [
-                    _vm._v("ひとりひとり違う“まつ毛”。")
-                  ]),
-                  _vm._v(
-                    "\n                            自覚がなくても 「実はくせ毛だった」「毛先が下に向きやすい」というそれぞれの個性があります。\n                        "
-                  )
-                ]
-              ),
+              _c("p", { staticClass: "pb-8" }, [
+                _vm._v(
+                  "\n                            マツエクをつけてはじめてわかる、\n                            "
+                ),
+                _c("span", { staticClass: "tw-mask" }, [
+                  _vm._v("ひとりひとり違う“まつ毛”。")
+                ]),
+                _vm._v(
+                  "\n                            自覚がなくても 「実はくせ毛だった」「毛先が下に向きやすい」というそれぞれの個性があります。\n                        "
+                )
+              ]),
               _vm._v(" "),
-              _c(
-                "p",
-                {
-                  staticClass:
-                    "text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest"
-                },
-                [
-                  _vm._v(
-                    "\n                            「初めてマツエクをするから不安…」といった方でも安心して過ごしていただけるように、NANAでは施術前にしっかりと\n                            "
-                  ),
-                  _c("span", { staticClass: "tw-mask" }, [
-                    _vm._v("カウンセリング")
-                  ]),
-                  _vm._v(
-                    "\n                            を行います。また、カウンセリングは初回だけではありません。来ていただいた時のまつ毛の状態に合わせ、デザイン、色、本数、長さなどを細かくお話しし、\n                            "
-                  ),
-                  _c("span", { staticClass: "tw-mask" }, [
-                    _vm._v("その方にピッタリ")
-                  ]),
-                  _vm._v(
-                    "\n                            な施術をします。\n                        "
-                  )
-                ]
-              )
+              _c("p", { staticClass: "pb-8" }, [
+                _vm._v(
+                  "\n                            「初めてマツエクをするから不安…」といった方でも安心して過ごしていただけるように、NANAでは施術前にしっかりと\n                            "
+                ),
+                _c("span", { staticClass: "tw-mask" }, [
+                  _vm._v("カウンセリング")
+                ]),
+                _vm._v(
+                  "\n                            を行います。また、カウンセリングは初回だけではありません。来ていただいた時のまつ毛の状態に合わせ、デザイン、色、本数、長さなどを細かくお話しし、\n                            "
+                ),
+                _c("span", { staticClass: "tw-mask" }, [
+                  _vm._v("その方にピッタリ")
+                ]),
+                _vm._v(
+                  "\n                            な施術をします。\n                        "
+                )
+              ])
             ]),
             _vm._v(" "),
             _c("article", [
@@ -46607,26 +46336,19 @@ var staticRenderFns = [
                 ]
               ),
               _vm._v(" "),
-              _c(
-                "p",
-                {
-                  staticClass:
-                    "text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest"
-                },
-                [
+              _c("p", { staticClass: "pb-8" }, [
+                _vm._v(
+                  "\n                            さらに\n                            "
+                ),
+                _c("span", { staticClass: "tw-mask" }, [
                   _vm._v(
-                    "\n                            さらに\n                            "
-                  ),
-                  _c("span", { staticClass: "tw-mask" }, [
-                    _vm._v(
-                      "NANAではスタッフの指名も可能ですが、指名料はいただいていません"
-                    )
-                  ]),
-                  _vm._v(
-                    "\n                            。信頼できるスタッフとじっくり、自分の状態や理想の形を相談していただきたいと考えています。もちろんメンテナンス方法などもしっかりとお伝えしています。不安な点は何でもご相談ください！\n                        "
+                    "NANAではスタッフの指名も可能ですが、指名料はいただいていません"
                   )
-                ]
-              )
+                ]),
+                _vm._v(
+                  "\n                            。信頼できるスタッフとじっくり、自分の状態や理想の形を相談していただきたいと考えています。もちろんメンテナンス方法などもしっかりとお伝えしています。不安な点は何でもご相談ください！\n                        "
+                )
+              ])
             ])
           ])
         ]),
@@ -46660,10 +46382,7 @@ var staticRenderFns = [
                   _vm._v(" "),
                   _c(
                     "p",
-                    {
-                      staticClass:
-                        "text-xs tracking-wider leading-loose pb-8 text-grey-darker pt-4"
-                    },
+                    { staticClass: "text-xs pb-8 text-grey-darker pt-4" },
                     [
                       _vm._v(
                         "\n                                初めてのマツエクで不安もありましたが、丁寧にカウンセリングして頂き、仕上がりは大満足でした。モチも2週間程経ちますが、今のところ問題ないです。またお願いしたいと思います。\n                            "
@@ -46688,10 +46407,7 @@ var staticRenderFns = [
                   _vm._v(" "),
                   _c(
                     "p",
-                    {
-                      staticClass:
-                        "text-xs tracking-wider leading-loose pb-8 text-grey-darker pt-4"
-                    },
+                    { staticClass: "text-xs pb-8 text-grey-darker pt-4" },
                     [
                       _vm._v(
                         "\n                                カウンセリングから最後までとても丁寧にしていただいて、仕上がりも接客も今までで一番でした♪何も不満がなかったのはこれが初めてです！！お姉さんもとても可愛い方で次回もまたお願いしようと思います(*´∀`*)\n                            "
@@ -46718,10 +46434,7 @@ var staticRenderFns = [
                   _vm._v(" "),
                   _c(
                     "p",
-                    {
-                      staticClass:
-                        "text-xs tracking-wider leading-loose pb-8 text-grey-darker pt-4"
-                    },
+                    { staticClass: "text-xs pb-8 text-grey-darker pt-4" },
                     [
                       _vm._v(
                         "\n                                前回、他店で初めてマツエクを施術してもらい、目を開けると痛くて一日中目がゴロゴロしていましたが、今回は痛みやヒリヒリした感じが全くなく快適です。"
@@ -46750,10 +46463,7 @@ var staticRenderFns = [
                   _vm._v(" "),
                   _c(
                     "p",
-                    {
-                      staticClass:
-                        "text-xs tracking-wider leading-loose pb-8 text-grey-darker pt-4"
-                    },
+                    { staticClass: "text-xs pb-8 text-grey-darker pt-4" },
                     [
                       _vm._v(
                         "\n                                マツエクする時はいつもこちらにお伺いさせて頂いてます。毎回来た時に必ずカウセリングを行なって頂いて、お店の雰囲気も落ち着いており、寝てしまうくらいです、、。笑 仕上がりもパーフェクトで、本当に毎回感謝です。"
@@ -46873,43 +46583,29 @@ var staticRenderFns = [
                 ]
               ),
               _vm._v(" "),
-              _c(
-                "p",
-                {
-                  staticClass:
-                    "text-13 tracking-wider leading-loose pb-8 text-grey-darkest"
-                },
-                [
-                  _vm._v(
-                    "\n                            NANAのお客さまの口コミに多く寄せられるのが、「施術中にぐっすり寝てしまいました」という声です。\n                        "
-                  )
-                ]
-              ),
+              _c("p", { staticClass: "pb-8" }, [
+                _vm._v(
+                  "\n                            NANAのお客さまの口コミに多く寄せられるのが、「施術中にぐっすり寝てしまいました」という声です。\n                        "
+                )
+              ]),
               _vm._v(" "),
-              _c(
-                "p",
-                {
-                  staticClass:
-                    "text-13 tracking-wider leading-loose pb-8 text-grey-darkest"
-                },
-                [
-                  _vm._v(
-                    "\n                            マツエクサロンの多くはリクライニング式のチェアを採用していますが、NANAでは全店舗\n                            "
-                  ),
-                  _c("span", { staticClass: "tw-mask" }, [
-                    _vm._v("ベッドを導入")
-                  ]),
-                  _vm._v(
-                    "\n                            しています！　包み込まれるような寝心地のベッドに加え、ふんわりとやわらかい枕は「つい眠ってしまう」と、どのお客さまにも人気です。フットクッションもお好みに合わせてご用意。まさに\n                            "
-                  ),
-                  _c("span", { staticClass: "tw-mask" }, [
-                    _vm._v("極上のリラックス空間")
-                  ]),
-                  _vm._v(
-                    "\n                            です。\n                        "
-                  )
-                ]
-              )
+              _c("p", { staticClass: "pb-8" }, [
+                _vm._v(
+                  "\n                            マツエクサロンの多くはリクライニング式のチェアを採用していますが、NANAでは全店舗\n                            "
+                ),
+                _c("span", { staticClass: "tw-mask" }, [
+                  _vm._v("ベッドを導入")
+                ]),
+                _vm._v(
+                  "\n                            しています！　包み込まれるような寝心地のベッドに加え、ふんわりとやわらかい枕は「つい眠ってしまう」と、どのお客さまにも人気です。フットクッションもお好みに合わせてご用意。まさに\n                            "
+                ),
+                _c("span", { staticClass: "tw-mask" }, [
+                  _vm._v("極上のリラックス空間")
+                ]),
+                _vm._v(
+                  "\n                            です。\n                        "
+                )
+              ])
             ])
           ])
         ]),
@@ -47124,27 +46820,20 @@ var staticRenderFns = [
                 ]
               ),
               _vm._v(" "),
-              _c(
-                "p",
-                {
-                  staticClass:
-                    "text-13 tracking-wider leading-loose pb-8 text-grey-darkest"
-                },
-                [
-                  _vm._v(
-                    "\n                            マツエクのポイントのひとつに「\n                            "
-                  ),
-                  _c("span", { staticClass: "tw-mask" }, [
-                    _vm._v("短時間でできる")
-                  ]),
-                  _vm._v(
-                    "\n                            」ことがあります。そのため、仕事の休憩時間やお買い物のちょっとした合間などにいらっしゃる方も多く見受けられます。NANAの施術時間は約60分。オフをするともっと長くなりますが、\n                            "
-                  ),
-                  _c("span", { staticClass: "tw-mask" }, [
-                    _vm._v("基本的には短い時間でしっかりと施術を行います。")
-                  ])
-                ]
-              )
+              _c("p", { staticClass: "pb-8" }, [
+                _vm._v(
+                  "\n                            マツエクのポイントのひとつに「\n                            "
+                ),
+                _c("span", { staticClass: "tw-mask" }, [
+                  _vm._v("短時間でできる")
+                ]),
+                _vm._v(
+                  "\n                            」ことがあります。そのため、仕事の休憩時間やお買い物のちょっとした合間などにいらっしゃる方も多く見受けられます。NANAの施術時間は約60分。オフをするともっと長くなりますが、\n                            "
+                ),
+                _c("span", { staticClass: "tw-mask" }, [
+                  _vm._v("基本的には短い時間でしっかりと施術を行います。")
+                ])
+              ])
             ]),
             _vm._v(" "),
             _c("article", [
@@ -47165,29 +46854,22 @@ var staticRenderFns = [
                 ]
               ),
               _vm._v(" "),
-              _c(
-                "p",
-                {
-                  staticClass:
-                    "text-13 tracking-wider leading-loose pb-8 text-grey-darkest"
-                },
-                [
-                  _c("span", { staticClass: "tw-mask" }, [
-                    _vm._v("お客さまの大切な時間をいただいて施術を行っている")
-                  ]),
+              _c("p", { staticClass: "pb-8" }, [
+                _c("span", { staticClass: "tw-mask" }, [
+                  _vm._v("お客さまの大切な時間をいただいて施術を行っている")
+                ]),
+                _vm._v(
+                  "\n                            」。このことをとても大切にしているからこそ、施術後の飲み物とお菓子も持ち帰りOKなものをご用意しています。\n                            "
+                ),
+                _c("span", { staticClass: "tw-mask" }, [
                   _vm._v(
-                    "\n                            」。このことをとても大切にしているからこそ、施術後の飲み物とお菓子も持ち帰りOKなものをご用意しています。\n                            "
-                  ),
-                  _c("span", { staticClass: "tw-mask" }, [
-                    _vm._v(
-                      "マツエクで気持ちを上向きにして、とびきりの笑顔で次の予定へ"
-                    )
-                  ]),
-                  _vm._v(
-                    "\n                            向かうお客さまをお送りするのが、NANAのスタイルです。\n                        "
+                    "マツエクで気持ちを上向きにして、とびきりの笑顔で次の予定へ"
                   )
-                ]
-              )
+                ]),
+                _vm._v(
+                  "\n                            向かうお客さまをお送りするのが、NANAのスタイルです。\n                        "
+                )
+              ])
             ])
           ])
         ]),
@@ -47610,30 +47292,23 @@ var staticRenderFns = [
           "div",
           { staticClass: "flex items-center justify-center lg:mb-16" },
           [
-            _c(
-              "p",
-              {
-                staticClass:
-                  "text-center text-13 leading-loose tracking-loose text-light text-grey-darkest"
-              },
-              [
-                _vm._v(
-                  "\n                    以下の点を押さえておくと、マツエクはとても簡単、そして安全に使用できます。"
-                ),
-                _c("br"),
-                _vm._v(
-                  "\n                    不安な点、疑問点は、NANAのスタッフにご相談ください。"
-                ),
-                _c("br"),
-                _vm._v(
-                  "\n                    プロ目線からの適切な対処法をお伝えします。"
-                ),
-                _c("br"),
-                _vm._v(
-                  "\n                    ぜひみなさんも素敵なマツエクライフをお過ごしください！\n                "
-                )
-              ]
-            )
+            _c("p", { staticClass: "text-center text-light" }, [
+              _vm._v(
+                "\n                    以下の点を押さえておくと、マツエクはとても簡単、そして安全に使用できます。"
+              ),
+              _c("br"),
+              _vm._v(
+                "\n                    不安な点、疑問点は、NANAのスタッフにご相談ください。"
+              ),
+              _c("br"),
+              _vm._v(
+                "\n                    プロ目線からの適切な対処法をお伝えします。"
+              ),
+              _c("br"),
+              _vm._v(
+                "\n                    ぜひみなさんも素敵なマツエクライフをお過ごしください！\n                "
+              )
+            ])
           ]
         ),
         _vm._v(" "),
@@ -47661,28 +47336,21 @@ var staticRenderFns = [
               _c("article", { staticClass: "leading-loose tracking-loose" }, [
                 _c("h3", [_vm._v("オイルクレンジングは使用しない")]),
                 _vm._v(" "),
-                _c("span", { staticClass: "block py-4" }, [
+                _c("span", { staticClass: "block py-4 font-fotura" }, [
                   _vm._v("No Cleansing Oil")
                 ]),
                 _vm._v(" "),
-                _c(
-                  "p",
-                  {
-                    staticClass:
-                      "text-13 tracking-wider leading-loose pb-8 text-grey-darkest"
-                  },
-                  [
-                    _vm._v(
-                      "\n                                接着剤であるグルーには油分・水分に弱い性質があります。オイルタイプを使用すると接着剤が分解してしまうおそれがあるため基本は\n                                "
-                    ),
-                    _c("span", { staticClass: "tw-mask" }, [
-                      _vm._v("「オイルフリー」のクレンジングを使用")
-                    ]),
-                    _vm._v(
-                      "\n                                しましょう。\n                            "
-                    )
-                  ]
-                )
+                _c("p", { staticClass: "pb-8" }, [
+                  _vm._v(
+                    "\n                                接着剤であるグルーには油分・水分に弱い性質があります。オイルタイプを使用すると接着剤が分解してしまうおそれがあるため基本は\n                                "
+                  ),
+                  _c("span", { staticClass: "tw-mask" }, [
+                    _vm._v("「オイルフリー」のクレンジングを使用")
+                  ]),
+                  _vm._v(
+                    "\n                                しましょう。\n                            "
+                  )
+                ])
               ])
             ]),
             _vm._v(" "),
@@ -47708,28 +47376,21 @@ var staticRenderFns = [
               _c("article", { staticClass: "leading-loose tracking-loose" }, [
                 _c("h3", [_vm._v("優しく乾かす")]),
                 _vm._v(" "),
-                _c("span", { staticClass: "block py-4" }, [
+                _c("span", { staticClass: "block py-4 font-fotura" }, [
                   _vm._v("Dry Gently")
                 ]),
                 _vm._v(" "),
-                _c(
-                  "p",
-                  {
-                    staticClass:
-                      "text-13 tracking-wider leading-loose pb-8 text-grey-darkest"
-                  },
-                  [
-                    _vm._v(
-                      "\n                                マツエクは非常にデリケートです。洗顔後にタオルで強くこすったりせず、\n                                "
-                    ),
-                    _c("span", { staticClass: "tw-mask" }, [
-                      _vm._v("タオルで優しく押さえる、ドライヤーで乾かす")
-                    ]),
-                    _vm._v(
-                      "\n                                など、丁寧に扱うことが重要です。\n                            "
-                    )
-                  ]
-                )
+                _c("p", { staticClass: "pb-8" }, [
+                  _vm._v(
+                    "\n                                マツエクは非常にデリケートです。洗顔後にタオルで強くこすったりせず、\n                                "
+                  ),
+                  _c("span", { staticClass: "tw-mask" }, [
+                    _vm._v("タオルで優しく押さえる、ドライヤーで乾かす")
+                  ]),
+                  _vm._v(
+                    "\n                                など、丁寧に扱うことが重要です。\n                            "
+                  )
+                ])
               ])
             ])
           ]),
@@ -47761,24 +47422,17 @@ var staticRenderFns = [
                   _vm._v("Comb & Essence")
                 ]),
                 _vm._v(" "),
-                _c(
-                  "p",
-                  {
-                    staticClass:
-                      "text-13 tracking-wider leading-loose pb-8 text-grey-darkest"
-                  },
-                  [
-                    _vm._v(
-                      "\n                                まつ毛専用のコームや美容液があります。髪などと同様にきちんと\n                                "
-                    ),
-                    _c("span", { staticClass: "tw-mask" }, [
-                      _vm._v("お手入れすることが長持ちさせるためのポイント")
-                    ]),
-                    _vm._v(
-                      "\n                                です。\n                            "
-                    )
-                  ]
-                )
+                _c("p", { staticClass: "pb-8" }, [
+                  _vm._v(
+                    "\n                                まつ毛専用のコームや美容液があります。髪などと同様にきちんと\n                                "
+                  ),
+                  _c("span", { staticClass: "tw-mask" }, [
+                    _vm._v("お手入れすることが長持ちさせるためのポイント")
+                  ]),
+                  _vm._v(
+                    "\n                                です。\n                            "
+                  )
+                ])
               ])
             ]),
             _vm._v(" "),
@@ -47808,24 +47462,17 @@ var staticRenderFns = [
                   _vm._v("Repair Cycle")
                 ]),
                 _vm._v(" "),
-                _c(
-                  "p",
-                  {
-                    staticClass:
-                      "text-13 tracking-wider leading-loose pb-8 text-grey-darkest"
-                  },
-                  [
-                    _vm._v(
-                      "\n                                日々まつ毛も生まれ変わります。NANAのマツエクのモチはおおよそ1.5ヶ月と長めですが、\n                                "
-                    ),
-                    _c("span", { staticClass: "tw-mask" }, [
-                      _vm._v("数ヶ月に一度はきちんとオフ")
-                    ]),
-                    _vm._v(
-                      "\n                                をして、きれいな状態を保つようにしましょう。\n                            "
-                    )
-                  ]
-                )
+                _c("p", { staticClass: "pb-8" }, [
+                  _vm._v(
+                    "\n                                日々まつ毛も生まれ変わります。NANAのマツエクのモチはおおよそ1.5ヶ月と長めですが、\n                                "
+                  ),
+                  _c("span", { staticClass: "tw-mask" }, [
+                    _vm._v("数ヶ月に一度はきちんとオフ")
+                  ]),
+                  _vm._v(
+                    "\n                                をして、きれいな状態を保つようにしましょう。\n                            "
+                  )
+                ])
               ])
             ])
           ])
@@ -48126,41 +47773,27 @@ var staticRenderFns = [
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
-    return _c(
-      "p",
-      { staticClass: "text-center text-13 leading-loose tracking-loose pb-8" },
-      [
-        _vm._v("\n                    FOLLOW "),
-        _c(
-          "a",
-          {
-            staticClass: "hover:text-grey-darker tw-mask",
-            attrs: { href: "/" }
-          },
-          [_vm._v("@nana_eyelashsalon !")]
-        )
-      ]
-    )
+    return _c("p", { staticClass: "text-center pb-8" }, [
+      _vm._v("\n                    FOLLOW "),
+      _c(
+        "a",
+        { staticClass: "hover:text-grey-darker tw-mask", attrs: { href: "/" } },
+        [_vm._v("@nana_eyelashsalon !")]
+      )
+    ])
   },
   function() {
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
-    return _c(
-      "p",
-      { staticClass: "text-center text-13 leading-loose tracking-loose pb-8" },
-      [
-        _vm._v("\n                    FOLLOW "),
-        _c(
-          "a",
-          {
-            staticClass: "hover:text-grey-darker tw-mask",
-            attrs: { href: "/" }
-          },
-          [_vm._v("@nana_nail_lisbon !")]
-        )
-      ]
-    )
+    return _c("p", { staticClass: "text-center pb-8" }, [
+      _vm._v("\n                    FOLLOW "),
+      _c(
+        "a",
+        { staticClass: "hover:text-grey-darker tw-mask", attrs: { href: "/" } },
+        [_vm._v("@nana_nail_lisbon !")]
+      )
+    ])
   },
   function() {
     var _vm = this
@@ -48179,7 +47812,7 @@ var staticRenderFns = [
               "p",
               {
                 staticClass: "absolute flex flex-col text-center p-8 bg-white",
-                staticStyle: { top: "-40px" }
+                staticStyle: { top: "-45px" }
               },
               [
                 _c("span", [_vm._v("NANA INSTAGRAM")]),
@@ -48519,43 +48152,29 @@ var staticRenderFns = [
                 ]
               ),
               _vm._v(" "),
-              _c(
-                "p",
-                {
-                  staticClass:
-                    "text-13 tracking-wider leading-loose pb-8 text-grey-darkest"
-                },
-                [
-                  _vm._v(
-                    "\n                            ネイルは、日常生活に絶対に必要なもの、ではありません。ではなぜ、みんなネイルをするのでしょうか？「\n                            "
-                  ),
-                  _c("span", { staticClass: "tw-mask" }, [
-                    _vm._v("ネイルをしていると、気分が上がる")
-                  ]),
-                  _vm._v(
-                    "\n                            」。小さな変化ですが、日常生活にあっては大きな変化です。\n                        "
-                  )
-                ]
-              ),
+              _c("p", { staticClass: "pb-8" }, [
+                _vm._v(
+                  "\n                            ネイルは、日常生活に絶対に必要なもの、ではありません。ではなぜ、みんなネイルをするのでしょうか？「\n                            "
+                ),
+                _c("span", { staticClass: "tw-mask" }, [
+                  _vm._v("ネイルをしていると、気分が上がる")
+                ]),
+                _vm._v(
+                  "\n                            」。小さな変化ですが、日常生活にあっては大きな変化です。\n                        "
+                )
+              ]),
               _vm._v(" "),
-              _c(
-                "p",
-                {
-                  staticClass:
-                    "text-13 tracking-wider leading-loose pb-8 text-grey-darkest"
-                },
-                [
-                  _vm._v(
-                    "\n                            手元はやはり、\n                            "
-                  ),
-                  _c("span", { staticClass: "tw-mask" }, [
-                    _vm._v("何をしていても視界に入りやすい部分")
-                  ]),
-                  _vm._v(
-                    "\n                            です。そこが美しいネイルに彩られているだけで、モチベーションが変わります。「週末のイベントに合わせたカラーにしてほしい」「これからの季節のモチーフを取り入れたい」「髪型を変えたから、ネイルも新しい色に挑戦してみたい」などなど。きっかけはさまざまでも、ネイルをしたいときは、やっぱりポジティヴになりたいときではないでしょうか。\n                        "
-                  )
-                ]
-              )
+              _c("p", { staticClass: "pb-8" }, [
+                _vm._v(
+                  "\n                            手元はやはり、\n                            "
+                ),
+                _c("span", { staticClass: "tw-mask" }, [
+                  _vm._v("何をしていても視界に入りやすい部分")
+                ]),
+                _vm._v(
+                  "\n                            です。そこが美しいネイルに彩られているだけで、モチベーションが変わります。「週末のイベントに合わせたカラーにしてほしい」「これからの季節のモチーフを取り入れたい」「髪型を変えたから、ネイルも新しい色に挑戦してみたい」などなど。きっかけはさまざまでも、ネイルをしたいときは、やっぱりポジティヴになりたいときではないでしょうか。\n                        "
+                )
+              ])
             ]),
             _vm._v(" "),
             _c("article", [
@@ -48576,32 +48195,25 @@ var staticRenderFns = [
                 ]
               ),
               _vm._v(" "),
-              _c(
-                "p",
-                {
-                  staticClass:
-                    "text-13 tracking-wider leading-loose pb-8 text-grey-darkest"
-                },
-                [
+              _c("p", { staticClass: "pb-8" }, [
+                _vm._v(
+                  "\n                            ふかふかのソファに座ってネイリストさんと話をしながら、ゆったりとした時間を過ごす。そして、\n                            "
+                ),
+                _c("span", { staticClass: "tw-mask" }, [
                   _vm._v(
-                    "\n                            ふかふかのソファに座ってネイリストさんと話をしながら、ゆったりとした時間を過ごす。そして、\n                            "
-                  ),
-                  _c("span", { staticClass: "tw-mask" }, [
-                    _vm._v(
-                      "出来上がったネイルを見て気持ちが華やぎ、視線がぐっと上を向く。"
-                    )
-                  ]),
-                  _vm._v(
-                    "\n                            少し落ちこんだ時、少しだけ勇気が欲しい時、そっと見つめる自分の指先。日常の中にあっても星のように瞬く“キラキラ”が、そこにはある。さまざまな気持ちを抱えた人たち\n                            "
-                  ),
-                  _c("span", { staticClass: "tw-mask" }, [
-                    _vm._v("背中をそっと押すチカラ")
-                  ]),
-                  _vm._v(
-                    "\n                            が、そのネイルにこめられています。\n                        "
+                    "出来上がったネイルを見て気持ちが華やぎ、視線がぐっと上を向く。"
                   )
-                ]
-              )
+                ]),
+                _vm._v(
+                  "\n                            少し落ちこんだ時、少しだけ勇気が欲しい時、そっと見つめる自分の指先。日常の中にあっても星のように瞬く“キラキラ”が、そこにはある。さまざまな気持ちを抱えた人たち\n                            "
+                ),
+                _c("span", { staticClass: "tw-mask" }, [
+                  _vm._v("背中をそっと押すチカラ")
+                ]),
+                _vm._v(
+                  "\n                            が、そのネイルにこめられています。\n                        "
+                )
+              ])
             ])
           ])
         ])
@@ -48653,64 +48265,43 @@ var staticRenderFns = [
                 ]
               ),
               _vm._v(" "),
-              _c(
-                "p",
-                {
-                  staticClass:
-                    "text-13 tracking-wider leading-loose pb-8 text-grey-darkest"
-                },
-                [
-                  _vm._v(
-                    "\n                            ネイルは、今では自宅でもできる気軽なオシャレになっています。しかし自分でやるとなると、「乾くまでに一日を費やしてしまった」「利き手がうまくデザインできなかった」「2〜3日で取れてしまった」ということもしばしば。\n                        "
-                  )
-                ]
-              ),
+              _c("p", { staticClass: "pb-8" }, [
+                _vm._v(
+                  "\n                            ネイルは、今では自宅でもできる気軽なオシャレになっています。しかし自分でやるとなると、「乾くまでに一日を費やしてしまった」「利き手がうまくデザインできなかった」「2〜3日で取れてしまった」ということもしばしば。\n                        "
+                )
+              ]),
               _vm._v(" "),
-              _c(
-                "p",
-                {
-                  staticClass:
-                    "text-13 tracking-wider leading-loose pb-8 text-grey-darkest"
-                },
-                [
-                  _vm._v(
-                    "\n                            その点、サロンで行うネイルは、プロのネイリストの手によるもの。きらびやかなアートやさまざまなカラーにも対応でき、\n                            "
-                  ),
-                  _c("span", { staticClass: "tw-mask" }, [
-                    _vm._v("出来上がりの輝きはバツグン")
-                  ]),
-                  _vm._v(
-                    "\n                            。プロの施術による\n                            "
-                  ),
-                  _c("span", { staticClass: "tw-mask" }, [
-                    _vm._v("ネイルには浮き（剥がれ）がありません。")
-                  ]),
-                  _vm._v(
-                    "\n                            またデコラティブなものはもちろん、シンプルで上品な愛されネイルほど、ネイリストの腕の見せどころ。\n                        "
-                  )
-                ]
-              ),
+              _c("p", { staticClass: "pb-8" }, [
+                _vm._v(
+                  "\n                            その点、サロンで行うネイルは、プロのネイリストの手によるもの。きらびやかなアートやさまざまなカラーにも対応でき、\n                            "
+                ),
+                _c("span", { staticClass: "tw-mask" }, [
+                  _vm._v("出来上がりの輝きはバツグン")
+                ]),
+                _vm._v(
+                  "\n                            。プロの施術による\n                            "
+                ),
+                _c("span", { staticClass: "tw-mask" }, [
+                  _vm._v("ネイルには浮き（剥がれ）がありません。")
+                ]),
+                _vm._v(
+                  "\n                            またデコラティブなものはもちろん、シンプルで上品な愛されネイルほど、ネイリストの腕の見せどころ。\n                        "
+                )
+              ]),
               _vm._v(" "),
-              _c(
-                "p",
-                {
-                  staticClass:
-                    "text-13 tracking-wider leading-loose pb-8 text-grey-darkest"
-                },
-                [
+              _c("p", { staticClass: "pb-8" }, [
+                _vm._v(
+                  "\n                            さらに\n                            "
+                ),
+                _c("span", { staticClass: "tw-mask" }, [
                   _vm._v(
-                    "\n                            さらに\n                            "
-                  ),
-                  _c("span", { staticClass: "tw-mask" }, [
-                    _vm._v(
-                      "1〜2時間という短時間の施術で3〜4週間楽しめるといったモチの良さ"
-                    )
-                  ]),
-                  _vm._v(
-                    "\n                            も、大きな魅力です。\n                        "
+                    "1〜2時間という短時間の施術で3〜4週間楽しめるといったモチの良さ"
                   )
-                ]
-              )
+                ]),
+                _vm._v(
+                  "\n                            も、大きな魅力です。\n                        "
+                )
+              ])
             ])
           ])
         ]),
@@ -48868,43 +48459,29 @@ var staticRenderFns = [
                 ]
               ),
               _vm._v(" "),
-              _c(
-                "p",
-                {
-                  staticClass:
-                    "text-13 tracking-wider leading-loose pb-8 text-grey-darkest"
-                },
-                [
-                  _vm._v(
-                    "\n                            「ネイル＝派手なデザイン」というイメージを持つ方も多いかもしれませんが、ネイルを受ける方には、「爪のケア」を目的とされている方も多くいらっしゃいます。\n                        "
-                  )
-                ]
-              ),
+              _c("p", { staticClass: "pb-8" }, [
+                _vm._v(
+                  "\n                            「ネイル＝派手なデザイン」というイメージを持つ方も多いかもしれませんが、ネイルを受ける方には、「爪のケア」を目的とされている方も多くいらっしゃいます。\n                        "
+                )
+              ]),
               _vm._v(" "),
-              _c(
-                "p",
-                {
-                  staticClass:
-                    "text-13 tracking-wider leading-loose pb-8 text-grey-darkest"
-                },
-                [
-                  _vm._v(
-                    "\n                            カラーリングする前の爪の状態を確認し、甘皮の処理、割れ・欠けなどの爪のトラブルの補修などはもちろん、男爪、鉤爪、巻爪なども、形を整えながら成長させることができ、\n                            "
-                  ),
-                  _c("span", { staticClass: "tw-mask" }, [
-                    _vm._v("キレイな形の爪")
-                  ]),
-                  _vm._v(
-                    "\n                            を作ることができます。短く清潔で自然に見えるネイルをオーダーする方も多く、特にオフィスネイルといったシンプルなデザインに加え爪の保護・補強を目的としたものなど、\n                            "
-                  ),
-                  _c("span", { staticClass: "tw-mask" }, [
-                    _vm._v("ひとりひとりに合わせたケア")
-                  ]),
-                  _vm._v(
-                    "\n                            が行える点もサロンネイルの特徴です。\n                        "
-                  )
-                ]
-              )
+              _c("p", { staticClass: "pb-8" }, [
+                _vm._v(
+                  "\n                            カラーリングする前の爪の状態を確認し、甘皮の処理、割れ・欠けなどの爪のトラブルの補修などはもちろん、男爪、鉤爪、巻爪なども、形を整えながら成長させることができ、\n                            "
+                ),
+                _c("span", { staticClass: "tw-mask" }, [
+                  _vm._v("キレイな形の爪")
+                ]),
+                _vm._v(
+                  "\n                            を作ることができます。短く清潔で自然に見えるネイルをオーダーする方も多く、特にオフィスネイルといったシンプルなデザインに加え爪の保護・補強を目的としたものなど、\n                            "
+                ),
+                _c("span", { staticClass: "tw-mask" }, [
+                  _vm._v("ひとりひとりに合わせたケア")
+                ]),
+                _vm._v(
+                  "\n                            が行える点もサロンネイルの特徴です。\n                        "
+                )
+              ])
             ]),
             _vm._v(" "),
             _c("article", [
@@ -48925,26 +48502,19 @@ var staticRenderFns = [
                 ]
               ),
               _vm._v(" "),
-              _c(
-                "p",
-                {
-                  staticClass:
-                    "text-13 tracking-wider leading-loose pb-8 text-grey-darkest"
-                },
-                [
+              _c("p", { staticClass: "pb-8" }, [
+                _vm._v(
+                  "\n                            また、美しく上品に整えられた指先は、思わぬ効果をもたらすこともあります。たとえば名刺交換の際にふと目に入った指先から話が広がり、リラックスして会議に臨めた、といったことも。\n                            "
+                ),
+                _c("span", { staticClass: "tw-mask" }, [
                   _vm._v(
-                    "\n                            また、美しく上品に整えられた指先は、思わぬ効果をもたらすこともあります。たとえば名刺交換の際にふと目に入った指先から話が広がり、リラックスして会議に臨めた、といったことも。\n                            "
-                  ),
-                  _c("span", { staticClass: "tw-mask" }, [
-                    _vm._v(
-                      "ネイルは人と人とのやわらかなコミュニケーションを生み出すアイテム"
-                    )
-                  ]),
-                  _vm._v(
-                    "\n                            でもあるのです。ぜひみなさんも、自分らしい素敵なネイルライフをお過ごしください！\n                        "
+                    "ネイルは人と人とのやわらかなコミュニケーションを生み出すアイテム"
                   )
-                ]
-              )
+                ]),
+                _vm._v(
+                  "\n                            でもあるのです。ぜひみなさんも、自分らしい素敵なネイルライフをお過ごしください！\n                        "
+                )
+              ])
             ])
           ])
         ])
@@ -49265,18 +48835,11 @@ var staticRenderFns = [
                   )
                 ]),
                 _vm._v(" "),
-                _c(
-                  "p",
-                  {
-                    staticClass:
-                      "text-xs tracking-wider leading-loose text-grey-darker"
-                  },
-                  [
-                    _vm._v(
-                      "\n                            ここでは開店前の作業を行います。ベッドメイキング、お客さまにお渡しするジュースの補充、夜の間に入った予約の確認と予約票の記入、来店されるお客さまのカルテチェックなどを行います。実はNANAの制服は、スタッフみんなで選んでいます！　私服と間違われるくらいかわいいものを選んでいるので、着替えも楽しいです。3ヶ月に1回、季節に合わせて新しい制服に変えるんですが、スタッフのやる気だけじゃなくてお客さまにも好評なので考えがいがあります。\n                        "
-                    )
-                  ]
-                )
+                _c("p", { staticClass: "text-xs" }, [
+                  _vm._v(
+                    "\n                            ここでは開店前の作業を行います。ベッドメイキング、お客さまにお渡しするジュースの補充、夜の間に入った予約の確認と予約票の記入、来店されるお客さまのカルテチェックなどを行います。実はNANAの制服は、スタッフみんなで選んでいます！　私服と間違われるくらいかわいいものを選んでいるので、着替えも楽しいです。3ヶ月に1回、季節に合わせて新しい制服に変えるんですが、スタッフのやる気だけじゃなくてお客さまにも好評なので考えがいがあります。\n                        "
+                  )
+                ])
               ]),
               _vm._v(" "),
               _c("figure", { staticClass: "px-16" }, [
@@ -49328,18 +48891,11 @@ var staticRenderFns = [
                   )
                 ]),
                 _vm._v(" "),
-                _c(
-                  "p",
-                  {
-                    staticClass:
-                      "text-xs tracking-wider leading-loose text-grey-darker"
-                  },
-                  [
-                    _vm._v(
-                      "\n                            開店してお客さまがいらっしゃいます。NANAではスタッフに均等にお客さまが入るようにしているので、誰かだけが忙しいとかはありません。みんな適度な緊張感と思いやりを持って仕事に取り組んでいます。\n                        "
-                    )
-                  ]
-                )
+                _c("p", { staticClass: "text-xs" }, [
+                  _vm._v(
+                    "\n                            開店してお客さまがいらっしゃいます。NANAではスタッフに均等にお客さまが入るようにしているので、誰かだけが忙しいとかはありません。みんな適度な緊張感と思いやりを持って仕事に取り組んでいます。\n                        "
+                  )
+                ])
               ]),
               _vm._v(" "),
               _c("figure", { staticClass: "px-16" }, [
@@ -49391,22 +48947,15 @@ var staticRenderFns = [
                   )
                 ]),
                 _vm._v(" "),
-                _c(
-                  "p",
-                  {
-                    staticClass:
-                      "text-xs tracking-wider leading-loose text-grey-darker"
-                  },
-                  [
-                    _vm._v(
-                      "\n                            みんなが大好きなお弁当が届く時間です！"
-                    ),
-                    _c("br"),
-                    _vm._v(
-                      "\n                            みんなの予約の様子を見ながら、休憩を取ります。\n                        "
-                    )
-                  ]
-                )
+                _c("p", { staticClass: "text-xs" }, [
+                  _vm._v(
+                    "\n                            みんなが大好きなお弁当が届く時間です！"
+                  ),
+                  _c("br"),
+                  _vm._v(
+                    "\n                            みんなの予約の様子を見ながら、休憩を取ります。\n                        "
+                  )
+                ])
               ])
             ])
           ])
@@ -49449,18 +48998,11 @@ var staticRenderFns = [
                   )
                 ]),
                 _vm._v(" "),
-                _c(
-                  "p",
-                  {
-                    staticClass:
-                      "text-xs tracking-wider leading-loose text-grey-darker"
-                  },
-                  [
-                    _vm._v(
-                      "\n                            HotPepperのブログや、インスタの投稿をします。「休みの日にこんなところに行ってきた」とか、「今はこんなキャンペーンをやってます」とか。考えるのは大変だけど、見てくださっているお客さまに喜んでもらえるように工夫しながら書いています。他にも、施術の空いた時間には、口コミの返信や、商品の整理、商材の注文を行ったり、新しいキャンペーン内容を考えたりもします。施術もしながら、考えることもたくさんあります。\n                        "
-                    )
-                  ]
-                )
+                _c("p", { staticClass: "text-xs" }, [
+                  _vm._v(
+                    "\n                            HotPepperのブログや、インスタの投稿をします。「休みの日にこんなところに行ってきた」とか、「今はこんなキャンペーンをやってます」とか。考えるのは大変だけど、見てくださっているお客さまに喜んでもらえるように工夫しながら書いています。他にも、施術の空いた時間には、口コミの返信や、商品の整理、商材の注文を行ったり、新しいキャンペーン内容を考えたりもします。施術もしながら、考えることもたくさんあります。\n                        "
+                  )
+                ])
               ]),
               _vm._v(" "),
               _c("figure", { staticClass: "px-16" }, [
@@ -49528,18 +49070,11 @@ var staticRenderFns = [
                   )
                 ]),
                 _vm._v(" "),
-                _c(
-                  "p",
-                  {
-                    staticClass:
-                      "text-xs tracking-wider leading-loose text-grey-darker"
-                  },
-                  [
-                    _vm._v(
-                      "\n                            日によって時間はまちまちですが、空き時間を活用して新人さんへのレッスンも行います。どんなふうにするとうまく伝えられるのか、考えながら教えていくのは難しいですが、やりがいも大きいですね！\n                        "
-                    )
-                  ]
-                )
+                _c("p", { staticClass: "text-xs" }, [
+                  _vm._v(
+                    "\n                            日によって時間はまちまちですが、空き時間を活用して新人さんへのレッスンも行います。どんなふうにするとうまく伝えられるのか、考えながら教えていくのは難しいですが、やりがいも大きいですね！\n                        "
+                  )
+                ])
               ])
             ])
           ])
@@ -49582,18 +49117,11 @@ var staticRenderFns = [
                   )
                 ]),
                 _vm._v(" "),
-                _c(
-                  "p",
-                  {
-                    staticClass:
-                      "text-xs tracking-wider leading-loose text-grey-darker"
-                  },
-                  [
-                    _vm._v(
-                      "\n                            NANAの最終受付は19:30なので、20:00になったらすぐに締め作業に入ります。終礼はないです。その代わりに今日あったことをカルテに書き込んだり、みんなで話したりします。でも全員ダラダラせずにテキパキと行動するので、20:10には店を出ますね。日によっては、そのままみんなとご飯に行くこともあります。本当にNANAのみんなは仲が良いです！\n                        "
-                    )
-                  ]
-                )
+                _c("p", { staticClass: "text-xs" }, [
+                  _vm._v(
+                    "\n                            NANAの最終受付は19:30なので、20:00になったらすぐに締め作業に入ります。終礼はないです。その代わりに今日あったことをカルテに書き込んだり、みんなで話したりします。でも全員ダラダラせずにテキパキと行動するので、20:10には店を出ますね。日によっては、そのままみんなとご飯に行くこともあります。本当にNANAのみんなは仲が良いです！\n                        "
+                  )
+                ])
               ]),
               _vm._v(" "),
               _c("figure", { staticClass: "px-16" }, [
@@ -49621,7 +49149,7 @@ var staticRenderFns = [
             "span",
             {
               staticClass:
-                "ref-title text-2xl tracking-loose leading-loose border-b-2 border-black"
+                "ref-title text-2xl tracking-loose border-b-2 border-black"
             },
             [_vm._v("ENTRY!")]
           )
@@ -49629,22 +49157,15 @@ var staticRenderFns = [
         _vm._v(" "),
         _c("div", { staticClass: "p-16 bg-teal-lightest lg:w-11/12" }, [
           _c("div", { staticClass: "flex flex-col" }, [
-            _c(
-              "p",
-              {
-                staticClass:
-                  "text-center text-xs tracking-wider leading-loose text-grey-darker pt-4"
-              },
-              [
-                _vm._v(
-                  "\n                        それぞれの個性で “お客様を美しく”。"
-                ),
-                _c("br"),
-                _vm._v(
-                  "\n                        NANAで働きたいという方のご応募を心よりお待ちしております。\n                    "
-                )
-              ]
-            ),
+            _c("p", { staticClass: "text-center pt-4" }, [
+              _vm._v(
+                "\n                        それぞれの個性で “お客様を美しく”。"
+              ),
+              _c("br"),
+              _vm._v(
+                "\n                        NANAで働きたいという方のご応募を心よりお待ちしております。\n                    "
+              )
+            ]),
             _vm._v(" "),
             _c("div", { staticClass: "w-full flex justify-center" }, [
               _c(
@@ -50114,22 +49635,15 @@ var staticRenderFns = [
         _vm._v(" "),
         _c("div", { staticClass: "p-16 bg-teal-lightest lg:w-11/12" }, [
           _c("div", { staticClass: "flex flex-col" }, [
-            _c(
-              "p",
-              {
-                staticClass:
-                  "text-center text-xs tracking-wider leading-loose text-grey-darker pt-4"
-              },
-              [
-                _vm._v(
-                  "\n                        それぞれの個性で “お客様を美しく”。"
-                ),
-                _c("br"),
-                _vm._v(
-                  "\n                        NANAで働きたいという方のご応募を心よりお待ちしております。\n                    "
-                )
-              ]
-            ),
+            _c("p", { staticClass: "text-center pt-4" }, [
+              _vm._v(
+                "\n                        それぞれの個性で “お客様を美しく”。"
+              ),
+              _c("br"),
+              _vm._v(
+                "\n                        NANAで働きたいという方のご応募を心よりお待ちしております。\n                    "
+              )
+            ]),
             _vm._v(" "),
             _c("div", { staticClass: "w-full flex justify-center" }, [
               _c(
@@ -50481,18 +49995,11 @@ var staticRenderFns = [
                   [_vm._v("NANAに入社した理由はなんですか？")]
                 ),
                 _vm._v(" "),
-                _c(
-                  "p",
-                  {
-                    staticClass:
-                      "text-13 tracking-wider leading-loose py-4 text-grey-darkest"
-                  },
-                  [
-                    _vm._v(
-                      "\n                            未経験でも採用してくれる場所を探していたところ、NANAの募集を見かけました。口コミが多かったし、内容も良いものばかりだったので信頼できるお店だ、と思って応募しました。未経験でもお給料が他のお店よりも高かったことも、大きなポイントでしたね。NANAではお弁当が支給されるので、さらにお財布的にとても助かっています！\n                        "
-                    )
-                  ]
-                )
+                _c("p", { staticClass: "py-4" }, [
+                  _vm._v(
+                    "\n                            未経験でも採用してくれる場所を探していたところ、NANAの募集を見かけました。口コミが多かったし、内容も良いものばかりだったので信頼できるお店だ、と思って応募しました。未経験でもお給料が他のお店よりも高かったことも、大きなポイントでしたね。NANAではお弁当が支給されるので、さらにお財布的にとても助かっています！\n                        "
+                  )
+                ])
               ]),
               _vm._v(" "),
               _c("article", { staticClass: "pb-4" }, [
@@ -50509,18 +50016,11 @@ var staticRenderFns = [
                   ]
                 ),
                 _vm._v(" "),
-                _c(
-                  "p",
-                  {
-                    staticClass:
-                      "text-13 tracking-wider leading-loose py-4 text-grey-darkest"
-                  },
-                  [
-                    _vm._v(
-                      "\n                            NANAはひとつ上の先輩が教えるシステムをとっているので、実際に自分が教える側になったときが大変でした。教わっている時は言われたことに注意すればよかったのですが、いざ『技術』を教えるとなると、言葉に落とし込むのが難しかったりします。その分自分でも「どうやってこの作業をしてたっけ？」と考えるキッカケにもなりました。\n                        "
-                    )
-                  ]
-                )
+                _c("p", { staticClass: "py-4" }, [
+                  _vm._v(
+                    "\n                            NANAはひとつ上の先輩が教えるシステムをとっているので、実際に自分が教える側になったときが大変でした。教わっている時は言われたことに注意すればよかったのですが、いざ『技術』を教えるとなると、言葉に落とし込むのが難しかったりします。その分自分でも「どうやってこの作業をしてたっけ？」と考えるキッカケにもなりました。\n                        "
+                  )
+                ])
               ]),
               _vm._v(" "),
               _c("article", { staticClass: "pb-4" }, [
@@ -50532,23 +50032,16 @@ var staticRenderFns = [
                   },
                   [
                     _vm._v(
-                      "\n                            働いていて“楽しい”と感じるのはどんな時ですか？"
+                      "\n                            働いていて“楽しい”と感じるのはどんな時ですか？\n                        "
                     )
                   ]
                 ),
                 _vm._v(" "),
-                _c(
-                  "p",
-                  {
-                    staticClass:
-                      "text-13 tracking-wider leading-loose py-4 text-grey-darkest"
-                  },
-                  [
-                    _vm._v(
-                      "\n                            施術自体が楽しいです！丁寧にお客さまのご要望やイメージにあわせてつけていく時が、本当に楽しい瞬間ですね。\n                        "
-                    )
-                  ]
-                )
+                _c("p", { staticClass: "py-4" }, [
+                  _vm._v(
+                    "\n                            施術自体が楽しいです！丁寧にお客さまのご要望やイメージにあわせてつけていく時が、本当に楽しい瞬間ですね。\n                        "
+                  )
+                ])
               ])
             ])
           ])
@@ -50610,18 +50103,11 @@ var staticRenderFns = [
                   ]
                 ),
                 _vm._v(" "),
-                _c(
-                  "p",
-                  {
-                    staticClass:
-                      "text-13 tracking-wider leading-loose py-4 text-grey-darkest"
-                  },
-                  [
-                    _vm._v(
-                      "\n                            実は採用される前は、お客さま側として通ってたんです。その時から、お店の雰囲気の良さとか、モチの良さとかの技術力の高さとかが気になってました。次に行く店は技術力の高いところがいいと考えてたので、雰囲気なども合わせて考えて、NANAに応募したという感じです。あとは、離職率が低いこととか、立地の良さもポイントでした。\n                        "
-                    )
-                  ]
-                )
+                _c("p", { staticClass: "py-4" }, [
+                  _vm._v(
+                    "\n                            実は採用される前は、お客さま側として通ってたんです。その時から、お店の雰囲気の良さとか、モチの良さとかの技術力の高さとかが気になってました。次に行く店は技術力の高いところがいいと考えてたので、雰囲気なども合わせて考えて、NANAに応募したという感じです。あとは、離職率が低いこととか、立地の良さもポイントでした。\n                        "
+                  )
+                ])
               ]),
               _vm._v(" "),
               _c("article", { staticClass: "pb-4" }, [
@@ -50638,18 +50124,11 @@ var staticRenderFns = [
                   ]
                 ),
                 _vm._v(" "),
-                _c(
-                  "p",
-                  {
-                    staticClass:
-                      "text-13 tracking-wider leading-loose py-4 text-grey-darkest"
-                  },
-                  [
-                    _vm._v(
-                      "\n                            店長だけ、チーフだけ、とかじゃなくて、いろんな人にみてもらえて、その分たくさんの意見を聞けたのは良かったです。人によってやり方とか、使ってるツィザー（ピンセット）の種類とかまで違うので、型にとらわれなくていいんだ！　と思えました。自分の引き出しが増えた感覚です。\n                        "
-                    )
-                  ]
-                )
+                _c("p", { staticClass: "py-4" }, [
+                  _vm._v(
+                    "\n                            店長だけ、チーフだけ、とかじゃなくて、いろんな人にみてもらえて、その分たくさんの意見を聞けたのは良かったです。人によってやり方とか、使ってるツィザー（ピンセット）の種類とかまで違うので、型にとらわれなくていいんだ！　と思えました。自分の引き出しが増えた感覚です。\n                        "
+                  )
+                ])
               ]),
               _vm._v(" "),
               _c("article", { staticClass: "pb-4" }, [
@@ -50666,18 +50145,11 @@ var staticRenderFns = [
                   ]
                 ),
                 _vm._v(" "),
-                _c(
-                  "p",
-                  {
-                    staticClass:
-                      "text-13 tracking-wider leading-loose py-4 text-grey-darkest"
-                  },
-                  [
-                    _vm._v(
-                      "\n                            キレイな仕上がりにできた時です！　やっぱりお客さまに喜んでもらえるのが一番嬉しいです。\n                        "
-                    )
-                  ]
-                )
+                _c("p", { staticClass: "py-4" }, [
+                  _vm._v(
+                    "\n                            キレイな仕上がりにできた時です！　やっぱりお客さまに喜んでもらえるのが一番嬉しいです。\n                        "
+                  )
+                ])
               ])
             ])
           ])
@@ -50737,18 +50209,11 @@ var staticRenderFns = [
                   [_vm._v("NANAに入社した理由はなんですか？")]
                 ),
                 _vm._v(" "),
-                _c(
-                  "p",
-                  {
-                    staticClass:
-                      "text-13 tracking-wider leading-loose py-4 text-grey-darkest"
-                  },
-                  [
-                    _vm._v(
-                      "\n                            美容師免許を持っているので、それを活かしたかったんです。それと、以前は大型チェーン店にいたので、意見とかも通りにくかったり、上下関係に疲れていたりもしました。NANAだと人数も少なくて、社長にもすぐに意見が通る環境だと感じたので応募しました。\n                        "
-                    )
-                  ]
-                )
+                _c("p", { staticClass: "py-4" }, [
+                  _vm._v(
+                    "\n                            美容師免許を持っているので、それを活かしたかったんです。それと、以前は大型チェーン店にいたので、意見とかも通りにくかったり、上下関係に疲れていたりもしました。NANAだと人数も少なくて、社長にもすぐに意見が通る環境だと感じたので応募しました。\n                        "
+                  )
+                ])
               ]),
               _vm._v(" "),
               _c("article", { staticClass: "pb-4" }, [
@@ -50765,18 +50230,11 @@ var staticRenderFns = [
                   ]
                 ),
                 _vm._v(" "),
-                _c(
-                  "p",
-                  {
-                    staticClass:
-                      "text-13 tracking-wider leading-loose py-4 text-grey-darkest"
-                  },
-                  [
-                    _vm._v(
-                      "\n                            NANAは1期上の先輩が後輩を指導することになっているので、その距離感がベストですね。自分が教育係になったときも接しやすいです。歴の長い先輩にはやっぱり相談しにくい部分とかもあるし、逆に自分が先輩になった時に、歴が離れていると言いにくかったりすることも、直接教えている子にそっと伝えてもらうこともできるので。近すぎず遠すぎず、ちょうどいい距離だと思います。\n                        "
-                    )
-                  ]
-                )
+                _c("p", { staticClass: "py-4" }, [
+                  _vm._v(
+                    "\n                            NANAは1期上の先輩が後輩を指導することになっているので、その距離感がベストですね。自分が教育係になったときも接しやすいです。歴の長い先輩にはやっぱり相談しにくい部分とかもあるし、逆に自分が先輩になった時に、歴が離れていると言いにくかったりすることも、直接教えている子にそっと伝えてもらうこともできるので。近すぎず遠すぎず、ちょうどいい距離だと思います。\n                        "
+                  )
+                ])
               ]),
               _vm._v(" "),
               _c("article", { staticClass: "pb-4" }, [
@@ -50793,18 +50251,11 @@ var staticRenderFns = [
                   ]
                 ),
                 _vm._v(" "),
-                _c(
-                  "p",
-                  {
-                    staticClass:
-                      "text-13 tracking-wider leading-loose py-4 text-grey-darkest"
-                  },
-                  [
-                    _vm._v(
-                      "\n                            スタッフ同士の仲がいいんです。嘘みたいに聞こえるかもしれないけど、これは本当で。スタッフ同士で施術し合うことがNANAではできるんですけど、その時に他のチーフや店長から指名されたら「よっしゃ！」と思います。やっぱりみんなそれぞれ技術が高いので、その中から選んでもらえるのは嬉しいです。もちろんそれはお客さまも同じで、「キレイにしてもらってありがとう」とか言っていただくと、頑張ってよかった！って本当に感じます。\n                        "
-                    )
-                  ]
-                )
+                _c("p", { staticClass: "py-4" }, [
+                  _vm._v(
+                    "\n                            スタッフ同士の仲がいいんです。嘘みたいに聞こえるかもしれないけど、これは本当で。スタッフ同士で施術し合うことがNANAではできるんですけど、その時に他のチーフや店長から指名されたら「よっしゃ！」と思います。やっぱりみんなそれぞれ技術が高いので、その中から選んでもらえるのは嬉しいです。もちろんそれはお客さまも同じで、「キレイにしてもらってありがとう」とか言っていただくと、頑張ってよかった！って本当に感じます。\n                        "
+                  )
+                ])
               ])
             ])
           ])
@@ -50866,18 +50317,11 @@ var staticRenderFns = [
                   ]
                 ),
                 _vm._v(" "),
-                _c(
-                  "p",
-                  {
-                    staticClass:
-                      "text-13 tracking-wider leading-loose py-4 text-grey-darkest"
-                  },
-                  [
-                    _vm._v(
-                      "\n                            わたしはオープニングスタッフとして関われる部分が一番大きかったです。すでにやり方があるという場所は経験していたので、次はなにか自分でイチから、プライドを持って『ネイリストの仕事』ができるやりがいがあるなと。次は、離職率が低いところですね。退職するとしても、結婚や出産など、ポジティブな理由が多いことも魅力的でした。あとは、週に4回程度、お昼ご飯用のお弁当を栄養士さんが作って店舗に持ってきてくれるのですが、それも嬉しいポイントでした。\n                        "
-                    )
-                  ]
-                )
+                _c("p", { staticClass: "py-4" }, [
+                  _vm._v(
+                    "\n                            わたしはオープニングスタッフとして関われる部分が一番大きかったです。すでにやり方があるという場所は経験していたので、次はなにか自分でイチから、プライドを持って『ネイリストの仕事』ができるやりがいがあるなと。次は、離職率が低いところですね。退職するとしても、結婚や出産など、ポジティブな理由が多いことも魅力的でした。あとは、週に4回程度、お昼ご飯用のお弁当を栄養士さんが作って店舗に持ってきてくれるのですが、それも嬉しいポイントでした。\n                        "
+                  )
+                ])
               ]),
               _vm._v(" "),
               _c("article", { staticClass: "pb-4" }, [
@@ -50894,18 +50338,11 @@ var staticRenderFns = [
                   ]
                 ),
                 _vm._v(" "),
-                _c(
-                  "p",
-                  {
-                    staticClass:
-                      "text-13 tracking-wider leading-loose py-4 text-grey-darkest"
-                  },
-                  [
-                    _vm._v(
-                      "\n                            丁寧に教えてくれるところは素直にすごいなと思ってます。やり忘れていたこともいつの間にか終わってて、注意されるというよりは“気づかせてくれる”といった感じ。自分で考えて行動するチカラが身につきますね。\n                        "
-                    )
-                  ]
-                )
+                _c("p", { staticClass: "py-4" }, [
+                  _vm._v(
+                    "\n                            丁寧に教えてくれるところは素直にすごいなと思ってます。やり忘れていたこともいつの間にか終わってて、注意されるというよりは“気づかせてくれる”といった感じ。自分で考えて行動するチカラが身につきますね。\n                        "
+                  )
+                ])
               ]),
               _vm._v(" "),
               _c("article", { staticClass: "pb-4" }, [
@@ -50922,18 +50359,11 @@ var staticRenderFns = [
                   ]
                 ),
                 _vm._v(" "),
-                _c(
-                  "p",
-                  {
-                    staticClass:
-                      "text-13 tracking-wider leading-loose py-4 text-grey-darkest"
-                  },
-                  [
-                    _vm._v(
-                      "\n                            お客さまに頼ってもらった時です！「ノープランで来たんですけど」と言われても、「じゃあこうしましょう！」って提案ができて、それを喜んでもらえるんです。お客さまとコミュニケーションを取りながら仕事ができるのは、本当に楽しいです。\n                        "
-                    )
-                  ]
-                )
+                _c("p", { staticClass: "py-4" }, [
+                  _vm._v(
+                    "\n                            お客さまに頼ってもらった時です！「ノープランで来たんですけど」と言われても、「じゃあこうしましょう！」って提案ができて、それを喜んでもらえるんです。お客さまとコミュニケーションを取りながら仕事ができるのは、本当に楽しいです。\n                        "
+                  )
+                ])
               ])
             ])
           ])
@@ -50960,22 +50390,15 @@ var staticRenderFns = [
         _vm._v(" "),
         _c("div", { staticClass: "p-16 bg-teal-lightest lg:w-11/12" }, [
           _c("div", { staticClass: "flex flex-col" }, [
-            _c(
-              "p",
-              {
-                staticClass:
-                  "text-center text-xs tracking-wider leading-loose text-grey-darker pt-4"
-              },
-              [
-                _vm._v(
-                  "\n                        それぞれの個性で “お客様を美しく”。"
-                ),
-                _c("br"),
-                _vm._v(
-                  "\n                        NANAで働きたいという方のご応募を心よりお待ちしております。\n                    "
-                )
-              ]
-            ),
+            _c("p", { staticClass: "text-center pt-4" }, [
+              _vm._v(
+                "\n                        それぞれの個性で “お客様を美しく”。"
+              ),
+              _c("br"),
+              _vm._v(
+                "\n                        NANAで働きたいという方のご応募を心よりお待ちしております。\n                    "
+              )
+            ]),
             _vm._v(" "),
             _c("div", { staticClass: "w-full flex justify-center" }, [
               _c(
@@ -64988,7 +64411,9 @@ window.$ = jquery__WEBPACK_IMPORTED_MODULE_1___default.a;
 
 
 
-aos__WEBPACK_IMPORTED_MODULE_2___default.a.init();
+aos__WEBPACK_IMPORTED_MODULE_2___default.a.init({
+  once: true
+});
 /**
  * We'll load the axios HTTP library which allows us to easily issue requests
  * to our Laravel back-end. This library automatically handles sending the

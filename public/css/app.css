@@ -6505,6 +6505,13 @@ h6 {
   padding: 0;
 }
 
+p {
+  letter-spacing: .15em;
+  line-height: 2;
+  font-size: 13px;
+  color: #3d4852;
+}
+
 [v-cloak] {
   display: none;
 }

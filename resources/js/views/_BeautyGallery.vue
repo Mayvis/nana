@@ -6,6 +6,7 @@
                 <svg width="100%" height="86" class="svg-concept">
                     <text x="50%" y="50%" text-anchor="middle" dominant-baseline="central">BEAUTY × LIFE</text>
                 </svg>
+
                 <p class="text-center">マツエクのある毎日</p>
             </div>
         </section>
@@ -41,7 +42,7 @@
                 </div>
 
                 <div>
-                    <p class="text-center text-13 leading-loose tracking-loose pb-8">
+                    <p class="text-center pb-8">
                         FOLLOW <a href="/" class="hover:text-grey-darker tw-mask">@nana_eyelashsalon !</a>
                     </p>
 
@@ -49,7 +50,7 @@
                 </div>
 
                 <div>
-                    <p class="text-center text-13 leading-loose tracking-loose pb-8">
+                    <p class="text-center pb-8">
                         FOLLOW <a href="/" class="hover:text-grey-darker tw-mask">@nana_nail_lisbon !</a>
                     </p>
 
@@ -61,7 +62,7 @@
         <section class="lg:mb-24 max-w-1000 mx-auto">
             <div class="lg:pt-16">
                 <div class="border-black border flex relative justify-center lg:pt-12">
-                    <p class="absolute flex flex-col text-center p-8 bg-white" style="top: -40px">
+                    <p class="absolute flex flex-col text-center p-8 bg-white" style="top: -45px">
                         <span>NANA INSTAGRAM</span>
 
                         <span class="text-xs text-grey-darkest pt-4">( Instagram へリンクします )</span>
@@ -72,6 +73,7 @@
                     >
                         EYELASH
                     </a>
+
                     <a href="https://www.instagram.com/nana_nail_lisbon/"
                        class="tw-btn inline-block h-50 leading-50 text-xs w-1/4 text-center hover:bg-yellow-lighter lg:m-12"
                     >

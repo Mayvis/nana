@@ -11,7 +11,7 @@
         </section>
 
         <section class="lg:mb-16">
-            <p class="text-center tracking-wider text-black pb-8 text-grey-darker font-fotura font-norma text-xs">
+            <p class="text-center pb-8 font-fotura text-xs">
                 ＊ メニュー・金額は一例です。各メニューの詳細やお得なクーポンはHOTPEPPER Beautyをご確認ください。
             </p>
         </section>
@@ -109,10 +109,10 @@
         <section class="lg:mb-24 max-w-1000 mx-auto">
             <div class="lg:pt-16">
                 <div class="border-black border flex relative justify-center lg:pt-12">
-                    <p class="absolute flex flex-col text-center p-8 bg-white" style="top: -40px">
+                    <p class="absolute flex flex-col text-center p-8 bg-white" style="top: -45px">
                         <span>メニュー＆クーポン一覧</span>
 
-                        <span class="text-xs text-grey-darkest pt-4">( HOTPEPPER Beautyへリンクします )</span>
+                        <span class="text-xs pt-4">( HOTPEPPER Beautyへリンクします )</span>
                     </p>
 
                     <a href="https://beauty.hotpepper.jp/kr/slnH000248220/coupon/"

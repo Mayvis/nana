@@ -18,7 +18,9 @@ window.$ = jquery;
 import AOS from 'aos';
 import 'aos/dist/aos.css';
 
-AOS.init();
+AOS.init({
+    once: true,
+});
 
 /**
  * We'll load the axios HTTP library which allows us to easily issue requests

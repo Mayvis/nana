@@ -5,6 +5,7 @@
                 <li class="flex-1 text-center border-white border-r">
                     <p class="info">RESERVATION：ご予約はこちらから</p>
                 </li>
+
                 <li class="flex-1 border-white border-r list">
                     <a
                         href="https://beauty.hotpepper.jp/CSP/kr/reserve/?storeId=H000248220"
@@ -13,6 +14,7 @@
                         Milano & Le Rochelle
                     </a>
                 </li>
+
                 <li class="flex-1 border-white border-r list">
                     <a
                         href="https://beauty.hotpepper.jp/CSP/kr/reserve/?storeId=H000364510"
@@ -57,7 +59,7 @@
     }
 
     .info {
-        @apply text-white tracking-loose text-sm font-fotura leading-50 block pl-12;
+        @apply text-white text-sm font-fotura leading-50 block pl-12;
     }
     
     .arrow {

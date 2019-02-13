@@ -339,7 +339,7 @@
 
                 <div class="p-16 bg-teal-lightest lg:w-11/12">
                     <div class="flex flex-col">
-                        <p class="text-center text-xs tracking-wider leading-loose text-grey-darker pt-4">
+                        <p class="text-center pt-4">
                             それぞれの個性で “お客様を美しく”。<br>
                             NANAで働きたいという方のご応募を心よりお待ちしております。
                         </p>

@@ -6,6 +6,7 @@
                 <svg width="100%" height="86" class="svg-concept">
                     <text x="50%" y="50%" text-anchor="middle" dominant-baseline="central">SALON</text>
                 </svg>
+
                 <p class="text-center">店舗紹介</p>
             </div>
         </section>
@@ -26,9 +27,11 @@
                     <div class="lg:w-1/2 bg-white p-16 pt-8 border border-blue-darker lg:my-16 lg:mx-8 relative">
                         <h2 class="text-4xl font-bold leading-loosest tracking-loosest text-black text-blue-darker tw-header relative">
                             MILANO</h2>
-                        <p class="text-xs tracking-wider leading-loose text-black pb-8 text-grey-darker">
+
+                        <p class="text-xs pb-8 text-grey-darker">
                             Salon information
                         </p>
+
                         <ul class="text-xs tracking-wider leading-loose text-black pb-8 text-grey-darker">
                             <li>10:00 - 20:00</li>
                             <li>
@@ -70,7 +73,7 @@
                             La Rochelle
                         </h2>
 
-                        <p class="text-xs tracking-wider leading-loose text-black pb-8 text-grey-darker">
+                        <p class="text-xs pb-8 text-grey-darker">
                             Salon information
                         </p>
 
@@ -115,7 +118,7 @@
                             LISBON
                         </h2>
 
-                        <p class="text-xs tracking-wider leading-loose text-black pb-8 text-grey-darker">
+                        <p class="text-xs pb-8 text-grey-darker">
                             Salon information
                         </p>
 
