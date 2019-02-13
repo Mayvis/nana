@@ -6,35 +6,17 @@
                 <svg width="100%" height="86" class="svg-concept">
                     <text x="50%" y="50%" text-anchor="middle" dominant-baseline="central">RECRUIT</text>
                 </svg>
+
                 <p class="text-center">採用情報</p>
             </div>
         </section>
 
-        <section class="lg:mb-24 flex flex-col items-center max-w-1000 mx-auto">
-            <div class="w-3/5 flex">
-                <router-link tag="a" to="/recruit" class="tw-recruit hover:bg-grey-lighter">
-                    NANAでの働きがい
-                </router-link>
-
-                <router-link tag="a" to="/recruit/staff" class="tw-recruit hover:bg-grey-lighter">
-                    先輩スタッフの声
-                </router-link>
-            </div>
-
-            <div class="w-3/5 flex">
-                <router-link tag="a" to="/recruit/day" class="tw-recruit hover:bg-grey-lighter border-b">
-                    スタッフの１日
-                </router-link>
-
-                <router-link tag="a" to="/recruit/hire" class="tw-recruit hover:bg-grey-lighter border-b">
-                    募集要項
-                </router-link>
-            </div>
-        </section>
+        <links></links>
 
         <section class="lg:mb-24 max-w-1000 mx-auto">
             <div class="tw-title text-center relative lg:mb-16">
                 <span class="text-sm tracking-loose font-light absolute sub-title">RECRUIT</span>
+
                 <h2 class="leading-normal font-san tracking-wider text-normal p-8 pt-16">
                     募集要項</h2>
             </div>
@@ -143,63 +125,20 @@
             </div>
         </section>
 
-        <section class="lg:mb-24 flex flex-col items-center max-w-1000 mx-auto">
-            <div class="w-3/5 flex">
-                <router-link tag="a" to="/recruit" class="tw-recruit hover:bg-grey-lighter">
-                    NANAでの働きがい
-                </router-link>
+        <links></links>
 
-                <router-link tag="a" to="/recruit/staff" class="tw-recruit hover:bg-grey-lighter">
-                    先輩スタッフの声
-                </router-link>
-            </div>
-
-            <div class="w-3/5 flex">
-                <router-link tag="a" to="/recruit/day" class="tw-recruit hover:bg-grey-lighter border-b">
-                    スタッフの１日
-                </router-link>
-
-                <router-link tag="a" to="/recruit/hire" class="tw-recruit hover:bg-grey-lighter border-b">
-                    募集要項
-                </router-link>
-            </div>
-        </section>
-
-        <section class="lg:mb-24">
-            <div class="max-w-1200 border-b border-grey pb-4 tw-line relative">
-                <div class="max-w-600">
-                    <ul class="flex justify-center">
-                        <li>
-                            <router-link to="/"
-                                         class="text-xs tracking-wider leading-loose text-grey-darkest hover:text-grey-dark"
-                            >
-                                HOME&nbsp|&nbsp
-                            </router-link>
-                        </li>
-                        <li class="text-xs tracking-wider leading-loose text-grey-darkest">
-                            RECRUIT&nbsp|&nbsp
-                        </li>
-                        <li>
-                            <router-link to="/recruit/hire"
-                                         class="text-xs tracking-wider leading-loose text-teal"
-                            >
-                                募集要項
-                            </router-link>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </section>
+        <breadcrumb name="RECRUIT"></breadcrumb>
 
         <reserve></reserve>
     </div>
 </template>
 
 <script>
+    import links from '../components/recruit/_Links';
+    import breadcrumb from '../components/_Breadcrumb';
+
     export default {
-        created() {
-            // axios
-        }
+        components: {links, breadcrumb},
     }
 </script>
 
@@ -227,14 +166,6 @@
             font-family: "sofia-pro-condensed", sans-serif;
             line-height: 1;
         }
-    }
-
-    .is-exact-active {
-        @apply bg-grey-lighter;
-    }
-
-    .text-teal.is-exact-active {
-        background: inherit;
     }
 
     .tw-recruit {

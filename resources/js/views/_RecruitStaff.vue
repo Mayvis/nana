@@ -11,27 +11,7 @@
             </div>
         </section>
 
-        <section class="lg:mb-24 flex flex-col items-center max-w-1000 mx-auto">
-            <div class="w-3/5 flex">
-                <router-link tag="a" to="/recruit" class="tw-recruit hover:bg-grey-lighter">
-                    NANAでの働きがい
-                </router-link>
-
-                <router-link tag="a" to="/recruit/staff" class="tw-recruit hover:bg-grey-lighter">
-                    先輩スタッフの声
-                </router-link>
-            </div>
-
-            <div class="w-3/5 flex">
-                <router-link tag="a" to="/recruit/day" class="tw-recruit hover:bg-grey-lighter border-b">
-                    スタッフの１日
-                </router-link>
-
-                <router-link tag="a" to="/recruit/hire" class="tw-recruit hover:bg-grey-lighter border-b">
-                    募集要項
-                </router-link>
-            </div>
-        </section>
+        <links></links>
 
         <section class="lg:mb-24">
             <div class="max-w-1000 mx-auto border-b border-grey-light">
@@ -268,63 +248,20 @@
             </div>
         </section>
 
-        <section class="lg:mb-24 flex flex-col items-center max-w-1000 mx-auto">
-            <div class="w-3/5 flex">
-                <router-link tag="a" to="/recruit" class="tw-recruit hover:bg-grey-lighter">
-                    NANAでの働きがい
-                </router-link>
+        <links></links>
 
-                <router-link tag="a" to="/recruit/staff" class="tw-recruit hover:bg-grey-lighter">
-                    先輩スタッフの声
-                </router-link>
-            </div>
-
-            <div class="w-3/5 flex">
-                <router-link tag="a" to="/recruit/day" class="tw-recruit hover:bg-grey-lighter border-b">
-                    スタッフの１日
-                </router-link>
-
-                <router-link tag="a" to="/recruit/hire" class="tw-recruit hover:bg-grey-lighter border-b">
-                    募集要項
-                </router-link>
-            </div>
-        </section>
-
-        <section class="lg:mb-24">
-            <div class="max-w-1200 border-b border-grey pb-4 tw-line relative">
-                <div class="max-w-600">
-                    <ul class="flex justify-center">
-                        <li>
-                            <router-link to="/"
-                                         class="text-xs tracking-wider leading-loose text-grey-darkest hover:text-grey-dark"
-                            >
-                                HOME&nbsp|&nbsp
-                            </router-link>
-                        </li>
-                        <li class="text-xs tracking-wider leading-loose text-grey-darkest">
-                            RECRUIT&nbsp|&nbsp
-                        </li>
-                        <li>
-                            <router-link to="/recruit/staff"
-                                         class="text-xs tracking-wider leading-loose text-teal"
-                            >
-                                先輩スタッフの声
-                            </router-link>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </section>
+        <breadcrumb name="RECRUIT"></breadcrumb>
 
         <reserve></reserve>
     </div>
 </template>
 
 <script>
+    import links from '../components/recruit/_Links';
+    import breadcrumb from '../components/_Breadcrumb';
+
     export default {
-        created() {
-            // axios
-        }
+        components: {links, breadcrumb},
     }
 </script>
 
@@ -352,14 +289,6 @@
             font-family: "sofia-pro-condensed", sans-serif;
             line-height: 1;
         }
-    }
-
-    .is-exact-active {
-        @apply bg-grey-lighter;
-    }
-
-    .text-teal.is-exact-active {
-        background: inherit;
     }
 
     .tw-recruit {
