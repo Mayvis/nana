@@ -6,31 +6,12 @@
                 <svg width="100%" height="86" class="svg-concept">
                     <text x="50%" y="50%" text-anchor="middle" dominant-baseline="central">BEAUTY × LIFE</text>
                 </svg>
+
                 <p class="text-center">マツエクのある毎日</p>
             </div>
         </section>
 
-        <section class="lg:mb-24 flex flex-col items-center max-w-1000 mx-auto">
-            <div class="w-3/5 flex">
-                <router-link tag="a" to="/beauty" class="tw-link-group hover:bg-grey-lighter">
-                    マツエクのある毎日
-                </router-link>
-
-                <router-link tag="a" to="/beauty/care" class="tw-link-group hover:bg-grey-lighter">
-                    マツエクのお手入れ方法
-                </router-link>
-            </div>
-
-            <div class="w-3/5 flex">
-                <router-link tag="a" to="/beauty/life" class="tw-link-group hover:bg-grey-lighter border-b">
-                    ネイルのある毎日
-                </router-link>
-
-                <router-link tag="a" to="/beauty/gallery" class="tw-link-group hover:bg-grey-lighter border-b">
-                    お客様 × NANA
-                </router-link>
-            </div>
-        </section>
+        <links></links>
 
         <!--   01    -->
         <section class="lg:mb-24">
@@ -38,6 +19,7 @@
 
                 <div class="tw-title text-center relative lg:mb-16">
                     <span class="text-350 absolute sub-title">01</span>
+
                     <h2 class="leading-normal font-san p-8">マツエクは、オンナノコの『ラク』を作ってくれる</h2>
                 </div>
 
@@ -48,7 +30,7 @@
 
                     <div class="lg:w-2/3 sm:w-full pl-8 lg:mb-16">
                         <article>
-                            <h3 class="text-teal tracking-wide leading-loose text-base pb-6">
+                            <h3 class="pb-6">
                                 すっぴんはもう怖くない！<br>
                                 海水浴も野外ライブも、マツエクで楽しもう。
                             </h3>
@@ -61,7 +43,7 @@
                         </article>
 
                         <article>
-                            <h3 class="text-teal tracking-wide leading-loose text-base pb-6">
+                            <h3 class="pb-6">
                                 ナチュラルな目元をキープ。朝のメイク時間をもっとラクに。
                             </h3>
 
@@ -262,7 +244,7 @@
 
                     <div class="lg:w-2/3 sm:w-full pr-8">
                         <article>
-                            <h3 class="text-teal tracking-wide leading-loose text-base pb-6">
+                            <h3 class="pb-6">
                                 いつでも可愛く、いつでもキレイ。<br>
                                 少しの自信が、体を内側から元気にする。
                             </h3>
@@ -279,7 +261,7 @@
                         </article>
 
                         <article>
-                            <h3 class="text-teal tracking-wide leading-loose text-base pb-6">
+                            <h3 class="pb-6">
                                 仕事も人間関係も、もっとスムーズに。<br>
                                 マツエクは、心から美人になれる原動力。
                             </h3>
@@ -325,63 +307,20 @@
             </div>
         </section>
 
-        <section class="lg:mb-24 flex flex-col items-center max-w-1000 mx-auto">
-            <div class="w-3/5 flex">
-                <router-link tag="a" to="/beauty" class="tw-link-group hover:bg-grey-lighter">
-                    マツエクのある毎日
-                </router-link>
+        <links></links>
 
-                <router-link tag="a" to="/beauty/care" class="tw-link-group hover:bg-grey-lighter">
-                    マツエクのお手入れ方法
-                </router-link>
-            </div>
-
-            <div class="w-3/5 flex">
-                <router-link tag="a" to="/beauty/life" class="tw-link-group hover:bg-grey-lighter border-b">
-                    ネイルのある毎日
-                </router-link>
-
-                <router-link tag="a" to="/beauty/gallery" class="tw-link-group hover:bg-grey-lighter border-b">
-                    お客様 × NANA
-                </router-link>
-            </div>
-        </section>
-
-        <section class="lg:mb-24">
-            <div class="max-w-1200 border-b border-grey pb-4 tw-line relative">
-                <div class="max-w-600">
-                    <ul class="flex justify-center">
-                        <li>
-                            <router-link to="/"
-                                         class="text-xs tracking-wider leading-loose text-grey-darkest hover:text-grey-dark"
-                            >
-                                HOME&nbsp|&nbsp
-                            </router-link>
-                        </li>
-                        <li class="text-xs tracking-wider leading-loose text-grey-darkest">
-                            BEAUTY & LIFE&nbsp|&nbsp
-                        </li>
-                        <li>
-                            <router-link to="/beauty"
-                                         class="text-xs tracking-wider leading-loose text-teal"
-                            >
-                                マツエクのある毎日
-                            </router-link>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </section>
+        <breadcrumb></breadcrumb>
 
         <reserve></reserve>
     </div>
 </template>
 
 <script>
+    import links from '../components/beauty/_Links';
+    import breadcrumb from '../components/_Breadcrumb';
+
     export default {
-        created() {
-            // axios
-        }
+        components: {links, breadcrumb},
     }
 </script>
 
@@ -408,29 +347,6 @@
             stroke-linejoin: round;
             font-family: "sofia-pro-condensed", sans-serif;
             line-height: 1;
-        }
-    }
-
-    .is-exact-active {
-        @apply bg-grey-lighter;
-    }
-
-    .text-teal.is-exact-active {
-        background: inherit;
-    }
-
-    .tw-link-group {
-        @apply w-1/2 p-8 border-t border-grey-light mr-4 text-sm text-grey-darkest relative;
-
-        &:after {
-            content: '';
-            position: absolute;
-            background: url('/icon/harpoon.png') right center/12px 4px no-repeat;
-            width: 20px;
-            height: 4px;
-            right: 8px;
-            top: 50%;
-            transform: translateY(-50%);
         }
     }
 

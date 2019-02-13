@@ -11,33 +11,14 @@
             </div>
         </section>
 
-        <section class="lg:mb-24 flex flex-col items-center max-w-1000 mx-auto">
-            <div class="w-3/5 flex">
-                <router-link tag="a" to="/beauty" class="tw-link-group hover:bg-grey-lighter">
-                    マツエクのある毎日
-                </router-link>
-
-                <router-link tag="a" to="/beauty/care" class="tw-link-group hover:bg-grey-lighter">
-                    マツエクのお手入れ方法
-                </router-link>
-            </div>
-
-            <div class="w-3/5 flex">
-                <router-link tag="a" to="/beauty/life" class="tw-link-group hover:bg-grey-lighter border-b">
-                    ネイルのある毎日
-                </router-link>
-
-                <router-link tag="a" to="/beauty/gallery" class="tw-link-group hover:bg-grey-lighter border-b">
-                    お客様 × NANA
-                </router-link>
-            </div>
-        </section>
+        <links></links>
 
         <section class="lg:mb-24">
             <div class="max-w-1000 mx-auto">
 
                 <div class="tw-title text-center relative lg:mb-16">
                     <span class="font-fotura leading-loose tracking-loose absolute sub-title font-sm">EYELASH CARE</span>
+
                     <h2 class="leading-normal font-san p-8 pt-12">“非常に便利なマツエクですが、お手入れには注意が必要な点もあります。</h2>
                 </div>
 
@@ -57,10 +38,10 @@
                                 <img src="/icon/decoration_3.png" alt="オイルクレンジングは使用しない" width="46" height="92">
                             </figure>
 
-                            <article class="leading-loose tracking-loose">
-                                <h3>オイルクレンジングは使用しない</h3>
+                            <article>
+                                <h3 class="text-grey-darkest">オイルクレンジングは使用しない</h3>
 
-                                <span class="block py-4 font-fotura">No Cleansing Oil</span>
+                                <span class="block py-4 font-fotura leading-loose tracking-loose">No Cleansing Oil</span>
 
                                 <p class="pb-8">
                                     接着剤であるグルーには油分・水分に弱い性質があります。オイルタイプを使用すると接着剤が分解してしまうおそれがあるため基本は
@@ -75,10 +56,10 @@
                                 <img src="/icon/decoration_4.png" alt="優しく乾かす" width="93" height="67">
                             </figure>
 
-                            <article class="leading-loose tracking-loose">
-                                <h3>優しく乾かす</h3>
+                            <article>
+                                <h3 class="text-grey-darkest">優しく乾かす</h3>
 
-                                <span class="block py-4 font-fotura">Dry Gently</span>
+                                <span class="block py-4 font-fotura leading-loose tracking-loose">Dry Gently</span>
 
                                 <p class="pb-8">
                                     マツエクは非常にデリケートです。洗顔後にタオルで強くこすったりせず、
@@ -95,10 +76,10 @@
                                 <img src="/icon/decoration_3.png" alt="オイルクレンジングは使用しない" width="46" height="92">
                             </figure>
 
-                            <article class="leading-loose tracking-loose">
-                                <h3>コーム・美容液などでお手入れしよう</h3>
+                            <article>
+                                <h3 class="text-grey-darkest">コーム・美容液などでお手入れしよう</h3>
 
-                                <span class="block py-4 font-fotura">Comb & Essence</span>
+                                <span class="block py-4 font-fotura leading-loose tracking-loose">Comb & Essence</span>
 
                                 <p class="pb-8">
                                     まつ毛専用のコームや美容液があります。髪などと同様にきちんと
@@ -113,10 +94,10 @@
                                 <img src="/icon/decoration_4.png" alt="優しく乾かす" width="93" height="67">
                             </figure>
 
-                            <article class="leading-loose tracking-loose">
-                                <h3>リペアのサイクルを作ろう</h3>
+                            <article>
+                                <h3 class="text-grey-darkest">リペアのサイクルを作ろう</h3>
 
-                                <span class="block py-4 font-fotura">Repair Cycle</span>
+                                <span class="block py-4 font-fotura leading-loose tracking-loose">Repair Cycle</span>
 
                                 <p class="pb-8">
                                     日々まつ毛も生まれ変わります。NANAのマツエクのモチはおおよそ1.5ヶ月と長めですが、
@@ -131,63 +112,20 @@
             </div>
         </section>
 
-        <section class="lg:mb-24 flex flex-col items-center max-w-1000 mx-auto">
-            <div class="w-3/5 flex">
-                <router-link tag="a" to="/beauty" class="tw-link-group hover:bg-grey-lighter">
-                    マツエクのある毎日
-                </router-link>
+        <links></links>
 
-                <router-link tag="a" to="/beauty/care" class="tw-link-group hover:bg-grey-lighter">
-                    マツエクのお手入れ方法
-                </router-link>
-            </div>
-
-            <div class="w-3/5 flex">
-                <router-link tag="a" to="/beauty/life" class="tw-link-group hover:bg-grey-lighter border-b">
-                    ネイルのある毎日
-                </router-link>
-
-                <router-link tag="a" to="/beauty/gallery" class="tw-link-group hover:bg-grey-lighter border-b">
-                    お客様 × NANA
-                </router-link>
-            </div>
-        </section>
-
-        <section class="lg:mb-24">
-            <div class="max-w-1200 border-b border-grey pb-4 tw-line relative">
-                <div class="max-w-600">
-                    <ul class="flex justify-center">
-                        <li>
-                            <router-link to="/"
-                                         class="text-xs tracking-wider leading-loose text-grey-darkest hover:text-grey-dark"
-                            >
-                                HOME&nbsp|&nbsp
-                            </router-link>
-                        </li>
-                        <li class="text-xs tracking-wider leading-loose text-grey-darkest">
-                            BEAUTY & LIFE&nbsp|&nbsp
-                        </li>
-                        <li>
-                            <router-link to="/beauty/life"
-                                         class="text-xs tracking-wider leading-loose text-teal"
-                            >
-                                ネイルのある毎日
-                            </router-link>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </section>
+        <breadcrumb name="BEAUTY & LIFE"></breadcrumb>
 
         <reserve></reserve>
     </div>
 </template>
 
 <script>
+    import links from '../components/beauty/_Links';
+    import breadcrumb from '../components/_Breadcrumb';
+
     export default {
-        created() {
-            // axios
-        }
+        components: {breadcrumb, links},
     }
 </script>
 
@@ -214,29 +152,6 @@
             stroke-linejoin: round;
             font-family: "sofia-pro-condensed", sans-serif;
             line-height: 1;
-        }
-    }
-
-    .is-exact-active {
-        @apply bg-grey-lighter;
-    }
-
-    .text-teal.is-exact-active {
-        background: inherit;
-    }
-
-    .tw-link-group {
-        @apply w-1/2 p-8 border-t border-grey-light mr-4 text-sm text-grey-darkest relative;
-
-        &:after {
-            content: '';
-            position: absolute;
-            background: url('/icon/harpoon.png') right center/12px 4px no-repeat;
-            width: 20px;
-            height: 4px;
-            right: 8px;
-            top: 50%;
-            transform: translateY(-50%);
         }
     }
 
