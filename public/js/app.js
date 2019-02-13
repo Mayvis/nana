@@ -1841,6 +1841,37 @@ __webpack_require__.r(__webpack_exports__);
 
 /***/ }),
 
+/***/ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/HeroBg.vue?vue&type=script&lang=js&":
+/*!*****************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib??ref--4-0!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/HeroBg.vue?vue&type=script&lang=js& ***!
+  \*****************************************************************************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+/* harmony default export */ __webpack_exports__["default"] = ({});
+
+/***/ }),
+
 /***/ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/Info.vue?vue&type=script&lang=js&":
 /*!***************************************************************************************************************************************************************!*\
   !*** ./node_modules/babel-loader/lib??ref--4-0!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/Info.vue?vue&type=script&lang=js& ***!
@@ -2165,7 +2196,7 @@ __webpack_require__.r(__webpack_exports__);
 
 /***/ }),
 
-/***/ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/_collection.vue?vue&type=script&lang=js&":
+/***/ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/_Collection.vue?vue&type=script&lang=js&":
 /*!**********************************************************************************************************************************************************************!*\
   !*** ./node_modules/babel-loader/lib??ref--4-0!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/_Collection.vue?vue&type=script&lang=js& ***!
   \**********************************************************************************************************************************************************************/
@@ -3021,6 +3052,7 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
 /* harmony default export */ __webpack_exports__["default"] = ({
   created: function created() {// axios
   }
@@ -3407,6 +3439,7 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
+//
 //
 //
 //
@@ -4788,7 +4821,6 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
-//
 /* harmony default export */ __webpack_exports__["default"] = ({
   created: function created() {// axios
   }
@@ -4947,7 +4979,7 @@ __webpack_require__.r(__webpack_exports__);
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _components_beauty_Links__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../components/beauty/_Links */ "./resources/js/components/beauty/_Links.vue");
-/* harmony import */ var _components_collection__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../components/_collection */ "./resources/js/components/_Collection.vue");
+/* harmony import */ var _components_Collection__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../components/_Collection */ "./resources/js/components/_Collection.vue");
 //
 //
 //
@@ -5027,7 +5059,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony default export */ __webpack_exports__["default"] = ({
   components: {
     links: _components_beauty_Links__WEBPACK_IMPORTED_MODULE_0__["default"],
-    collection: _components_collection__WEBPACK_IMPORTED_MODULE_1__["default"]
+    collection: _components_Collection__WEBPACK_IMPORTED_MODULE_1__["default"]
   }
 });
 
@@ -5985,6 +6017,25 @@ exports.push([module.i, ".fade.main-carousel {\n  width: 1100px;\n}\n.fade .caro
 
 /***/ }),
 
+/***/ "./node_modules/css-loader/index.js!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/lib/loader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/HeroBg.vue?vue&type=style&index=0&id=403b2eec&scoped=true&lang=scss&":
+/*!******************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src??ref--7-2!./node_modules/sass-loader/lib/loader.js??ref--7-3!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/HeroBg.vue?vue&type=style&index=0&id=403b2eec&scoped=true&lang=scss& ***!
+  \******************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loader/lib/css-base.js */ "./node_modules/css-loader/lib/css-base.js")(false);
+// imports
+
+
+// module
+exports.push([module.i, ".tw-hero[data-v-403b2eec] {\n  height: 360px;\n  margin-top: -165px;\n}\n.svg-concept[data-v-403b2eec] {\n  overflow: visible;\n  height: 86px;\n  margin-top: -30px;\n  font-family: \"sofia-pro-condensed\", sans-serif;\n  font-size: 86px;\n  line-height: 1;\n  letter-spacing: .2em;\n}\n.svg-concept text[data-v-403b2eec] {\n  fill: rgba(255, 255, 255, 0);\n  stroke: #333;\n  stroke-width: .8;\n  stroke-linejoin: round;\n  font-family: \"sofia-pro-condensed\", sans-serif;\n  line-height: 1;\n}\n", ""]);
+
+// exports
+
+
+/***/ }),
+
 /***/ "./node_modules/css-loader/index.js!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/lib/loader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/Info.vue?vue&type=style&index=0&id=a38a56ce&scoped=true&lang=scss&":
 /*!****************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
   !*** ./node_modules/css-loader!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src??ref--7-2!./node_modules/sass-loader/lib/loader.js??ref--7-3!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/Info.vue?vue&type=style&index=0&id=a38a56ce&scoped=true&lang=scss& ***!
@@ -6092,7 +6143,7 @@ exports = module.exports = __webpack_require__(/*! ../../../../node_modules/css-
 
 
 // module
-exports.push([module.i, "[data-aos=fill-animation][data-v-920bb058] {\n  fill: #c3b282;\n  transition-property: fill;\n}\n[data-aos=fill-animation].aos-animate[data-v-920bb058] {\n  fill: transparent;\n}\n.line-1[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-1-data-v-920bb058 .8s linear .61s;\n          animation: bump-1-data-v-920bb058 .8s linear .61s;\n}\n@-webkit-keyframes bump-1-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 16px;\n    left: 7px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 61px;\n    left: 19px;\n}\n100% {\n    background-color: transparent;\n    bottom: 19px;\n    left: 5px;\n}\n}\n@keyframes bump-1-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 16px;\n    left: 7px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 61px;\n    left: 19px;\n}\n100% {\n    background-color: transparent;\n    bottom: 19px;\n    left: 5px;\n}\n}\n.line-2[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-2-data-v-920bb058 .8s linear .62s;\n          animation: bump-2-data-v-920bb058 .8s linear .62s;\n}\n@-webkit-keyframes bump-2-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 3px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 1px;\n    left: 18px;\n}\n100% {\n    background-color: transparent;\n    bottom: 26px;\n    left: 2px;\n}\n}\n@keyframes bump-2-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 3px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 1px;\n    left: 18px;\n}\n100% {\n    background-color: transparent;\n    bottom: 26px;\n    left: 2px;\n}\n}\n.line-3[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-3-data-v-920bb058 .8s linear .63s;\n          animation: bump-3-data-v-920bb058 .8s linear .63s;\n}\n@-webkit-keyframes bump-3-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 42px;\n    left: 8px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 39px;\n    left: 2px;\n}\n100% {\n    background-color: transparent;\n    bottom: 6px;\n    left: 4px;\n}\n}\n@keyframes bump-3-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 42px;\n    left: 8px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 39px;\n    left: 2px;\n}\n100% {\n    background-color: transparent;\n    bottom: 6px;\n    left: 4px;\n}\n}\n.line-4[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-4-data-v-920bb058 .8s linear .64s;\n          animation: bump-4-data-v-920bb058 .8s linear .64s;\n}\n@-webkit-keyframes bump-4-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 17px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 46px;\n    left: 5px;\n}\n100% {\n    background-color: transparent;\n    bottom: 35px;\n    left: 2px;\n}\n}\n@keyframes bump-4-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 17px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 46px;\n    left: 5px;\n}\n100% {\n    background-color: transparent;\n    bottom: 35px;\n    left: 2px;\n}\n}\n.line-5[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-5-data-v-920bb058 .8s linear .65s;\n          animation: bump-5-data-v-920bb058 .8s linear .65s;\n}\n@-webkit-keyframes bump-5-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 14px;\n    left: 10px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 52px;\n    left: 7px;\n}\n100% {\n    background-color: transparent;\n    bottom: 41px;\n    left: 2px;\n}\n}\n@keyframes bump-5-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 14px;\n    left: 10px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 52px;\n    left: 7px;\n}\n100% {\n    background-color: transparent;\n    bottom: 41px;\n    left: 2px;\n}\n}\n.line-6[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-6-data-v-920bb058 .8s linear .66s;\n          animation: bump-6-data-v-920bb058 .8s linear .66s;\n}\n@-webkit-keyframes bump-6-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 17px;\n    left: 10px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 32px;\n    left: 15px;\n}\n100% {\n    background-color: transparent;\n    bottom: 39px;\n    left: 7px;\n}\n}\n@keyframes bump-6-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 17px;\n    left: 10px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 32px;\n    left: 15px;\n}\n100% {\n    background-color: transparent;\n    bottom: 39px;\n    left: 7px;\n}\n}\n.line-7[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-7-data-v-920bb058 .8s linear .67s;\n          animation: bump-7-data-v-920bb058 .8s linear .67s;\n}\n@-webkit-keyframes bump-7-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 37px;\n    left: 3px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 71px;\n    left: 5px;\n}\n100% {\n    background-color: transparent;\n    bottom: 12px;\n    left: 4px;\n}\n}\n@keyframes bump-7-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 37px;\n    left: 3px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 71px;\n    left: 5px;\n}\n100% {\n    background-color: transparent;\n    bottom: 12px;\n    left: 4px;\n}\n}\n.line-8[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-8-data-v-920bb058 .8s linear .68s;\n          animation: bump-8-data-v-920bb058 .8s linear .68s;\n}\n@-webkit-keyframes bump-8-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 55px;\n    left: 6px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 80px;\n    left: 18px;\n}\n100% {\n    background-color: transparent;\n    bottom: 56px;\n    left: 4px;\n}\n}\n@keyframes bump-8-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 55px;\n    left: 6px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 80px;\n    left: 18px;\n}\n100% {\n    background-color: transparent;\n    bottom: 56px;\n    left: 4px;\n}\n}\n.line-9[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-9-data-v-920bb058 .8s linear .69s;\n          animation: bump-9-data-v-920bb058 .8s linear .69s;\n}\n@-webkit-keyframes bump-9-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 22px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 65px;\n    left: 9px;\n}\n100% {\n    background-color: transparent;\n    bottom: 20px;\n    left: 7px;\n}\n}\n@keyframes bump-9-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 22px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 65px;\n    left: 9px;\n}\n100% {\n    background-color: transparent;\n    bottom: 20px;\n    left: 7px;\n}\n}\n.line-10[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-10-data-v-920bb058 .8s linear .61s;\n          animation: bump-10-data-v-920bb058 .8s linear .61s;\n}\n@-webkit-keyframes bump-10-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 12px;\n    left: 7px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 18px;\n    left: 6px;\n}\n100% {\n    background-color: transparent;\n    bottom: 55px;\n    left: 10px;\n}\n}\n@keyframes bump-10-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 12px;\n    left: 7px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 18px;\n    left: 6px;\n}\n100% {\n    background-color: transparent;\n    bottom: 55px;\n    left: 10px;\n}\n}\n.line-11[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-11-data-v-920bb058 .8s linear .611s;\n          animation: bump-11-data-v-920bb058 .8s linear .611s;\n}\n@-webkit-keyframes bump-11-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 17px;\n    left: 5px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 75px;\n    left: 4px;\n}\n100% {\n    background-color: transparent;\n    bottom: 59px;\n    left: 2px;\n}\n}\n@keyframes bump-11-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 17px;\n    left: 5px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 75px;\n    left: 4px;\n}\n100% {\n    background-color: transparent;\n    bottom: 59px;\n    left: 2px;\n}\n}\n.line-12[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-12-data-v-920bb058 .8s linear .612s;\n          animation: bump-12-data-v-920bb058 .8s linear .612s;\n}\n@-webkit-keyframes bump-12-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 27px;\n    left: 5px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 3px;\n    left: 3px;\n}\n100% {\n    background-color: transparent;\n    bottom: 57px;\n    left: 10px;\n}\n}\n@keyframes bump-12-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 27px;\n    left: 5px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 3px;\n    left: 3px;\n}\n100% {\n    background-color: transparent;\n    bottom: 57px;\n    left: 10px;\n}\n}\n.line-13[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-13-data-v-920bb058 .8s linear .613s;\n          animation: bump-13-data-v-920bb058 .8s linear .613s;\n}\n@-webkit-keyframes bump-13-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 38px;\n    left: 6px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 45px;\n    left: 14px;\n}\n100% {\n    background-color: transparent;\n    bottom: 21px;\n    left: 1px;\n}\n}\n@keyframes bump-13-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 38px;\n    left: 6px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 45px;\n    left: 14px;\n}\n100% {\n    background-color: transparent;\n    bottom: 21px;\n    left: 1px;\n}\n}\n.line-14[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-14-data-v-920bb058 .8s linear .614s;\n          animation: bump-14-data-v-920bb058 .8s linear .614s;\n}\n@-webkit-keyframes bump-14-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 9px;\n    left: 5px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 18px;\n    left: 16px;\n}\n100% {\n    background-color: transparent;\n    bottom: 27px;\n    left: 6px;\n}\n}\n@keyframes bump-14-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 9px;\n    left: 5px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 18px;\n    left: 16px;\n}\n100% {\n    background-color: transparent;\n    bottom: 27px;\n    left: 6px;\n}\n}\n.line-15[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-15-data-v-920bb058 .8s linear .615s;\n          animation: bump-15-data-v-920bb058 .8s linear .615s;\n}\n@-webkit-keyframes bump-15-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 20px;\n    left: 8px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 42px;\n    left: 15px;\n}\n100% {\n    background-color: transparent;\n    bottom: 37px;\n    left: 6px;\n}\n}\n@keyframes bump-15-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 20px;\n    left: 8px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 42px;\n    left: 15px;\n}\n100% {\n    background-color: transparent;\n    bottom: 37px;\n    left: 6px;\n}\n}\n.line-16[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-16-data-v-920bb058 .8s linear .616s;\n          animation: bump-16-data-v-920bb058 .8s linear .616s;\n}\n@-webkit-keyframes bump-16-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 34px;\n    left: 4px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 76px;\n    left: 17px;\n}\n100% {\n    background-color: transparent;\n    bottom: 9px;\n    left: 2px;\n}\n}\n@keyframes bump-16-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 34px;\n    left: 4px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 76px;\n    left: 17px;\n}\n100% {\n    background-color: transparent;\n    bottom: 9px;\n    left: 2px;\n}\n}\n.line-17[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-17-data-v-920bb058 .8s linear .617s;\n          animation: bump-17-data-v-920bb058 .8s linear .617s;\n}\n@-webkit-keyframes bump-17-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 13px;\n    left: 8px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 52px;\n    left: 15px;\n}\n100% {\n    background-color: transparent;\n    bottom: 17px;\n    left: 10px;\n}\n}\n@keyframes bump-17-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 13px;\n    left: 8px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 52px;\n    left: 15px;\n}\n100% {\n    background-color: transparent;\n    bottom: 17px;\n    left: 10px;\n}\n}\n.line-18[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-18-data-v-920bb058 .8s linear .618s;\n          animation: bump-18-data-v-920bb058 .8s linear .618s;\n}\n@-webkit-keyframes bump-18-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 41px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 6px;\n    left: 15px;\n}\n100% {\n    background-color: transparent;\n    bottom: 20px;\n    left: 3px;\n}\n}\n@keyframes bump-18-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 41px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 6px;\n    left: 15px;\n}\n100% {\n    background-color: transparent;\n    bottom: 20px;\n    left: 3px;\n}\n}\n.line-19[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-19-data-v-920bb058 .8s linear .819s;\n          animation: bump-19-data-v-920bb058 .8s linear .819s;\n}\n@-webkit-keyframes bump-19-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 60px;\n    left: 2px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 42px;\n    left: 5px;\n}\n100% {\n    background-color: transparent;\n    bottom: 27px;\n    left: 1px;\n}\n}\n@keyframes bump-19-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 60px;\n    left: 2px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 42px;\n    left: 5px;\n}\n100% {\n    background-color: transparent;\n    bottom: 27px;\n    left: 1px;\n}\n}\n.line-20[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-20-data-v-920bb058 .8s linear .82s;\n          animation: bump-20-data-v-920bb058 .8s linear .82s;\n}\n@-webkit-keyframes bump-20-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 38px;\n    left: 3px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 69px;\n    left: 4px;\n}\n100% {\n    background-color: transparent;\n    bottom: 49px;\n    left: 8px;\n}\n}\n@keyframes bump-20-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 38px;\n    left: 3px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 69px;\n    left: 4px;\n}\n100% {\n    background-color: transparent;\n    bottom: 49px;\n    left: 8px;\n}\n}\n.line-21[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-21-data-v-920bb058 .8s linear .821s;\n          animation: bump-21-data-v-920bb058 .8s linear .821s;\n}\n@-webkit-keyframes bump-21-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 48px;\n    left: 8px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 3px;\n    left: 13px;\n}\n100% {\n    background-color: transparent;\n    bottom: 45px;\n    left: 10px;\n}\n}\n@keyframes bump-21-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 48px;\n    left: 8px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 3px;\n    left: 13px;\n}\n100% {\n    background-color: transparent;\n    bottom: 45px;\n    left: 10px;\n}\n}\n.line-22[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-22-data-v-920bb058 .8s linear .822s;\n          animation: bump-22-data-v-920bb058 .8s linear .822s;\n}\n@-webkit-keyframes bump-22-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 36px;\n    left: 8px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 4px;\n    left: 19px;\n}\n100% {\n    background-color: transparent;\n    bottom: 33px;\n    left: 8px;\n}\n}\n@keyframes bump-22-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 36px;\n    left: 8px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 4px;\n    left: 19px;\n}\n100% {\n    background-color: transparent;\n    bottom: 33px;\n    left: 8px;\n}\n}\n.line-23[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-23-data-v-920bb058 .8s linear .823s;\n          animation: bump-23-data-v-920bb058 .8s linear .823s;\n}\n@-webkit-keyframes bump-23-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 58px;\n    left: 3px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 10px;\n    left: 6px;\n}\n100% {\n    background-color: transparent;\n    bottom: 46px;\n    left: 4px;\n}\n}\n@keyframes bump-23-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 58px;\n    left: 3px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 10px;\n    left: 6px;\n}\n100% {\n    background-color: transparent;\n    bottom: 46px;\n    left: 4px;\n}\n}\n.line-24[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-24-data-v-920bb058 .8s linear .824s;\n          animation: bump-24-data-v-920bb058 .8s linear .824s;\n}\n@-webkit-keyframes bump-24-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 50px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 36px;\n    left: 11px;\n}\n100% {\n    background-color: transparent;\n    bottom: 25px;\n    left: 6px;\n}\n}\n@keyframes bump-24-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 50px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 36px;\n    left: 11px;\n}\n100% {\n    background-color: transparent;\n    bottom: 25px;\n    left: 6px;\n}\n}\n.line-25[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-25-data-v-920bb058 .8s linear .825s;\n          animation: bump-25-data-v-920bb058 .8s linear .825s;\n}\n@-webkit-keyframes bump-25-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 41px;\n    left: 6px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 79px;\n    left: 1px;\n}\n100% {\n    background-color: transparent;\n    bottom: 21px;\n    left: 7px;\n}\n}\n@keyframes bump-25-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 41px;\n    left: 6px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 79px;\n    left: 1px;\n}\n100% {\n    background-color: transparent;\n    bottom: 21px;\n    left: 7px;\n}\n}\n.line-26[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-26-data-v-920bb058 .8s linear .826s;\n          animation: bump-26-data-v-920bb058 .8s linear .826s;\n}\n@-webkit-keyframes bump-26-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 20px;\n    left: 8px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 74px;\n    left: 7px;\n}\n100% {\n    background-color: transparent;\n    bottom: 6px;\n    left: 5px;\n}\n}\n@keyframes bump-26-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 20px;\n    left: 8px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 74px;\n    left: 7px;\n}\n100% {\n    background-color: transparent;\n    bottom: 6px;\n    left: 5px;\n}\n}\n.line-27[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-27-data-v-920bb058 .8s linear .827s;\n          animation: bump-27-data-v-920bb058 .8s linear .827s;\n}\n@-webkit-keyframes bump-27-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 53px;\n    left: 4px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 17px;\n    left: 1px;\n}\n100% {\n    background-color: transparent;\n    bottom: 19px;\n    left: 5px;\n}\n}\n@keyframes bump-27-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 53px;\n    left: 4px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 17px;\n    left: 1px;\n}\n100% {\n    background-color: transparent;\n    bottom: 19px;\n    left: 5px;\n}\n}\n.line-28[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-28-data-v-920bb058 .8s linear .828s;\n          animation: bump-28-data-v-920bb058 .8s linear .828s;\n}\n@-webkit-keyframes bump-28-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 10px;\n    left: 10px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 70px;\n    left: 20px;\n}\n100% {\n    background-color: transparent;\n    bottom: 18px;\n    left: 9px;\n}\n}\n@keyframes bump-28-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 10px;\n    left: 10px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 70px;\n    left: 20px;\n}\n100% {\n    background-color: transparent;\n    bottom: 18px;\n    left: 9px;\n}\n}\n.line-29[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-29-data-v-920bb058 .8s linear .829s;\n          animation: bump-29-data-v-920bb058 .8s linear .829s;\n}\n@-webkit-keyframes bump-29-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 21px;\n    left: 4px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 18px;\n    left: 4px;\n}\n100% {\n    background-color: transparent;\n    bottom: 55px;\n    left: 4px;\n}\n}\n@keyframes bump-29-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 21px;\n    left: 4px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 18px;\n    left: 4px;\n}\n100% {\n    background-color: transparent;\n    bottom: 55px;\n    left: 4px;\n}\n}\n.line-30[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-30-data-v-920bb058 .8s linear .83s;\n          animation: bump-30-data-v-920bb058 .8s linear .83s;\n}\n@-webkit-keyframes bump-30-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 1px;\n    left: 10px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 32px;\n    left: 10px;\n}\n100% {\n    background-color: transparent;\n    bottom: 31px;\n    left: 5px;\n}\n}\n@keyframes bump-30-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 1px;\n    left: 10px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 32px;\n    left: 10px;\n}\n100% {\n    background-color: transparent;\n    bottom: 31px;\n    left: 5px;\n}\n}\n.line-31[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-31-data-v-920bb058 .8s linear .831s;\n          animation: bump-31-data-v-920bb058 .8s linear .831s;\n}\n@-webkit-keyframes bump-31-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 32px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 41px;\n    left: 4px;\n}\n100% {\n    background-color: transparent;\n    bottom: 30px;\n    left: 10px;\n}\n}\n@keyframes bump-31-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 32px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 41px;\n    left: 4px;\n}\n100% {\n    background-color: transparent;\n    bottom: 30px;\n    left: 10px;\n}\n}\n.line-32[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-32-data-v-920bb058 .8s linear .832s;\n          animation: bump-32-data-v-920bb058 .8s linear .832s;\n}\n@-webkit-keyframes bump-32-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 43px;\n    left: 10px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 72px;\n    left: 3px;\n}\n100% {\n    background-color: transparent;\n    bottom: 40px;\n    left: 5px;\n}\n}\n@keyframes bump-32-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 43px;\n    left: 10px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 72px;\n    left: 3px;\n}\n100% {\n    background-color: transparent;\n    bottom: 40px;\n    left: 5px;\n}\n}\n.line-33[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-33-data-v-920bb058 .8s linear .833s;\n          animation: bump-33-data-v-920bb058 .8s linear .833s;\n}\n@-webkit-keyframes bump-33-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 40px;\n    left: 7px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 15px;\n    left: 10px;\n}\n100% {\n    background-color: transparent;\n    bottom: 52px;\n    left: 8px;\n}\n}\n@keyframes bump-33-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 40px;\n    left: 7px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 15px;\n    left: 10px;\n}\n100% {\n    background-color: transparent;\n    bottom: 52px;\n    left: 8px;\n}\n}\n.line-34[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-34-data-v-920bb058 .8s linear .834s;\n          animation: bump-34-data-v-920bb058 .8s linear .834s;\n}\n@-webkit-keyframes bump-34-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 24px;\n    left: 5px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 35px;\n    left: 5px;\n}\n100% {\n    background-color: transparent;\n    bottom: 55px;\n    left: 6px;\n}\n}\n@keyframes bump-34-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 24px;\n    left: 5px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 35px;\n    left: 5px;\n}\n100% {\n    background-color: transparent;\n    bottom: 55px;\n    left: 6px;\n}\n}\n.line-35[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-35-data-v-920bb058 .8s linear .835s;\n          animation: bump-35-data-v-920bb058 .8s linear .835s;\n}\n@-webkit-keyframes bump-35-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 27px;\n    left: 5px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 68px;\n    left: 17px;\n}\n100% {\n    background-color: transparent;\n    bottom: 31px;\n    left: 4px;\n}\n}\n@keyframes bump-35-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 27px;\n    left: 5px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 68px;\n    left: 17px;\n}\n100% {\n    background-color: transparent;\n    bottom: 31px;\n    left: 4px;\n}\n}\n.line-36[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-36-data-v-920bb058 .8s linear .836s;\n          animation: bump-36-data-v-920bb058 .8s linear .836s;\n}\n@-webkit-keyframes bump-36-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 26px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 52px;\n    left: 14px;\n}\n100% {\n    background-color: transparent;\n    bottom: 24px;\n    left: 9px;\n}\n}\n@keyframes bump-36-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 26px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 52px;\n    left: 14px;\n}\n100% {\n    background-color: transparent;\n    bottom: 24px;\n    left: 9px;\n}\n}\n.line-37[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-37-data-v-920bb058 .8s linear .837s;\n          animation: bump-37-data-v-920bb058 .8s linear .837s;\n}\n@-webkit-keyframes bump-37-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 16px;\n    left: 2px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 50px;\n    left: 9px;\n}\n100% {\n    background-color: transparent;\n    bottom: 1px;\n    left: 3px;\n}\n}\n@keyframes bump-37-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 16px;\n    left: 2px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 50px;\n    left: 9px;\n}\n100% {\n    background-color: transparent;\n    bottom: 1px;\n    left: 3px;\n}\n}\n.line-38[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-38-data-v-920bb058 .8s linear 138s;\n          animation: bump-38-data-v-920bb058 .8s linear 138s;\n}\n@-webkit-keyframes bump-38-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 43px;\n    left: 10px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 20px;\n    left: 6px;\n}\n100% {\n    background-color: transparent;\n    bottom: 56px;\n    left: 3px;\n}\n}\n@keyframes bump-38-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 43px;\n    left: 10px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 20px;\n    left: 6px;\n}\n100% {\n    background-color: transparent;\n    bottom: 56px;\n    left: 3px;\n}\n}\n.line-39[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-39-data-v-920bb058 .8s linear 139s;\n          animation: bump-39-data-v-920bb058 .8s linear 139s;\n}\n@-webkit-keyframes bump-39-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 26px;\n    left: 1px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 66px;\n    left: 13px;\n}\n100% {\n    background-color: transparent;\n    bottom: 55px;\n    left: 8px;\n}\n}\n@keyframes bump-39-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 26px;\n    left: 1px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 66px;\n    left: 13px;\n}\n100% {\n    background-color: transparent;\n    bottom: 55px;\n    left: 8px;\n}\n}\n.line-40[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-40-data-v-920bb058 .8s linear 140s;\n          animation: bump-40-data-v-920bb058 .8s linear 140s;\n}\n@-webkit-keyframes bump-40-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 46px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 47px;\n    left: 18px;\n}\n100% {\n    background-color: transparent;\n    bottom: 15px;\n    left: 10px;\n}\n}\n@keyframes bump-40-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 46px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 47px;\n    left: 18px;\n}\n100% {\n    background-color: transparent;\n    bottom: 15px;\n    left: 10px;\n}\n}\n.line-41[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-41-data-v-920bb058 .8s linear 141s;\n          animation: bump-41-data-v-920bb058 .8s linear 141s;\n}\n@-webkit-keyframes bump-41-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 19px;\n    left: 8px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 61px;\n    left: 20px;\n}\n100% {\n    background-color: transparent;\n    bottom: 2px;\n    left: 3px;\n}\n}\n@keyframes bump-41-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 19px;\n    left: 8px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 61px;\n    left: 20px;\n}\n100% {\n    background-color: transparent;\n    bottom: 2px;\n    left: 3px;\n}\n}\n.line-42[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-42-data-v-920bb058 .8s linear 142s;\n          animation: bump-42-data-v-920bb058 .8s linear 142s;\n}\n@-webkit-keyframes bump-42-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 33px;\n    left: 10px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 10px;\n    left: 19px;\n}\n100% {\n    background-color: transparent;\n    bottom: 53px;\n    left: 2px;\n}\n}\n@keyframes bump-42-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 33px;\n    left: 10px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 10px;\n    left: 19px;\n}\n100% {\n    background-color: transparent;\n    bottom: 53px;\n    left: 2px;\n}\n}\n.line-43[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-43-data-v-920bb058 .8s linear 143s;\n          animation: bump-43-data-v-920bb058 .8s linear 143s;\n}\n@-webkit-keyframes bump-43-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 50px;\n    left: 7px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 13px;\n    left: 5px;\n}\n100% {\n    background-color: transparent;\n    bottom: 3px;\n    left: 7px;\n}\n}\n@keyframes bump-43-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 50px;\n    left: 7px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 13px;\n    left: 5px;\n}\n100% {\n    background-color: transparent;\n    bottom: 3px;\n    left: 7px;\n}\n}\n.line-44[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-44-data-v-920bb058 .8s linear 144s;\n          animation: bump-44-data-v-920bb058 .8s linear 144s;\n}\n@-webkit-keyframes bump-44-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 28px;\n    left: 2px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 43px;\n    left: 8px;\n}\n100% {\n    background-color: transparent;\n    bottom: 48px;\n    left: 8px;\n}\n}\n@keyframes bump-44-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 28px;\n    left: 2px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 43px;\n    left: 8px;\n}\n100% {\n    background-color: transparent;\n    bottom: 48px;\n    left: 8px;\n}\n}\n.line-45[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-45-data-v-920bb058 .8s linear 145s;\n          animation: bump-45-data-v-920bb058 .8s linear 145s;\n}\n@-webkit-keyframes bump-45-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 44px;\n    left: 6px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 9px;\n    left: 2px;\n}\n100% {\n    background-color: transparent;\n    bottom: 60px;\n    left: 6px;\n}\n}\n@keyframes bump-45-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 44px;\n    left: 6px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 9px;\n    left: 2px;\n}\n100% {\n    background-color: transparent;\n    bottom: 60px;\n    left: 6px;\n}\n}\n.line-46[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-46-data-v-920bb058 .8s linear 146s;\n          animation: bump-46-data-v-920bb058 .8s linear 146s;\n}\n@-webkit-keyframes bump-46-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 36px;\n    left: 3px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 37px;\n    left: 18px;\n}\n100% {\n    background-color: transparent;\n    bottom: 5px;\n    left: 8px;\n}\n}\n@keyframes bump-46-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 36px;\n    left: 3px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 37px;\n    left: 18px;\n}\n100% {\n    background-color: transparent;\n    bottom: 5px;\n    left: 8px;\n}\n}\n.line-47[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-47-data-v-920bb058 .8s linear 147s;\n          animation: bump-47-data-v-920bb058 .8s linear 147s;\n}\n@-webkit-keyframes bump-47-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 17px;\n    left: 4px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 49px;\n    left: 10px;\n}\n100% {\n    background-color: transparent;\n    bottom: 49px;\n    left: 10px;\n}\n}\n@keyframes bump-47-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 17px;\n    left: 4px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 49px;\n    left: 10px;\n}\n100% {\n    background-color: transparent;\n    bottom: 49px;\n    left: 10px;\n}\n}\n.line-48[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-48-data-v-920bb058 .8s linear 148s;\n          animation: bump-48-data-v-920bb058 .8s linear 148s;\n}\n@-webkit-keyframes bump-48-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 25px;\n    left: 1px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 72px;\n    left: 19px;\n}\n100% {\n    background-color: transparent;\n    bottom: 12px;\n    left: 3px;\n}\n}\n@keyframes bump-48-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 25px;\n    left: 1px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 72px;\n    left: 19px;\n}\n100% {\n    background-color: transparent;\n    bottom: 12px;\n    left: 3px;\n}\n}\n.line-49[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-49-data-v-920bb058 .8s linear 149s;\n          animation: bump-49-data-v-920bb058 .8s linear 149s;\n}\n@-webkit-keyframes bump-49-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 51px;\n    left: 8px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 79px;\n    left: 9px;\n}\n100% {\n    background-color: transparent;\n    bottom: 47px;\n    left: 10px;\n}\n}\n@keyframes bump-49-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 51px;\n    left: 8px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 79px;\n    left: 9px;\n}\n100% {\n    background-color: transparent;\n    bottom: 47px;\n    left: 10px;\n}\n}\n.line-50[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-50-data-v-920bb058 .8s linear 150s;\n          animation: bump-50-data-v-920bb058 .8s linear 150s;\n}\n@-webkit-keyframes bump-50-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 17px;\n    left: 2px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 77px;\n    left: 13px;\n}\n100% {\n    background-color: transparent;\n    bottom: 33px;\n    left: 7px;\n}\n}\n@keyframes bump-50-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 17px;\n    left: 2px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 77px;\n    left: 13px;\n}\n100% {\n    background-color: transparent;\n    bottom: 33px;\n    left: 7px;\n}\n}\n.line-51[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-51-data-v-920bb058 .8s linear 151s;\n          animation: bump-51-data-v-920bb058 .8s linear 151s;\n}\n@-webkit-keyframes bump-51-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 38px;\n    left: 8px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 52px;\n    left: 7px;\n}\n100% {\n    background-color: transparent;\n    bottom: 11px;\n    left: 3px;\n}\n}\n@keyframes bump-51-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 38px;\n    left: 8px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 52px;\n    left: 7px;\n}\n100% {\n    background-color: transparent;\n    bottom: 11px;\n    left: 3px;\n}\n}\n.line-52[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-52-data-v-920bb058 .8s linear 152s;\n          animation: bump-52-data-v-920bb058 .8s linear 152s;\n}\n@-webkit-keyframes bump-52-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 27px;\n    left: 6px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 63px;\n    left: 14px;\n}\n100% {\n    background-color: transparent;\n    bottom: 51px;\n    left: 2px;\n}\n}\n@keyframes bump-52-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 27px;\n    left: 6px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 63px;\n    left: 14px;\n}\n100% {\n    background-color: transparent;\n    bottom: 51px;\n    left: 2px;\n}\n}\n.line-53[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-53-data-v-920bb058 .8s linear 153s;\n          animation: bump-53-data-v-920bb058 .8s linear 153s;\n}\n@-webkit-keyframes bump-53-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 11px;\n    left: 10px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 20px;\n    left: 1px;\n}\n100% {\n    background-color: transparent;\n    bottom: 56px;\n    left: 1px;\n}\n}\n@keyframes bump-53-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 11px;\n    left: 10px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 20px;\n    left: 1px;\n}\n100% {\n    background-color: transparent;\n    bottom: 56px;\n    left: 1px;\n}\n}\n.line-54[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-54-data-v-920bb058 .8s linear 154s;\n          animation: bump-54-data-v-920bb058 .8s linear 154s;\n}\n@-webkit-keyframes bump-54-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 15px;\n    left: 8px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 28px;\n    left: 12px;\n}\n100% {\n    background-color: transparent;\n    bottom: 60px;\n    left: 10px;\n}\n}\n@keyframes bump-54-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 15px;\n    left: 8px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 28px;\n    left: 12px;\n}\n100% {\n    background-color: transparent;\n    bottom: 60px;\n    left: 10px;\n}\n}\n.line-55[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-55-data-v-920bb058 .8s linear 155s;\n          animation: bump-55-data-v-920bb058 .8s linear 155s;\n}\n@-webkit-keyframes bump-55-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 22px;\n    left: 10px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 22px;\n    left: 12px;\n}\n100% {\n    background-color: transparent;\n    bottom: 55px;\n    left: 4px;\n}\n}\n@keyframes bump-55-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 22px;\n    left: 10px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 22px;\n    left: 12px;\n}\n100% {\n    background-color: transparent;\n    bottom: 55px;\n    left: 4px;\n}\n}\n.line-56[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-56-data-v-920bb058 .8s linear 156s;\n          animation: bump-56-data-v-920bb058 .8s linear 156s;\n}\n@-webkit-keyframes bump-56-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 15px;\n    left: 8px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 18px;\n    left: 14px;\n}\n100% {\n    background-color: transparent;\n    bottom: 26px;\n    left: 9px;\n}\n}\n@keyframes bump-56-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 15px;\n    left: 8px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 18px;\n    left: 14px;\n}\n100% {\n    background-color: transparent;\n    bottom: 26px;\n    left: 9px;\n}\n}\n.line-57[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-57-data-v-920bb058 .8s linear 1.257s;\n          animation: bump-57-data-v-920bb058 .8s linear 1.257s;\n}\n@-webkit-keyframes bump-57-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 26px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 60px;\n    left: 13px;\n}\n100% {\n    background-color: transparent;\n    bottom: 24px;\n    left: 3px;\n}\n}\n@keyframes bump-57-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 26px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 60px;\n    left: 13px;\n}\n100% {\n    background-color: transparent;\n    bottom: 24px;\n    left: 3px;\n}\n}\n.line-58[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-58-data-v-920bb058 .8s linear 1.258s;\n          animation: bump-58-data-v-920bb058 .8s linear 1.258s;\n}\n@-webkit-keyframes bump-58-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 51px;\n    left: 5px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 41px;\n    left: 9px;\n}\n100% {\n    background-color: transparent;\n    bottom: 11px;\n    left: 7px;\n}\n}\n@keyframes bump-58-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 51px;\n    left: 5px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 41px;\n    left: 9px;\n}\n100% {\n    background-color: transparent;\n    bottom: 11px;\n    left: 7px;\n}\n}\n.line-59[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-59-data-v-920bb058 .8s linear 1.259s;\n          animation: bump-59-data-v-920bb058 .8s linear 1.259s;\n}\n@-webkit-keyframes bump-59-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 10px;\n    left: 1px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 50px;\n    left: 4px;\n}\n100% {\n    background-color: transparent;\n    bottom: 48px;\n    left: 6px;\n}\n}\n@keyframes bump-59-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 10px;\n    left: 1px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 50px;\n    left: 4px;\n}\n100% {\n    background-color: transparent;\n    bottom: 48px;\n    left: 6px;\n}\n}\n.line-60[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-60-data-v-920bb058 .8s linear 1.26s;\n          animation: bump-60-data-v-920bb058 .8s linear 1.26s;\n}\n@-webkit-keyframes bump-60-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 45px;\n    left: 10px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 47px;\n    left: 9px;\n}\n100% {\n    background-color: transparent;\n    bottom: 10px;\n    left: 2px;\n}\n}\n@keyframes bump-60-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 45px;\n    left: 10px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 47px;\n    left: 9px;\n}\n100% {\n    background-color: transparent;\n    bottom: 10px;\n    left: 2px;\n}\n}\n.line-61[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-61-data-v-920bb058 .8s linear 1.261s;\n          animation: bump-61-data-v-920bb058 .8s linear 1.261s;\n}\n@-webkit-keyframes bump-61-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 23px;\n    left: 5px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 35px;\n    left: 8px;\n}\n100% {\n    background-color: transparent;\n    bottom: 9px;\n    left: 10px;\n}\n}\n@keyframes bump-61-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 23px;\n    left: 5px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 35px;\n    left: 8px;\n}\n100% {\n    background-color: transparent;\n    bottom: 9px;\n    left: 10px;\n}\n}\n.line-62[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-62-data-v-920bb058 .8s linear 1.262s;\n          animation: bump-62-data-v-920bb058 .8s linear 1.262s;\n}\n@-webkit-keyframes bump-62-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 25px;\n    left: 6px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 27px;\n    left: 7px;\n}\n100% {\n    background-color: transparent;\n    bottom: 16px;\n    left: 5px;\n}\n}\n@keyframes bump-62-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 25px;\n    left: 6px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 27px;\n    left: 7px;\n}\n100% {\n    background-color: transparent;\n    bottom: 16px;\n    left: 5px;\n}\n}\n.line-63[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-63-data-v-920bb058 .8s linear 1.263s;\n          animation: bump-63-data-v-920bb058 .8s linear 1.263s;\n}\n@-webkit-keyframes bump-63-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 4px;\n    left: 5px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 78px;\n    left: 9px;\n}\n100% {\n    background-color: transparent;\n    bottom: 9px;\n    left: 3px;\n}\n}\n@keyframes bump-63-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 4px;\n    left: 5px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 78px;\n    left: 9px;\n}\n100% {\n    background-color: transparent;\n    bottom: 9px;\n    left: 3px;\n}\n}\n.line-64[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-64-data-v-920bb058 .8s linear 1.264s;\n          animation: bump-64-data-v-920bb058 .8s linear 1.264s;\n}\n@-webkit-keyframes bump-64-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 7px;\n    left: 10px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 3px;\n    left: 18px;\n}\n100% {\n    background-color: transparent;\n    bottom: 12px;\n    left: 1px;\n}\n}\n@keyframes bump-64-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 7px;\n    left: 10px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 3px;\n    left: 18px;\n}\n100% {\n    background-color: transparent;\n    bottom: 12px;\n    left: 1px;\n}\n}\n.line-65[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-65-data-v-920bb058 .8s linear 1.265s;\n          animation: bump-65-data-v-920bb058 .8s linear 1.265s;\n}\n@-webkit-keyframes bump-65-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 34px;\n    left: 1px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 22px;\n    left: 9px;\n}\n100% {\n    background-color: transparent;\n    bottom: 53px;\n    left: 7px;\n}\n}\n@keyframes bump-65-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 34px;\n    left: 1px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 22px;\n    left: 9px;\n}\n100% {\n    background-color: transparent;\n    bottom: 53px;\n    left: 7px;\n}\n}\n.line-66[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-66-data-v-920bb058 .8s linear 1.266s;\n          animation: bump-66-data-v-920bb058 .8s linear 1.266s;\n}\n@-webkit-keyframes bump-66-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 5px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 60px;\n    left: 19px;\n}\n100% {\n    background-color: transparent;\n    bottom: 56px;\n    left: 7px;\n}\n}\n@keyframes bump-66-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 5px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 60px;\n    left: 19px;\n}\n100% {\n    background-color: transparent;\n    bottom: 56px;\n    left: 7px;\n}\n}\n.line-67[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-67-data-v-920bb058 .8s linear 1.267s;\n          animation: bump-67-data-v-920bb058 .8s linear 1.267s;\n}\n@-webkit-keyframes bump-67-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 43px;\n    left: 7px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 55px;\n    left: 4px;\n}\n100% {\n    background-color: transparent;\n    bottom: 10px;\n    left: 1px;\n}\n}\n@keyframes bump-67-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 43px;\n    left: 7px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 55px;\n    left: 4px;\n}\n100% {\n    background-color: transparent;\n    bottom: 10px;\n    left: 1px;\n}\n}\n.line-68[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-68-data-v-920bb058 .8s linear 1.268s;\n          animation: bump-68-data-v-920bb058 .8s linear 1.268s;\n}\n@-webkit-keyframes bump-68-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 16px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 66px;\n    left: 2px;\n}\n100% {\n    background-color: transparent;\n    bottom: 5px;\n    left: 10px;\n}\n}\n@keyframes bump-68-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 16px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 66px;\n    left: 2px;\n}\n100% {\n    background-color: transparent;\n    bottom: 5px;\n    left: 10px;\n}\n}\n.line-69[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-69-data-v-920bb058 .8s linear 1.269s;\n          animation: bump-69-data-v-920bb058 .8s linear 1.269s;\n}\n@-webkit-keyframes bump-69-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 2px;\n    left: 6px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 61px;\n    left: 10px;\n}\n100% {\n    background-color: transparent;\n    bottom: 53px;\n    left: 9px;\n}\n}\n@keyframes bump-69-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 2px;\n    left: 6px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 61px;\n    left: 10px;\n}\n100% {\n    background-color: transparent;\n    bottom: 53px;\n    left: 9px;\n}\n}\n.line-70[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-70-data-v-920bb058 .8s linear 1.27s;\n          animation: bump-70-data-v-920bb058 .8s linear 1.27s;\n}\n@-webkit-keyframes bump-70-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 58px;\n    left: 5px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 33px;\n    left: 20px;\n}\n100% {\n    background-color: transparent;\n    bottom: 59px;\n    left: 3px;\n}\n}\n@keyframes bump-70-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 58px;\n    left: 5px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 33px;\n    left: 20px;\n}\n100% {\n    background-color: transparent;\n    bottom: 59px;\n    left: 3px;\n}\n}\n.line-71[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-71-data-v-920bb058 .8s linear 1.271s;\n          animation: bump-71-data-v-920bb058 .8s linear 1.271s;\n}\n@-webkit-keyframes bump-71-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 34px;\n    left: 5px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 34px;\n    left: 14px;\n}\n100% {\n    background-color: transparent;\n    bottom: 41px;\n    left: 4px;\n}\n}\n@keyframes bump-71-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 34px;\n    left: 5px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 34px;\n    left: 14px;\n}\n100% {\n    background-color: transparent;\n    bottom: 41px;\n    left: 4px;\n}\n}\n.line-72[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-72-data-v-920bb058 .8s linear 1.272s;\n          animation: bump-72-data-v-920bb058 .8s linear 1.272s;\n}\n@-webkit-keyframes bump-72-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 2px;\n    left: 5px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 41px;\n    left: 19px;\n}\n100% {\n    background-color: transparent;\n    bottom: 48px;\n    left: 7px;\n}\n}\n@keyframes bump-72-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 2px;\n    left: 5px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 41px;\n    left: 19px;\n}\n100% {\n    background-color: transparent;\n    bottom: 48px;\n    left: 7px;\n}\n}\n.line-73[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-73-data-v-920bb058 .8s linear 1.273s;\n          animation: bump-73-data-v-920bb058 .8s linear 1.273s;\n}\n@-webkit-keyframes bump-73-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 10px;\n    left: 8px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 25px;\n    left: 20px;\n}\n100% {\n    background-color: transparent;\n    bottom: 44px;\n    left: 5px;\n}\n}\n@keyframes bump-73-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 10px;\n    left: 8px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 25px;\n    left: 20px;\n}\n100% {\n    background-color: transparent;\n    bottom: 44px;\n    left: 5px;\n}\n}\n.line-74[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-74-data-v-920bb058 .8s linear 1.274s;\n          animation: bump-74-data-v-920bb058 .8s linear 1.274s;\n}\n@-webkit-keyframes bump-74-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 10px;\n    left: 6px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 68px;\n    left: 7px;\n}\n100% {\n    background-color: transparent;\n    bottom: 55px;\n    left: 9px;\n}\n}\n@keyframes bump-74-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 10px;\n    left: 6px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 68px;\n    left: 7px;\n}\n100% {\n    background-color: transparent;\n    bottom: 55px;\n    left: 9px;\n}\n}\n.line-75[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-75-data-v-920bb058 .8s linear 1.275s;\n          animation: bump-75-data-v-920bb058 .8s linear 1.275s;\n}\n@-webkit-keyframes bump-75-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 13px;\n    left: 8px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 28px;\n    left: 10px;\n}\n100% {\n    background-color: transparent;\n    bottom: 9px;\n    left: 2px;\n}\n}\n@keyframes bump-75-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 13px;\n    left: 8px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 28px;\n    left: 10px;\n}\n100% {\n    background-color: transparent;\n    bottom: 9px;\n    left: 2px;\n}\n}\n.line-76[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-76-data-v-920bb058 .8s linear 1.276s;\n          animation: bump-76-data-v-920bb058 .8s linear 1.276s;\n}\n@-webkit-keyframes bump-76-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 44px;\n    left: 8px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 70px;\n    left: 14px;\n}\n100% {\n    background-color: transparent;\n    bottom: 14px;\n    left: 1px;\n}\n}\n@keyframes bump-76-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 44px;\n    left: 8px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 70px;\n    left: 14px;\n}\n100% {\n    background-color: transparent;\n    bottom: 14px;\n    left: 1px;\n}\n}\n#line-group[data-v-920bb058] {\n  position: absolute;\n  top: 50%;\n  left: 0;\n  width: 100%;\n  height: 100%;\n}\n", ""]);
+exports.push([module.i, "[data-aos=fill-animation][data-v-920bb058] {\n  fill: #c3b282;\n  transition-property: fill;\n}\n[data-aos=fill-animation].aos-animate[data-v-920bb058] {\n  fill: transparent;\n}\n.line-1[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-1-data-v-920bb058 .8s linear .61s;\n          animation: bump-1-data-v-920bb058 .8s linear .61s;\n}\n@-webkit-keyframes bump-1-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 11px;\n    left: 4px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 21px;\n    left: 3px;\n}\n100% {\n    background-color: transparent;\n    bottom: 30px;\n    left: 2px;\n}\n}\n@keyframes bump-1-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 11px;\n    left: 4px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 21px;\n    left: 3px;\n}\n100% {\n    background-color: transparent;\n    bottom: 30px;\n    left: 2px;\n}\n}\n.line-2[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-2-data-v-920bb058 .8s linear .62s;\n          animation: bump-2-data-v-920bb058 .8s linear .62s;\n}\n@-webkit-keyframes bump-2-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 25px;\n    left: 7px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 70px;\n    left: 12px;\n}\n100% {\n    background-color: transparent;\n    bottom: 30px;\n    left: 8px;\n}\n}\n@keyframes bump-2-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 25px;\n    left: 7px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 70px;\n    left: 12px;\n}\n100% {\n    background-color: transparent;\n    bottom: 30px;\n    left: 8px;\n}\n}\n.line-3[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-3-data-v-920bb058 .8s linear .63s;\n          animation: bump-3-data-v-920bb058 .8s linear .63s;\n}\n@-webkit-keyframes bump-3-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 9px;\n    left: 5px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 7px;\n    left: 3px;\n}\n100% {\n    background-color: transparent;\n    bottom: 2px;\n    left: 1px;\n}\n}\n@keyframes bump-3-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 9px;\n    left: 5px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 7px;\n    left: 3px;\n}\n100% {\n    background-color: transparent;\n    bottom: 2px;\n    left: 1px;\n}\n}\n.line-4[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-4-data-v-920bb058 .8s linear .64s;\n          animation: bump-4-data-v-920bb058 .8s linear .64s;\n}\n@-webkit-keyframes bump-4-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 23px;\n    left: 10px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 34px;\n    left: 18px;\n}\n100% {\n    background-color: transparent;\n    bottom: 35px;\n    left: 2px;\n}\n}\n@keyframes bump-4-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 23px;\n    left: 10px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 34px;\n    left: 18px;\n}\n100% {\n    background-color: transparent;\n    bottom: 35px;\n    left: 2px;\n}\n}\n.line-5[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-5-data-v-920bb058 .8s linear .65s;\n          animation: bump-5-data-v-920bb058 .8s linear .65s;\n}\n@-webkit-keyframes bump-5-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 32px;\n    left: 3px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 17px;\n    left: 12px;\n}\n100% {\n    background-color: transparent;\n    bottom: 6px;\n    left: 9px;\n}\n}\n@keyframes bump-5-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 32px;\n    left: 3px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 17px;\n    left: 12px;\n}\n100% {\n    background-color: transparent;\n    bottom: 6px;\n    left: 9px;\n}\n}\n.line-6[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-6-data-v-920bb058 .8s linear .66s;\n          animation: bump-6-data-v-920bb058 .8s linear .66s;\n}\n@-webkit-keyframes bump-6-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 44px;\n    left: 5px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 58px;\n    left: 11px;\n}\n100% {\n    background-color: transparent;\n    bottom: 14px;\n    left: 4px;\n}\n}\n@keyframes bump-6-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 44px;\n    left: 5px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 58px;\n    left: 11px;\n}\n100% {\n    background-color: transparent;\n    bottom: 14px;\n    left: 4px;\n}\n}\n.line-7[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-7-data-v-920bb058 .8s linear .67s;\n          animation: bump-7-data-v-920bb058 .8s linear .67s;\n}\n@-webkit-keyframes bump-7-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 33px;\n    left: 7px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 75px;\n    left: 9px;\n}\n100% {\n    background-color: transparent;\n    bottom: 44px;\n    left: 9px;\n}\n}\n@keyframes bump-7-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 33px;\n    left: 7px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 75px;\n    left: 9px;\n}\n100% {\n    background-color: transparent;\n    bottom: 44px;\n    left: 9px;\n}\n}\n.line-8[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-8-data-v-920bb058 .8s linear .68s;\n          animation: bump-8-data-v-920bb058 .8s linear .68s;\n}\n@-webkit-keyframes bump-8-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 59px;\n    left: 2px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 76px;\n    left: 16px;\n}\n100% {\n    background-color: transparent;\n    bottom: 10px;\n    left: 8px;\n}\n}\n@keyframes bump-8-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 59px;\n    left: 2px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 76px;\n    left: 16px;\n}\n100% {\n    background-color: transparent;\n    bottom: 10px;\n    left: 8px;\n}\n}\n.line-9[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-9-data-v-920bb058 .8s linear .69s;\n          animation: bump-9-data-v-920bb058 .8s linear .69s;\n}\n@-webkit-keyframes bump-9-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 43px;\n    left: 7px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 4px;\n    left: 13px;\n}\n100% {\n    background-color: transparent;\n    bottom: 21px;\n    left: 9px;\n}\n}\n@keyframes bump-9-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 43px;\n    left: 7px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 4px;\n    left: 13px;\n}\n100% {\n    background-color: transparent;\n    bottom: 21px;\n    left: 9px;\n}\n}\n.line-10[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-10-data-v-920bb058 .8s linear .61s;\n          animation: bump-10-data-v-920bb058 .8s linear .61s;\n}\n@-webkit-keyframes bump-10-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 25px;\n    left: 7px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 73px;\n    left: 10px;\n}\n100% {\n    background-color: transparent;\n    bottom: 15px;\n    left: 1px;\n}\n}\n@keyframes bump-10-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 25px;\n    left: 7px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 73px;\n    left: 10px;\n}\n100% {\n    background-color: transparent;\n    bottom: 15px;\n    left: 1px;\n}\n}\n.line-11[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-11-data-v-920bb058 .8s linear .611s;\n          animation: bump-11-data-v-920bb058 .8s linear .611s;\n}\n@-webkit-keyframes bump-11-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 60px;\n    left: 10px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 22px;\n    left: 8px;\n}\n100% {\n    background-color: transparent;\n    bottom: 9px;\n    left: 5px;\n}\n}\n@keyframes bump-11-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 60px;\n    left: 10px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 22px;\n    left: 8px;\n}\n100% {\n    background-color: transparent;\n    bottom: 9px;\n    left: 5px;\n}\n}\n.line-12[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-12-data-v-920bb058 .8s linear .612s;\n          animation: bump-12-data-v-920bb058 .8s linear .612s;\n}\n@-webkit-keyframes bump-12-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 12px;\n    left: 5px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 68px;\n    left: 18px;\n}\n100% {\n    background-color: transparent;\n    bottom: 9px;\n    left: 1px;\n}\n}\n@keyframes bump-12-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 12px;\n    left: 5px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 68px;\n    left: 18px;\n}\n100% {\n    background-color: transparent;\n    bottom: 9px;\n    left: 1px;\n}\n}\n.line-13[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-13-data-v-920bb058 .8s linear .613s;\n          animation: bump-13-data-v-920bb058 .8s linear .613s;\n}\n@-webkit-keyframes bump-13-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 10px;\n    left: 6px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 53px;\n    left: 3px;\n}\n100% {\n    background-color: transparent;\n    bottom: 19px;\n    left: 10px;\n}\n}\n@keyframes bump-13-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 10px;\n    left: 6px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 53px;\n    left: 3px;\n}\n100% {\n    background-color: transparent;\n    bottom: 19px;\n    left: 10px;\n}\n}\n.line-14[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-14-data-v-920bb058 .8s linear .614s;\n          animation: bump-14-data-v-920bb058 .8s linear .614s;\n}\n@-webkit-keyframes bump-14-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 34px;\n    left: 7px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 51px;\n    left: 7px;\n}\n100% {\n    background-color: transparent;\n    bottom: 56px;\n    left: 3px;\n}\n}\n@keyframes bump-14-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 34px;\n    left: 7px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 51px;\n    left: 7px;\n}\n100% {\n    background-color: transparent;\n    bottom: 56px;\n    left: 3px;\n}\n}\n.line-15[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-15-data-v-920bb058 .8s linear .615s;\n          animation: bump-15-data-v-920bb058 .8s linear .615s;\n}\n@-webkit-keyframes bump-15-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 42px;\n    left: 7px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 69px;\n    left: 10px;\n}\n100% {\n    background-color: transparent;\n    bottom: 19px;\n    left: 8px;\n}\n}\n@keyframes bump-15-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 42px;\n    left: 7px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 69px;\n    left: 10px;\n}\n100% {\n    background-color: transparent;\n    bottom: 19px;\n    left: 8px;\n}\n}\n.line-16[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-16-data-v-920bb058 .8s linear .616s;\n          animation: bump-16-data-v-920bb058 .8s linear .616s;\n}\n@-webkit-keyframes bump-16-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 39px;\n    left: 7px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 56px;\n    left: 7px;\n}\n100% {\n    background-color: transparent;\n    bottom: 19px;\n    left: 3px;\n}\n}\n@keyframes bump-16-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 39px;\n    left: 7px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 56px;\n    left: 7px;\n}\n100% {\n    background-color: transparent;\n    bottom: 19px;\n    left: 3px;\n}\n}\n.line-17[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-17-data-v-920bb058 .8s linear .617s;\n          animation: bump-17-data-v-920bb058 .8s linear .617s;\n}\n@-webkit-keyframes bump-17-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 17px;\n    left: 1px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 45px;\n    left: 2px;\n}\n100% {\n    background-color: transparent;\n    bottom: 9px;\n    left: 5px;\n}\n}\n@keyframes bump-17-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 17px;\n    left: 1px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 45px;\n    left: 2px;\n}\n100% {\n    background-color: transparent;\n    bottom: 9px;\n    left: 5px;\n}\n}\n.line-18[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-18-data-v-920bb058 .8s linear .618s;\n          animation: bump-18-data-v-920bb058 .8s linear .618s;\n}\n@-webkit-keyframes bump-18-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 9px;\n    left: 8px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 65px;\n    left: 6px;\n}\n100% {\n    background-color: transparent;\n    bottom: 21px;\n    left: 7px;\n}\n}\n@keyframes bump-18-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 9px;\n    left: 8px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 65px;\n    left: 6px;\n}\n100% {\n    background-color: transparent;\n    bottom: 21px;\n    left: 7px;\n}\n}\n.line-19[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-19-data-v-920bb058 .8s linear .819s;\n          animation: bump-19-data-v-920bb058 .8s linear .819s;\n}\n@-webkit-keyframes bump-19-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 17px;\n    left: 6px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 79px;\n    left: 7px;\n}\n100% {\n    background-color: transparent;\n    bottom: 19px;\n    left: 5px;\n}\n}\n@keyframes bump-19-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 17px;\n    left: 6px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 79px;\n    left: 7px;\n}\n100% {\n    background-color: transparent;\n    bottom: 19px;\n    left: 5px;\n}\n}\n.line-20[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-20-data-v-920bb058 .8s linear .82s;\n          animation: bump-20-data-v-920bb058 .8s linear .82s;\n}\n@-webkit-keyframes bump-20-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 33px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 47px;\n    left: 20px;\n}\n100% {\n    background-color: transparent;\n    bottom: 30px;\n    left: 2px;\n}\n}\n@keyframes bump-20-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 33px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 47px;\n    left: 20px;\n}\n100% {\n    background-color: transparent;\n    bottom: 30px;\n    left: 2px;\n}\n}\n.line-21[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-21-data-v-920bb058 .8s linear .821s;\n          animation: bump-21-data-v-920bb058 .8s linear .821s;\n}\n@-webkit-keyframes bump-21-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 1px;\n    left: 7px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 28px;\n    left: 8px;\n}\n100% {\n    background-color: transparent;\n    bottom: 51px;\n    left: 8px;\n}\n}\n@keyframes bump-21-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 1px;\n    left: 7px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 28px;\n    left: 8px;\n}\n100% {\n    background-color: transparent;\n    bottom: 51px;\n    left: 8px;\n}\n}\n.line-22[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-22-data-v-920bb058 .8s linear .822s;\n          animation: bump-22-data-v-920bb058 .8s linear .822s;\n}\n@-webkit-keyframes bump-22-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 20px;\n    left: 6px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 1px;\n    left: 19px;\n}\n100% {\n    background-color: transparent;\n    bottom: 18px;\n    left: 4px;\n}\n}\n@keyframes bump-22-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 20px;\n    left: 6px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 1px;\n    left: 19px;\n}\n100% {\n    background-color: transparent;\n    bottom: 18px;\n    left: 4px;\n}\n}\n.line-23[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-23-data-v-920bb058 .8s linear .823s;\n          animation: bump-23-data-v-920bb058 .8s linear .823s;\n}\n@-webkit-keyframes bump-23-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 38px;\n    left: 4px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 28px;\n    left: 7px;\n}\n100% {\n    background-color: transparent;\n    bottom: 14px;\n    left: 6px;\n}\n}\n@keyframes bump-23-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 38px;\n    left: 4px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 28px;\n    left: 7px;\n}\n100% {\n    background-color: transparent;\n    bottom: 14px;\n    left: 6px;\n}\n}\n.line-24[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-24-data-v-920bb058 .8s linear .824s;\n          animation: bump-24-data-v-920bb058 .8s linear .824s;\n}\n@-webkit-keyframes bump-24-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 5px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 73px;\n    left: 2px;\n}\n100% {\n    background-color: transparent;\n    bottom: 48px;\n    left: 8px;\n}\n}\n@keyframes bump-24-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 5px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 73px;\n    left: 2px;\n}\n100% {\n    background-color: transparent;\n    bottom: 48px;\n    left: 8px;\n}\n}\n.line-25[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-25-data-v-920bb058 .8s linear .825s;\n          animation: bump-25-data-v-920bb058 .8s linear .825s;\n}\n@-webkit-keyframes bump-25-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 1px;\n    left: 5px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 21px;\n    left: 10px;\n}\n100% {\n    background-color: transparent;\n    bottom: 58px;\n    left: 6px;\n}\n}\n@keyframes bump-25-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 1px;\n    left: 5px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 21px;\n    left: 10px;\n}\n100% {\n    background-color: transparent;\n    bottom: 58px;\n    left: 6px;\n}\n}\n.line-26[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-26-data-v-920bb058 .8s linear .826s;\n          animation: bump-26-data-v-920bb058 .8s linear .826s;\n}\n@-webkit-keyframes bump-26-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 13px;\n    left: 5px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 71px;\n    left: 10px;\n}\n100% {\n    background-color: transparent;\n    bottom: 6px;\n    left: 10px;\n}\n}\n@keyframes bump-26-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 13px;\n    left: 5px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 71px;\n    left: 10px;\n}\n100% {\n    background-color: transparent;\n    bottom: 6px;\n    left: 10px;\n}\n}\n.line-27[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-27-data-v-920bb058 .8s linear .827s;\n          animation: bump-27-data-v-920bb058 .8s linear .827s;\n}\n@-webkit-keyframes bump-27-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 2px;\n    left: 5px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 44px;\n    left: 4px;\n}\n100% {\n    background-color: transparent;\n    bottom: 31px;\n    left: 1px;\n}\n}\n@keyframes bump-27-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 2px;\n    left: 5px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 44px;\n    left: 4px;\n}\n100% {\n    background-color: transparent;\n    bottom: 31px;\n    left: 1px;\n}\n}\n.line-28[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-28-data-v-920bb058 .8s linear .828s;\n          animation: bump-28-data-v-920bb058 .8s linear .828s;\n}\n@-webkit-keyframes bump-28-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 27px;\n    left: 7px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 22px;\n    left: 11px;\n}\n100% {\n    background-color: transparent;\n    bottom: 53px;\n    left: 8px;\n}\n}\n@keyframes bump-28-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 27px;\n    left: 7px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 22px;\n    left: 11px;\n}\n100% {\n    background-color: transparent;\n    bottom: 53px;\n    left: 8px;\n}\n}\n.line-29[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-29-data-v-920bb058 .8s linear .829s;\n          animation: bump-29-data-v-920bb058 .8s linear .829s;\n}\n@-webkit-keyframes bump-29-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 38px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 67px;\n    left: 14px;\n}\n100% {\n    background-color: transparent;\n    bottom: 45px;\n    left: 10px;\n}\n}\n@keyframes bump-29-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 38px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 67px;\n    left: 14px;\n}\n100% {\n    background-color: transparent;\n    bottom: 45px;\n    left: 10px;\n}\n}\n.line-30[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-30-data-v-920bb058 .8s linear .83s;\n          animation: bump-30-data-v-920bb058 .8s linear .83s;\n}\n@-webkit-keyframes bump-30-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 47px;\n    left: 1px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 19px;\n    left: 18px;\n}\n100% {\n    background-color: transparent;\n    bottom: 10px;\n    left: 4px;\n}\n}\n@keyframes bump-30-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 47px;\n    left: 1px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 19px;\n    left: 18px;\n}\n100% {\n    background-color: transparent;\n    bottom: 10px;\n    left: 4px;\n}\n}\n.line-31[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-31-data-v-920bb058 .8s linear .831s;\n          animation: bump-31-data-v-920bb058 .8s linear .831s;\n}\n@-webkit-keyframes bump-31-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 1px;\n    left: 6px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 57px;\n    left: 20px;\n}\n100% {\n    background-color: transparent;\n    bottom: 28px;\n    left: 2px;\n}\n}\n@keyframes bump-31-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 1px;\n    left: 6px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 57px;\n    left: 20px;\n}\n100% {\n    background-color: transparent;\n    bottom: 28px;\n    left: 2px;\n}\n}\n.line-32[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-32-data-v-920bb058 .8s linear .832s;\n          animation: bump-32-data-v-920bb058 .8s linear .832s;\n}\n@-webkit-keyframes bump-32-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 10px;\n    left: 4px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 57px;\n    left: 13px;\n}\n100% {\n    background-color: transparent;\n    bottom: 8px;\n    left: 10px;\n}\n}\n@keyframes bump-32-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 10px;\n    left: 4px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 57px;\n    left: 13px;\n}\n100% {\n    background-color: transparent;\n    bottom: 8px;\n    left: 10px;\n}\n}\n.line-33[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-33-data-v-920bb058 .8s linear .833s;\n          animation: bump-33-data-v-920bb058 .8s linear .833s;\n}\n@-webkit-keyframes bump-33-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 35px;\n    left: 4px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 65px;\n    left: 1px;\n}\n100% {\n    background-color: transparent;\n    bottom: 24px;\n    left: 10px;\n}\n}\n@keyframes bump-33-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 35px;\n    left: 4px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 65px;\n    left: 1px;\n}\n100% {\n    background-color: transparent;\n    bottom: 24px;\n    left: 10px;\n}\n}\n.line-34[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-34-data-v-920bb058 .8s linear .834s;\n          animation: bump-34-data-v-920bb058 .8s linear .834s;\n}\n@-webkit-keyframes bump-34-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 37px;\n    left: 5px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 55px;\n    left: 15px;\n}\n100% {\n    background-color: transparent;\n    bottom: 58px;\n    left: 6px;\n}\n}\n@keyframes bump-34-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 37px;\n    left: 5px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 55px;\n    left: 15px;\n}\n100% {\n    background-color: transparent;\n    bottom: 58px;\n    left: 6px;\n}\n}\n.line-35[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-35-data-v-920bb058 .8s linear .835s;\n          animation: bump-35-data-v-920bb058 .8s linear .835s;\n}\n@-webkit-keyframes bump-35-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 43px;\n    left: 7px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 24px;\n    left: 17px;\n}\n100% {\n    background-color: transparent;\n    bottom: 4px;\n    left: 5px;\n}\n}\n@keyframes bump-35-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 43px;\n    left: 7px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 24px;\n    left: 17px;\n}\n100% {\n    background-color: transparent;\n    bottom: 4px;\n    left: 5px;\n}\n}\n.line-36[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-36-data-v-920bb058 .8s linear .836s;\n          animation: bump-36-data-v-920bb058 .8s linear .836s;\n}\n@-webkit-keyframes bump-36-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 17px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 72px;\n    left: 12px;\n}\n100% {\n    background-color: transparent;\n    bottom: 25px;\n    left: 8px;\n}\n}\n@keyframes bump-36-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 17px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 72px;\n    left: 12px;\n}\n100% {\n    background-color: transparent;\n    bottom: 25px;\n    left: 8px;\n}\n}\n.line-37[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-37-data-v-920bb058 .8s linear .837s;\n          animation: bump-37-data-v-920bb058 .8s linear .837s;\n}\n@-webkit-keyframes bump-37-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 44px;\n    left: 4px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 75px;\n    left: 20px;\n}\n100% {\n    background-color: transparent;\n    bottom: 11px;\n    left: 9px;\n}\n}\n@keyframes bump-37-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 44px;\n    left: 4px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 75px;\n    left: 20px;\n}\n100% {\n    background-color: transparent;\n    bottom: 11px;\n    left: 9px;\n}\n}\n.line-38[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-38-data-v-920bb058 .8s linear 138s;\n          animation: bump-38-data-v-920bb058 .8s linear 138s;\n}\n@-webkit-keyframes bump-38-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 33px;\n    left: 10px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 63px;\n    left: 5px;\n}\n100% {\n    background-color: transparent;\n    bottom: 2px;\n    left: 2px;\n}\n}\n@keyframes bump-38-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 33px;\n    left: 10px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 63px;\n    left: 5px;\n}\n100% {\n    background-color: transparent;\n    bottom: 2px;\n    left: 2px;\n}\n}\n.line-39[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-39-data-v-920bb058 .8s linear 139s;\n          animation: bump-39-data-v-920bb058 .8s linear 139s;\n}\n@-webkit-keyframes bump-39-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 3px;\n    left: 5px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 73px;\n    left: 16px;\n}\n100% {\n    background-color: transparent;\n    bottom: 23px;\n    left: 5px;\n}\n}\n@keyframes bump-39-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 3px;\n    left: 5px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 73px;\n    left: 16px;\n}\n100% {\n    background-color: transparent;\n    bottom: 23px;\n    left: 5px;\n}\n}\n.line-40[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-40-data-v-920bb058 .8s linear 140s;\n          animation: bump-40-data-v-920bb058 .8s linear 140s;\n}\n@-webkit-keyframes bump-40-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 13px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 60px;\n    left: 3px;\n}\n100% {\n    background-color: transparent;\n    bottom: 20px;\n    left: 4px;\n}\n}\n@keyframes bump-40-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 13px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 60px;\n    left: 3px;\n}\n100% {\n    background-color: transparent;\n    bottom: 20px;\n    left: 4px;\n}\n}\n.line-41[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-41-data-v-920bb058 .8s linear 141s;\n          animation: bump-41-data-v-920bb058 .8s linear 141s;\n}\n@-webkit-keyframes bump-41-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 46px;\n    left: 6px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 44px;\n    left: 2px;\n}\n100% {\n    background-color: transparent;\n    bottom: 37px;\n    left: 10px;\n}\n}\n@keyframes bump-41-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 46px;\n    left: 6px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 44px;\n    left: 2px;\n}\n100% {\n    background-color: transparent;\n    bottom: 37px;\n    left: 10px;\n}\n}\n.line-42[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-42-data-v-920bb058 .8s linear 142s;\n          animation: bump-42-data-v-920bb058 .8s linear 142s;\n}\n@-webkit-keyframes bump-42-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 36px;\n    left: 5px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 16px;\n    left: 4px;\n}\n100% {\n    background-color: transparent;\n    bottom: 4px;\n    left: 9px;\n}\n}\n@keyframes bump-42-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 36px;\n    left: 5px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 16px;\n    left: 4px;\n}\n100% {\n    background-color: transparent;\n    bottom: 4px;\n    left: 9px;\n}\n}\n.line-43[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-43-data-v-920bb058 .8s linear 143s;\n          animation: bump-43-data-v-920bb058 .8s linear 143s;\n}\n@-webkit-keyframes bump-43-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 28px;\n    left: 2px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 28px;\n    left: 15px;\n}\n100% {\n    background-color: transparent;\n    bottom: 50px;\n    left: 5px;\n}\n}\n@keyframes bump-43-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 28px;\n    left: 2px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 28px;\n    left: 15px;\n}\n100% {\n    background-color: transparent;\n    bottom: 50px;\n    left: 5px;\n}\n}\n.line-44[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-44-data-v-920bb058 .8s linear 144s;\n          animation: bump-44-data-v-920bb058 .8s linear 144s;\n}\n@-webkit-keyframes bump-44-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 43px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 3px;\n    left: 3px;\n}\n100% {\n    background-color: transparent;\n    bottom: 50px;\n    left: 3px;\n}\n}\n@keyframes bump-44-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 43px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 3px;\n    left: 3px;\n}\n100% {\n    background-color: transparent;\n    bottom: 50px;\n    left: 3px;\n}\n}\n.line-45[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-45-data-v-920bb058 .8s linear 145s;\n          animation: bump-45-data-v-920bb058 .8s linear 145s;\n}\n@-webkit-keyframes bump-45-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 5px;\n    left: 2px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 57px;\n    left: 11px;\n}\n100% {\n    background-color: transparent;\n    bottom: 46px;\n    left: 3px;\n}\n}\n@keyframes bump-45-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 5px;\n    left: 2px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 57px;\n    left: 11px;\n}\n100% {\n    background-color: transparent;\n    bottom: 46px;\n    left: 3px;\n}\n}\n.line-46[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-46-data-v-920bb058 .8s linear 146s;\n          animation: bump-46-data-v-920bb058 .8s linear 146s;\n}\n@-webkit-keyframes bump-46-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 51px;\n    left: 1px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 8px;\n    left: 8px;\n}\n100% {\n    background-color: transparent;\n    bottom: 56px;\n    left: 3px;\n}\n}\n@keyframes bump-46-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 51px;\n    left: 1px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 8px;\n    left: 8px;\n}\n100% {\n    background-color: transparent;\n    bottom: 56px;\n    left: 3px;\n}\n}\n.line-47[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-47-data-v-920bb058 .8s linear 147s;\n          animation: bump-47-data-v-920bb058 .8s linear 147s;\n}\n@-webkit-keyframes bump-47-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 31px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 16px;\n    left: 16px;\n}\n100% {\n    background-color: transparent;\n    bottom: 9px;\n    left: 8px;\n}\n}\n@keyframes bump-47-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 31px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 16px;\n    left: 16px;\n}\n100% {\n    background-color: transparent;\n    bottom: 9px;\n    left: 8px;\n}\n}\n.line-48[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-48-data-v-920bb058 .8s linear 148s;\n          animation: bump-48-data-v-920bb058 .8s linear 148s;\n}\n@-webkit-keyframes bump-48-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 41px;\n    left: 4px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 21px;\n    left: 11px;\n}\n100% {\n    background-color: transparent;\n    bottom: 26px;\n    left: 8px;\n}\n}\n@keyframes bump-48-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 41px;\n    left: 4px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 21px;\n    left: 11px;\n}\n100% {\n    background-color: transparent;\n    bottom: 26px;\n    left: 8px;\n}\n}\n.line-49[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-49-data-v-920bb058 .8s linear 149s;\n          animation: bump-49-data-v-920bb058 .8s linear 149s;\n}\n@-webkit-keyframes bump-49-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 54px;\n    left: 5px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 28px;\n    left: 18px;\n}\n100% {\n    background-color: transparent;\n    bottom: 7px;\n    left: 1px;\n}\n}\n@keyframes bump-49-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 54px;\n    left: 5px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 28px;\n    left: 18px;\n}\n100% {\n    background-color: transparent;\n    bottom: 7px;\n    left: 1px;\n}\n}\n.line-50[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-50-data-v-920bb058 .8s linear 150s;\n          animation: bump-50-data-v-920bb058 .8s linear 150s;\n}\n@-webkit-keyframes bump-50-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 8px;\n    left: 1px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 47px;\n    left: 5px;\n}\n100% {\n    background-color: transparent;\n    bottom: 39px;\n    left: 10px;\n}\n}\n@keyframes bump-50-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 8px;\n    left: 1px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 47px;\n    left: 5px;\n}\n100% {\n    background-color: transparent;\n    bottom: 39px;\n    left: 10px;\n}\n}\n.line-51[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-51-data-v-920bb058 .8s linear 151s;\n          animation: bump-51-data-v-920bb058 .8s linear 151s;\n}\n@-webkit-keyframes bump-51-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 3px;\n    left: 1px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 11px;\n    left: 9px;\n}\n100% {\n    background-color: transparent;\n    bottom: 10px;\n    left: 3px;\n}\n}\n@keyframes bump-51-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 3px;\n    left: 1px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 11px;\n    left: 9px;\n}\n100% {\n    background-color: transparent;\n    bottom: 10px;\n    left: 3px;\n}\n}\n.line-52[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-52-data-v-920bb058 .8s linear 152s;\n          animation: bump-52-data-v-920bb058 .8s linear 152s;\n}\n@-webkit-keyframes bump-52-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 46px;\n    left: 1px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 2px;\n    left: 14px;\n}\n100% {\n    background-color: transparent;\n    bottom: 33px;\n    left: 5px;\n}\n}\n@keyframes bump-52-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 46px;\n    left: 1px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 2px;\n    left: 14px;\n}\n100% {\n    background-color: transparent;\n    bottom: 33px;\n    left: 5px;\n}\n}\n.line-53[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-53-data-v-920bb058 .8s linear 153s;\n          animation: bump-53-data-v-920bb058 .8s linear 153s;\n}\n@-webkit-keyframes bump-53-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 19px;\n    left: 5px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 6px;\n    left: 15px;\n}\n100% {\n    background-color: transparent;\n    bottom: 10px;\n    left: 3px;\n}\n}\n@keyframes bump-53-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 19px;\n    left: 5px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 6px;\n    left: 15px;\n}\n100% {\n    background-color: transparent;\n    bottom: 10px;\n    left: 3px;\n}\n}\n.line-54[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-54-data-v-920bb058 .8s linear 154s;\n          animation: bump-54-data-v-920bb058 .8s linear 154s;\n}\n@-webkit-keyframes bump-54-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 21px;\n    left: 8px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 64px;\n    left: 18px;\n}\n100% {\n    background-color: transparent;\n    bottom: 6px;\n    left: 2px;\n}\n}\n@keyframes bump-54-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 21px;\n    left: 8px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 64px;\n    left: 18px;\n}\n100% {\n    background-color: transparent;\n    bottom: 6px;\n    left: 2px;\n}\n}\n.line-55[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-55-data-v-920bb058 .8s linear 155s;\n          animation: bump-55-data-v-920bb058 .8s linear 155s;\n}\n@-webkit-keyframes bump-55-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 16px;\n    left: 5px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 24px;\n    left: 4px;\n}\n100% {\n    background-color: transparent;\n    bottom: 48px;\n    left: 9px;\n}\n}\n@keyframes bump-55-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 16px;\n    left: 5px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 24px;\n    left: 4px;\n}\n100% {\n    background-color: transparent;\n    bottom: 48px;\n    left: 9px;\n}\n}\n.line-56[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-56-data-v-920bb058 .8s linear 156s;\n          animation: bump-56-data-v-920bb058 .8s linear 156s;\n}\n@-webkit-keyframes bump-56-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 13px;\n    left: 10px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 71px;\n    left: 6px;\n}\n100% {\n    background-color: transparent;\n    bottom: 30px;\n    left: 7px;\n}\n}\n@keyframes bump-56-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 13px;\n    left: 10px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 71px;\n    left: 6px;\n}\n100% {\n    background-color: transparent;\n    bottom: 30px;\n    left: 7px;\n}\n}\n.line-57[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-57-data-v-920bb058 .8s linear 1.257s;\n          animation: bump-57-data-v-920bb058 .8s linear 1.257s;\n}\n@-webkit-keyframes bump-57-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 27px;\n    left: 7px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 58px;\n    left: 8px;\n}\n100% {\n    background-color: transparent;\n    bottom: 32px;\n    left: 2px;\n}\n}\n@keyframes bump-57-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 27px;\n    left: 7px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 58px;\n    left: 8px;\n}\n100% {\n    background-color: transparent;\n    bottom: 32px;\n    left: 2px;\n}\n}\n.line-58[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-58-data-v-920bb058 .8s linear 1.258s;\n          animation: bump-58-data-v-920bb058 .8s linear 1.258s;\n}\n@-webkit-keyframes bump-58-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 20px;\n    left: 7px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 38px;\n    left: 1px;\n}\n100% {\n    background-color: transparent;\n    bottom: 13px;\n    left: 4px;\n}\n}\n@keyframes bump-58-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 20px;\n    left: 7px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 38px;\n    left: 1px;\n}\n100% {\n    background-color: transparent;\n    bottom: 13px;\n    left: 4px;\n}\n}\n.line-59[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-59-data-v-920bb058 .8s linear 1.259s;\n          animation: bump-59-data-v-920bb058 .8s linear 1.259s;\n}\n@-webkit-keyframes bump-59-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 29px;\n    left: 8px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 57px;\n    left: 4px;\n}\n100% {\n    background-color: transparent;\n    bottom: 13px;\n    left: 5px;\n}\n}\n@keyframes bump-59-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 29px;\n    left: 8px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 57px;\n    left: 4px;\n}\n100% {\n    background-color: transparent;\n    bottom: 13px;\n    left: 5px;\n}\n}\n.line-60[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-60-data-v-920bb058 .8s linear 1.26s;\n          animation: bump-60-data-v-920bb058 .8s linear 1.26s;\n}\n@-webkit-keyframes bump-60-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 28px;\n    left: 7px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 25px;\n    left: 9px;\n}\n100% {\n    background-color: transparent;\n    bottom: 8px;\n    left: 4px;\n}\n}\n@keyframes bump-60-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 28px;\n    left: 7px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 25px;\n    left: 9px;\n}\n100% {\n    background-color: transparent;\n    bottom: 8px;\n    left: 4px;\n}\n}\n.line-61[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-61-data-v-920bb058 .8s linear 1.261s;\n          animation: bump-61-data-v-920bb058 .8s linear 1.261s;\n}\n@-webkit-keyframes bump-61-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 16px;\n    left: 1px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 76px;\n    left: 16px;\n}\n100% {\n    background-color: transparent;\n    bottom: 14px;\n    left: 8px;\n}\n}\n@keyframes bump-61-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 16px;\n    left: 1px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 76px;\n    left: 16px;\n}\n100% {\n    background-color: transparent;\n    bottom: 14px;\n    left: 8px;\n}\n}\n.line-62[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-62-data-v-920bb058 .8s linear 1.262s;\n          animation: bump-62-data-v-920bb058 .8s linear 1.262s;\n}\n@-webkit-keyframes bump-62-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 54px;\n    left: 4px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 64px;\n    left: 13px;\n}\n100% {\n    background-color: transparent;\n    bottom: 16px;\n    left: 2px;\n}\n}\n@keyframes bump-62-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 54px;\n    left: 4px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 64px;\n    left: 13px;\n}\n100% {\n    background-color: transparent;\n    bottom: 16px;\n    left: 2px;\n}\n}\n.line-63[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-63-data-v-920bb058 .8s linear 1.263s;\n          animation: bump-63-data-v-920bb058 .8s linear 1.263s;\n}\n@-webkit-keyframes bump-63-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 45px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 75px;\n    left: 14px;\n}\n100% {\n    background-color: transparent;\n    bottom: 23px;\n    left: 8px;\n}\n}\n@keyframes bump-63-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 45px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 75px;\n    left: 14px;\n}\n100% {\n    background-color: transparent;\n    bottom: 23px;\n    left: 8px;\n}\n}\n.line-64[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-64-data-v-920bb058 .8s linear 1.264s;\n          animation: bump-64-data-v-920bb058 .8s linear 1.264s;\n}\n@-webkit-keyframes bump-64-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 20px;\n    left: 8px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 46px;\n    left: 15px;\n}\n100% {\n    background-color: transparent;\n    bottom: 52px;\n    left: 10px;\n}\n}\n@keyframes bump-64-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 20px;\n    left: 8px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 46px;\n    left: 15px;\n}\n100% {\n    background-color: transparent;\n    bottom: 52px;\n    left: 10px;\n}\n}\n.line-65[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-65-data-v-920bb058 .8s linear 1.265s;\n          animation: bump-65-data-v-920bb058 .8s linear 1.265s;\n}\n@-webkit-keyframes bump-65-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 59px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 79px;\n    left: 12px;\n}\n100% {\n    background-color: transparent;\n    bottom: 2px;\n    left: 9px;\n}\n}\n@keyframes bump-65-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 59px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 79px;\n    left: 12px;\n}\n100% {\n    background-color: transparent;\n    bottom: 2px;\n    left: 9px;\n}\n}\n.line-66[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-66-data-v-920bb058 .8s linear 1.266s;\n          animation: bump-66-data-v-920bb058 .8s linear 1.266s;\n}\n@-webkit-keyframes bump-66-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 37px;\n    left: 7px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 5px;\n    left: 19px;\n}\n100% {\n    background-color: transparent;\n    bottom: 25px;\n    left: 7px;\n}\n}\n@keyframes bump-66-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 37px;\n    left: 7px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 5px;\n    left: 19px;\n}\n100% {\n    background-color: transparent;\n    bottom: 25px;\n    left: 7px;\n}\n}\n.line-67[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-67-data-v-920bb058 .8s linear 1.267s;\n          animation: bump-67-data-v-920bb058 .8s linear 1.267s;\n}\n@-webkit-keyframes bump-67-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 35px;\n    left: 3px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 43px;\n    left: 3px;\n}\n100% {\n    background-color: transparent;\n    bottom: 22px;\n    left: 10px;\n}\n}\n@keyframes bump-67-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 35px;\n    left: 3px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 43px;\n    left: 3px;\n}\n100% {\n    background-color: transparent;\n    bottom: 22px;\n    left: 10px;\n}\n}\n.line-68[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-68-data-v-920bb058 .8s linear 1.268s;\n          animation: bump-68-data-v-920bb058 .8s linear 1.268s;\n}\n@-webkit-keyframes bump-68-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 25px;\n    left: 2px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 10px;\n    left: 4px;\n}\n100% {\n    background-color: transparent;\n    bottom: 40px;\n    left: 7px;\n}\n}\n@keyframes bump-68-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 25px;\n    left: 2px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 10px;\n    left: 4px;\n}\n100% {\n    background-color: transparent;\n    bottom: 40px;\n    left: 7px;\n}\n}\n.line-69[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-69-data-v-920bb058 .8s linear 1.269s;\n          animation: bump-69-data-v-920bb058 .8s linear 1.269s;\n}\n@-webkit-keyframes bump-69-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 8px;\n    left: 3px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 3px;\n    left: 5px;\n}\n100% {\n    background-color: transparent;\n    bottom: 32px;\n    left: 2px;\n}\n}\n@keyframes bump-69-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 8px;\n    left: 3px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 3px;\n    left: 5px;\n}\n100% {\n    background-color: transparent;\n    bottom: 32px;\n    left: 2px;\n}\n}\n.line-70[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-70-data-v-920bb058 .8s linear 1.27s;\n          animation: bump-70-data-v-920bb058 .8s linear 1.27s;\n}\n@-webkit-keyframes bump-70-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 33px;\n    left: 2px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 2px;\n    left: 5px;\n}\n100% {\n    background-color: transparent;\n    bottom: 34px;\n    left: 4px;\n}\n}\n@keyframes bump-70-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 33px;\n    left: 2px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 2px;\n    left: 5px;\n}\n100% {\n    background-color: transparent;\n    bottom: 34px;\n    left: 4px;\n}\n}\n.line-71[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-71-data-v-920bb058 .8s linear 1.271s;\n          animation: bump-71-data-v-920bb058 .8s linear 1.271s;\n}\n@-webkit-keyframes bump-71-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 60px;\n    left: 1px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 76px;\n    left: 19px;\n}\n100% {\n    background-color: transparent;\n    bottom: 26px;\n    left: 6px;\n}\n}\n@keyframes bump-71-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 60px;\n    left: 1px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 76px;\n    left: 19px;\n}\n100% {\n    background-color: transparent;\n    bottom: 26px;\n    left: 6px;\n}\n}\n.line-72[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-72-data-v-920bb058 .8s linear 1.272s;\n          animation: bump-72-data-v-920bb058 .8s linear 1.272s;\n}\n@-webkit-keyframes bump-72-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 11px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 30px;\n    left: 19px;\n}\n100% {\n    background-color: transparent;\n    bottom: 10px;\n    left: 6px;\n}\n}\n@keyframes bump-72-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 11px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 30px;\n    left: 19px;\n}\n100% {\n    background-color: transparent;\n    bottom: 10px;\n    left: 6px;\n}\n}\n.line-73[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-73-data-v-920bb058 .8s linear 1.273s;\n          animation: bump-73-data-v-920bb058 .8s linear 1.273s;\n}\n@-webkit-keyframes bump-73-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 30px;\n    left: 1px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 78px;\n    left: 8px;\n}\n100% {\n    background-color: transparent;\n    bottom: 48px;\n    left: 8px;\n}\n}\n@keyframes bump-73-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 30px;\n    left: 1px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 78px;\n    left: 8px;\n}\n100% {\n    background-color: transparent;\n    bottom: 48px;\n    left: 8px;\n}\n}\n.line-74[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-74-data-v-920bb058 .8s linear 1.274s;\n          animation: bump-74-data-v-920bb058 .8s linear 1.274s;\n}\n@-webkit-keyframes bump-74-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 23px;\n    left: 6px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 45px;\n    left: 8px;\n}\n100% {\n    background-color: transparent;\n    bottom: 4px;\n    left: 9px;\n}\n}\n@keyframes bump-74-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 23px;\n    left: 6px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 45px;\n    left: 8px;\n}\n100% {\n    background-color: transparent;\n    bottom: 4px;\n    left: 9px;\n}\n}\n.line-75[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-75-data-v-920bb058 .8s linear 1.275s;\n          animation: bump-75-data-v-920bb058 .8s linear 1.275s;\n}\n@-webkit-keyframes bump-75-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 23px;\n    left: 5px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 5px;\n    left: 6px;\n}\n100% {\n    background-color: transparent;\n    bottom: 57px;\n    left: 2px;\n}\n}\n@keyframes bump-75-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 23px;\n    left: 5px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 5px;\n    left: 6px;\n}\n100% {\n    background-color: transparent;\n    bottom: 57px;\n    left: 2px;\n}\n}\n.line-76[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-76-data-v-920bb058 .8s linear 1.276s;\n          animation: bump-76-data-v-920bb058 .8s linear 1.276s;\n}\n@-webkit-keyframes bump-76-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 33px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 36px;\n    left: 14px;\n}\n100% {\n    background-color: transparent;\n    bottom: 25px;\n    left: 6px;\n}\n}\n@keyframes bump-76-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 33px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 36px;\n    left: 14px;\n}\n100% {\n    background-color: transparent;\n    bottom: 25px;\n    left: 6px;\n}\n}\n#line-group[data-v-920bb058] {\n  position: absolute;\n  top: 50%;\n  left: 0;\n  width: 100%;\n  height: 100%;\n}\n", ""]);
 
 // exports
 
@@ -6130,7 +6181,7 @@ exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loa
 
 
 // module
-exports.push([module.i, ".hero-concept[data-v-0fe82c5b] {\n  background: url(\"/hero/hero_bg_beauty.jpg\") center center/cover no-repeat;\n  height: 360px;\n  margin-top: -165px;\n}\n.svg-concept[data-v-0fe82c5b] {\n  overflow: visible;\n  height: 86px;\n  margin-top: -30px;\n  font-family: \"sofia-pro-condensed\", sans-serif;\n  font-size: 86px;\n  line-height: 1;\n  letter-spacing: .2em;\n}\n.svg-concept text[data-v-0fe82c5b] {\n  fill: rgba(255, 255, 255, 0);\n  stroke: #333;\n  stroke-width: .8;\n  stroke-linejoin: round;\n  font-family: \"sofia-pro-condensed\", sans-serif;\n  line-height: 1;\n}\n.sub-title[data-v-0fe82c5b] {\n  position: absolute;\n  top: 0;\n  left: 50%;\n  -webkit-transform: translate(-50%, -50%);\n          transform: translate(-50%, -50%);\n}\n.tw-title[data-v-0fe82c5b] {\n  background: url(\"/icon/left_top.svg\") left top/10px 10px no-repeat, url(\"/icon/right_top.svg\") right top/10px 8px no-repeat, url(\"/icon/left_bottom.svg\") left bottom/10px 10px no-repeat, url(\"/icon/right_bottom.svg\") right bottom/10px 8px no-repeat, url(\"/icon/dot.png\") top left/6px 6px repeat;\n}\n.tw-price-table[data-v-0fe82c5b] {\n  font-size: .875rem;\n  line-height: 2;\n  letter-spacing: .2em;\n}\n.tw-price-table tr[data-v-0fe82c5b] {\n  border-bottom-width: 1px;\n  border-color: #dae1e7;\n}\n.tw-price-table tr span[data-v-0fe82c5b] {\n  font-weight: 300;\n  line-height: 1;\n}\n.tw-price-table tr[data-v-0fe82c5b]:last-child {\n  border-style: none;\n}\n.tw-price-table th[data-v-0fe82c5b] {\n  text-align: left;\n  padding: 1rem;\n}\n.tw-price-table td[data-v-0fe82c5b] {\n  text-align: center;\n  padding: 1rem;\n}\n.tw-icon[data-v-0fe82c5b] {\n  flex: 0 0 135px;\n}\n.tw-flex-size[data-v-0fe82c5b] {\n  flex-grow: 1;\n  flex-basis: 0;\n}\n.tw-center[data-v-0fe82c5b] {\n  position: absolute;\n  top: -40%;\n  left: 50%;\n  -webkit-transform: translateX(-50%);\n          transform: translateX(-50%);\n  background-color: #fff;\n  padding: 0 40px;\n  font-weight: bold;\n}\n.tw-name[data-v-0fe82c5b]:before {\n  content: \"(\";\n  position: absolute;\n  left: 0;\n}\n.tw-name[data-v-0fe82c5b]:after {\n  content: \")\";\n  position: absolute;\n  right: 0;\n}\n", ""]);
+exports.push([module.i, ".sub-title[data-v-0fe82c5b] {\n  position: absolute;\n  top: 0;\n  left: 50%;\n  -webkit-transform: translate(-50%, -50%);\n          transform: translate(-50%, -50%);\n}\n.tw-title[data-v-0fe82c5b] {\n  background: url(\"/icon/left_top.svg\") left top/10px 10px no-repeat, url(\"/icon/right_top.svg\") right top/10px 8px no-repeat, url(\"/icon/left_bottom.svg\") left bottom/10px 10px no-repeat, url(\"/icon/right_bottom.svg\") right bottom/10px 8px no-repeat, url(\"/icon/dot.png\") top left/6px 6px repeat;\n}\n.tw-price-table[data-v-0fe82c5b] {\n  font-size: .875rem;\n  line-height: 2;\n  letter-spacing: .2em;\n}\n.tw-price-table tr[data-v-0fe82c5b] {\n  border-bottom-width: 1px;\n  border-color: #dae1e7;\n}\n.tw-price-table tr span[data-v-0fe82c5b] {\n  font-weight: 300;\n  line-height: 1;\n}\n.tw-price-table tr[data-v-0fe82c5b]:last-child {\n  border-style: none;\n}\n.tw-price-table th[data-v-0fe82c5b] {\n  text-align: left;\n  padding: 1rem;\n}\n.tw-price-table td[data-v-0fe82c5b] {\n  text-align: center;\n  padding: 1rem;\n}\n.tw-icon[data-v-0fe82c5b] {\n  flex: 0 0 135px;\n}\n.tw-flex-size[data-v-0fe82c5b] {\n  flex-grow: 1;\n  flex-basis: 0;\n}\n.tw-center[data-v-0fe82c5b] {\n  position: absolute;\n  top: -40%;\n  left: 50%;\n  -webkit-transform: translateX(-50%);\n          transform: translateX(-50%);\n  background-color: #fff;\n  padding: 0 40px;\n  font-weight: bold;\n}\n.tw-name[data-v-0fe82c5b]:before {\n  content: \"(\";\n  position: absolute;\n  left: 0;\n}\n.tw-name[data-v-0fe82c5b]:after {\n  content: \")\";\n  position: absolute;\n  right: 0;\n}\n", ""]);
 
 // exports
 
@@ -6149,7 +6200,7 @@ exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loa
 
 
 // module
-exports.push([module.i, ".hero-concept[data-v-21659a99] {\n  background: url(\"/hero/hero_bg_concept.jpg\") center center/cover no-repeat;\n  height: 360px;\n  margin-top: -165px;\n}\n.svg-concept[data-v-21659a99] {\n  overflow: visible;\n  height: 86px;\n  margin-top: -30px;\n  font-family: \"sofia-pro-condensed\", sans-serif;\n  font-size: 86px;\n  line-height: 1;\n  letter-spacing: .2em;\n}\n.svg-concept text[data-v-21659a99] {\n  fill: rgba(255, 255, 255, 0);\n  stroke: #333;\n  stroke-width: .8;\n  stroke-linejoin: round;\n  font-family: \"sofia-pro-condensed\", sans-serif;\n  line-height: 1;\n}\n.tw-describe[data-v-21659a99]:after {\n  content: \"\";\n  position: absolute;\n  top: 25%;\n  left: -5%;\n  background-color: #e8eff1;\n  width: 105%;\n  height: 60%;\n  z-index: -1;\n}\n.tw-title[data-v-21659a99] {\n  background: url(\"/icon/left_top.svg\") left top/10px 10px no-repeat, url(\"/icon/right_top.svg\") right top/10px 8px no-repeat, url(\"/icon/left_bottom.svg\") left bottom/10px 10px no-repeat, url(\"/icon/right_bottom.svg\") right bottom/10px 8px no-repeat, url(\"/icon/dot.png\") top left/6px 6px repeat;\n}\n", ""]);
+exports.push([module.i, ".tw-describe[data-v-21659a99]:after {\n  content: \"\";\n  position: absolute;\n  top: 25%;\n  left: -5%;\n  background-color: #e8eff1;\n  width: 105%;\n  height: 60%;\n  z-index: -1;\n}\n.tw-title[data-v-21659a99] {\n  background: url(\"/icon/left_top.svg\") left top/10px 10px no-repeat, url(\"/icon/right_top.svg\") right top/10px 8px no-repeat, url(\"/icon/left_bottom.svg\") left bottom/10px 10px no-repeat, url(\"/icon/right_bottom.svg\") right bottom/10px 8px no-repeat, url(\"/icon/dot.png\") top left/6px 6px repeat;\n}\n", ""]);
 
 // exports
 
@@ -6187,7 +6238,7 @@ exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loa
 
 
 // module
-exports.push([module.i, ".hero-concept[data-v-71d1a504] {\n  background: url(\"/hero/hero_bg_menu_and_price.jpg\") center center/cover no-repeat;\n  height: 360px;\n  margin-top: -165px;\n}\n.svg-concept[data-v-71d1a504] {\n  overflow: visible;\n  height: 86px;\n  margin-top: -30px;\n  font-family: \"sofia-pro-condensed\", sans-serif;\n  font-size: 86px;\n  line-height: 1;\n  letter-spacing: .2em;\n}\n.svg-concept text[data-v-71d1a504] {\n  fill: rgba(255, 255, 255, 0);\n  stroke: #333;\n  stroke-width: .8;\n  stroke-linejoin: round;\n  font-family: \"sofia-pro-condensed\", sans-serif;\n  line-height: 1;\n}\n.tw-header[data-v-71d1a504]:after {\n  position: absolute;\n  content: \"\";\n  left: 0;\n  bottom: 15%;\n  width: 15%;\n  height: 1px;\n  background: #000;\n}\n", ""]);
+exports.push([module.i, ".tw-header[data-v-71d1a504]:after {\n  position: absolute;\n  content: \"\";\n  left: 0;\n  bottom: 15%;\n  width: 15%;\n  height: 1px;\n  background: #000;\n}\n", ""]);
 
 // exports
 
@@ -6206,7 +6257,7 @@ exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loa
 
 
 // module
-exports.push([module.i, ".hero-concept[data-v-52585eb5] {\n  background: url(\"/hero/hero_bg_nail.jpg\") center center/cover no-repeat;\n  height: 360px;\n  margin-top: -165px;\n}\n.svg-concept[data-v-52585eb5] {\n  overflow: visible;\n  height: 86px;\n  margin-top: -30px;\n  font-family: \"sofia-pro-condensed\", sans-serif;\n  font-size: 86px;\n  line-height: 1;\n  letter-spacing: .2em;\n}\n.svg-concept text[data-v-52585eb5] {\n  fill: rgba(255, 255, 255, 0);\n  stroke: #333;\n  stroke-width: .8;\n  stroke-linejoin: round;\n  font-family: \"sofia-pro-condensed\", sans-serif;\n  line-height: 1;\n}\n.tw-title[data-v-52585eb5] {\n  background: url(\"/icon/left_top.svg\") left top/10px 10px no-repeat, url(\"/icon/right_top.svg\") right top/10px 8px no-repeat, url(\"/icon/left_bottom.svg\") left bottom/10px 10px no-repeat, url(\"/icon/right_bottom.svg\") right bottom/10px 8px no-repeat, url(\"/icon/dot.png\") top left/6px 6px repeat;\n}\n.sub-title[data-v-52585eb5] {\n  position: absolute;\n  top: 30%;\n  left: 50%;\n  -webkit-transform: translateX(-50%);\n          transform: translateX(-50%);\n}\n", ""]);
+exports.push([module.i, ".tw-title[data-v-52585eb5] {\n  background: url(\"/icon/left_top.svg\") left top/10px 10px no-repeat, url(\"/icon/right_top.svg\") right top/10px 8px no-repeat, url(\"/icon/left_bottom.svg\") left bottom/10px 10px no-repeat, url(\"/icon/right_bottom.svg\") right bottom/10px 8px no-repeat, url(\"/icon/dot.png\") top left/6px 6px repeat;\n}\n.sub-title[data-v-52585eb5] {\n  position: absolute;\n  top: 30%;\n  left: 50%;\n  -webkit-transform: translateX(-50%);\n          transform: translateX(-50%);\n}\n", ""]);
 
 // exports
 
@@ -6225,7 +6276,7 @@ exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loa
 
 
 // module
-exports.push([module.i, ".hero-concept[data-v-49a04c6f] {\n  background: url(\"/hero/hero_bg_concept.jpg\") center center/cover no-repeat;\n  height: 360px;\n  margin-top: -165px;\n}\n.svg-concept[data-v-49a04c6f] {\n  overflow: visible;\n  height: 86px;\n  margin-top: -30px;\n  font-family: \"sofia-pro-condensed\", sans-serif;\n  font-size: 86px;\n  line-height: 1;\n  letter-spacing: .2em;\n}\n.svg-concept text[data-v-49a04c6f] {\n  fill: rgba(255, 255, 255, 0);\n  stroke: #333;\n  stroke-width: .8;\n  stroke-linejoin: round;\n  font-family: \"sofia-pro-condensed\", sans-serif;\n  line-height: 1;\n}\n.tw-recruit[data-v-49a04c6f] {\n  width: 50%;\n  padding: 2rem;\n  border-top-width: 1px;\n  border-color: #dae1e7;\n  margin-right: 1rem;\n  font-size: .875rem;\n  color: #3d4852;\n  position: relative;\n}\n.tw-recruit[data-v-49a04c6f]:after {\n  content: \"\";\n  position: absolute;\n  background: url(\"/icon/harpoon.png\") right center/12px 4px no-repeat;\n  width: 20px;\n  height: 4px;\n  right: 8px;\n  top: 50%;\n  -webkit-transform: translateY(-50%);\n          transform: translateY(-50%);\n}\n.tw-title[data-v-49a04c6f] {\n  background: url(\"/icon/left_top.svg\") left top/10px 10px no-repeat, url(\"/icon/right_top.svg\") right top/10px 8px no-repeat, url(\"/icon/left_bottom.svg\") left bottom/10px 10px no-repeat, url(\"/icon/right_bottom.svg\") right bottom/10px 8px no-repeat, url(\"/icon/dot.png\") top left/6px 6px repeat;\n}\n.tw-name[data-v-49a04c6f]:before {\n  content: \"(\";\n  position: absolute;\n  left: 0;\n}\n.tw-name[data-v-49a04c6f]:after {\n  content: \")\";\n  position: absolute;\n  right: 0;\n}\n", ""]);
+exports.push([module.i, ".tw-recruit[data-v-49a04c6f] {\n  width: 50%;\n  padding: 2rem;\n  border-top-width: 1px;\n  border-color: #dae1e7;\n  margin-right: 1rem;\n  font-size: .875rem;\n  color: #3d4852;\n  position: relative;\n}\n.tw-recruit[data-v-49a04c6f]:after {\n  content: \"\";\n  position: absolute;\n  background: url(\"/icon/harpoon.png\") right center/12px 4px no-repeat;\n  width: 20px;\n  height: 4px;\n  right: 8px;\n  top: 50%;\n  -webkit-transform: translateY(-50%);\n          transform: translateY(-50%);\n}\n.tw-title[data-v-49a04c6f] {\n  background: url(\"/icon/left_top.svg\") left top/10px 10px no-repeat, url(\"/icon/right_top.svg\") right top/10px 8px no-repeat, url(\"/icon/left_bottom.svg\") left bottom/10px 10px no-repeat, url(\"/icon/right_bottom.svg\") right bottom/10px 8px no-repeat, url(\"/icon/dot.png\") top left/6px 6px repeat;\n}\n.tw-name[data-v-49a04c6f]:before {\n  content: \"(\";\n  position: absolute;\n  left: 0;\n}\n.tw-name[data-v-49a04c6f]:after {\n  content: \")\";\n  position: absolute;\n  right: 0;\n}\n", ""]);
 
 // exports
 
@@ -6244,7 +6295,7 @@ exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loa
 
 
 // module
-exports.push([module.i, ".hero-concept[data-v-f57feba4] {\n  background: url(\"/hero/hero_bg_salon.jpg\") center center/cover no-repeat;\n  height: 360px;\n  margin-top: -165px;\n}\n.svg-concept[data-v-f57feba4] {\n  overflow: visible;\n  height: 86px;\n  margin-top: -30px;\n  font-family: \"sofia-pro-condensed\", sans-serif;\n  font-size: 86px;\n  line-height: 1;\n  letter-spacing: .2em;\n}\n.svg-concept text[data-v-f57feba4] {\n  fill: rgba(255, 255, 255, 0);\n  stroke: #333;\n  stroke-width: .8;\n  stroke-linejoin: round;\n  font-family: \"sofia-pro-condensed\", sans-serif;\n  line-height: 1;\n}\n.tw-header[data-v-f57feba4]:after {\n  position: absolute;\n  content: \"\";\n  left: 0;\n  bottom: 15%;\n  width: 15%;\n  height: 1px;\n  background-color: #000;\n}\n.text-gold.tw-header[data-v-f57feba4]:after {\n  background-color: #c3b282;\n}\n.text-blue-lighter.tw-header[data-v-f57feba4]:after {\n  background-color: #629dae;\n}\n.tw-base[data-v-f57feba4] {\n  content: \"\";\n  position: absolute;\n  top: 50%;\n  left: 0;\n  -webkit-transform: translateY(-50%);\n          transform: translateY(-50%);\n  width: 100vw;\n  height: 50%;\n  z-index: -2;\n}\n.tw-border[data-v-f57feba4] {\n  position: absolute;\n  top: 51.5%;\n  left: 51.5%;\n  -webkit-transform: translate(-50%, -50%);\n          transform: translate(-50%, -50%);\n  width: 100%;\n  height: 100%;\n  z-index: -1;\n}\n.tw-color-blue[data-v-f57feba4] {\n  border-right: 1px solid #3b587e;\n  border-bottom: 1px solid #3b587e;\n}\n.tw-color-blue-lighter[data-v-f57feba4] {\n  border-right: 1px solid #629dae;\n  border-bottom: 1px solid #629dae;\n}\n.tw-color-yellow[data-v-f57feba4] {\n  border-right: 1px solid #c3b282;\n  border-bottom: 1px solid #c3b282;\n}\n", ""]);
+exports.push([module.i, ".tw-header[data-v-f57feba4]:after {\n  position: absolute;\n  content: \"\";\n  left: 0;\n  bottom: 15%;\n  width: 15%;\n  height: 1px;\n  background-color: #000;\n}\n.text-gold.tw-header[data-v-f57feba4]:after {\n  background-color: #c3b282;\n}\n.text-blue-lighter.tw-header[data-v-f57feba4]:after {\n  background-color: #629dae;\n}\n.tw-base[data-v-f57feba4] {\n  content: \"\";\n  position: absolute;\n  top: 50%;\n  left: 0;\n  -webkit-transform: translateY(-50%);\n          transform: translateY(-50%);\n  width: 100vw;\n  height: 50%;\n  z-index: -2;\n}\n.tw-border[data-v-f57feba4] {\n  position: absolute;\n  top: 51.5%;\n  left: 51.5%;\n  -webkit-transform: translate(-50%, -50%);\n          transform: translate(-50%, -50%);\n  width: 100%;\n  height: 100%;\n  z-index: -1;\n}\n.tw-color-blue[data-v-f57feba4] {\n  border-right: 1px solid #3b587e;\n  border-bottom: 1px solid #3b587e;\n}\n.tw-color-blue-lighter[data-v-f57feba4] {\n  border-right: 1px solid #629dae;\n  border-bottom: 1px solid #629dae;\n}\n.tw-color-yellow[data-v-f57feba4] {\n  border-right: 1px solid #c3b282;\n  border-bottom: 1px solid #c3b282;\n}\n", ""]);
 
 // exports
 
@@ -6263,7 +6314,7 @@ exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loa
 
 
 // module
-exports.push([module.i, ".hero-voice[data-v-3cb21ea3] {\n  background: url(\"/hero/hero_bg_voice.jpg\") center center/cover no-repeat;\n  height: 360px;\n  margin-top: -165px;\n}\n.svg-concept[data-v-3cb21ea3] {\n  overflow: visible;\n  height: 86px;\n  margin-top: -30px;\n  font-family: \"sofia-pro-condensed\", sans-serif;\n  font-size: 86px;\n  line-height: 1;\n  letter-spacing: .2em;\n}\n.svg-concept text[data-v-3cb21ea3] {\n  fill: rgba(255, 255, 255, 0);\n  stroke: #333;\n  stroke-width: .8;\n  stroke-linejoin: round;\n  font-family: \"sofia-pro-condensed\", sans-serif;\n  line-height: 1;\n}\n.sub-title[data-v-3cb21ea3] {\n  position: absolute;\n  top: 0;\n  left: 50%;\n  -webkit-transform: translate(-50%, -50%);\n          transform: translate(-50%, -50%);\n}\n.tw-title[data-v-3cb21ea3] {\n  background: url(/icon/left_top.svg) left top/10px 10px no-repeat, url(/icon/right_top.svg) right top/10px 8px no-repeat, url(/icon/left_bottom.svg) left bottom/10px 10px no-repeat, url(/icon/right_bottom.svg) right bottom/10px 8px no-repeat, url(/icon/dot.png) top left/6px 6px repeat;\n}\n.tw-name[data-v-3cb21ea3]:before {\n  content: \"(\";\n  position: absolute;\n  left: 0;\n}\n.tw-name[data-v-3cb21ea3]:after {\n  content: \")\";\n  position: absolute;\n  right: 0;\n}\n.ref-title[data-v-3cb21ea3] {\n  position: absolute;\n  top: 20px;\n  left: 0;\n}\n", ""]);
+exports.push([module.i, ".sub-title[data-v-3cb21ea3] {\n  position: absolute;\n  top: 0;\n  left: 50%;\n  -webkit-transform: translate(-50%, -50%);\n          transform: translate(-50%, -50%);\n}\n.tw-title[data-v-3cb21ea3] {\n  background: url(/icon/left_top.svg) left top/10px 10px no-repeat, url(/icon/right_top.svg) right top/10px 8px no-repeat, url(/icon/left_bottom.svg) left bottom/10px 10px no-repeat, url(/icon/right_bottom.svg) right bottom/10px 8px no-repeat, url(/icon/dot.png) top left/6px 6px repeat;\n}\n.tw-name[data-v-3cb21ea3]:before {\n  content: \"(\";\n  position: absolute;\n  left: 0;\n}\n.tw-name[data-v-3cb21ea3]:after {\n  content: \")\";\n  position: absolute;\n  right: 0;\n}\n.ref-title[data-v-3cb21ea3] {\n  position: absolute;\n  top: 20px;\n  left: 0;\n}\n", ""]);
 
 // exports
 
@@ -6282,7 +6333,7 @@ exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loa
 
 
 // module
-exports.push([module.i, ".hero-concept[data-v-45ce653d] {\n  background: url(\"/hero/hero_bg_beauty.jpg\") center center/cover no-repeat;\n  height: 360px;\n  margin-top: -165px;\n}\n.svg-concept[data-v-45ce653d] {\n  overflow: visible;\n  height: 86px;\n  margin-top: -30px;\n  font-family: \"sofia-pro-condensed\", sans-serif;\n  font-size: 86px;\n  line-height: 1;\n  letter-spacing: .2em;\n}\n.svg-concept text[data-v-45ce653d] {\n  fill: rgba(255, 255, 255, 0);\n  stroke: #333;\n  stroke-width: .8;\n  stroke-linejoin: round;\n  font-family: \"sofia-pro-condensed\", sans-serif;\n  line-height: 1;\n}\n.sub-title[data-v-45ce653d] {\n  position: absolute;\n  top: 30%;\n  left: 50%;\n  -webkit-transform: translate(-50%, -50%);\n          transform: translate(-50%, -50%);\n}\n.tw-flex-size[data-v-45ce653d] {\n  flex-grow: 1;\n  flex-basis: 0;\n}\n.tw-title[data-v-45ce653d] {\n  background: url(\"/icon/left_top.svg\") left top/10px 10px no-repeat, url(\"/icon/right_top.svg\") right top/10px 8px no-repeat, url(\"/icon/left_bottom.svg\") left bottom/10px 10px no-repeat, url(\"/icon/right_bottom.svg\") right bottom/10px 8px no-repeat, url(\"/icon/dot.png\") top left/6px 6px repeat;\n}\n.tw-price-table[data-v-45ce653d] {\n  font-size: .875rem;\n  line-height: 2;\n  letter-spacing: .2em;\n}\n.tw-price-table tr[data-v-45ce653d] {\n  border-bottom-width: 1px;\n  border-color: #dae1e7;\n}\n.tw-price-table tr span[data-v-45ce653d] {\n  font-weight: 300;\n  line-height: 1;\n}\n.tw-price-table tr[data-v-45ce653d]:last-child {\n  border-style: none;\n}\n.tw-price-table th[data-v-45ce653d] {\n  text-align: left;\n  padding: 1rem;\n}\n.tw-price-table td[data-v-45ce653d] {\n  text-align: center;\n  padding: 1rem;\n}\n.tw-name[data-v-45ce653d]:before {\n  content: \"(\";\n  position: absolute;\n  left: 0;\n}\n.tw-name[data-v-45ce653d]:after {\n  content: \")\";\n  position: absolute;\n  right: 0;\n}\n", ""]);
+exports.push([module.i, ".sub-title[data-v-45ce653d] {\n  position: absolute;\n  top: 30%;\n  left: 50%;\n  -webkit-transform: translate(-50%, -50%);\n          transform: translate(-50%, -50%);\n}\n.tw-flex-size[data-v-45ce653d] {\n  flex-grow: 1;\n  flex-basis: 0;\n}\n.tw-title[data-v-45ce653d] {\n  background: url(\"/icon/left_top.svg\") left top/10px 10px no-repeat, url(\"/icon/right_top.svg\") right top/10px 8px no-repeat, url(\"/icon/left_bottom.svg\") left bottom/10px 10px no-repeat, url(\"/icon/right_bottom.svg\") right bottom/10px 8px no-repeat, url(\"/icon/dot.png\") top left/6px 6px repeat;\n}\n.tw-price-table[data-v-45ce653d] {\n  font-size: .875rem;\n  line-height: 2;\n  letter-spacing: .2em;\n}\n.tw-price-table tr[data-v-45ce653d] {\n  border-bottom-width: 1px;\n  border-color: #dae1e7;\n}\n.tw-price-table tr span[data-v-45ce653d] {\n  font-weight: 300;\n  line-height: 1;\n}\n.tw-price-table tr[data-v-45ce653d]:last-child {\n  border-style: none;\n}\n.tw-price-table th[data-v-45ce653d] {\n  text-align: left;\n  padding: 1rem;\n}\n.tw-price-table td[data-v-45ce653d] {\n  text-align: center;\n  padding: 1rem;\n}\n.tw-name[data-v-45ce653d]:before {\n  content: \"(\";\n  position: absolute;\n  left: 0;\n}\n.tw-name[data-v-45ce653d]:after {\n  content: \")\";\n  position: absolute;\n  right: 0;\n}\n", ""]);
 
 // exports
 
@@ -6301,7 +6352,7 @@ exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loa
 
 
 // module
-exports.push([module.i, ".hero-concept[data-v-755c2056] {\n  background: url(\"/hero/hero_bg_beauty.jpg\") center center/cover no-repeat;\n  height: 360px;\n  margin-top: -165px;\n}\n.svg-concept[data-v-755c2056] {\n  overflow: visible;\n  height: 86px;\n  margin-top: -30px;\n  font-family: \"sofia-pro-condensed\", sans-serif;\n  font-size: 86px;\n  line-height: 1;\n  letter-spacing: .2em;\n}\n.svg-concept text[data-v-755c2056] {\n  fill: rgba(255, 255, 255, 0);\n  stroke: #333;\n  stroke-width: .8;\n  stroke-linejoin: round;\n  font-family: \"sofia-pro-condensed\", sans-serif;\n  line-height: 1;\n}\n.sub-title[data-v-755c2056] {\n  position: absolute;\n  top: 30%;\n  left: 50%;\n  -webkit-transform: translate(-50%, -50%);\n          transform: translate(-50%, -50%);\n}\n.tw-title[data-v-755c2056] {\n  background: url(\"/icon/left_top.svg\") left top/10px 10px no-repeat, url(\"/icon/right_top.svg\") right top/10px 8px no-repeat, url(\"/icon/left_bottom.svg\") left bottom/10px 10px no-repeat, url(\"/icon/right_bottom.svg\") right bottom/10px 8px no-repeat, url(\"/icon/dot.png\") top left/6px 6px repeat;\n}\n.tw-price-table[data-v-755c2056] {\n  font-size: .875rem;\n  line-height: 2;\n  letter-spacing: .2em;\n}\n.tw-price-table tr[data-v-755c2056] {\n  border-bottom-width: 1px;\n  border-color: #dae1e7;\n}\n.tw-price-table tr span[data-v-755c2056] {\n  font-weight: 300;\n  line-height: 1;\n}\n.tw-price-table tr[data-v-755c2056]:last-child {\n  border-style: none;\n}\n.tw-price-table th[data-v-755c2056] {\n  text-align: left;\n  padding: 1rem;\n}\n.tw-price-table td[data-v-755c2056] {\n  text-align: center;\n  padding: 1rem;\n}\n.tw-name[data-v-755c2056]:before {\n  content: \"(\";\n  position: absolute;\n  left: 0;\n}\n.tw-name[data-v-755c2056]:after {\n  content: \")\";\n  position: absolute;\n  right: 0;\n}\n", ""]);
+exports.push([module.i, ".sub-title[data-v-755c2056] {\n  position: absolute;\n  top: 30%;\n  left: 50%;\n  -webkit-transform: translate(-50%, -50%);\n          transform: translate(-50%, -50%);\n}\n.tw-title[data-v-755c2056] {\n  background: url(\"/icon/left_top.svg\") left top/10px 10px no-repeat, url(\"/icon/right_top.svg\") right top/10px 8px no-repeat, url(\"/icon/left_bottom.svg\") left bottom/10px 10px no-repeat, url(\"/icon/right_bottom.svg\") right bottom/10px 8px no-repeat, url(\"/icon/dot.png\") top left/6px 6px repeat;\n}\n.tw-price-table[data-v-755c2056] {\n  font-size: .875rem;\n  line-height: 2;\n  letter-spacing: .2em;\n}\n.tw-price-table tr[data-v-755c2056] {\n  border-bottom-width: 1px;\n  border-color: #dae1e7;\n}\n.tw-price-table tr span[data-v-755c2056] {\n  font-weight: 300;\n  line-height: 1;\n}\n.tw-price-table tr[data-v-755c2056]:last-child {\n  border-style: none;\n}\n.tw-price-table th[data-v-755c2056] {\n  text-align: left;\n  padding: 1rem;\n}\n.tw-price-table td[data-v-755c2056] {\n  text-align: center;\n  padding: 1rem;\n}\n.tw-name[data-v-755c2056]:before {\n  content: \"(\";\n  position: absolute;\n  left: 0;\n}\n.tw-name[data-v-755c2056]:after {\n  content: \")\";\n  position: absolute;\n  right: 0;\n}\n", ""]);
 
 // exports
 
@@ -6320,7 +6371,7 @@ exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loa
 
 
 // module
-exports.push([module.i, ".hero-concept[data-v-7f70aba8] {\n  background: url(\"/hero/hero_bg_beauty.jpg\") center center/cover no-repeat;\n  height: 360px;\n  margin-top: -165px;\n}\n.svg-concept[data-v-7f70aba8] {\n  overflow: visible;\n  height: 86px;\n  margin-top: -30px;\n  font-family: \"sofia-pro-condensed\", sans-serif;\n  font-size: 86px;\n  line-height: 1;\n  letter-spacing: .2em;\n}\n.svg-concept text[data-v-7f70aba8] {\n  fill: rgba(255, 255, 255, 0);\n  stroke: #333;\n  stroke-width: .8;\n  stroke-linejoin: round;\n  font-family: \"sofia-pro-condensed\", sans-serif;\n  line-height: 1;\n}\n.sub-title[data-v-7f70aba8] {\n  position: absolute;\n  top: 0;\n  left: 50%;\n  -webkit-transform: translate(-50%, -50%);\n          transform: translate(-50%, -50%);\n}\n.tw-title[data-v-7f70aba8] {\n  background: url(\"/icon/left_top.svg\") left top/10px 10px no-repeat, url(\"/icon/right_top.svg\") right top/10px 8px no-repeat, url(\"/icon/left_bottom.svg\") left bottom/10px 10px no-repeat, url(\"/icon/right_bottom.svg\") right bottom/10px 8px no-repeat, url(\"/icon/dot.png\") top left/6px 6px repeat;\n}\n.tw-price-table[data-v-7f70aba8] {\n  font-size: .875rem;\n  line-height: 2;\n  letter-spacing: .2em;\n}\n.tw-price-table tr[data-v-7f70aba8] {\n  border-bottom-width: 1px;\n  border-color: #dae1e7;\n}\n.tw-price-table tr span[data-v-7f70aba8] {\n  font-weight: 300;\n  line-height: 1;\n}\n.tw-price-table tr[data-v-7f70aba8]:last-child {\n  border-style: none;\n}\n.tw-price-table th[data-v-7f70aba8] {\n  text-align: left;\n  padding: 1rem;\n}\n.tw-price-table td[data-v-7f70aba8] {\n  text-align: center;\n  padding: 1rem;\n}\n.tw-name[data-v-7f70aba8]:before {\n  content: \"(\";\n  position: absolute;\n  left: 0;\n}\n.tw-name[data-v-7f70aba8]:after {\n  content: \")\";\n  position: absolute;\n  right: 0;\n}\n", ""]);
+exports.push([module.i, ".sub-title[data-v-7f70aba8] {\n  position: absolute;\n  top: 0;\n  left: 50%;\n  -webkit-transform: translate(-50%, -50%);\n          transform: translate(-50%, -50%);\n}\n.tw-title[data-v-7f70aba8] {\n  background: url(\"/icon/left_top.svg\") left top/10px 10px no-repeat, url(\"/icon/right_top.svg\") right top/10px 8px no-repeat, url(\"/icon/left_bottom.svg\") left bottom/10px 10px no-repeat, url(\"/icon/right_bottom.svg\") right bottom/10px 8px no-repeat, url(\"/icon/dot.png\") top left/6px 6px repeat;\n}\n.tw-price-table[data-v-7f70aba8] {\n  font-size: .875rem;\n  line-height: 2;\n  letter-spacing: .2em;\n}\n.tw-price-table tr[data-v-7f70aba8] {\n  border-bottom-width: 1px;\n  border-color: #dae1e7;\n}\n.tw-price-table tr span[data-v-7f70aba8] {\n  font-weight: 300;\n  line-height: 1;\n}\n.tw-price-table tr[data-v-7f70aba8]:last-child {\n  border-style: none;\n}\n.tw-price-table th[data-v-7f70aba8] {\n  text-align: left;\n  padding: 1rem;\n}\n.tw-price-table td[data-v-7f70aba8] {\n  text-align: center;\n  padding: 1rem;\n}\n.tw-name[data-v-7f70aba8]:before {\n  content: \"(\";\n  position: absolute;\n  left: 0;\n}\n.tw-name[data-v-7f70aba8]:after {\n  content: \")\";\n  position: absolute;\n  right: 0;\n}\n", ""]);
 
 // exports
 
@@ -6339,7 +6390,7 @@ exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loa
 
 
 // module
-exports.push([module.i, ".hero-concept[data-v-2c7f068e] {\n  background: url(\"/hero/hero_bg_concept.jpg\") center center/cover no-repeat;\n  height: 360px;\n  margin-top: -165px;\n}\n.svg-concept[data-v-2c7f068e] {\n  overflow: visible;\n  height: 86px;\n  margin-top: -30px;\n  font-family: \"sofia-pro-condensed\", sans-serif;\n  font-size: 86px;\n  line-height: 1;\n  letter-spacing: .2em;\n}\n.svg-concept text[data-v-2c7f068e] {\n  fill: rgba(255, 255, 255, 0);\n  stroke: #333;\n  stroke-width: .8;\n  stroke-linejoin: round;\n  font-family: \"sofia-pro-condensed\", sans-serif;\n  line-height: 1;\n}\n.sub-title[data-v-2c7f068e] {\n  position: absolute;\n  top: 30%;\n  left: 50%;\n  -webkit-transform: translate(-50%, -50%);\n          transform: translate(-50%, -50%);\n}\n.sub-des[data-v-2c7f068e] {\n  position: absolute;\n  top: 20px;\n  left: 30px;\n}\n.ref-title[data-v-2c7f068e] {\n  position: absolute;\n  top: 20px;\n  left: 0;\n}\n.tw-dot[data-v-2c7f068e]:before {\n  content: \"\";\n  position: absolute;\n  top: 50%;\n  -webkit-transform: translate(-50%, -50%);\n          transform: translate(-50%, -50%);\n  left: 0;\n  background-color: #dae1e7;\n  width: 16px;\n  height: 16px;\n  border-radius: 16px;\n  z-index: 2;\n}\n.tw-dot[data-v-2c7f068e]:after {\n  content: \"\";\n  position: absolute;\n  top: 50%;\n  left: 0;\n  background-color: #dae1e7;\n  width: 20%;\n  height: 1px;\n  z-index: -1;\n}\n.tw-center-line[data-v-2c7f068e]:before {\n  content: \"\";\n  width: 20px;\n  height: 1px;\n  position: absolute;\n  top: 8px;\n  left: 0;\n  background-color: #555;\n}\n.tw-center-line[data-v-2c7f068e]:hover:before {\n  background: #b8c2cc;\n}\n.tw-title[data-v-2c7f068e] {\n  background: url(\"/icon/left_top.svg\") left top/10px 10px no-repeat, url(\"/icon/right_top.svg\") right top/10px 8px no-repeat, url(\"/icon/left_bottom.svg\") left bottom/10px 10px no-repeat, url(\"/icon/right_bottom.svg\") right bottom/10px 8px no-repeat, url(\"/icon/dot.png\") top left/6px 6px repeat;\n}\n.tw-price-table[data-v-2c7f068e] {\n  font-size: .875rem;\n  line-height: 2;\n  letter-spacing: .2em;\n}\n.tw-price-table tr[data-v-2c7f068e] {\n  border-bottom-width: 1px;\n  border-color: #dae1e7;\n}\n.tw-price-table tr span[data-v-2c7f068e] {\n  font-weight: 300;\n  line-height: 1;\n}\n.tw-price-table tr[data-v-2c7f068e]:last-child {\n  border-style: none;\n}\n.tw-price-table th[data-v-2c7f068e] {\n  text-align: left;\n  padding: 1rem;\n}\n.tw-price-table td[data-v-2c7f068e] {\n  text-align: center;\n  padding: 1rem;\n}\n.tw-name[data-v-2c7f068e]:before {\n  content: \"(\";\n  position: absolute;\n  left: 0;\n}\n.tw-name[data-v-2c7f068e]:after {\n  content: \")\";\n  position: absolute;\n  right: 0;\n}\n", ""]);
+exports.push([module.i, ".sub-title[data-v-2c7f068e] {\n  position: absolute;\n  top: 30%;\n  left: 50%;\n  -webkit-transform: translate(-50%, -50%);\n          transform: translate(-50%, -50%);\n}\n.sub-des[data-v-2c7f068e] {\n  position: absolute;\n  top: 20px;\n  left: 30px;\n}\n.ref-title[data-v-2c7f068e] {\n  position: absolute;\n  top: 20px;\n  left: 0;\n}\n.tw-dot[data-v-2c7f068e]:before {\n  content: \"\";\n  position: absolute;\n  top: 50%;\n  -webkit-transform: translate(-50%, -50%);\n          transform: translate(-50%, -50%);\n  left: 0;\n  background-color: #dae1e7;\n  width: 16px;\n  height: 16px;\n  border-radius: 16px;\n  z-index: 2;\n}\n.tw-dot[data-v-2c7f068e]:after {\n  content: \"\";\n  position: absolute;\n  top: 50%;\n  left: 0;\n  background-color: #dae1e7;\n  width: 20%;\n  height: 1px;\n  z-index: -1;\n}\n.tw-center-line[data-v-2c7f068e]:before {\n  content: \"\";\n  width: 20px;\n  height: 1px;\n  position: absolute;\n  top: 8px;\n  left: 0;\n  background-color: #555;\n}\n.tw-center-line[data-v-2c7f068e]:hover:before {\n  background: #b8c2cc;\n}\n.tw-title[data-v-2c7f068e] {\n  background: url(\"/icon/left_top.svg\") left top/10px 10px no-repeat, url(\"/icon/right_top.svg\") right top/10px 8px no-repeat, url(\"/icon/left_bottom.svg\") left bottom/10px 10px no-repeat, url(\"/icon/right_bottom.svg\") right bottom/10px 8px no-repeat, url(\"/icon/dot.png\") top left/6px 6px repeat;\n}\n.tw-price-table[data-v-2c7f068e] {\n  font-size: .875rem;\n  line-height: 2;\n  letter-spacing: .2em;\n}\n.tw-price-table tr[data-v-2c7f068e] {\n  border-bottom-width: 1px;\n  border-color: #dae1e7;\n}\n.tw-price-table tr span[data-v-2c7f068e] {\n  font-weight: 300;\n  line-height: 1;\n}\n.tw-price-table tr[data-v-2c7f068e]:last-child {\n  border-style: none;\n}\n.tw-price-table th[data-v-2c7f068e] {\n  text-align: left;\n  padding: 1rem;\n}\n.tw-price-table td[data-v-2c7f068e] {\n  text-align: center;\n  padding: 1rem;\n}\n.tw-name[data-v-2c7f068e]:before {\n  content: \"(\";\n  position: absolute;\n  left: 0;\n}\n.tw-name[data-v-2c7f068e]:after {\n  content: \")\";\n  position: absolute;\n  right: 0;\n}\n", ""]);
 
 // exports
 
@@ -6358,7 +6409,7 @@ exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loa
 
 
 // module
-exports.push([module.i, ".hero-concept[data-v-bde6771c] {\n  background: url(\"/hero/hero_bg_concept.jpg\") center center/cover no-repeat;\n  height: 360px;\n  margin-top: -165px;\n}\n.svg-concept[data-v-bde6771c] {\n  overflow: visible;\n  height: 86px;\n  margin-top: -30px;\n  font-family: \"sofia-pro-condensed\", sans-serif;\n  font-size: 86px;\n  line-height: 1;\n  letter-spacing: .2em;\n}\n.svg-concept text[data-v-bde6771c] {\n  fill: rgba(255, 255, 255, 0);\n  stroke: #333;\n  stroke-width: .8;\n  stroke-linejoin: round;\n  font-family: \"sofia-pro-condensed\", sans-serif;\n  line-height: 1;\n}\n.tw-recruit[data-v-bde6771c] {\n  width: 50%;\n  padding: 2rem;\n  border-top-width: 1px;\n  border-color: #dae1e7;\n  margin-right: 1rem;\n  font-size: .875rem;\n  color: #3d4852;\n  position: relative;\n}\n.tw-recruit[data-v-bde6771c]:after {\n  content: \"\";\n  position: absolute;\n  background: url(\"/icon/harpoon.png\") right center/12px 4px no-repeat;\n  width: 20px;\n  height: 4px;\n  right: 8px;\n  top: 50%;\n  -webkit-transform: translateY(-50%);\n          transform: translateY(-50%);\n}\n.tw-title[data-v-bde6771c] {\n  background: url(\"/icon/left_top.svg\") left top/10px 10px no-repeat, url(\"/icon/right_top.svg\") right top/10px 8px no-repeat, url(\"/icon/left_bottom.svg\") left bottom/10px 10px no-repeat, url(\"/icon/right_bottom.svg\") right bottom/10px 8px no-repeat, url(\"/icon/dot.png\") top left/6px 6px repeat;\n}\n.sub-title[data-v-bde6771c] {\n  position: absolute;\n  top: 30%;\n  left: 50%;\n  -webkit-transform: translateX(-50%);\n          transform: translateX(-50%);\n}\n.tw-table[data-v-bde6771c] {\n  font-size: .875rem;\n}\n.tw-table tr[data-v-bde6771c] {\n  border-bottom-width: 1px;\n  border-color: #dae1e7;\n  line-height: 1.5;\n  letter-spacing: .15em;\n}\n.tw-table tr[data-v-bde6771c]:first-child {\n  border-top-width: 1px;\n}\n.tw-table th[data-v-bde6771c] {\n  width: 40%;\n  letter-spacing: .2em;\n  padding-top: 1.5rem;\n  padding-bottom: 1.5rem;\n  font-weight: 300;\n}\n.tw-table td[data-v-bde6771c] {\n  width: 60%;\n  padding-top: 1.5rem;\n  padding-bottom: 1.5rem;\n  font-weight: 300;\n}\n.tw-name[data-v-bde6771c]:before {\n  content: \"(\";\n  position: absolute;\n  left: 0;\n}\n.tw-name[data-v-bde6771c]:after {\n  content: \")\";\n  position: absolute;\n  right: 0;\n}\n", ""]);
+exports.push([module.i, ".tw-recruit[data-v-bde6771c] {\n  width: 50%;\n  padding: 2rem;\n  border-top-width: 1px;\n  border-color: #dae1e7;\n  margin-right: 1rem;\n  font-size: .875rem;\n  color: #3d4852;\n  position: relative;\n}\n.tw-recruit[data-v-bde6771c]:after {\n  content: \"\";\n  position: absolute;\n  background: url(\"/icon/harpoon.png\") right center/12px 4px no-repeat;\n  width: 20px;\n  height: 4px;\n  right: 8px;\n  top: 50%;\n  -webkit-transform: translateY(-50%);\n          transform: translateY(-50%);\n}\n.tw-title[data-v-bde6771c] {\n  background: url(\"/icon/left_top.svg\") left top/10px 10px no-repeat, url(\"/icon/right_top.svg\") right top/10px 8px no-repeat, url(\"/icon/left_bottom.svg\") left bottom/10px 10px no-repeat, url(\"/icon/right_bottom.svg\") right bottom/10px 8px no-repeat, url(\"/icon/dot.png\") top left/6px 6px repeat;\n}\n.sub-title[data-v-bde6771c] {\n  position: absolute;\n  top: 30%;\n  left: 50%;\n  -webkit-transform: translateX(-50%);\n          transform: translateX(-50%);\n}\n.tw-table[data-v-bde6771c] {\n  font-size: .875rem;\n}\n.tw-table tr[data-v-bde6771c] {\n  border-bottom-width: 1px;\n  border-color: #dae1e7;\n  line-height: 1.5;\n  letter-spacing: .15em;\n}\n.tw-table tr[data-v-bde6771c]:first-child {\n  border-top-width: 1px;\n}\n.tw-table th[data-v-bde6771c] {\n  width: 40%;\n  letter-spacing: .2em;\n  padding-top: 1.5rem;\n  padding-bottom: 1.5rem;\n  font-weight: 300;\n}\n.tw-table td[data-v-bde6771c] {\n  width: 60%;\n  padding-top: 1.5rem;\n  padding-bottom: 1.5rem;\n  font-weight: 300;\n}\n.tw-name[data-v-bde6771c]:before {\n  content: \"(\";\n  position: absolute;\n  left: 0;\n}\n.tw-name[data-v-bde6771c]:after {\n  content: \")\";\n  position: absolute;\n  right: 0;\n}\n", ""]);
 
 // exports
 
@@ -6377,7 +6428,7 @@ exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loa
 
 
 // module
-exports.push([module.i, ".hero-concept[data-v-50ee555c] {\n  background: url(\"/hero/hero_bg_concept.jpg\") center center/cover no-repeat;\n  height: 360px;\n  margin-top: -165px;\n}\n.svg-concept[data-v-50ee555c] {\n  overflow: visible;\n  height: 86px;\n  margin-top: -30px;\n  font-family: \"sofia-pro-condensed\", sans-serif;\n  font-size: 86px;\n  line-height: 1;\n  letter-spacing: .2em;\n}\n.svg-concept text[data-v-50ee555c] {\n  fill: rgba(255, 255, 255, 0);\n  stroke: #333;\n  stroke-width: .8;\n  stroke-linejoin: round;\n  font-family: \"sofia-pro-condensed\", sans-serif;\n  line-height: 1;\n}\n.tw-recruit[data-v-50ee555c] {\n  width: 50%;\n  padding: 2rem;\n  border-top-width: 1px;\n  border-color: #dae1e7;\n  margin-right: 1rem;\n  font-size: .875rem;\n  color: #3d4852;\n  position: relative;\n}\n.tw-recruit[data-v-50ee555c]:after {\n  content: \"\";\n  position: absolute;\n  background: url(\"/icon/harpoon.png\") right center/12px 4px no-repeat;\n  width: 20px;\n  height: 4px;\n  right: 8px;\n  top: 50%;\n  -webkit-transform: translateY(-50%);\n          transform: translateY(-50%);\n}\n.tw-title[data-v-50ee555c] {\n  background: url(\"/icon/left_top.svg\") left top/10px 10px no-repeat, url(\"/icon/right_top.svg\") right top/10px 8px no-repeat, url(\"/icon/left_bottom.svg\") left bottom/10px 10px no-repeat, url(\"/icon/right_bottom.svg\") right bottom/10px 8px no-repeat, url(\"/icon/dot.png\") top left/6px 6px repeat;\n}\n.sub-title[data-v-50ee555c] {\n  position: absolute;\n  top: 30%;\n  left: 50%;\n  -webkit-transform: translateX(-50%);\n          transform: translateX(-50%);\n}\n.tw-bar[data-v-50ee555c]:after {\n  content: \"\";\n  position: absolute;\n  width: 20%;\n  height: 1px;\n  background-color: #000;\n  bottom: -100%;\n  left: 0;\n}\n.tw-name[data-v-50ee555c]:before {\n  content: \"(\";\n  position: absolute;\n  left: 0;\n}\n.tw-name[data-v-50ee555c]:after {\n  content: \")\";\n  position: absolute;\n  right: 0;\n}\n", ""]);
+exports.push([module.i, ".tw-recruit[data-v-50ee555c] {\n  width: 50%;\n  padding: 2rem;\n  border-top-width: 1px;\n  border-color: #dae1e7;\n  margin-right: 1rem;\n  font-size: .875rem;\n  color: #3d4852;\n  position: relative;\n}\n.tw-recruit[data-v-50ee555c]:after {\n  content: \"\";\n  position: absolute;\n  background: url(\"/icon/harpoon.png\") right center/12px 4px no-repeat;\n  width: 20px;\n  height: 4px;\n  right: 8px;\n  top: 50%;\n  -webkit-transform: translateY(-50%);\n          transform: translateY(-50%);\n}\n.tw-title[data-v-50ee555c] {\n  background: url(\"/icon/left_top.svg\") left top/10px 10px no-repeat, url(\"/icon/right_top.svg\") right top/10px 8px no-repeat, url(\"/icon/left_bottom.svg\") left bottom/10px 10px no-repeat, url(\"/icon/right_bottom.svg\") right bottom/10px 8px no-repeat, url(\"/icon/dot.png\") top left/6px 6px repeat;\n}\n.sub-title[data-v-50ee555c] {\n  position: absolute;\n  top: 30%;\n  left: 50%;\n  -webkit-transform: translateX(-50%);\n          transform: translateX(-50%);\n}\n.tw-bar[data-v-50ee555c]:after {\n  content: \"\";\n  position: absolute;\n  width: 20%;\n  height: 1px;\n  background-color: #000;\n  bottom: -100%;\n  left: 0;\n}\n.tw-name[data-v-50ee555c]:before {\n  content: \"(\";\n  position: absolute;\n  left: 0;\n}\n.tw-name[data-v-50ee555c]:after {\n  content: \")\";\n  position: absolute;\n  right: 0;\n}\n", ""]);
 
 // exports
 
@@ -38325,6 +38376,36 @@ if(false) {}
 
 /***/ }),
 
+/***/ "./node_modules/style-loader/index.js!./node_modules/css-loader/index.js!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/lib/loader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/HeroBg.vue?vue&type=style&index=0&id=403b2eec&scoped=true&lang=scss&":
+/*!**********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/style-loader!./node_modules/css-loader!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src??ref--7-2!./node_modules/sass-loader/lib/loader.js??ref--7-3!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/HeroBg.vue?vue&type=style&index=0&id=403b2eec&scoped=true&lang=scss& ***!
+  \**********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+
+var content = __webpack_require__(/*! !../../../node_modules/css-loader!../../../node_modules/vue-loader/lib/loaders/stylePostLoader.js!../../../node_modules/postcss-loader/src??ref--7-2!../../../node_modules/sass-loader/lib/loader.js??ref--7-3!../../../node_modules/vue-loader/lib??vue-loader-options!./HeroBg.vue?vue&type=style&index=0&id=403b2eec&scoped=true&lang=scss& */ "./node_modules/css-loader/index.js!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/lib/loader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/HeroBg.vue?vue&type=style&index=0&id=403b2eec&scoped=true&lang=scss&");
+
+if(typeof content === 'string') content = [[module.i, content, '']];
+
+var transform;
+var insertInto;
+
+
+
+var options = {"hmr":true}
+
+options.transform = transform
+options.insertInto = undefined;
+
+var update = __webpack_require__(/*! ../../../node_modules/style-loader/lib/addStyles.js */ "./node_modules/style-loader/lib/addStyles.js")(content, options);
+
+if(content.locals) module.exports = content.locals;
+
+if(false) {}
+
+/***/ }),
+
 /***/ "./node_modules/style-loader/index.js!./node_modules/css-loader/index.js!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/lib/loader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/Info.vue?vue&type=style&index=0&id=a38a56ce&scoped=true&lang=scss&":
 /*!********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
   !*** ./node_modules/style-loader!./node_modules/css-loader!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src??ref--7-2!./node_modules/sass-loader/lib/loader.js??ref--7-3!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/Info.vue?vue&type=style&index=0&id=a38a56ce&scoped=true&lang=scss& ***!
@@ -40283,6 +40364,64 @@ render._withStripped = true
 
 /***/ }),
 
+/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/HeroBg.vue?vue&type=template&id=403b2eec&scoped=true&":
+/*!*********************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/HeroBg.vue?vue&type=template&id=403b2eec&scoped=true& ***!
+  \*********************************************************************************************************************************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "render", function() { return render; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return staticRenderFns; });
+var render = function() {
+  var _vm = this
+  var _h = _vm.$createElement
+  var _c = _vm._self._c || _h
+  return _c(
+    "section",
+    { staticClass: "lg:mb-24" },
+    [
+      _vm._t("hero"),
+      _vm._v(" "),
+      _c("div", [
+        _c(
+          "svg",
+          {
+            staticClass: "svg-concept",
+            attrs: { width: "100%", height: "86" }
+          },
+          [
+            _c(
+              "text",
+              {
+                attrs: {
+                  x: "50%",
+                  y: "50%",
+                  "text-anchor": "middle",
+                  "dominant-baseline": "central"
+                }
+              },
+              [_vm._t("title")],
+              2
+            )
+          ]
+        ),
+        _vm._v(" "),
+        _c("p", { staticClass: "text-center" }, [_vm._t("desc")], 2)
+      ])
+    ],
+    2
+  )
+}
+var staticRenderFns = []
+render._withStripped = true
+
+
+
+/***/ }),
+
 /***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/Info.vue?vue&type=template&id=a38a56ce&scoped=true&":
 /*!*******************************************************************************************************************************************************************************************************************!*\
   !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/Info.vue?vue&type=template&id=a38a56ce&scoped=true& ***!
@@ -40722,9 +40861,9 @@ render._withStripped = true
 
 /***/ }),
 
-/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/_collection.vue?vue&type=template&id=de043e7c&scoped=true&":
+/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/_Collection.vue?vue&type=template&id=5544ace2&scoped=true&":
 /*!**************************************************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/_Collection.vue?vue&type=template&id=de043e7c&scoped=true& ***!
+  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/_Collection.vue?vue&type=template&id=5544ace2&scoped=true& ***!
   \**************************************************************************************************************************************************************************************************************************/
 /*! exports provided: render, staticRenderFns */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
@@ -41249,37 +41388,25 @@ var render = function() {
   return _c(
     "div",
     [
-      _c("section", { staticClass: "lg:mb-24" }, [
-        _c("div", { staticClass: "hero-concept" }),
-        _vm._v(" "),
-        _c("div", [
-          _c(
-            "svg",
-            {
-              staticClass: "svg-concept",
-              attrs: { width: "100%", height: "86" }
+      _c(
+        "hero-bg",
+        [
+          _c("div", {
+            staticClass: "tw-hero",
+            staticStyle: {
+              background:
+                "url('/hero/hero_bg_beauty.jpg') center center / cover no-repeat"
             },
-            [
-              _c(
-                "text",
-                {
-                  attrs: {
-                    x: "50%",
-                    y: "50%",
-                    "text-anchor": "middle",
-                    "dominant-baseline": "central"
-                  }
-                },
-                [_vm._v("BEAUTY × LIFE")]
-              )
-            ]
-          ),
+            attrs: { slot: "hero" },
+            slot: "hero"
+          }),
           _vm._v(" "),
-          _c("p", { staticClass: "text-center" }, [
-            _vm._v("マツエクのある毎日")
-          ])
-        ])
-      ]),
+          _c("template", { slot: "title" }, [_vm._v("BEAUTY × LIFE")]),
+          _vm._v(" "),
+          _c("template", { slot: "desc" }, [_vm._v("マツエクのある毎日")])
+        ],
+        2
+      ),
       _vm._v(" "),
       _c("links"),
       _vm._v(" "),
@@ -41294,7 +41421,7 @@ var render = function() {
       _c("links"),
       _vm._v(" "),
       _c("breadcrumb", {
-        attrs: { middle: { name: "BEAUTY x LIFE", default: true } }
+        attrs: { middle: { name: "BEAUTY × LIFE", default: true } }
       }),
       _vm._v(" "),
       _c("reserve")
@@ -41891,37 +42018,25 @@ var render = function() {
   return _c(
     "div",
     [
-      _c("section", { staticClass: "lg:mb-24" }, [
-        _c("div", { staticClass: "hero-concept" }),
-        _vm._v(" "),
-        _c("div", [
-          _c(
-            "svg",
-            {
-              staticClass: "svg-concept",
-              attrs: { width: "100%", height: "86" }
+      _c(
+        "hero-bg",
+        [
+          _c("div", {
+            staticClass: "tw-hero",
+            staticStyle: {
+              background:
+                "url('/hero/hero_bg_concept.jpg') center center / cover no-repeat"
             },
-            [
-              _c(
-                "text",
-                {
-                  attrs: {
-                    x: "50%",
-                    y: "50%",
-                    "text-anchor": "middle",
-                    "dominant-baseline": "central"
-                  }
-                },
-                [_vm._v("CONCEPT")]
-              )
-            ]
-          ),
+            attrs: { slot: "hero" },
+            slot: "hero"
+          }),
           _vm._v(" "),
-          _c("p", { staticClass: "text-center" }, [
-            _vm._v("コンセプト & こだわり")
-          ])
-        ])
-      ]),
+          _c("template", { slot: "title" }, [_vm._v("CONCEPT")]),
+          _vm._v(" "),
+          _c("template", { slot: "desc" }, [_vm._v("コンセプト & こだわり")])
+        ],
+        2
+      ),
       _vm._v(" "),
       _vm._m(0),
       _vm._v(" "),
@@ -42612,9 +42727,14 @@ var staticRenderFns = [
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
     return _c("article", [
-      _c("h3", { staticClass: "tracking-loosest text-4xl leading-loose" }, [
-        _vm._v("CONCEPT")
-      ]),
+      _c(
+        "h3",
+        {
+          staticClass:
+            "tracking-loosest text-4xl leading-loose text-grey-darkest"
+        },
+        [_vm._v("CONCEPT")]
+      ),
       _vm._v(" "),
       _c("p", { staticClass: "font-fotura my-7 text-xs" }, [
         _vm._v(
@@ -43048,35 +43168,25 @@ var render = function() {
   return _c(
     "div",
     [
-      _c("section", { staticClass: "lg:mb-24" }, [
-        _c("div", { staticClass: "hero-concept" }),
-        _vm._v(" "),
-        _c("div", [
-          _c(
-            "svg",
-            {
-              staticClass: "svg-concept",
-              attrs: { width: "100%", height: "86" }
+      _c(
+        "hero-bg",
+        [
+          _c("div", {
+            staticClass: "tw-hero",
+            staticStyle: {
+              background:
+                "url('/hero/hero_bg_menu_and_price.jpg') center center / cover no-repeat"
             },
-            [
-              _c(
-                "text",
-                {
-                  attrs: {
-                    x: "50%",
-                    y: "50%",
-                    "text-anchor": "middle",
-                    "dominant-baseline": "central"
-                  }
-                },
-                [_vm._v("MENU & PRICE")]
-              )
-            ]
-          ),
+            attrs: { slot: "hero" },
+            slot: "hero"
+          }),
           _vm._v(" "),
-          _c("p", { staticClass: "text-center" }, [_vm._v("メニュー & 料金")])
-        ])
-      ]),
+          _c("template", { slot: "title" }, [_vm._v("MENU & PRICE")]),
+          _vm._v(" "),
+          _c("template", { slot: "desc" }, [_vm._v("メニュー & 料金")])
+        ],
+        2
+      ),
       _vm._v(" "),
       _vm._m(0),
       _vm._v(" "),
@@ -43347,35 +43457,25 @@ var render = function() {
   return _c(
     "div",
     [
-      _c("section", { staticClass: "lg:mb-24" }, [
-        _c("div", { staticClass: "hero-concept" }),
-        _vm._v(" "),
-        _c("div", [
-          _c(
-            "svg",
-            {
-              staticClass: "svg-concept",
-              attrs: { width: "100%", height: "86" }
+      _c(
+        "hero-bg",
+        [
+          _c("div", {
+            staticClass: "tw-hero",
+            staticStyle: {
+              background:
+                "url('/hero/hero_bg_nail.jpg') center center / cover no-repeat"
             },
-            [
-              _c(
-                "text",
-                {
-                  attrs: {
-                    x: "50%",
-                    y: "50%",
-                    "text-anchor": "middle",
-                    "dominant-baseline": "central"
-                  }
-                },
-                [_vm._v("NAIL")]
-              )
-            ]
-          ),
+            attrs: { slot: "hero" },
+            slot: "hero"
+          }),
           _vm._v(" "),
-          _c("p", { staticClass: "text-center" }, [_vm._v("ネイル")])
-        ])
-      ]),
+          _c("template", { slot: "title" }, [_vm._v("NAIL")]),
+          _vm._v(" "),
+          _c("template", { slot: "desc" }, [_vm._v("ネイル")])
+        ],
+        2
+      ),
       _vm._v(" "),
       _vm._m(0),
       _vm._v(" "),
@@ -43754,35 +43854,25 @@ var render = function() {
   return _c(
     "div",
     [
-      _c("section", { staticClass: "lg:mb-24" }, [
-        _c("div", { staticClass: "hero-concept" }),
-        _vm._v(" "),
-        _c("div", [
-          _c(
-            "svg",
-            {
-              staticClass: "svg-concept",
-              attrs: { width: "100%", height: "86" }
+      _c(
+        "hero-bg",
+        [
+          _c("div", {
+            staticClass: "tw-hero",
+            staticStyle: {
+              background:
+                "url('/hero/hero_bg_recruit.jpg') center center / cover no-repeat"
             },
-            [
-              _c(
-                "text",
-                {
-                  attrs: {
-                    x: "50%",
-                    y: "50%",
-                    "text-anchor": "middle",
-                    "dominant-baseline": "central"
-                  }
-                },
-                [_vm._v("RECRUIT")]
-              )
-            ]
-          ),
+            attrs: { slot: "hero" },
+            slot: "hero"
+          }),
           _vm._v(" "),
-          _c("p", { staticClass: "text-center" }, [_vm._v("採用情報")])
-        ])
-      ]),
+          _c("template", { slot: "title" }, [_vm._v("RECRUIT")]),
+          _vm._v(" "),
+          _c("template", { slot: "desc" }, [_vm._v("採用情報")])
+        ],
+        2
+      ),
       _vm._v(" "),
       _c("links"),
       _vm._v(" "),
@@ -44489,35 +44579,25 @@ var render = function() {
   return _c(
     "div",
     [
-      _c("section", { staticClass: "lg:mb-24" }, [
-        _c("div", { staticClass: "hero-concept" }),
-        _vm._v(" "),
-        _c("div", [
-          _c(
-            "svg",
-            {
-              staticClass: "svg-concept",
-              attrs: { width: "100%", height: "86" }
+      _c(
+        "hero-bg",
+        [
+          _c("div", {
+            staticClass: "tw-hero",
+            staticStyle: {
+              background:
+                "url('/hero/hero_bg_salon.jpg') center center / cover no-repeat"
             },
-            [
-              _c(
-                "text",
-                {
-                  attrs: {
-                    x: "50%",
-                    y: "50%",
-                    "text-anchor": "middle",
-                    "dominant-baseline": "central"
-                  }
-                },
-                [_vm._v("SALON")]
-              )
-            ]
-          ),
+            attrs: { slot: "hero" },
+            slot: "hero"
+          }),
           _vm._v(" "),
-          _c("p", { staticClass: "text-center" }, [_vm._v("店舗紹介")])
-        ])
-      ]),
+          _c("template", { slot: "title" }, [_vm._v("SALON")]),
+          _vm._v(" "),
+          _c("template", { slot: "desc" }, [_vm._v("店舗紹介")])
+        ],
+        2
+      ),
       _vm._v(" "),
       _vm._m(0),
       _vm._v(" "),
@@ -44887,37 +44967,25 @@ var render = function() {
   return _c(
     "div",
     [
-      _c("section", { staticClass: "lg:mb-24" }, [
-        _c("div", { staticClass: "hero-voice" }),
-        _vm._v(" "),
-        _c("div", [
-          _c(
-            "svg",
-            {
-              staticClass: "svg-concept",
-              attrs: { width: "100%", height: "86" }
+      _c(
+        "hero-bg",
+        [
+          _c("div", {
+            staticClass: "tw-hero",
+            staticStyle: {
+              background:
+                "url('/hero/hero_bg_voice.jpg') center center / cover no-repeat"
             },
-            [
-              _c(
-                "text",
-                {
-                  attrs: {
-                    x: "50%",
-                    y: "50%",
-                    "text-anchor": "middle",
-                    "dominant-baseline": "central"
-                  }
-                },
-                [_vm._v("VOICE")]
-              )
-            ]
-          ),
+            attrs: { slot: "hero" },
+            slot: "hero"
+          }),
           _vm._v(" "),
-          _c("p", { staticClass: "text-center" }, [
-            _vm._v("口コミで人気の秘密")
-          ])
-        ])
-      ]),
+          _c("template", { slot: "title" }, [_vm._v("VOICE")]),
+          _vm._v(" "),
+          _c("template", { slot: "desc" }, [_vm._v("口コミで人気の秘密")])
+        ],
+        2
+      ),
       _vm._v(" "),
       _vm._m(0),
       _vm._v(" "),
@@ -45970,37 +46038,25 @@ var render = function() {
   return _c(
     "div",
     [
-      _c("section", { staticClass: "lg:mb-24" }, [
-        _c("div", { staticClass: "hero-concept" }),
-        _vm._v(" "),
-        _c("div", [
-          _c(
-            "svg",
-            {
-              staticClass: "svg-concept",
-              attrs: { width: "100%", height: "86" }
+      _c(
+        "hero-bg",
+        [
+          _c("div", {
+            staticClass: "tw-hero",
+            staticStyle: {
+              background:
+                "url('/hero/hero_bg_beauty.jpg') center center / cover no-repeat"
             },
-            [
-              _c(
-                "text",
-                {
-                  attrs: {
-                    x: "50%",
-                    y: "50%",
-                    "text-anchor": "middle",
-                    "dominant-baseline": "central"
-                  }
-                },
-                [_vm._v("BEAUTY × LIFE")]
-              )
-            ]
-          ),
+            attrs: { slot: "hero" },
+            slot: "hero"
+          }),
           _vm._v(" "),
-          _c("p", { staticClass: "text-center" }, [
-            _vm._v("マツエクのある毎日")
-          ])
-        ])
-      ]),
+          _c("template", { slot: "title" }, [_vm._v("BEAUTY × LIFE")]),
+          _vm._v(" "),
+          _c("template", { slot: "desc" }, [_vm._v("マツエクのある毎日")])
+        ],
+        2
+      ),
       _vm._v(" "),
       _c("links"),
       _vm._v(" "),
@@ -46009,7 +46065,7 @@ var render = function() {
       _c("links"),
       _vm._v(" "),
       _c("breadcrumb", {
-        attrs: { middle: { name: "BEAUTY x LIFE", default: true } }
+        attrs: { middle: { name: "BEAUTY × LIFE", default: true } }
       }),
       _vm._v(" "),
       _c("reserve")
@@ -46286,37 +46342,25 @@ var render = function() {
   return _c(
     "div",
     [
-      _c("section", { staticClass: "lg:mb-24" }, [
-        _c("div", { staticClass: "hero-concept" }),
-        _vm._v(" "),
-        _c("div", [
-          _c(
-            "svg",
-            {
-              staticClass: "svg-concept",
-              attrs: { width: "100%", height: "86" }
+      _c(
+        "hero-bg",
+        [
+          _c("div", {
+            staticClass: "tw-hero",
+            staticStyle: {
+              background:
+                "url('/hero/hero_bg_beauty.jpg') center center / cover no-repeat"
             },
-            [
-              _c(
-                "text",
-                {
-                  attrs: {
-                    x: "50%",
-                    y: "50%",
-                    "text-anchor": "middle",
-                    "dominant-baseline": "central"
-                  }
-                },
-                [_vm._v("BEAUTY × LIFE")]
-              )
-            ]
-          ),
+            attrs: { slot: "hero" },
+            slot: "hero"
+          }),
           _vm._v(" "),
-          _c("p", { staticClass: "text-center" }, [
-            _vm._v("マツエクのある毎日")
-          ])
-        ])
-      ]),
+          _c("template", { slot: "title" }, [_vm._v("BEAUTY × LIFE")]),
+          _vm._v(" "),
+          _c("template", { slot: "desc" }, [_vm._v("マツエクのある毎日")])
+        ],
+        2
+      ),
       _vm._v(" "),
       _c("links"),
       _vm._v(" "),
@@ -46335,7 +46379,7 @@ var render = function() {
       _c("links"),
       _vm._v(" "),
       _c("breadcrumb", {
-        attrs: { middle: { name: "BEAUTY x LIFE", default: true } }
+        attrs: { middle: { name: "BEAUTY × LIFE", default: true } }
       }),
       _vm._v(" "),
       _c("reserve")
@@ -46470,37 +46514,25 @@ var render = function() {
   return _c(
     "div",
     [
-      _c("section", { staticClass: "lg:mb-24" }, [
-        _c("div", { staticClass: "hero-concept" }),
-        _vm._v(" "),
-        _c("div", [
-          _c(
-            "svg",
-            {
-              staticClass: "svg-concept",
-              attrs: { width: "100%", height: "86" }
+      _c(
+        "hero-bg",
+        [
+          _c("div", {
+            staticClass: "tw-hero",
+            staticStyle: {
+              background:
+                "url('/hero/hero_bg_beauty.jpg') center center / cover no-repeat"
             },
-            [
-              _c(
-                "text",
-                {
-                  attrs: {
-                    x: "50%",
-                    y: "50%",
-                    "text-anchor": "middle",
-                    "dominant-baseline": "central"
-                  }
-                },
-                [_vm._v("BEAUTY × LIFE")]
-              )
-            ]
-          ),
+            attrs: { slot: "hero" },
+            slot: "hero"
+          }),
           _vm._v(" "),
-          _c("p", { staticClass: "text-center" }, [
-            _vm._v("マツエクのある毎日")
-          ])
-        ])
-      ]),
+          _c("template", { slot: "title" }, [_vm._v("BEAUTY × LIFE")]),
+          _vm._v(" "),
+          _c("template", { slot: "desc" }, [_vm._v("マツエクのある毎日")])
+        ],
+        2
+      ),
       _vm._v(" "),
       _c("links"),
       _vm._v(" "),
@@ -46513,7 +46545,7 @@ var render = function() {
       _c("links"),
       _vm._v(" "),
       _c("breadcrumb", {
-        attrs: { middle: { name: "BEAUTY x LIFE", default: true } }
+        attrs: { middle: { name: "BEAUTY × LIFE", default: true } }
       }),
       _vm._v(" "),
       _c("reserve")
@@ -46926,35 +46958,25 @@ var render = function() {
   return _c(
     "div",
     [
-      _c("section", { staticClass: "lg:mb-24" }, [
-        _c("div", { staticClass: "hero-concept" }),
-        _vm._v(" "),
-        _c("div", [
-          _c(
-            "svg",
-            {
-              staticClass: "svg-concept",
-              attrs: { width: "100%", height: "86" }
+      _c(
+        "hero-bg",
+        [
+          _c("div", {
+            staticClass: "tw-hero",
+            staticStyle: {
+              background:
+                "url('/hero/hero_bg_recruit.jpg') center center / cover no-repeat"
             },
-            [
-              _c(
-                "text",
-                {
-                  attrs: {
-                    x: "50%",
-                    y: "50%",
-                    "text-anchor": "middle",
-                    "dominant-baseline": "central"
-                  }
-                },
-                [_vm._v("RECRUIT")]
-              )
-            ]
-          ),
+            attrs: { slot: "hero" },
+            slot: "hero"
+          }),
           _vm._v(" "),
-          _c("p", { staticClass: "text-center" }, [_vm._v("採用情報")])
-        ])
-      ]),
+          _c("template", { slot: "title" }, [_vm._v("RECRUIT")]),
+          _vm._v(" "),
+          _c("template", { slot: "desc" }, [_vm._v("採用情報")])
+        ],
+        2
+      ),
       _vm._v(" "),
       _c("links"),
       _vm._v(" "),
@@ -47419,35 +47441,25 @@ var render = function() {
   return _c(
     "div",
     [
-      _c("section", { staticClass: "lg:mb-24" }, [
-        _c("div", { staticClass: "hero-concept" }),
-        _vm._v(" "),
-        _c("div", [
-          _c(
-            "svg",
-            {
-              staticClass: "svg-concept",
-              attrs: { width: "100%", height: "86" }
+      _c(
+        "hero-bg",
+        [
+          _c("div", {
+            staticClass: "tw-hero",
+            staticStyle: {
+              background:
+                "url('/hero/hero_bg_recruit.jpg') center center / cover no-repeat"
             },
-            [
-              _c(
-                "text",
-                {
-                  attrs: {
-                    x: "50%",
-                    y: "50%",
-                    "text-anchor": "middle",
-                    "dominant-baseline": "central"
-                  }
-                },
-                [_vm._v("RECRUIT")]
-              )
-            ]
-          ),
+            attrs: { slot: "hero" },
+            slot: "hero"
+          }),
           _vm._v(" "),
-          _c("p", { staticClass: "text-center" }, [_vm._v("採用情報")])
-        ])
-      ]),
+          _c("template", { slot: "title" }, [_vm._v("RECRUIT")]),
+          _vm._v(" "),
+          _c("template", { slot: "desc" }, [_vm._v("採用情報")])
+        ],
+        2
+      ),
       _vm._v(" "),
       _c("links"),
       _vm._v(" "),
@@ -47722,35 +47734,25 @@ var render = function() {
   return _c(
     "div",
     [
-      _c("section", { staticClass: "lg:mb-24" }, [
-        _c("div", { staticClass: "hero-concept" }),
-        _vm._v(" "),
-        _c("div", [
-          _c(
-            "svg",
-            {
-              staticClass: "svg-concept",
-              attrs: { width: "100%", height: "86" }
+      _c(
+        "hero-bg",
+        [
+          _c("div", {
+            staticClass: "tw-hero",
+            staticStyle: {
+              background:
+                "url('/hero/hero_bg_recruit.jpg') center center / cover no-repeat"
             },
-            [
-              _c(
-                "text",
-                {
-                  attrs: {
-                    x: "50%",
-                    y: "50%",
-                    "text-anchor": "middle",
-                    "dominant-baseline": "central"
-                  }
-                },
-                [_vm._v("RECRUIT")]
-              )
-            ]
-          ),
+            attrs: { slot: "hero" },
+            slot: "hero"
+          }),
           _vm._v(" "),
-          _c("p", { staticClass: "text-center" }, [_vm._v("採用情報")])
-        ])
-      ]),
+          _c("template", { slot: "title" }, [_vm._v("RECRUIT")]),
+          _vm._v(" "),
+          _c("template", { slot: "desc" }, [_vm._v("採用情報")])
+        ],
+        2
+      ),
       _vm._v(" "),
       _c("links"),
       _vm._v(" "),
@@ -62215,6 +62217,7 @@ vue__WEBPACK_IMPORTED_MODULE_0___default.a.use(portal_vue__WEBPACK_IMPORTED_MODU
 
 vue__WEBPACK_IMPORTED_MODULE_0___default.a.component('menu-list', __webpack_require__(/*! ./components/MenuList.vue */ "./resources/js/components/MenuList.vue").default);
 vue__WEBPACK_IMPORTED_MODULE_0___default.a.component('menu-hamburger', __webpack_require__(/*! ./components/MenuHamburger.vue */ "./resources/js/components/MenuHamburger.vue").default);
+vue__WEBPACK_IMPORTED_MODULE_0___default.a.component('hero-bg', __webpack_require__(/*! ./components/HeroBg.vue */ "./resources/js/components/HeroBg.vue").default);
 vue__WEBPACK_IMPORTED_MODULE_0___default.a.component('info', __webpack_require__(/*! ./components/Info.vue */ "./resources/js/components/Info.vue").default);
 vue__WEBPACK_IMPORTED_MODULE_0___default.a.component('breadcrumb', __webpack_require__(/*! ./components/_Breadcrumb.vue */ "./resources/js/components/_Breadcrumb.vue").default);
 vue__WEBPACK_IMPORTED_MODULE_0___default.a.component('reserve', __webpack_require__(/*! ./components/Reserve.vue */ "./resources/js/components/Reserve.vue").default);
@@ -62390,6 +62393,93 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Carousel_vue_vue_type_template_id_fe98726a___WEBPACK_IMPORTED_MODULE_0__["render"]; });
 
 /* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Carousel_vue_vue_type_template_id_fe98726a___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
+
+
+
+/***/ }),
+
+/***/ "./resources/js/components/HeroBg.vue":
+/*!********************************************!*\
+  !*** ./resources/js/components/HeroBg.vue ***!
+  \********************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _HeroBg_vue_vue_type_template_id_403b2eec_scoped_true___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./HeroBg.vue?vue&type=template&id=403b2eec&scoped=true& */ "./resources/js/components/HeroBg.vue?vue&type=template&id=403b2eec&scoped=true&");
+/* harmony import */ var _HeroBg_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./HeroBg.vue?vue&type=script&lang=js& */ "./resources/js/components/HeroBg.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport *//* harmony import */ var _HeroBg_vue_vue_type_style_index_0_id_403b2eec_scoped_true_lang_scss___WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./HeroBg.vue?vue&type=style&index=0&id=403b2eec&scoped=true&lang=scss& */ "./resources/js/components/HeroBg.vue?vue&type=style&index=0&id=403b2eec&scoped=true&lang=scss&");
+/* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+
+
+
+
+
+
+/* normalize component */
+
+var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_3__["default"])(
+  _HeroBg_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__["default"],
+  _HeroBg_vue_vue_type_template_id_403b2eec_scoped_true___WEBPACK_IMPORTED_MODULE_0__["render"],
+  _HeroBg_vue_vue_type_template_id_403b2eec_scoped_true___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"],
+  false,
+  null,
+  "403b2eec",
+  null
+  
+)
+
+/* hot reload */
+if (false) { var api; }
+component.options.__file = "resources/js/components/HeroBg.vue"
+/* harmony default export */ __webpack_exports__["default"] = (component.exports);
+
+/***/ }),
+
+/***/ "./resources/js/components/HeroBg.vue?vue&type=script&lang=js&":
+/*!*********************************************************************!*\
+  !*** ./resources/js/components/HeroBg.vue?vue&type=script&lang=js& ***!
+  \*********************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_HeroBg_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/babel-loader/lib??ref--4-0!../../../node_modules/vue-loader/lib??vue-loader-options!./HeroBg.vue?vue&type=script&lang=js& */ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/HeroBg.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport */ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_HeroBg_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__["default"]); 
+
+/***/ }),
+
+/***/ "./resources/js/components/HeroBg.vue?vue&type=style&index=0&id=403b2eec&scoped=true&lang=scss&":
+/*!******************************************************************************************************!*\
+  !*** ./resources/js/components/HeroBg.vue?vue&type=style&index=0&id=403b2eec&scoped=true&lang=scss& ***!
+  \******************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_style_loader_index_js_node_modules_css_loader_index_js_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_7_2_node_modules_sass_loader_lib_loader_js_ref_7_3_node_modules_vue_loader_lib_index_js_vue_loader_options_HeroBg_vue_vue_type_style_index_0_id_403b2eec_scoped_true_lang_scss___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/style-loader!../../../node_modules/css-loader!../../../node_modules/vue-loader/lib/loaders/stylePostLoader.js!../../../node_modules/postcss-loader/src??ref--7-2!../../../node_modules/sass-loader/lib/loader.js??ref--7-3!../../../node_modules/vue-loader/lib??vue-loader-options!./HeroBg.vue?vue&type=style&index=0&id=403b2eec&scoped=true&lang=scss& */ "./node_modules/style-loader/index.js!./node_modules/css-loader/index.js!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/lib/loader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/HeroBg.vue?vue&type=style&index=0&id=403b2eec&scoped=true&lang=scss&");
+/* harmony import */ var _node_modules_style_loader_index_js_node_modules_css_loader_index_js_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_7_2_node_modules_sass_loader_lib_loader_js_ref_7_3_node_modules_vue_loader_lib_index_js_vue_loader_options_HeroBg_vue_vue_type_style_index_0_id_403b2eec_scoped_true_lang_scss___WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_style_loader_index_js_node_modules_css_loader_index_js_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_7_2_node_modules_sass_loader_lib_loader_js_ref_7_3_node_modules_vue_loader_lib_index_js_vue_loader_options_HeroBg_vue_vue_type_style_index_0_id_403b2eec_scoped_true_lang_scss___WEBPACK_IMPORTED_MODULE_0__);
+/* harmony reexport (unknown) */ for(var __WEBPACK_IMPORT_KEY__ in _node_modules_style_loader_index_js_node_modules_css_loader_index_js_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_7_2_node_modules_sass_loader_lib_loader_js_ref_7_3_node_modules_vue_loader_lib_index_js_vue_loader_options_HeroBg_vue_vue_type_style_index_0_id_403b2eec_scoped_true_lang_scss___WEBPACK_IMPORTED_MODULE_0__) if(__WEBPACK_IMPORT_KEY__ !== 'default') (function(key) { __webpack_require__.d(__webpack_exports__, key, function() { return _node_modules_style_loader_index_js_node_modules_css_loader_index_js_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_7_2_node_modules_sass_loader_lib_loader_js_ref_7_3_node_modules_vue_loader_lib_index_js_vue_loader_options_HeroBg_vue_vue_type_style_index_0_id_403b2eec_scoped_true_lang_scss___WEBPACK_IMPORTED_MODULE_0__[key]; }) }(__WEBPACK_IMPORT_KEY__));
+ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_style_loader_index_js_node_modules_css_loader_index_js_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_7_2_node_modules_sass_loader_lib_loader_js_ref_7_3_node_modules_vue_loader_lib_index_js_vue_loader_options_HeroBg_vue_vue_type_style_index_0_id_403b2eec_scoped_true_lang_scss___WEBPACK_IMPORTED_MODULE_0___default.a); 
+
+/***/ }),
+
+/***/ "./resources/js/components/HeroBg.vue?vue&type=template&id=403b2eec&scoped=true&":
+/*!***************************************************************************************!*\
+  !*** ./resources/js/components/HeroBg.vue?vue&type=template&id=403b2eec&scoped=true& ***!
+  \***************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_HeroBg_vue_vue_type_template_id_403b2eec_scoped_true___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../node_modules/vue-loader/lib??vue-loader-options!./HeroBg.vue?vue&type=template&id=403b2eec&scoped=true& */ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/HeroBg.vue?vue&type=template&id=403b2eec&scoped=true&");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_HeroBg_vue_vue_type_template_id_403b2eec_scoped_true___WEBPACK_IMPORTED_MODULE_0__["render"]; });
+
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_HeroBg_vue_vue_type_template_id_403b2eec_scoped_true___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
 
 
 
@@ -62866,7 +62956,7 @@ __webpack_require__.r(__webpack_exports__);
 
 /***/ }),
 
-/***/ "./resources/js/components/_collection.vue":
+/***/ "./resources/js/components/_Collection.vue":
 /*!*************************************************!*\
   !*** ./resources/js/components/_Collection.vue ***!
   \*************************************************/
@@ -62875,8 +62965,8 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony import */ var _collection_vue_vue_type_template_id_de043e7c_scoped_true___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./_Collection.vue?vue&type=template&id=de043e7c&scoped=true& */ "./resources/js/components/_Collection.vue?vue&type=template&id=de043e7c&scoped=true&");
-/* harmony import */ var _collection_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./_Collection.vue?vue&type=script&lang=js& */ "./resources/js/components/_Collection.vue?vue&type=script&lang=js&");
+/* harmony import */ var _Collection_vue_vue_type_template_id_5544ace2_scoped_true___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./_Collection.vue?vue&type=template&id=5544ace2&scoped=true& */ "./resources/js/components/_Collection.vue?vue&type=template&id=5544ace2&scoped=true&");
+/* harmony import */ var _Collection_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./_Collection.vue?vue&type=script&lang=js& */ "./resources/js/components/_Collection.vue?vue&type=script&lang=js&");
 /* empty/unused harmony star reexport *//* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
 
 
@@ -62886,12 +62976,12 @@ __webpack_require__.r(__webpack_exports__);
 /* normalize component */
 
 var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__["default"])(
-  _collection_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__["default"],
-  _collection_vue_vue_type_template_id_de043e7c_scoped_true___WEBPACK_IMPORTED_MODULE_0__["render"],
-  _collection_vue_vue_type_template_id_de043e7c_scoped_true___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"],
+  _Collection_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__["default"],
+  _Collection_vue_vue_type_template_id_5544ace2_scoped_true___WEBPACK_IMPORTED_MODULE_0__["render"],
+  _Collection_vue_vue_type_template_id_5544ace2_scoped_true___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"],
   false,
   null,
-  "de043e7c",
+  "5544ace2",
   null
   
 )
@@ -62903,7 +62993,7 @@ component.options.__file = "resources/js/components/_Collection.vue"
 
 /***/ }),
 
-/***/ "./resources/js/components/_collection.vue?vue&type=script&lang=js&":
+/***/ "./resources/js/components/_Collection.vue?vue&type=script&lang=js&":
 /*!**************************************************************************!*\
   !*** ./resources/js/components/_Collection.vue?vue&type=script&lang=js& ***!
   \**************************************************************************/
@@ -62912,24 +63002,24 @@ component.options.__file = "resources/js/components/_Collection.vue"
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony import */ var _node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_collection_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/babel-loader/lib??ref--4-0!../../../node_modules/vue-loader/lib??vue-loader-options!./_Collection.vue?vue&type=script&lang=js& */ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/_Collection.vue?vue&type=script&lang=js&");
-/* empty/unused harmony star reexport */ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_collection_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__["default"]); 
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Collection_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/babel-loader/lib??ref--4-0!../../../node_modules/vue-loader/lib??vue-loader-options!./_Collection.vue?vue&type=script&lang=js& */ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/_Collection.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport */ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Collection_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__["default"]); 
 
 /***/ }),
 
-/***/ "./resources/js/components/_collection.vue?vue&type=template&id=de043e7c&scoped=true&":
+/***/ "./resources/js/components/_Collection.vue?vue&type=template&id=5544ace2&scoped=true&":
 /*!********************************************************************************************!*\
-  !*** ./resources/js/components/_Collection.vue?vue&type=template&id=de043e7c&scoped=true& ***!
+  !*** ./resources/js/components/_Collection.vue?vue&type=template&id=5544ace2&scoped=true& ***!
   \********************************************************************************************/
 /*! exports provided: render, staticRenderFns */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_collection_vue_vue_type_template_id_de043e7c_scoped_true___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../node_modules/vue-loader/lib??vue-loader-options!./_Collection.vue?vue&type=template&id=de043e7c&scoped=true& */ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/_Collection.vue?vue&type=template&id=de043e7c&scoped=true&");
-/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_collection_vue_vue_type_template_id_de043e7c_scoped_true___WEBPACK_IMPORTED_MODULE_0__["render"]; });
+/* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Collection_vue_vue_type_template_id_5544ace2_scoped_true___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../node_modules/vue-loader/lib??vue-loader-options!./_Collection.vue?vue&type=template&id=5544ace2&scoped=true& */ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/_Collection.vue?vue&type=template&id=5544ace2&scoped=true&");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Collection_vue_vue_type_template_id_5544ace2_scoped_true___WEBPACK_IMPORTED_MODULE_0__["render"]; });
 
-/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_collection_vue_vue_type_template_id_de043e7c_scoped_true___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Collection_vue_vue_type_template_id_5544ace2_scoped_true___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
 
 
 

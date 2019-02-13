@@ -20,7 +20,7 @@
                      data-aos="zoom-in-up"
                 >
                     <article>
-                        <h3 class="tracking-loosest text-4xl leading-loose">CONCEPT</h3>
+                        <h3 class="tracking-loosest text-4xl leading-loose text-grey-darkest">CONCEPT</h3>
 
                         <p class="font-fotura my-7 text-xs">
                             Just a little more consideration leads your trust.<br>
@@ -524,8 +524,7 @@
     }
 
     .tw-article {
-        @apply flex justify-center mx-auto p-16 text-xs tracking-loosest leading-loose;
-        max-width: 1000px;
+        @apply flex justify-center mx-auto p-16 text-xs tracking-loosest leading-loose max-w-1000;
 
         background: url('/icon/left_top.svg') left top/10px 10px no-repeat,
         url('/icon/right_top.svg') right top/10px 8px no-repeat,

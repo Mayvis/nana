@@ -1,15 +1,15 @@
 <template>
     <div>
-        <section class="lg:mb-24">
-            <div class="hero-concept"></div>
-            <div>
-                <svg width="100%" height="86" class="svg-concept">
-                    <text x="50%" y="50%" text-anchor="middle" dominant-baseline="central">BEAUTY × LIFE</text>
-                </svg>
-
-                <p class="text-center">マツエクのある毎日</p>
+        <hero-bg>
+            <div slot="hero"
+                 class="tw-hero"
+                 style="background: url('/hero/hero_bg_beauty.jpg') center center / cover no-repeat;">
             </div>
-        </section>
+
+            <template slot="title">BEAUTY × LIFE</template>
+
+            <template slot="desc">マツエクのある毎日</template>
+        </hero-bg>
 
         <links></links>
 
@@ -66,7 +66,7 @@
 
         <links></links>
 
-        <breadcrumb :middle="{name: 'BEAUTY x LIFE', default: true}"></breadcrumb>
+        <breadcrumb :middle="{name: 'BEAUTY × LIFE', default: true}"></breadcrumb>
 
         <reserve></reserve>
     </div>
@@ -82,31 +82,6 @@
 </script>
 
 <style scoped lang="scss">
-    .hero-concept {
-        background: url('/hero/hero_bg_beauty.jpg') center center / cover no-repeat;
-        height: 360px;
-        margin-top: -165px;
-    }
-
-    .svg-concept {
-        overflow: visible;
-        height: 86px;
-        margin-top: -30px;
-        font-family: "sofia-pro-condensed", sans-serif;
-        font-size: 86px;
-        line-height: 1;
-        letter-spacing: .2em;
-
-        text {
-            fill: rgba(255, 255, 255, 0);
-            stroke: #333;
-            stroke-width: .8;
-            stroke-linejoin: round;
-            font-family: "sofia-pro-condensed", sans-serif;
-            line-height: 1;
-        }
-    }
-
     .sub-title {
         position: absolute;
         top: 30%;
