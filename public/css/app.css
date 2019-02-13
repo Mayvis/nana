@@ -6512,6 +6512,13 @@ p {
   color: #3d4852;
 }
 
+h3 {
+  line-height: 2;
+  letter-spacing: .2em;
+  font-size: 1rem;
+  color: #67a2b7;
+}
+
 [v-cloak] {
   display: none;
 }

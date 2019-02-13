@@ -38,13 +38,14 @@
                 <div class="lg:w-2/3 pl-8 pr-8">
                     <div class="flex items-center p-4 tw-title mb-12">
                         <span class="text-350 pl-4 pr-4">01</span>
+
                         <h2 class="leading-normal font-sans">
                             居心地の良さを大切に
                         </h2>
                     </div>
 
                     <article>
-                        <h3 class="text-teal tracking-wide leading-loose text-base pb-6">
+                        <h3 class="pb-6">
                             丁寧な接客、寝心地の良いベッド、メイクブース。<br>
                             無防備になるからこその安心を。
                         </h3>
@@ -61,7 +62,7 @@
                     </article>
 
                     <article>
-                        <h3 class="text-teal tracking-wide leading-loose text-base pb-6">
+                        <h3 class="pb-6">
                             肌で感じるやわらかな雰囲気。<br>
                             スタッフのやさしさに包まれるサロン。
                         </h3>
@@ -96,7 +97,7 @@
                     </div>
 
                     <article>
-                        <h3 class="text-teal tracking-wide leading-loose text-base pb-6">
+                        <h3 class="pb-6">
                             他店より長い研修は、未経験者でも経験者でも同じ。<br>
                             全員が美容師免許保持者。
                         </h3>
@@ -108,7 +109,7 @@
                     </article>
 
                     <article>
-                        <h3 class="text-teal tracking-wide leading-loose text-base pb-6">
+                        <h3 class="pb-6">
                             お客さまの時間を大切にするための、最大限のスピード。
                         </h3>
 
@@ -136,7 +137,7 @@
                     </div>
 
                     <article>
-                        <h3 class="text-teal tracking-wide leading-loose text-base pb-6">
+                        <h3 class="pb-6">
                             成人式、結婚式、仕事の商談。<br>
                             その人の印象を変える“目ヂカラ”を演出。
                         </h3>
@@ -149,7 +150,7 @@
                     </article>
 
                     <article>
-                        <h3 class="text-teal tracking-wide leading-loose text-base pb-6">
+                        <h3 class="pb-6">
                             まつ毛がもつ個性を活かし、<br>
                             その瞬間にふさわしい理想の目元をつくる。
                         </h3>
@@ -185,7 +186,7 @@
                     </div>
 
                     <article>
-                        <h3 class="text-teal tracking-wide leading-loose text-base pb-6">
+                        <h3 class="pb-6">
                             国家資格保持者というプライドが、<br>
                             お客さまに接する美意識につながる。
                         </h3>
@@ -198,7 +199,7 @@
                     </article>
 
                     <article>
-                        <h3 class="text-teal tracking-wide leading-loose text-base pb-6">
+                        <h3 class="pb-6">
                             安心、信頼、思いやり。<br>
                             自発的な行動こそがサロンの質であり、お客さまの満足度。
                         </h3>

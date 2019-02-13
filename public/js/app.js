@@ -2773,6 +2773,7 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
 
 /* harmony default export */ __webpack_exports__["default"] = ({
   components: {
@@ -2791,6 +2792,7 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
+//
 //
 //
 //
@@ -3745,6 +3747,8 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
+//
 /* harmony default export */ __webpack_exports__["default"] = ({
   data: function data() {
     return {
@@ -3780,6 +3784,16 @@ __webpack_require__.r(__webpack_exports__);
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _components_recruit_Links__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../components/recruit/_Links */ "./resources/js/components/recruit/_Links.vue");
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 //
 //
 //
@@ -4320,6 +4334,9 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
+//
+//
+//
 //
 //
 //
@@ -5508,8 +5525,6 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
-//
-//
 
 /* harmony default export */ __webpack_exports__["default"] = ({
   components: {
@@ -5683,6 +5698,7 @@ __webpack_require__.r(__webpack_exports__);
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _components_recruit_Links__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../components/recruit/_Links */ "./resources/js/components/recruit/_Links.vue");
+//
 //
 //
 //
@@ -41395,18 +41411,11 @@ var staticRenderFns = [
         _c("div", { staticClass: "flex sm:flex-wrap sm:justify-center px-4" }, [
           _c("div", { staticClass: "sm:w-full pl-8 lg:mb-16" }, [
             _c("article", [
-              _c(
-                "h3",
-                {
-                  staticClass:
-                    "text-teal tracking-wide leading-loose text-base pb-6"
-                },
-                [
-                  _vm._v(
-                    "\n                            お風呂もOK、仕上がりもキレイ、そして、コスパ抜群！\n                        "
-                  )
-                ]
-              ),
+              _c("h3", { staticClass: "pb-6" }, [
+                _vm._v(
+                  "\n                            お風呂もOK、仕上がりもキレイ、そして、コスパ抜群！\n                        "
+                )
+              ]),
               _vm._v(" "),
               _c("p", { staticClass: "pb-8" }, [
                 _vm._v(
@@ -41999,22 +42008,15 @@ var staticRenderFns = [
           ]),
           _vm._v(" "),
           _c("article", [
-            _c(
-              "h3",
-              {
-                staticClass:
-                  "text-teal tracking-wide leading-loose text-base pb-6"
-              },
-              [
-                _vm._v(
-                  "\n                        丁寧な接客、寝心地の良いベッド、メイクブース。"
-                ),
-                _c("br"),
-                _vm._v(
-                  "\n                        無防備になるからこその安心を。\n                    "
-                )
-              ]
-            ),
+            _c("h3", { staticClass: "pb-6" }, [
+              _vm._v(
+                "\n                        丁寧な接客、寝心地の良いベッド、メイクブース。"
+              ),
+              _c("br"),
+              _vm._v(
+                "\n                        無防備になるからこその安心を。\n                    "
+              )
+            ]),
             _vm._v(" "),
             _c("p", { staticClass: "pb-8" }, [
               _vm._v(
@@ -42038,22 +42040,13 @@ var staticRenderFns = [
           ]),
           _vm._v(" "),
           _c("article", [
-            _c(
-              "h3",
-              {
-                staticClass:
-                  "text-teal tracking-wide leading-loose text-base pb-6"
-              },
-              [
-                _vm._v(
-                  "\n                        肌で感じるやわらかな雰囲気。"
-                ),
-                _c("br"),
-                _vm._v(
-                  "\n                        スタッフのやさしさに包まれるサロン。\n                    "
-                )
-              ]
-            ),
+            _c("h3", { staticClass: "pb-6" }, [
+              _vm._v("\n                        肌で感じるやわらかな雰囲気。"),
+              _c("br"),
+              _vm._v(
+                "\n                        スタッフのやさしさに包まれるサロン。\n                    "
+              )
+            ]),
             _vm._v(" "),
             _c("p", { staticClass: "pb-8" }, [
               _c("span", { staticClass: "tw-mask" }, [
@@ -42106,22 +42099,15 @@ var staticRenderFns = [
           ]),
           _vm._v(" "),
           _c("article", [
-            _c(
-              "h3",
-              {
-                staticClass:
-                  "text-teal tracking-wide leading-loose text-base pb-6"
-              },
-              [
-                _vm._v(
-                  "\n                        他店より長い研修は、未経験者でも経験者でも同じ。"
-                ),
-                _c("br"),
-                _vm._v(
-                  "\n                        全員が美容師免許保持者。\n                    "
-                )
-              ]
-            ),
+            _c("h3", { staticClass: "pb-6" }, [
+              _vm._v(
+                "\n                        他店より長い研修は、未経験者でも経験者でも同じ。"
+              ),
+              _c("br"),
+              _vm._v(
+                "\n                        全員が美容師免許保持者。\n                    "
+              )
+            ]),
             _vm._v(" "),
             _c("p", { staticClass: "pb-8" }, [
               _vm._v(
@@ -42137,18 +42123,11 @@ var staticRenderFns = [
           ]),
           _vm._v(" "),
           _c("article", [
-            _c(
-              "h3",
-              {
-                staticClass:
-                  "text-teal tracking-wide leading-loose text-base pb-6"
-              },
-              [
-                _vm._v(
-                  "\n                        お客さまの時間を大切にするための、最大限のスピード。\n                    "
-                )
-              ]
-            ),
+            _c("h3", { staticClass: "pb-6" }, [
+              _vm._v(
+                "\n                        お客さまの時間を大切にするための、最大限のスピード。\n                    "
+              )
+            ]),
             _vm._v(" "),
             _c("p", { staticClass: "pb-8" }, [
               _vm._v(
@@ -42189,22 +42168,13 @@ var staticRenderFns = [
           ]),
           _vm._v(" "),
           _c("article", [
-            _c(
-              "h3",
-              {
-                staticClass:
-                  "text-teal tracking-wide leading-loose text-base pb-6"
-              },
-              [
-                _vm._v(
-                  "\n                        成人式、結婚式、仕事の商談。"
-                ),
-                _c("br"),
-                _vm._v(
-                  "\n                        その人の印象を変える“目ヂカラ”を演出。\n                    "
-                )
-              ]
-            ),
+            _c("h3", { staticClass: "pb-6" }, [
+              _vm._v("\n                        成人式、結婚式、仕事の商談。"),
+              _c("br"),
+              _vm._v(
+                "\n                        その人の印象を変える“目ヂカラ”を演出。\n                    "
+              )
+            ]),
             _vm._v(" "),
             _c("p", { staticClass: "pb-8" }, [
               _vm._v(
@@ -42224,20 +42194,13 @@ var staticRenderFns = [
           ]),
           _vm._v(" "),
           _c("article", [
-            _c(
-              "h3",
-              {
-                staticClass:
-                  "text-teal tracking-wide leading-loose text-base pb-6"
-              },
-              [
-                _vm._v("\n                        まつ毛がもつ個性を活かし、"),
-                _c("br"),
-                _vm._v(
-                  "\n                        その瞬間にふさわしい理想の目元をつくる。\n                    "
-                )
-              ]
-            ),
+            _c("h3", { staticClass: "pb-6" }, [
+              _vm._v("\n                        まつ毛がもつ個性を活かし、"),
+              _c("br"),
+              _vm._v(
+                "\n                        その瞬間にふさわしい理想の目元をつくる。\n                    "
+              )
+            ]),
             _vm._v(" "),
             _c("p", { staticClass: "pb-8" }, [
               _vm._v(
@@ -42296,22 +42259,15 @@ var staticRenderFns = [
           ]),
           _vm._v(" "),
           _c("article", [
-            _c(
-              "h3",
-              {
-                staticClass:
-                  "text-teal tracking-wide leading-loose text-base pb-6"
-              },
-              [
-                _vm._v(
-                  "\n                        国家資格保持者というプライドが、"
-                ),
-                _c("br"),
-                _vm._v(
-                  "\n                        お客さまに接する美意識につながる。\n                    "
-                )
-              ]
-            ),
+            _c("h3", { staticClass: "pb-6" }, [
+              _vm._v(
+                "\n                        国家資格保持者というプライドが、"
+              ),
+              _c("br"),
+              _vm._v(
+                "\n                        お客さまに接する美意識につながる。\n                    "
+              )
+            ]),
             _vm._v(" "),
             _c("p", { staticClass: "pb-8" }, [
               _vm._v(
@@ -42329,20 +42285,13 @@ var staticRenderFns = [
           ]),
           _vm._v(" "),
           _c("article", [
-            _c(
-              "h3",
-              {
-                staticClass:
-                  "text-teal tracking-wide leading-loose text-base pb-6"
-              },
-              [
-                _vm._v("\n                        安心、信頼、思いやり。"),
-                _c("br"),
-                _vm._v(
-                  "\n                        自発的な行動こそがサロンの質であり、お客さまの満足度。\n                    "
-                )
-              ]
-            ),
+            _c("h3", { staticClass: "pb-6" }, [
+              _vm._v("\n                        安心、信頼、思いやり。"),
+              _c("br"),
+              _vm._v(
+                "\n                        自発的な行動こそがサロンの質であり、お客さまの満足度。\n                    "
+              )
+            ]),
             _vm._v(" "),
             _c("p", { staticClass: "pb-8" }, [
               _vm._v(
@@ -43483,22 +43432,15 @@ var staticRenderFns = [
           ]),
           _vm._v(" "),
           _c("article", [
-            _c(
-              "h3",
-              {
-                staticClass:
-                  "text-teal tracking-wide leading-loose text-base pb-6"
-              },
-              [
-                _vm._v(
-                  "\n                        しぐさが変わって、もっと女性らしく。"
-                ),
-                _c("br"),
-                _vm._v(
-                  "\n                        あなたの印象を変えるのが“ネイル”。\n                    "
-                )
-              ]
-            ),
+            _c("h3", { staticClass: "pb-6" }, [
+              _vm._v(
+                "\n                        しぐさが変わって、もっと女性らしく。"
+              ),
+              _c("br"),
+              _vm._v(
+                "\n                        あなたの印象を変えるのが“ネイル”。\n                    "
+              )
+            ]),
             _vm._v(" "),
             _c("p", { staticClass: "pb-8" }, [
               _vm._v(
@@ -43514,22 +43456,15 @@ var staticRenderFns = [
           ]),
           _vm._v(" "),
           _c("article", [
-            _c(
-              "h3",
-              {
-                staticClass:
-                  "text-teal tracking-wide leading-loose text-base pb-6"
-              },
-              [
-                _vm._v(
-                  "\n                        ひとりひとりの爪の形、肌の色に合わせた施術。"
-                ),
-                _c("br"),
-                _vm._v(
-                  "\n                        自然体の美しさで、日常生活を魅力的に。\n                    "
-                )
-              ]
-            ),
+            _c("h3", { staticClass: "pb-6" }, [
+              _vm._v(
+                "\n                        ひとりひとりの爪の形、肌の色に合わせた施術。"
+              ),
+              _c("br"),
+              _vm._v(
+                "\n                        自然体の美しさで、日常生活を魅力的に。\n                    "
+              )
+            ]),
             _vm._v(" "),
             _c("p", { staticClass: "pb-8" }, [
               _vm._v(
@@ -43605,22 +43540,15 @@ var staticRenderFns = [
           ]),
           _vm._v(" "),
           _c("article", [
-            _c(
-              "h3",
-              {
-                staticClass:
-                  "text-teal tracking-wide leading-loose text-base pb-6"
-              },
-              [
-                _vm._v(
-                  "\n                        ライフスタイル、爪のコンディション。"
-                ),
-                _c("br"),
-                _vm._v(
-                  "\n                        経験豊富なネイリストと、じっくり話し合う。\n                    "
-                )
-              ]
-            ),
+            _c("h3", { staticClass: "pb-6" }, [
+              _vm._v(
+                "\n                        ライフスタイル、爪のコンディション。"
+              ),
+              _c("br"),
+              _vm._v(
+                "\n                        経験豊富なネイリストと、じっくり話し合う。\n                    "
+              )
+            ]),
             _vm._v(" "),
             _c("p", { staticClass: "pb-8" }, [
               _vm._v(
@@ -43645,22 +43573,15 @@ var staticRenderFns = [
           ]),
           _vm._v(" "),
           _c("article", [
-            _c(
-              "h3",
-              {
-                staticClass:
-                  "text-teal tracking-wide leading-loose text-base pb-6"
-              },
-              [
-                _vm._v(
-                  "\n                        多彩なカラー・パーツ、そしてスピーディな施術で、"
-                ),
-                _c("br"),
-                _vm._v(
-                  "\n                        みんなの「美しくなりたい」を叶える。\n                    "
-                )
-              ]
-            ),
+            _c("h3", { staticClass: "pb-6" }, [
+              _vm._v(
+                "\n                        多彩なカラー・パーツ、そしてスピーディな施術で、"
+              ),
+              _c("br"),
+              _vm._v(
+                "\n                        みんなの「美しくなりたい」を叶える。\n                    "
+              )
+            ]),
             _vm._v(" "),
             _c("p", { staticClass: "pb-8" }, [
               _vm._v(
@@ -43755,7 +43676,11 @@ var staticRenderFns = [
             staticClass:
               "ref-title text-2xl tracking-loose leading-loose border-b-2 border-black"
           },
-          [_vm._v("RESERVATION!")]
+          [
+            _vm._v(
+              "\n                            RESERVATION!\n                        "
+            )
+          ]
         )
       ]),
       _vm._v(" "),
@@ -43984,108 +43909,71 @@ var staticRenderFns = [
           ]),
           _vm._v(" "),
           _c("article", [
-            _c(
-              "h3",
-              {
-                staticClass:
-                  "text-teal tracking-wide leading-loose text-base pb-6"
-              },
-              [
-                _vm._v("\n                        未経験者も正社員採用。"),
-                _c("br"),
-                _vm._v(
-                  "\n                        個々の意見を大切にし、スタッフの権利をしっかり守る。\n                    "
-                )
-              ]
-            ),
+            _c("h3", { staticClass: "pb-6" }, [
+              _vm._v("\n                        未経験者も正社員採用。"),
+              _c("br"),
+              _vm._v(
+                "\n                        個々の意見を大切にし、スタッフの権利をしっかり守る。\n                    "
+              )
+            ]),
             _vm._v(" "),
-            _c(
-              "p",
-              {
-                staticClass:
-                  "text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest"
-              },
-              [
-                _vm._v(
-                  "\n                        NANAでは未経験者であっても\n                        "
-                ),
-                _c("span", { staticClass: "tw-mask" }, [
-                  _vm._v("全員が正社員として採用")
-                ]),
-                _vm._v(
-                  "\n                        されます。入社半年後には社会保険・雇用保険などには無条件で加入。スタッフの権利をしっかり守ります。\n                    "
-                )
-              ]
-            ),
+            _c("p", { staticClass: "pb-8" }, [
+              _vm._v(
+                "\n                        NANAでは未経験者であっても\n                        "
+              ),
+              _c("span", { staticClass: "tw-mask" }, [
+                _vm._v("全員が正社員として採用")
+              ]),
+              _vm._v(
+                "\n                        されます。入社半年後には社会保険・雇用保険などには無条件で加入。スタッフの権利をしっかり守ります。\n                    "
+              )
+            ]),
             _vm._v(" "),
-            _c(
-              "p",
-              {
-                staticClass:
-                  "text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest"
-              },
-              [
-                _vm._v(
-                  "\n                        NANAには中間管理職がありません。思ったことは先輩後輩に関係なく、フランクに言い合える仲という点もポイントです。社長にも意見が通りやすく、対応もスピーディー。\n                        "
-                ),
-                _c("span", { staticClass: "tw-mask" }, [
-                  _vm._v("社員の意見を大切に")
-                ]),
-                _vm._v(
-                  "\n                        してくれるのが実感できるため、\n                        "
-                ),
-                _c("span", { staticClass: "tw-mask" }, [
-                  _vm._v("離職率が低い")
-                ]),
-                _vm._v(
-                  "\n                        ことも魅力です。\n                    "
-                )
-              ]
-            )
+            _c("p", { staticClass: "pb-8" }, [
+              _vm._v(
+                "\n                        NANAには中間管理職がありません。思ったことは先輩後輩に関係なく、フランクに言い合える仲という点もポイントです。社長にも意見が通りやすく、対応もスピーディー。\n                        "
+              ),
+              _c("span", { staticClass: "tw-mask" }, [
+                _vm._v("社員の意見を大切に")
+              ]),
+              _vm._v(
+                "\n                        してくれるのが実感できるため、\n                        "
+              ),
+              _c("span", { staticClass: "tw-mask" }, [_vm._v("離職率が低い")]),
+              _vm._v(
+                "\n                        ことも魅力です。\n                    "
+              )
+            ])
           ]),
           _vm._v(" "),
           _c("article", [
-            _c(
-              "h3",
-              {
-                staticClass:
-                  "text-teal tracking-wide leading-loose text-base pb-6"
-              },
-              [
-                _vm._v(
-                  "\n                        施術だけではなく、“美容にかかわることすべて”が仕事。"
-                ),
-                _c("br"),
-                _vm._v(
-                  "\n                        総合職だから得られる成長。\n                    "
-                )
-              ]
-            ),
+            _c("h3", { staticClass: "pb-6" }, [
+              _vm._v(
+                "\n                        施術だけではなく、“美容にかかわることすべて”が仕事。"
+              ),
+              _c("br"),
+              _vm._v(
+                "\n                        総合職だから得られる成長。\n                    "
+              )
+            ]),
             _vm._v(" "),
-            _c(
-              "p",
-              {
-                staticClass:
-                  "text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest"
-              },
-              [
-                _vm._v(
-                  "\n                        また、スタッフは\n                        "
-                ),
-                _c("span", { staticClass: "tw-mask" }, [
-                  _vm._v("全員が総合職での採用")
-                ]),
-                _vm._v(
-                  "\n                        です。美容業である以上、美容に関することは何でもやります。そのため、仕事内容は施術だけではありません。ブログ更新といった広告、新しい商品の開発など、幅広い業務に携わることで、\n                        "
-                ),
-                _c("span", { staticClass: "tw-mask" }, [
-                  _vm._v("自分自身の成長、会社の成長を感じる")
-                ]),
-                _vm._v(
-                  "\n                        ことができます。\n                    "
-                )
-              ]
-            )
+            _c("p", { staticClass: "pb-8" }, [
+              _vm._v(
+                "\n                        また、スタッフは\n                        "
+              ),
+              _c("span", { staticClass: "tw-mask" }, [
+                _vm._v("全員が総合職での採用")
+              ]),
+              _vm._v(
+                "\n                        です。美容業である以上、美容に関することは何でもやります。そのため、仕事内容は施術だけではありません。ブログ更新といった広告、新しい商品の開発など、幅広い業務に携わることで、\n                        "
+              ),
+              _c("span", { staticClass: "tw-mask" }, [
+                _vm._v("自分自身の成長、会社の成長を感じる")
+              ]),
+              _vm._v(
+                "\n                        ことができます。\n                    "
+              )
+            ])
           ])
         ]),
         _vm._v(" "),
@@ -44129,122 +44017,73 @@ var staticRenderFns = [
           ]),
           _vm._v(" "),
           _c("article", [
-            _c(
-              "h3",
-              {
-                staticClass:
-                  "text-teal tracking-wide leading-loose text-base pb-6"
-              },
-              [
-                _vm._v(
-                  "\n                        「人は、人を育てる時に成長する」。"
-                ),
-                _c("br"),
-                _vm._v(
-                  "\n                        未経験者採用は、成長のチャンス。\n                    "
-                )
-              ]
-            ),
+            _c("h3", { staticClass: "pb-6" }, [
+              _vm._v(
+                "\n                        「人は、人を育てる時に成長する」。"
+              ),
+              _c("br"),
+              _vm._v(
+                "\n                        未経験者採用は、成長のチャンス。\n                    "
+              )
+            ]),
             _vm._v(" "),
-            _c(
-              "p",
-              {
-                staticClass:
-                  "text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest"
-              },
-              [
-                _vm._v(
-                  "\n                        スタッフの多くは未経験者です。「時間やお金をかけて未経験者をイチから育てるよりもすぐに入客できる経験者を採用するほうがラクなのでは？」と考える方もいらっしゃるでしょう。ではなぜ、NANAは積極的に未経験者を採用するのでしょうか？\n                    "
-                )
-              ]
-            ),
+            _c("p", { staticClass: "pb-8" }, [
+              _vm._v(
+                "\n                        スタッフの多くは未経験者です。「時間やお金をかけて未経験者をイチから育てるよりもすぐに入客できる経験者を採用するほうがラクなのでは？」と考える方もいらっしゃるでしょう。ではなぜ、NANAは積極的に未経験者を採用するのでしょうか？\n                    "
+              )
+            ]),
             _vm._v(" "),
-            _c(
-              "p",
-              {
-                staticClass:
-                  "text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest"
-              },
-              [
-                _c("span", { staticClass: "tw-mask" }, [
-                  _vm._v("人は人を育てる時に成長")
-                ]),
-                _vm._v(
-                  "\n                        します。未経験者をゼロから教えることで、既存スタッフがみずから成長する。そのチャンスになるから、NANAでは未経験者を歓迎しています。\n                    "
-                )
-              ]
-            ),
+            _c("p", { staticClass: "pb-8" }, [
+              _c("span", { staticClass: "tw-mask" }, [
+                _vm._v("人は人を育てる時に成長")
+              ]),
+              _vm._v(
+                "\n                        します。未経験者をゼロから教えることで、既存スタッフがみずから成長する。そのチャンスになるから、NANAでは未経験者を歓迎しています。\n                    "
+              )
+            ]),
             _vm._v(" "),
-            _c(
-              "p",
-              {
-                staticClass:
-                  "text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest"
-              },
-              [
-                _c("span", { staticClass: "tw-mask" }, [
-                  _vm._v("研修期間は6ヶ月から10ヶ月ほどまでしっかりと実施。")
-                ]),
-                _vm._v(
-                  "\n                        経験者でも1ヶ月ほどの研修期間を設けることで、経験者・未経験者の差をなくし、\n                        "
-                ),
-                _c("span", { staticClass: "tw-mask" }, [
-                  _vm._v("どのスタッフでもお客さまに満足いただける環境")
-                ]),
-                _vm._v(
-                  "\n                        を作っています。\n                    "
-                )
-              ]
-            )
+            _c("p", { staticClass: "pb-8" }, [
+              _c("span", { staticClass: "tw-mask" }, [
+                _vm._v("研修期間は6ヶ月から10ヶ月ほどまでしっかりと実施。")
+              ]),
+              _vm._v(
+                "\n                        経験者でも1ヶ月ほどの研修期間を設けることで、経験者・未経験者の差をなくし、\n                        "
+              ),
+              _c("span", { staticClass: "tw-mask" }, [
+                _vm._v("どのスタッフでもお客さまに満足いただける環境")
+              ]),
+              _vm._v(
+                "\n                        を作っています。\n                    "
+              )
+            ])
           ]),
           _vm._v(" "),
           _c("article", [
-            _c(
-              "h3",
-              {
-                staticClass:
-                  "text-teal tracking-wide leading-loose text-base pb-6"
-              },
-              [
-                _vm._v("\n                        前期の先輩が“先生”。"),
-                _c("br"),
-                _vm._v(
-                  "\n                        なんでも相談できるから、どんどん成長できる。\n                    "
-                )
-              ]
-            ),
+            _c("h3", { staticClass: "pb-6" }, [
+              _vm._v("\n                        前期の先輩が“先生”。"),
+              _c("br"),
+              _vm._v(
+                "\n                        なんでも相談できるから、どんどん成長できる。\n                    "
+              )
+            ]),
             _vm._v(" "),
-            _c(
-              "p",
-              {
-                staticClass:
-                  "text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest"
-              },
-              [
-                _vm._v(
-                  "\n                        研修の最大の特徴は、前期の先輩が教える点。歴がさほど離れていないため、なんでも相談しやすい空気を作ってくれます。複数人から指導を受けられる点も魅力のひとつ。先輩それぞれの個性を活かした手法をじかに学べるため、自分自身の引き出しが増えます。\n                    "
-                )
-              ]
-            ),
+            _c("p", { staticClass: "pb-8" }, [
+              _vm._v(
+                "\n                        研修の最大の特徴は、前期の先輩が教える点。歴がさほど離れていないため、なんでも相談しやすい空気を作ってくれます。複数人から指導を受けられる点も魅力のひとつ。先輩それぞれの個性を活かした手法をじかに学べるため、自分自身の引き出しが増えます。\n                    "
+              )
+            ]),
             _vm._v(" "),
-            _c(
-              "p",
-              {
-                staticClass:
-                  "text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest"
-              },
-              [
-                _vm._v(
-                  "\n                        また\n                        "
-                ),
-                _c("span", { staticClass: "tw-mask" }, [
-                  _vm._v("NANAは、福岡ナンバーワンのマツエクサロン")
-                ]),
-                _vm._v(
-                  "\n                        。実際に入社しても担当人数は先輩たちと変わりません。スタッフ全員でバランスよくお客さまを担当するため、たくさんのお客さまと接することができ、どんどんレベルアップが図れます！\n                        そうして今度は自分が教える立場になり、後輩を育てることでさらに学び・気づきを得ます。\n                    "
-                )
-              ]
-            )
+            _c("p", { staticClass: "pb-8" }, [
+              _vm._v(
+                "\n                        また\n                        "
+              ),
+              _c("span", { staticClass: "tw-mask" }, [
+                _vm._v("NANAは、福岡ナンバーワンのマツエクサロン")
+              ]),
+              _vm._v(
+                "\n                        。実際に入社しても担当人数は先輩たちと変わりません。スタッフ全員でバランスよくお客さまを担当するため、たくさんのお客さまと接することができ、どんどんレベルアップが図れます！\n                        そうして今度は自分が教える立場になり、後輩を育てることでさらに学び・気づきを得ます。\n                    "
+              )
+            ])
           ])
         ])
       ])
@@ -44272,101 +44111,66 @@ var staticRenderFns = [
           ]),
           _vm._v(" "),
           _c("article", [
-            _c(
-              "h3",
-              {
-                staticClass:
-                  "text-teal tracking-wide leading-loose text-base pb-6"
-              },
-              [
-                _vm._v(
-                  "\n                        サービス残業・終礼なし。日祝日の休みもOK。"
-                ),
-                _c("br"),
-                _vm._v(
-                  "\n                        プライベートは思いっきり楽しむ。\n                    "
-                )
-              ]
-            ),
+            _c("h3", { staticClass: "pb-6" }, [
+              _vm._v(
+                "\n                        サービス残業・終礼なし。日祝日の休みもOK。"
+              ),
+              _c("br"),
+              _vm._v(
+                "\n                        プライベートは思いっきり楽しむ。\n                    "
+              )
+            ]),
             _vm._v(" "),
-            _c(
-              "p",
-              {
-                staticClass:
-                  "text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest"
-              },
-              [
+            _c("p", { staticClass: "pb-8" }, [
+              _vm._v(
+                "\n                        勤務時間は\n                        "
+              ),
+              _c("span", { staticClass: "tw-mask" }, [
+                _vm._v("9:30から20:00まで")
+              ]),
+              _vm._v(
+                "\n                        と決まっており、サービス残業、終礼、夜間ミーティングなどはありません！　西通りに3店舗あるため、どの店にも通いやすい点もポイントです。日・祝日の休み希望もOKで、夏休みは4日、冬休みは5日。年に2回お店を閉め、\n                        "
+              ),
+              _c("span", { staticClass: "tw-mask" }, [
                 _vm._v(
-                  "\n                        勤務時間は\n                        "
-                ),
-                _c("span", { staticClass: "tw-mask" }, [
-                  _vm._v("9:30から20:00まで")
-                ]),
-                _vm._v(
-                  "\n                        と決まっており、サービス残業、終礼、夜間ミーティングなどはありません！　西通りに3店舗あるため、どの店にも通いやすい点もポイントです。日・祝日の休み希望もOKで、夏休みは4日、冬休みは5日。年に2回お店を閉め、\n                        "
-                ),
-                _c("span", { staticClass: "tw-mask" }, [
-                  _vm._v(
-                    "みんなでしっかりと休みを取り、プライベートも思いっきり楽しんでいます。"
-                  )
-                ])
-              ]
-            )
+                  "みんなでしっかりと休みを取り、プライベートも思いっきり楽しんでいます。"
+                )
+              ])
+            ])
           ]),
           _vm._v(" "),
           _c("article", [
-            _c(
-              "h3",
-              {
-                staticClass:
-                  "text-teal tracking-wide leading-loose text-base pb-6"
-              },
-              [
-                _vm._v(
-                  "\n                        スタッフ同士のマツエク・ネイルの施術OK。"
-                ),
-                _c("br"),
-                _vm._v(
-                  "\n                        自分磨きが会社の成長につながる。\n                    "
-                )
-              ]
-            ),
+            _c("h3", { staticClass: "pb-6" }, [
+              _vm._v(
+                "\n                        スタッフ同士のマツエク・ネイルの施術OK。"
+              ),
+              _c("br"),
+              _vm._v(
+                "\n                        自分磨きが会社の成長につながる。\n                    "
+              )
+            ]),
             _vm._v(" "),
-            _c(
-              "p",
-              {
-                staticClass:
-                  "text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest"
-              },
-              [
+            _c("p", { staticClass: "pb-8" }, [
+              _vm._v(
+                "\n                        また、スタッフ同士でのマツエクの施術や、社員価格でのネイルもOK。\n                        "
+              ),
+              _c("span", { staticClass: "tw-mask" }, [
                 _vm._v(
-                  "\n                        また、スタッフ同士でのマツエクの施術や、社員価格でのネイルもOK。\n                        "
-                ),
-                _c("span", { staticClass: "tw-mask" }, [
-                  _vm._v(
-                    "自分磨きこそ、会社の成長、そしてお客さまの満足に繋がります。"
-                  )
-                ]),
-                _vm._v(
-                  "\n                        スタッフひとりひとりがキレイであること、仕事だけではなくプライベートも充実させることを、NANAでは大切にしています。\n                    "
+                  "自分磨きこそ、会社の成長、そしてお客さまの満足に繋がります。"
                 )
-              ]
-            ),
+              ]),
+              _vm._v(
+                "\n                        スタッフひとりひとりがキレイであること、仕事だけではなくプライベートも充実させることを、NANAでは大切にしています。\n                    "
+              )
+            ]),
             _vm._v(" "),
-            _c(
-              "p",
-              {
-                staticClass:
-                  "text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest"
-              },
-              [
-                _vm._v(
-                  "\n                        さらに美容業界ではよくある「歩合制」ですが、NANAではこれを採用していません。未経験者は研修中であっても18万円＋交通費5千円を支給（経験者は19万円から）。賞与は年4回、社員旅行あり、制服貸与と\n                        "
-                ),
-                _c("span", { staticClass: "tw-mask" }, [_vm._v("充実の待遇")]),
-                _vm._v("\n                        です。\n                    ")
-              ]
-            )
+            _c("p", { staticClass: "pb-8" }, [
+              _vm._v(
+                "\n                        さらに美容業界ではよくある「歩合制」ですが、NANAではこれを採用していません。未経験者は研修中であっても18万円＋交通費5千円を支給（経験者は19万円から）。賞与は年4回、社員旅行あり、制服貸与と\n                        "
+              ),
+              _c("span", { staticClass: "tw-mask" }, [_vm._v("充実の待遇")]),
+              _vm._v("\n                        です。\n                    ")
+            ])
           ])
         ]),
         _vm._v(" "),
@@ -44413,105 +44217,70 @@ var staticRenderFns = [
           ]),
           _vm._v(" "),
           _c("article", [
-            _c(
-              "h3",
-              {
-                staticClass:
-                  "text-teal tracking-wide leading-loose text-base pb-6"
-              },
-              [
-                _vm._v(
-                  "\n                        スタッフの満足＝お客さまの満足。"
-                ),
-                _c("br"),
-                _vm._v(
-                  "\n                        スタッフに優しい会社であることを大切に。\n                    "
-                )
-              ]
-            ),
+            _c("h3", { staticClass: "pb-6" }, [
+              _vm._v(
+                "\n                        スタッフの満足＝お客さまの満足。"
+              ),
+              _c("br"),
+              _vm._v(
+                "\n                        スタッフに優しい会社であることを大切に。\n                    "
+              )
+            ]),
             _vm._v(" "),
-            _c(
-              "p",
-              {
-                staticClass:
-                  "text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest"
-              },
-              [
-                _c("span", { staticClass: "tw-mask" }, [
-                  _vm._v(
-                    "「お客さまの満足を最大化するためには、スタッフの満足を最大化する」"
-                  )
-                ]),
+            _c("p", { staticClass: "pb-8" }, [
+              _c("span", { staticClass: "tw-mask" }, [
                 _vm._v(
-                  "\n                        がNANAのモットー。そもそも会社や上司から優しくされていないスタッフが、お客さまや後輩に優しく接することはできません。\n                    "
+                  "「お客さまの満足を最大化するためには、スタッフの満足を最大化する」"
                 )
-              ]
-            )
+              ]),
+              _vm._v(
+                "\n                        がNANAのモットー。そもそも会社や上司から優しくされていないスタッフが、お客さまや後輩に優しく接することはできません。\n                    "
+              )
+            ])
           ]),
           _vm._v(" "),
           _c("article", [
-            _c(
-              "h3",
-              {
-                staticClass:
-                  "text-teal tracking-wide leading-loose text-base pb-6"
-              },
-              [
-                _vm._v(
-                  "\n                        居心地の良さの秘訣は“人間関係”。"
-                ),
-                _c("br"),
-                _vm._v(
-                  "\n                        自発的な行動と思いやりが、いい会社をつくる。\n                    "
-                )
-              ]
-            ),
+            _c("h3", { staticClass: "pb-6" }, [
+              _vm._v(
+                "\n                        居心地の良さの秘訣は“人間関係”。"
+              ),
+              _c("br"),
+              _vm._v(
+                "\n                        自発的な行動と思いやりが、いい会社をつくる。\n                    "
+              )
+            ]),
             _vm._v(" "),
-            _c(
-              "p",
-              {
-                staticClass:
-                  "text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest"
-              },
-              [
-                _vm._v(
-                  "\n                        スタッフが口をそろえて言うのは、「\n                        "
-                ),
-                _c("span", { staticClass: "tw-mask" }, [
-                  _vm._v("NANAはスタッフの人間関係がとてもいい")
-                ]),
-                _vm._v(
-                  "\n                        」ということ。「\n                        "
-                ),
-                _c("span", { staticClass: "tw-mask" }, [
-                  _vm._v("自分がされてイヤなことはしない")
-                ]),
-                _vm._v(
-                  "\n                        」という意識があり、みんなが自然と問題点や改善点を相談する関係ができています。その関係性はいつしかお客さまへも反映されており、「居心地が良い」というお客さまからいただく言葉がその表れでしょう。\n                    "
-                )
-              ]
-            ),
+            _c("p", { staticClass: "pb-8" }, [
+              _vm._v(
+                "\n                        スタッフが口をそろえて言うのは、「\n                        "
+              ),
+              _c("span", { staticClass: "tw-mask" }, [
+                _vm._v("NANAはスタッフの人間関係がとてもいい")
+              ]),
+              _vm._v(
+                "\n                        」ということ。「\n                        "
+              ),
+              _c("span", { staticClass: "tw-mask" }, [
+                _vm._v("自分がされてイヤなことはしない")
+              ]),
+              _vm._v(
+                "\n                        」という意識があり、みんなが自然と問題点や改善点を相談する関係ができています。その関係性はいつしかお客さまへも反映されており、「居心地が良い」というお客さまからいただく言葉がその表れでしょう。\n                    "
+              )
+            ]),
             _vm._v(" "),
-            _c(
-              "p",
-              {
-                staticClass:
-                  "text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest"
-              },
-              [
-                _vm._v(
-                  "\n                        スタッフひとりひとりの\n                        "
-                ),
-                _c("span", { staticClass: "tw-mask" }, [_vm._v("個性を大切")]),
-                _vm._v(
-                  "\n                        にする。スタッフ全員が常に考え、自発的に行動する。NANAを形作っているのは、\n                        "
-                ),
-                _c("span", { staticClass: "tw-mask" }, [
-                  _vm._v("ひとりひとりの“思いやり”")
-                ]),
-                _vm._v("\n                        です。\n                    ")
-              ]
-            )
+            _c("p", { staticClass: "pb-8" }, [
+              _vm._v(
+                "\n                        スタッフひとりひとりの\n                        "
+              ),
+              _c("span", { staticClass: "tw-mask" }, [_vm._v("個性を大切")]),
+              _vm._v(
+                "\n                        にする。スタッフ全員が常に考え、自発的に行動する。NANAを形作っているのは、\n                        "
+              ),
+              _c("span", { staticClass: "tw-mask" }, [
+                _vm._v("ひとりひとりの“思いやり”")
+              ]),
+              _vm._v("\n                        です。\n                    ")
+            ])
           ])
         ])
       ])
@@ -44583,103 +44352,61 @@ var staticRenderFns = [
                 _vm._v("理念は「福岡の美容業界で一番働きたい会社になる」")
               ]),
               _vm._v(" "),
-              _c(
-                "p",
-                {
-                  staticClass:
-                    "text-xs tracking-wider leading-loose pb-4 text-grey-darker"
-                },
-                [
-                  _vm._v(
-                    "\n                            マツエク・ネイルの根幹にあるのは確かな“技術”です。"
-                  ),
-                  _c("br"),
-                  _vm._v(
-                    "\n                            それを身につけた“技術集団”を育てるためには時間もかかりますし、多くのやるべきことがあります。\n                        "
-                  )
-                ]
-              ),
+              _c("p", { staticClass: "text-xs pb-4 text-grey-darker" }, [
+                _vm._v(
+                  "\n                            マツエク・ネイルの根幹にあるのは確かな“技術”です。"
+                ),
+                _c("br"),
+                _vm._v(
+                  "\n                            それを身につけた“技術集団”を育てるためには時間もかかりますし、多くのやるべきことがあります。\n                        "
+                )
+              ]),
               _vm._v(" "),
-              _c(
-                "p",
-                {
-                  staticClass:
-                    "text-xs tracking-wider leading-loose py-4 text-grey-darker"
-                },
-                [
-                  _vm._v(
-                    "\n                            良い土地を探し、土地を耕し、豊かな土壌を作りそして翌年タネを蒔く。\n                        "
-                  )
-                ]
-              ),
+              _c("p", { staticClass: "text-xs py-4 text-grey-darker" }, [
+                _vm._v(
+                  "\n                            良い土地を探し、土地を耕し、豊かな土壌を作りそして翌年タネを蒔く。\n                        "
+                )
+              ]),
               _vm._v(" "),
-              _c(
-                "p",
-                {
-                  staticClass:
-                    "text-xs tracking-wider leading-loose py-4 text-grey-darker"
-                },
-                [
-                  _vm._v(
-                    "\n                            「すべての芽に均等に太陽は当たっているか？」「風通しは良いか？」"
-                  ),
-                  _c("br"),
-                  _vm._v(
-                    "\n                            「水は足りているか、もしくは与えすぎていないか？」"
-                  ),
-                  _c("br"),
-                  _vm._v(
-                    "\n                            「虫はついてないか？」「病気になってないか？」\n                        "
-                  )
-                ]
-              ),
+              _c("p", { staticClass: "text-xs py-4 text-grey-darker" }, [
+                _vm._v(
+                  "\n                            「すべての芽に均等に太陽は当たっているか？」「風通しは良いか？」"
+                ),
+                _c("br"),
+                _vm._v(
+                  "\n                            「水は足りているか、もしくは与えすぎていないか？」"
+                ),
+                _c("br"),
+                _vm._v(
+                  "\n                            「虫はついてないか？」「病気になってないか？」\n                        "
+                )
+              ]),
               _vm._v(" "),
-              _c(
-                "p",
-                {
-                  staticClass:
-                    "text-xs tracking-wider leading-loose py-4 text-grey-darker"
-                },
-                [
-                  _vm._v(
-                    "\n                            これらのことを常に考え、一切気を抜くことも慌てることもなく、実が成り、熟すまでじっと待つ。給与や休みの取りやすさ、お弁当の支給、取り扱いパーツの安全性などに気を配ること。これらのことはすべて実が熟すためのプロセスです。成果を挙げるためにはどのプロセスもおろそかにできません。\n                        "
-                  )
-                ]
-              ),
+              _c("p", { staticClass: "text-xs py-4 text-grey-darker" }, [
+                _vm._v(
+                  "\n                            これらのことを常に考え、一切気を抜くことも慌てることもなく、実が成り、熟すまでじっと待つ。給与や休みの取りやすさ、お弁当の支給、取り扱いパーツの安全性などに気を配ること。これらのことはすべて実が熟すためのプロセスです。成果を挙げるためにはどのプロセスもおろそかにできません。\n                        "
+                )
+              ]),
               _vm._v(" "),
-              _c(
-                "p",
-                {
-                  staticClass:
-                    "text-xs tracking-wider leading-loose py-4 text-grey-darker"
-                },
-                [
-                  _vm._v(
-                    "\n                            こうやって出来上がった場所はめったにありません。NANAで働く貴女は“特別な場所にいるのだ”という意識を、どうか大切にしてください。それがひいては、チームワークやスタッフみんなのプライド、プロ意識の芽生えにつながります。\n                        "
-                  )
-                ]
-              ),
+              _c("p", { staticClass: "text-xs py-4 text-grey-darker" }, [
+                _vm._v(
+                  "\n                            こうやって出来上がった場所はめったにありません。NANAで働く貴女は“特別な場所にいるのだ”という意識を、どうか大切にしてください。それがひいては、チームワークやスタッフみんなのプライド、プロ意識の芽生えにつながります。\n                        "
+                )
+              ]),
               _vm._v(" "),
-              _c(
-                "p",
-                {
-                  staticClass:
-                    "text-xs tracking-wider leading-loose py-4 text-grey-darker"
-                },
-                [
-                  _vm._v(
-                    "\n                            NANAはあなたの個性を尊重し、理解する場所です。"
-                  ),
-                  _c("br"),
-                  _vm._v(
-                    "\n                            たくさんの色があってこそ、花束はより一層美しくなります。"
-                  ),
-                  _c("br"),
-                  _vm._v(
-                    "\n                            貴女の個性を理解し、大切に育てる場所でぜひ、貴女の才能を開花させてください。\n                        "
-                  )
-                ]
-              )
+              _c("p", { staticClass: "text-xs py-4 text-grey-darker" }, [
+                _vm._v(
+                  "\n                            NANAはあなたの個性を尊重し、理解する場所です。"
+                ),
+                _c("br"),
+                _vm._v(
+                  "\n                            たくさんの色があってこそ、花束はより一層美しくなります。"
+                ),
+                _c("br"),
+                _vm._v(
+                  "\n                            貴女の個性を理解し、大切に育てる場所でぜひ、貴女の才能を開花させてください。\n                        "
+                )
+              ])
             ])
           ])
         ])
@@ -45236,22 +44963,15 @@ var staticRenderFns = [
           _vm._v(" "),
           _c("div", { staticClass: "lg:w-2/3 sm:w-full pl-8 lg:mb-16" }, [
             _c("article", [
-              _c(
-                "h3",
-                {
-                  staticClass:
-                    "text-teal tracking-wide leading-loose text-base pb-6"
-                },
-                [
-                  _vm._v(
-                    "\n                            「高い技術×厳選商材」で、"
-                  ),
-                  _c("br"),
-                  _vm._v(
-                    "\n                            1.5ヶ月という圧倒的なモチの良さを実現。\n                        "
-                  )
-                ]
-              ),
+              _c("h3", { staticClass: "pb-6" }, [
+                _vm._v(
+                  "\n                            「高い技術×厳選商材」で、"
+                ),
+                _c("br"),
+                _vm._v(
+                  "\n                            1.5ヶ月という圧倒的なモチの良さを実現。\n                        "
+                )
+              ]),
               _vm._v(" "),
               _c("p", { staticClass: "pb-8" }, [
                 _c("span", { staticClass: "tw-mask" }, [
@@ -45282,22 +45002,15 @@ var staticRenderFns = [
             ]),
             _vm._v(" "),
             _c("article", [
-              _c(
-                "h3",
-                {
-                  staticClass:
-                    "text-teal tracking-wide leading-loose text-base pb-6"
-                },
-                [
-                  _vm._v(
-                    "\n                            モチがいい＝次の施術まで余裕がある。"
-                  ),
-                  _c("br"),
-                  _vm._v(
-                    "\n                            だからお財布にも“安心”。\n                        "
-                  )
-                ]
-              ),
+              _c("h3", { staticClass: "pb-6" }, [
+                _vm._v(
+                  "\n                            モチがいい＝次の施術まで余裕がある。"
+                ),
+                _c("br"),
+                _vm._v(
+                  "\n                            だからお財布にも“安心”。\n                        "
+                )
+              ]),
               _vm._v(" "),
               _c("p", { staticClass: "pb-8" }, [
                 _vm._v(
@@ -45528,22 +45241,15 @@ var staticRenderFns = [
           _vm._v(" "),
           _c("div", { staticClass: "tw-flex-start lg:w-3/5 lg:pr-8" }, [
             _c("article", [
-              _c(
-                "h3",
-                {
-                  staticClass:
-                    "text-teal tracking-wide leading-loose text-base pb-6"
-                },
-                [
-                  _vm._v(
-                    "\n                            デザイン、色、本数、長さ。"
-                  ),
-                  _c("br"),
-                  _vm._v(
-                    "\n                            丁寧なカウンセリングで、ピッタリな施術を。\n                        "
-                  )
-                ]
-              ),
+              _c("h3", { staticClass: "pb-6" }, [
+                _vm._v(
+                  "\n                            デザイン、色、本数、長さ。"
+                ),
+                _c("br"),
+                _vm._v(
+                  "\n                            丁寧なカウンセリングで、ピッタリな施術を。\n                        "
+                )
+              ]),
               _vm._v(" "),
               _c("p", { staticClass: "pb-8" }, [
                 _vm._v(
@@ -45577,22 +45283,15 @@ var staticRenderFns = [
             ]),
             _vm._v(" "),
             _c("article", [
-              _c(
-                "h3",
-                {
-                  staticClass:
-                    "text-teal tracking-wide leading-loose text-base pb-6"
-                },
-                [
-                  _vm._v(
-                    "\n                            スタッフは無料で指名OK。"
-                  ),
-                  _c("br"),
-                  _vm._v(
-                    "\n                            しっかり相談して、理想の目元を演出。\n                        "
-                  )
-                ]
-              ),
+              _c("h3", { staticClass: "pb-6" }, [
+                _vm._v(
+                  "\n                            スタッフは無料で指名OK。"
+                ),
+                _c("br"),
+                _vm._v(
+                  "\n                            しっかり相談して、理想の目元を演出。\n                        "
+                )
+              ]),
               _vm._v(" "),
               _c("p", { staticClass: "pb-8" }, [
                 _vm._v(
@@ -45824,22 +45523,15 @@ var staticRenderFns = [
           _vm._v(" "),
           _c("div", { staticClass: "lg:w-3/5 lg:pl-8" }, [
             _c("article", [
-              _c(
-                "h3",
-                {
-                  staticClass:
-                    "text-teal tracking-wide leading-loose text-base pb-6"
-                },
-                [
-                  _vm._v(
-                    "\n                            ふんわりベッドでリラックス。"
-                  ),
-                  _c("br"),
-                  _vm._v(
-                    "\n                            フットクッションもある極上の安らぎ空間。\n                        "
-                  )
-                ]
-              ),
+              _c("h3", { staticClass: "pb-6" }, [
+                _vm._v(
+                  "\n                            ふんわりベッドでリラックス。"
+                ),
+                _c("br"),
+                _vm._v(
+                  "\n                            フットクッションもある極上の安らぎ空間。\n                        "
+                )
+              ]),
               _vm._v(" "),
               _c("p", { staticClass: "pb-8" }, [
                 _vm._v(
@@ -46061,22 +45753,15 @@ var staticRenderFns = [
           _vm._v(" "),
           _c("div", { staticClass: "tw-flex-start lg:w-3/5 lg:pr-8" }, [
             _c("article", [
-              _c(
-                "h3",
-                {
-                  staticClass:
-                    "text-teal tracking-wide leading-loose text-base pb-6"
-                },
-                [
-                  _vm._v(
-                    "\n                            休憩時間、買い物の合間に。"
-                  ),
-                  _c("br"),
-                  _vm._v(
-                    "\n                            “60分”でできるのが、マツエクのポイント。\n                        "
-                  )
-                ]
-              ),
+              _c("h3", { staticClass: "pb-6" }, [
+                _vm._v(
+                  "\n                            休憩時間、買い物の合間に。"
+                ),
+                _c("br"),
+                _vm._v(
+                  "\n                            “60分”でできるのが、マツエクのポイント。\n                        "
+                )
+              ]),
               _vm._v(" "),
               _c("p", { staticClass: "pb-8" }, [
                 _vm._v(
@@ -46095,22 +45780,15 @@ var staticRenderFns = [
             ]),
             _vm._v(" "),
             _c("article", [
-              _c(
-                "h3",
-                {
-                  staticClass:
-                    "text-teal tracking-wide leading-loose text-base pb-6"
-                },
-                [
-                  _vm._v(
-                    "\n                            施術後の飲み物とお菓子は持ち帰りOK。"
-                  ),
-                  _c("br"),
-                  _vm._v(
-                    "\n                            お客さまの時間を第一に。\n                        "
-                  )
-                ]
-              ),
+              _c("h3", { staticClass: "pb-6" }, [
+                _vm._v(
+                  "\n                            施術後の飲み物とお菓子は持ち帰りOK。"
+                ),
+                _c("br"),
+                _vm._v(
+                  "\n                            お客さまの時間を第一に。\n                        "
+                )
+              ]),
               _vm._v(" "),
               _c("p", { staticClass: "pb-8" }, [
                 _c("span", { staticClass: "tw-mask" }, [

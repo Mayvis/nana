@@ -52,7 +52,7 @@
         <section class="lg:pr-16 lg:pl-16 lg:mb-32 container mx-auto">
             <ul class="flex">
                 <li class="lg:w-1/3 flex items-center">
-                    <h3 class="tracking-loosest text-4xl text-black font-fotura">NANA SALON</h3>
+                    <h2 class="tracking-loosest text-4xl text-black font-fotura">NANA SALON</h2>
                 </li>
 
                 <li class="lg:w-2/3"
@@ -119,6 +119,7 @@
             <div class="flex container">
                 <div class="lg:w-2/3">
                     <slider></slider>
+
                     <slider :right-to-left="true"></slider>
                 </div>
 

@@ -17,6 +17,7 @@
 
                 <div class="tw-title text-center relative lg:mb-16">
                     <span class="text-350 absolute sub-title">01</span>
+
                     <h2 class="leading-normal font-san p-8">モチが良いからコスパがいい！</h2>
                 </div>
 
@@ -27,7 +28,7 @@
 
                     <div class="lg:w-2/3 sm:w-full pl-8 lg:mb-16">
                         <article>
-                            <h3 class="text-teal tracking-wide leading-loose text-base pb-6">
+                            <h3 class="pb-6">
                                 「高い技術×厳選商材」で、<br>
                                 1.5ヶ月という圧倒的なモチの良さを実現。
                             </h3>
@@ -47,7 +48,7 @@
                         </article>
 
                         <article>
-                            <h3 class="text-teal tracking-wide leading-loose text-base pb-6">
+                            <h3 class="pb-6">
                                 モチがいい＝次の施術まで余裕がある。<br>
                                 だからお財布にも“安心”。
                             </h3>
@@ -150,7 +151,7 @@
 
                     <div class="tw-flex-start lg:w-3/5 lg:pr-8">
                         <article>
-                            <h3 class="text-teal tracking-wide leading-loose text-base pb-6">
+                            <h3 class="pb-6">
                                 デザイン、色、本数、長さ。<br>
                                 丁寧なカウンセリングで、ピッタリな施術を。
                             </h3>
@@ -171,7 +172,7 @@
                         </article>
 
                         <article>
-                            <h3 class="text-teal tracking-wide leading-loose text-base pb-6">
+                            <h3 class="pb-6">
                                 スタッフは無料で指名OK。<br>
                                 しっかり相談して、理想の目元を演出。
                             </h3>
@@ -259,6 +260,7 @@
 
                 <div class="tw-title text-center relative lg:mb-16">
                     <span class="text-350 absolute sub-title">03</span>
+
                     <h2 class="leading-normal font-san p-8">やわらかい枕でぐっすり！居心地のよさもバツグン</h2>
                 </div>
 
@@ -269,7 +271,7 @@
 
                     <div class="lg:w-3/5 lg:pl-8">
                         <article>
-                            <h3 class="text-teal tracking-wide leading-loose text-base pb-6">
+                            <h3 class="pb-6">
                                 ふんわりベッドでリラックス。<br>
                                 フットクッションもある極上の安らぎ空間。
                             </h3>
@@ -355,6 +357,7 @@
             <div class="max-w-1000 mx-auto">
                 <div class="tw-title text-center relative lg:mb-16">
                     <span class="text-350 absolute sub-title">04</span>
+
                     <h2 class="leading-normal font-san p-8">スピーディーな施術は、スキマ時間にぴったり！</h2>
                 </div>
 
@@ -365,7 +368,7 @@
 
                     <div class="tw-flex-start lg:w-3/5 lg:pr-8">
                         <article>
-                            <h3 class="text-teal tracking-wide leading-loose text-base pb-6">
+                            <h3 class="pb-6">
                                 休憩時間、買い物の合間に。<br>
                                 “60分”でできるのが、マツエクのポイント。
                             </h3>
@@ -379,7 +382,7 @@
                         </article>
 
                         <article>
-                            <h3 class="text-teal tracking-wide leading-loose text-base pb-6">
+                            <h3 class="pb-6">
                                 施術後の飲み物とお菓子は持ち帰りOK。<br>
                                 お客さまの時間を第一に。
                             </h3>

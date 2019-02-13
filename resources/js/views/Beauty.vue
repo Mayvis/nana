@@ -75,7 +75,7 @@
                 <div class="flex sm:flex-wrap sm:justify-center px-4">
                     <div class="sm:w-full pl-8 lg:mb-16">
                         <article>
-                            <h3 class="text-teal tracking-wide leading-loose text-base pb-6">
+                            <h3 class="pb-6">
                                 お風呂もOK、仕上がりもキレイ、そして、コスパ抜群！
                             </h3>
 
@@ -234,6 +234,7 @@
 
                 <div class="tw-title text-center relative lg:mb-16">
                     <span class="text-350 absolute sub-title">03</span>
+
                     <h2 class="leading-normal font-san p-8">「まつげがついていないと、気分が上がらないのよね」</h2>
                 </div>
 

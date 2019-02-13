@@ -26,17 +26,18 @@
                     </div>
 
                     <article>
-                        <h3 class="text-teal tracking-wide leading-loose text-base pb-6">
+                        <h3 class="pb-6">
                             未経験者も正社員採用。<br>
                             個々の意見を大切にし、スタッフの権利をしっかり守る。
                         </h3>
 
-                        <p class="text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest">
+                        <p class="pb-8">
                             NANAでは未経験者であっても
                             <span class="tw-mask">全員が正社員として採用</span>
                             されます。入社半年後には社会保険・雇用保険などには無条件で加入。スタッフの権利をしっかり守ります。
                         </p>
-                        <p class="text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest">
+
+                        <p class="pb-8">
                             NANAには中間管理職がありません。思ったことは先輩後輩に関係なく、フランクに言い合える仲という点もポイントです。社長にも意見が通りやすく、対応もスピーディー。
                             <span class="tw-mask">社員の意見を大切に</span>
                             してくれるのが実感できるため、
@@ -46,11 +47,12 @@
                     </article>
 
                     <article>
-                        <h3 class="text-teal tracking-wide leading-loose text-base pb-6">
+                        <h3 class="pb-6">
                             施術だけではなく、“美容にかかわることすべて”が仕事。<br>
                             総合職だから得られる成長。
                         </h3>
-                        <p class="text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest">
+
+                        <p class="pb-8">
                             また、スタッフは
                             <span class="tw-mask">全員が総合職での採用</span>
                             です。美容業である以上、美容に関することは何でもやります。そのため、仕事内容は施術だけではありません。ブログ更新といった広告、新しい商品の開発など、幅広い業務に携わることで、
@@ -75,6 +77,7 @@
                 <div class="lg:w-3/5 pl-10 pr-10">
                     <div class="flex items-center p-4 tw-title mb-12">
                         <span class="text-350 pl-4 pr-4">02</span>
+
                         <h2 class="leading-normal font-sans">
                             未経験者大歓迎！NANAでは<br>
                             未経験者を積極採用しています
@@ -82,18 +85,19 @@
                     </div>
 
                     <article>
-                        <h3 class="text-teal tracking-wide leading-loose text-base pb-6">
+                        <h3 class="pb-6">
                             「人は、人を育てる時に成長する」。<br>
                             未経験者採用は、成長のチャンス。
                         </h3>
-                        <p class="text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest">
+
+                        <p class="pb-8">
                             スタッフの多くは未経験者です。「時間やお金をかけて未経験者をイチから育てるよりもすぐに入客できる経験者を採用するほうがラクなのでは？」と考える方もいらっしゃるでしょう。ではなぜ、NANAは積極的に未経験者を採用するのでしょうか？
                         </p>
-                        <p class="text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest">
+                        <p class="pb-8">
                             <span class="tw-mask">人は人を育てる時に成長</span>
                             します。未経験者をゼロから教えることで、既存スタッフがみずから成長する。そのチャンスになるから、NANAでは未経験者を歓迎しています。
                         </p>
-                        <p class="text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest">
+                        <p class="pb-8">
                             <span class="tw-mask">研修期間は6ヶ月から10ヶ月ほどまでしっかりと実施。</span>
                             経験者でも1ヶ月ほどの研修期間を設けることで、経験者・未経験者の差をなくし、
                             <span class="tw-mask">どのスタッフでもお客さまに満足いただける環境</span>
@@ -102,14 +106,14 @@
                     </article>
 
                     <article>
-                        <h3 class="text-teal tracking-wide leading-loose text-base pb-6">
+                        <h3 class="pb-6">
                             前期の先輩が“先生”。<br>
                             なんでも相談できるから、どんどん成長できる。
                         </h3>
-                        <p class="text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest">
+                        <p class="pb-8">
                             研修の最大の特徴は、前期の先輩が教える点。歴がさほど離れていないため、なんでも相談しやすい空気を作ってくれます。複数人から指導を受けられる点も魅力のひとつ。先輩それぞれの個性を活かした手法をじかに学べるため、自分自身の引き出しが増えます。
                         </p>
-                        <p class="text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest">
+                        <p class="pb-8">
                             また
                             <span class="tw-mask">NANAは、福岡ナンバーワンのマツエクサロン</span>
                             。実際に入社しても担当人数は先輩たちと変わりません。スタッフ全員でバランスよくお客さまを担当するため、たくさんのお客さまと接することができ、どんどんレベルアップが図れます！
@@ -133,11 +137,11 @@
                     </div>
 
                     <article>
-                        <h3 class="text-teal tracking-wide leading-loose text-base pb-6">
+                        <h3 class="pb-6">
                             サービス残業・終礼なし。日祝日の休みもOK。<br>
                             プライベートは思いっきり楽しむ。
                         </h3>
-                        <p class="text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest">
+                        <p class="pb-8">
                             勤務時間は
                             <span class="tw-mask">9:30から20:00まで</span>
                             と決まっており、サービス残業、終礼、夜間ミーティングなどはありません！　西通りに3店舗あるため、どの店にも通いやすい点もポイントです。日・祝日の休み希望もOKで、夏休みは4日、冬休みは5日。年に2回お店を閉め、
@@ -146,16 +150,18 @@
                     </article>
 
                     <article>
-                        <h3 class="text-teal tracking-wide leading-loose text-base pb-6">
+                        <h3 class="pb-6">
                             スタッフ同士のマツエク・ネイルの施術OK。<br>
                             自分磨きが会社の成長につながる。
                         </h3>
-                        <p class="text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest">
+
+                        <p class="pb-8">
                             また、スタッフ同士でのマツエクの施術や、社員価格でのネイルもOK。
                             <span class="tw-mask">自分磨きこそ、会社の成長、そしてお客さまの満足に繋がります。</span>
                             スタッフひとりひとりがキレイであること、仕事だけではなくプライベートも充実させることを、NANAでは大切にしています。
                         </p>
-                        <p class="text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest">
+
+                        <p class="pb-8">
                             さらに美容業界ではよくある「歩合制」ですが、NANAではこれを採用していません。未経験者は研修中であっても18万円＋交通費5千円を支給（経験者は19万円から）。賞与は年4回、社員旅行あり、制服貸与と
                             <span class="tw-mask">充実の待遇</span>
                             です。
@@ -178,6 +184,7 @@
                 <div class="lg:w-3/5 pl-10 pr-10">
                     <div class="flex items-center p-4 tw-title mb-12">
                         <span class="text-350 pl-4 pr-4">04</span>
+
                         <h2 class="leading-normal font-sans">
                             「自分がされてイヤなことはしない」。<br>
                             お客さまに伝わる “思いやり”
@@ -185,29 +192,32 @@
                     </div>
 
                     <article>
-                        <h3 class="text-teal tracking-wide leading-loose text-base pb-6">
+                        <h3 class="pb-6">
                             スタッフの満足＝お客さまの満足。<br>
                             スタッフに優しい会社であることを大切に。
                         </h3>
-                        <p class="text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest">
+
+                        <p class="pb-8">
                             <span class="tw-mask">「お客さまの満足を最大化するためには、スタッフの満足を最大化する」</span>
                             がNANAのモットー。そもそも会社や上司から優しくされていないスタッフが、お客さまや後輩に優しく接することはできません。
                         </p>
                     </article>
 
                     <article>
-                        <h3 class="text-teal tracking-wide leading-loose text-base pb-6">
+                        <h3 class="pb-6">
                             居心地の良さの秘訣は“人間関係”。<br>
                             自発的な行動と思いやりが、いい会社をつくる。
                         </h3>
-                        <p class="text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest">
+
+                        <p class="pb-8">
                             スタッフが口をそろえて言うのは、「
                             <span class="tw-mask">NANAはスタッフの人間関係がとてもいい</span>
                             」ということ。「
                             <span class="tw-mask">自分がされてイヤなことはしない</span>
                             」という意識があり、みんなが自然と問題点や改善点を相談する関係ができています。その関係性はいつしかお客さまへも反映されており、「居心地が良い」というお客さまからいただく言葉がその表れでしょう。
                         </p>
-                        <p class="text-13 tracking-wider leading-loose text-black pb-8 text-grey-darkest">
+
+                        <p class="pb-8">
                             スタッフひとりひとりの
                             <span class="tw-mask">個性を大切</span>
                             にする。スタッフ全員が常に考え、自発的に行動する。NANAを形作っているのは、
@@ -279,30 +289,30 @@
 
                             <h2 class="tracking-loose leading-loosest">理念は「福岡の美容業界で一番働きたい会社になる」</h2>
 
-                            <p class="text-xs tracking-wider leading-loose pb-4 text-grey-darker">
+                            <p class="text-xs pb-4 text-grey-darker">
                                 マツエク・ネイルの根幹にあるのは確かな“技術”です。<br>
                                 それを身につけた“技術集団”を育てるためには時間もかかりますし、多くのやるべきことがあります。
                             </p>
 
-                            <p class="text-xs tracking-wider leading-loose py-4 text-grey-darker">
+                            <p class="text-xs py-4 text-grey-darker">
                                 良い土地を探し、土地を耕し、豊かな土壌を作りそして翌年タネを蒔く。
                             </p>
 
-                            <p class="text-xs tracking-wider leading-loose py-4 text-grey-darker">
+                            <p class="text-xs py-4 text-grey-darker">
                                 「すべての芽に均等に太陽は当たっているか？」「風通しは良いか？」<br>
                                 「水は足りているか、もしくは与えすぎていないか？」<br>
                                 「虫はついてないか？」「病気になってないか？」
                             </p>
 
-                            <p class="text-xs tracking-wider leading-loose py-4 text-grey-darker">
+                            <p class="text-xs py-4 text-grey-darker">
                                 これらのことを常に考え、一切気を抜くことも慌てることもなく、実が成り、熟すまでじっと待つ。給与や休みの取りやすさ、お弁当の支給、取り扱いパーツの安全性などに気を配ること。これらのことはすべて実が熟すためのプロセスです。成果を挙げるためにはどのプロセスもおろそかにできません。
                             </p>
 
-                            <p class="text-xs tracking-wider leading-loose py-4 text-grey-darker">
+                            <p class="text-xs py-4 text-grey-darker">
                                 こうやって出来上がった場所はめったにありません。NANAで働く貴女は“特別な場所にいるのだ”という意識を、どうか大切にしてください。それがひいては、チームワークやスタッフみんなのプライド、プロ意識の芽生えにつながります。
                             </p>
 
-                            <p class="text-xs tracking-wider leading-loose py-4 text-grey-darker">
+                            <p class="text-xs py-4 text-grey-darker">
                                 NANAはあなたの個性を尊重し、理解する場所です。<br>
                                 たくさんの色があってこそ、花束はより一層美しくなります。<br>
                                 貴女の個性を理解し、大切に育てる場所でぜひ、貴女の才能を開花させてください。

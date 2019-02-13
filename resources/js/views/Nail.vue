@@ -24,7 +24,7 @@
                     </div>
 
                     <article>
-                        <h3 class="text-teal tracking-wide leading-loose text-base pb-6">
+                        <h3 class="pb-6">
                             しぐさが変わって、もっと女性らしく。<br>
                             あなたの印象を変えるのが“ネイル”。
                         </h3>
@@ -37,7 +37,7 @@
                     </article>
 
                     <article>
-                        <h3 class="text-teal tracking-wide leading-loose text-base pb-6">
+                        <h3 class="pb-6">
                             ひとりひとりの爪の形、肌の色に合わせた施術。<br>
                             自然体の美しさで、日常生活を魅力的に。
                         </h3>
@@ -81,7 +81,7 @@
                     </div>
 
                     <article>
-                        <h3 class="text-teal tracking-wide leading-loose text-base pb-6">
+                        <h3 class="pb-6">
                             ライフスタイル、爪のコンディション。<br>
                             経験豊富なネイリストと、じっくり話し合う。
                         </h3>
@@ -99,7 +99,7 @@
                     </article>
 
                     <article>
-                        <h3 class="text-teal tracking-wide leading-loose text-base pb-6">
+                        <h3 class="pb-6">
                             多彩なカラー・パーツ、そしてスピーディな施術で、<br>
                             みんなの「美しくなりたい」を叶える。
                         </h3>
@@ -135,6 +135,7 @@
 
                     <div class="tw-title text-center relative lg:mb-16">
                         <span class="text-sm tracking-loose absolute sub-title">INSTAGRAM</span>
+
                         <h2 class="leading-normal font-san tracking-wider text-sm p-8 pt-16">NANA COLLECTION</h2>
                     </div>
 
@@ -150,8 +151,9 @@
 
                     <div class="flex lg:mb-16">
                         <p class="lg:w-1/12 relative">
-                        <span
-                            class="ref-title text-2xl tracking-loose leading-loose border-b-2 border-black">RESERVATION!</span>
+                            <span class="ref-title text-2xl tracking-loose leading-loose border-b-2 border-black">
+                                RESERVATION!
+                            </span>
                         </p>
 
                         <div class="p-16 bg-teal-lightest lg:w-11/12">

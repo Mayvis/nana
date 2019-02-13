@@ -2,11 +2,11 @@
     <div>
         <section class="lg:mb-24">
             <div class="hero-concept"></div>
-
             <div>
                 <svg width="100%" height="86" class="svg-concept">
                     <text x="50%" y="50%" text-anchor="middle" dominant-baseline="central">RECRUIT</text>
                 </svg>
+
                 <p class="text-center">採用情報</p>
             </div>
         </section>
@@ -18,6 +18,7 @@
 
                 <div class="tw-title text-center relative lg:mb-16">
                     <span class="text-sm tracking-loose font-light absolute sub-title">STAFF VOICE</span>
+
                     <h2 class="leading-normal font-san tracking-wider text-normal p-8 pt-16">
                         NANAで働くスタッフにインタビューをしました。</h2>
                 </div>

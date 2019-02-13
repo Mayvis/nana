@@ -32,6 +32,10 @@ p {
     @apply tracking-wider leading-loose text-13 text-grey-darkest;
 }
 
+h3 {
+    @apply leading-loose tracking-loose text-base text-teal;
+}
+
 [v-cloak] {
     display: none
 }

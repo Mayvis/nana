@@ -50,7 +50,6 @@
                             <img src="/decoration/recruit/recruit_5.jpg" alt="出勤・着替え・準備">
                         </figure>
                     </div>
-
                 </div>
             </div>
 
@@ -217,7 +216,6 @@
                             </a>
                         </div>
                     </div>
-
                 </div>
             </div>
         </section>
