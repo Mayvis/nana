@@ -7,19 +7,20 @@
 
             <div class="flex flex-col text-center">
                 <span class="font-semibold">ご予約はこちらから</span>
+
                 <span class="text-center text-xs text-grey-darkest pt-2 pb-2 tracking-loose">( HOTPEPPER Beauty の予約ページ へリンクします )</span>
             </div>
 
             <div class="flex justify-center">
                 <a href="/"
-                   class="tw-btn inline-block h-50 leading-50 text-xs w-1/4 text-center hover:bg-yellow-lighter lg:m-12"
+                   class="tw-btn w-1/4 hover:bg-yellow-lighter lg:m-12"
                    data-aos="zoom-in-up"
                 >
                     MILANO & LA ROCHELLE
                 </a>
 
                 <a href="/"
-                   class="tw-btn inline-block h-50 leading-50 text-xs w-1/4 text-center hover:bg-yellow-lighter lg:m-12"
+                   class="tw-btn w-1/4 hover:bg-yellow-lighter lg:m-12"
                    data-aos="zoom-in-up"
                 >
                     LISBON
@@ -29,10 +30,16 @@
     </section>
 </template>
 
-<script>
-
-</script>
-
 <style scoped lang="scss">
+    .tw-nana {
+        position: absolute;
+        top: 0;
+        left: 50%;
+        transform: translate(-50%, -30%);
 
+        img {
+            width: 196px;
+            height: auto;
+        }
+    }
 </style>

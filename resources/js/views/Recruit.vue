@@ -244,7 +244,7 @@
                             </figure>
 
                             <router-link tag="a" to="/salon"
-                                         class="tw-btn w-full h-50 leading-50 text-xs text-center hover:bg-yellow-lighter">
+                                         class="tw-btn w-full hover:bg-yellow-lighter">
                                 MILANO
                             </router-link>
                         </div>
@@ -255,7 +255,7 @@
                             </figure>
 
                             <router-link tag="a" to="/salon"
-                                         class="tw-btn w-full h-50 leading-50 text-xs text-center hover:bg-yellow-lighter">
+                                         class="tw-btn w-full hover:bg-yellow-lighter">
                                 La Rochelle
                             </router-link>
                         </div>
@@ -266,7 +266,7 @@
                             </figure>
 
                             <router-link tag="a" to="/salon"
-                                         class="tw-btn w-full h-50 leading-50 text-xs text-center hover:bg-yellow-lighter">
+                                         class="tw-btn w-full hover:bg-yellow-lighter">
                                 LISBON
                             </router-link>
                         </div>
@@ -339,7 +339,7 @@
 
                         <div class="w-full flex justify-center">
                             <a href="https://beauty.hotpepper.jp/kr/slnH000248220/review/"
-                               class="tw-btn inline-block h-50 leading-50 text-xs w-1/2 text-center hover:bg-yellow-lighter m-8">
+                               class="tw-btn w-1/2 hover:bg-yellow-lighter m-8">
                                 ネイルのご予約はこちら
                             </a>
                         </div>

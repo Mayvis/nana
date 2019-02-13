@@ -118,12 +118,12 @@
 
                             <div class="w-full flex justify-center">
                                 <a href="https://beauty.hotpepper.jp/kr/slnH000248220/review/"
-                                   class="tw-btn inline-block h-50 leading-50 text-xs w-1/2 text-center hover:bg-yellow-lighter m-8">
+                                   class="tw-btn w-1/2 hover:bg-yellow-lighter m-8">
                                     MILANO & LA ROCHELLE
                                 </a>
 
                                 <a href="https://beauty.hotpepper.jp/kr/slnH000364510/review/"
-                                   class="tw-btn inline-block h-50 leading-50 text-xs w-1/2 text-center hover:bg-yellow-lighter m-8">
+                                   class="tw-btn w-1/2 hover:bg-yellow-lighter m-8">
                                     LISBON
                                 </a>
                             </div>
@@ -238,12 +238,12 @@
 
                             <div class="w-full flex justify-center">
                                 <a href="https://beauty.hotpepper.jp/kr/slnH000248220/review/"
-                                   class="tw-btn inline-block h-50 leading-50 text-xs w-1/2 text-center hover:bg-yellow-lighter m-8">
+                                   class="tw-btn w-1/2 hover:bg-yellow-lighter m-8">
                                     MILANO & LA ROCHELLE
                                 </a>
 
                                 <a href="https://beauty.hotpepper.jp/kr/slnH000364510/review/"
-                                   class="tw-btn inline-block h-50 leading-50 text-xs w-1/2 text-center hover:bg-yellow-lighter m-8">
+                                   class="tw-btn w-1/2 hover:bg-yellow-lighter m-8">
                                     LISBON
                                 </a>
                             </div>
@@ -336,12 +336,12 @@
 
                             <div class="w-full flex justify-center">
                                 <a href="https://beauty.hotpepper.jp/kr/slnH000248220/review/"
-                                   class="tw-btn inline-block h-50 leading-50 text-xs w-1/2 text-center hover:bg-yellow-lighter m-8">
+                                   class="tw-btn w-1/2 hover:bg-yellow-lighter m-8">
                                     MILANO & LA ROCHELLE
                                 </a>
 
                                 <a href="https://beauty.hotpepper.jp/kr/slnH000364510/review/"
-                                   class="tw-btn inline-block h-50 leading-50 text-xs w-1/2 text-center hover:bg-yellow-lighter m-8">
+                                   class="tw-btn w-1/2 hover:bg-yellow-lighter m-8">
                                     LISBON
                                 </a>
                             </div>
@@ -430,12 +430,12 @@
 
                             <div class="w-full flex justify-center">
                                 <a href="https://beauty.hotpepper.jp/kr/slnH000248220/review/"
-                                   class="tw-btn inline-block h-50 leading-50 text-xs w-1/2 text-center hover:bg-yellow-lighter m-8">
+                                   class="tw-btn w-1/2 hover:bg-yellow-lighter m-8">
                                     MILANO & LA ROCHELLE
                                 </a>
 
                                 <a href="https://beauty.hotpepper.jp/kr/slnH000364510/review/"
-                                   class="tw-btn inline-block h-50 leading-50 text-xs w-1/2 text-center hover:bg-yellow-lighter m-8">
+                                   class="tw-btn w-1/2 hover:bg-yellow-lighter m-8">
                                     LISBON
                                 </a>
                             </div>

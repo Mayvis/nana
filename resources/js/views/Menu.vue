@@ -117,12 +117,13 @@
                     </p>
 
                     <a href="https://beauty.hotpepper.jp/kr/slnH000248220/coupon/"
-                       class="tw-btn inline-block h-50 leading-50 text-xs w-1/4 text-center hover:bg-yellow-lighter lg:m-12"
+                       class="tw-btn w-1/4 hover:bg-yellow-lighter lg:m-12"
                     >
                         MILANO & LA ROCHELLE
                     </a>
+
                     <a href="https://beauty.hotpepper.jp/kr/slnH000364510/coupon/"
-                       class="tw-btn inline-block h-50 leading-50 text-xs w-1/4 text-center hover:bg-yellow-lighter lg:m-12"
+                       class="tw-btn w-1/4 hover:bg-yellow-lighter lg:m-12"
                     >
                         LISBON
                     </a>

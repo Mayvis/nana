@@ -2046,47 +2046,6 @@ __webpack_require__.r(__webpack_exports__);
 
 /***/ }),
 
-/***/ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/Reserve.vue?vue&type=script&lang=js&":
-/*!******************************************************************************************************************************************************************!*\
-  !*** ./node_modules/babel-loader/lib??ref--4-0!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/Reserve.vue?vue&type=script&lang=js& ***!
-  \******************************************************************************************************************************************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-
-/***/ }),
-
 /***/ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/Slider.vue?vue&type=script&lang=js&":
 /*!*****************************************************************************************************************************************************************!*\
   !*** ./node_modules/babel-loader/lib??ref--4-0!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/Slider.vue?vue&type=script&lang=js& ***!
@@ -3439,6 +3398,7 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
+//
 //
 //
 //
@@ -6074,6 +6034,25 @@ exports.push([module.i, ".menu-list[data-v-2df1f188] {\n  width: 40%;\n  height:
 
 /***/ }),
 
+/***/ "./node_modules/css-loader/index.js!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/lib/loader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/Reserve.vue?vue&type=style&index=0&id=7a7c7821&scoped=true&lang=scss&":
+/*!*******************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src??ref--7-2!./node_modules/sass-loader/lib/loader.js??ref--7-3!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/Reserve.vue?vue&type=style&index=0&id=7a7c7821&scoped=true&lang=scss& ***!
+  \*******************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loader/lib/css-base.js */ "./node_modules/css-loader/lib/css-base.js")(false);
+// imports
+
+
+// module
+exports.push([module.i, ".tw-nana[data-v-7a7c7821] {\n  position: absolute;\n  top: 0;\n  left: 50%;\n  -webkit-transform: translate(-50%, -30%);\n          transform: translate(-50%, -30%);\n}\n.tw-nana img[data-v-7a7c7821] {\n  width: 196px;\n  height: auto;\n}\n", ""]);
+
+// exports
+
+
+/***/ }),
+
 /***/ "./node_modules/css-loader/index.js!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/lib/loader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/Slider.vue?vue&type=style&index=0&lang=scss&":
 /*!******************************************************************************************************************************************************************************************************************************************************************************************************************!*\
   !*** ./node_modules/css-loader!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src??ref--7-2!./node_modules/sass-loader/lib/loader.js??ref--7-3!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/Slider.vue?vue&type=style&index=0&lang=scss& ***!
@@ -6219,7 +6198,7 @@ exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loa
 
 
 // module
-exports.push([module.i, ".hero {\n  top: 160px;\n  left: 130px;\n}\n.hero text {\n  fill: rgba(255, 255, 255, 0);\n  stroke: #333;\n  font-size: 76px;\n  stroke-width: .8;\n  stroke-linejoin: round;\n  line-height: 1;\n}\n.hero .sub {\n  letter-spacing: .3em;\n}\n.hero .line {\n  width: 72px;\n  height: auto;\n}\n.hero .list li {\n  font-family: futura-pt, sans-serif;\n  font-size: 15px;\n  letter-spacing: .6em;\n  line-height: 3.5;\n}\n.scroll {\n  -webkit-transform: rotate(90deg);\n          transform: rotate(90deg);\n  bottom: 40px;\n  right: -75px;\n  -webkit-animation: pos 2s ease-in-out infinite;\n          animation: pos 2s ease-in-out infinite;\n}\n@-webkit-keyframes pos {\n0% {\n    bottom: 50px;\n}\n50% {\n    bottom: 40px;\n}\n100% {\n    bottom: 50px;\n}\n}\n@keyframes pos {\n0% {\n    bottom: 50px;\n}\n50% {\n    bottom: 40px;\n}\n100% {\n    bottom: 50px;\n}\n}\n.tw-btn {\n  transition: background-color .2s;\n  background: url(\"/icon/left_top.svg\") left top/10px 10px no-repeat, url(\"/icon/right_top.svg\") right top/10px 8px no-repeat, url(\"/icon/left_bottom.svg\") left bottom/10px 10px no-repeat, url(\"/icon/right_bottom.svg\") right bottom/10px 8px no-repeat #fff;\n}\n.tw-thumbnail {\n  color: #22292f;\n  transition: opacity .2s;\n}\n.tw-thumbnail:hover {\n  opacity: .5;\n}\n.tw-thumbnail h4 {\n  letter-spacing: .3em;\n  font-size: 1.25rem;\n  line-height: 3.5;\n}\n.tw-thumbnail li {\n  font-family: futura-pt, sans-serif;\n  font-family: sofia-pro-condensed, sans-serif;\n  font-size: .75rem;\n  letter-spacing: .15em;\n  line-height: 2;\n  color: #22292f;\n}\n.tw-thumbnail p:before {\n  content: \"\";\n  width: 20px;\n  height: 1px;\n  position: absolute;\n  top: 8px;\n  left: 0;\n  background-color: #555;\n}\n.ig-link {\n  display: block;\n  font-family: futura-pt, sans-serif;\n  font-size: .75rem;\n  letter-spacing: .2em;\n  line-height: 2;\n  position: relative;\n  transition: opacity .4s;\n}\n.ig-link:before {\n  content: \"\";\n  width: 20px;\n  height: 1px;\n  background: black;\n  position: absolute;\n  top: 50%;\n  left: 0;\n  -webkit-transform: translateY(-50%);\n          transform: translateY(-50%);\n}\n.ig-link:hover {\n  opacity: .5;\n}\n.ig-link span {\n  display: inline-block;\n  padding-left: 30px;\n}\n.item-h {\n  font-family: sofia-pro-condensed, sans-serif;\n  letter-spacing: .3em;\n  font-size: 1.25rem;\n  font-weight: 400;\n  position: relative;\n  line-height: 2;\n  margin-bottom: 20px;\n}\n.item-h:after {\n  content: \"\";\n  width: 30px;\n  height: 1px;\n  background: #555;\n  position: absolute;\n  left: 0;\n  bottom: 0;\n}\n.price {\n  text-align: left;\n  font-size: .875rem;\n  color: #22292f;\n  line-height: 2;\n}\n.price tr {\n  padding-top: 10px;\n}\n.price th,\n.price td {\n  padding-right: 30px;\n  font-weight: 300;\n}\n.thumbnail {\n  transition: opacity .4s;\n}\n.thumbnail:hover {\n  opacity: .6;\n}\n.thumbnail .more:before {\n  content: \"\";\n  width: 20px;\n  height: 1px;\n  position: absolute;\n  top: 10px;\n  left: 0;\n  background-color: #555;\n}\n.tw-nana {\n  position: absolute;\n  top: -8%;\n  left: 50%;\n  -webkit-transform: translateX(-50%);\n          transform: translateX(-50%);\n}\n.tw-nana img {\n  width: 196px;\n  height: auto;\n}\n.tw-article {\n  display: flex;\n  justify-content: center;\n  margin-left: auto;\n  margin-right: auto;\n  padding: 4rem;\n  font-size: .75rem;\n  letter-spacing: .3em;\n  line-height: 2;\n  max-width: 1000px;\n  background: url(\"/icon/left_top.svg\") left top/10px 10px no-repeat, url(\"/icon/right_top.svg\") right top/10px 8px no-repeat, url(\"/icon/left_bottom.svg\") left bottom/10px 10px no-repeat, url(\"/icon/right_bottom.svg\") right bottom/10px 8px no-repeat #fff;\n}\n", ""]);
+exports.push([module.i, ".hero {\n  top: 160px;\n  left: 130px;\n}\n.hero text {\n  fill: rgba(255, 255, 255, 0);\n  stroke: #333;\n  font-size: 76px;\n  stroke-width: .8;\n  stroke-linejoin: round;\n  line-height: 1;\n}\n.hero .sub {\n  letter-spacing: .3em;\n}\n.hero .line {\n  width: 72px;\n  height: auto;\n}\n.hero .list li {\n  font-family: futura-pt, sans-serif;\n  font-size: 15px;\n  letter-spacing: .6em;\n  line-height: 3.5;\n}\n.scroll {\n  -webkit-transform: rotate(90deg);\n          transform: rotate(90deg);\n  bottom: 40px;\n  right: -75px;\n  -webkit-animation: pos 2s ease-in-out infinite;\n          animation: pos 2s ease-in-out infinite;\n}\n@-webkit-keyframes pos {\n0% {\n    bottom: 50px;\n}\n50% {\n    bottom: 40px;\n}\n100% {\n    bottom: 50px;\n}\n}\n@keyframes pos {\n0% {\n    bottom: 50px;\n}\n50% {\n    bottom: 40px;\n}\n100% {\n    bottom: 50px;\n}\n}\n.tw-thumbnail {\n  color: #22292f;\n  transition: opacity .2s;\n}\n.tw-thumbnail:hover {\n  opacity: .5;\n}\n.tw-thumbnail h4 {\n  letter-spacing: .3em;\n  font-size: 1.25rem;\n  line-height: 3.5;\n}\n.tw-thumbnail li {\n  font-family: futura-pt, sans-serif;\n  font-family: sofia-pro-condensed, sans-serif;\n  font-size: .75rem;\n  letter-spacing: .15em;\n  line-height: 2;\n  color: #22292f;\n}\n.tw-thumbnail p:before {\n  content: \"\";\n  width: 20px;\n  height: 1px;\n  position: absolute;\n  top: 8px;\n  left: 0;\n  background-color: #555;\n}\n.ig-link {\n  display: block;\n  font-family: futura-pt, sans-serif;\n  font-size: .75rem;\n  letter-spacing: .2em;\n  line-height: 2;\n  position: relative;\n  transition: opacity .4s;\n}\n.ig-link:before {\n  content: \"\";\n  width: 20px;\n  height: 1px;\n  background: black;\n  position: absolute;\n  top: 50%;\n  left: 0;\n  -webkit-transform: translateY(-50%);\n          transform: translateY(-50%);\n}\n.ig-link:hover {\n  opacity: .5;\n}\n.ig-link span {\n  display: inline-block;\n  padding-left: 30px;\n}\n.item-h {\n  font-family: sofia-pro-condensed, sans-serif;\n  letter-spacing: .3em;\n  font-size: 1.25rem;\n  font-weight: 400;\n  position: relative;\n  line-height: 2;\n  margin-bottom: 20px;\n}\n.item-h:after {\n  content: \"\";\n  width: 30px;\n  height: 1px;\n  background: #555;\n  position: absolute;\n  left: 0;\n  bottom: 0;\n}\n.price {\n  text-align: left;\n  font-size: .875rem;\n  color: #22292f;\n  line-height: 2;\n}\n.price tr {\n  padding-top: 10px;\n}\n.price th,\n.price td {\n  padding-right: 30px;\n  font-weight: 300;\n}\n.thumbnail {\n  transition: opacity .4s;\n}\n.thumbnail:hover {\n  opacity: .6;\n}\n.thumbnail .more:before {\n  content: \"\";\n  width: 20px;\n  height: 1px;\n  position: absolute;\n  top: 10px;\n  left: 0;\n  background-color: #555;\n}\n.tw-article {\n  display: flex;\n  justify-content: center;\n  margin-left: auto;\n  margin-right: auto;\n  padding: 4rem;\n  font-size: .75rem;\n  letter-spacing: .3em;\n  line-height: 2;\n  max-width: 1000px;\n  background: url(\"/icon/left_top.svg\") left top/10px 10px no-repeat, url(\"/icon/right_top.svg\") right top/10px 8px no-repeat, url(\"/icon/left_bottom.svg\") left bottom/10px 10px no-repeat, url(\"/icon/right_bottom.svg\") right bottom/10px 8px no-repeat #fff;\n}\n", ""]);
 
 // exports
 
@@ -38466,6 +38445,36 @@ if(false) {}
 
 /***/ }),
 
+/***/ "./node_modules/style-loader/index.js!./node_modules/css-loader/index.js!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/lib/loader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/Reserve.vue?vue&type=style&index=0&id=7a7c7821&scoped=true&lang=scss&":
+/*!***********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/style-loader!./node_modules/css-loader!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src??ref--7-2!./node_modules/sass-loader/lib/loader.js??ref--7-3!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/Reserve.vue?vue&type=style&index=0&id=7a7c7821&scoped=true&lang=scss& ***!
+  \***********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+
+var content = __webpack_require__(/*! !../../../node_modules/css-loader!../../../node_modules/vue-loader/lib/loaders/stylePostLoader.js!../../../node_modules/postcss-loader/src??ref--7-2!../../../node_modules/sass-loader/lib/loader.js??ref--7-3!../../../node_modules/vue-loader/lib??vue-loader-options!./Reserve.vue?vue&type=style&index=0&id=7a7c7821&scoped=true&lang=scss& */ "./node_modules/css-loader/index.js!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/lib/loader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/Reserve.vue?vue&type=style&index=0&id=7a7c7821&scoped=true&lang=scss&");
+
+if(typeof content === 'string') content = [[module.i, content, '']];
+
+var transform;
+var insertInto;
+
+
+
+var options = {"hmr":true}
+
+options.transform = transform
+options.insertInto = undefined;
+
+var update = __webpack_require__(/*! ../../../node_modules/style-loader/lib/addStyles.js */ "./node_modules/style-loader/lib/addStyles.js")(content, options);
+
+if(content.locals) module.exports = content.locals;
+
+if(false) {}
+
+/***/ }),
+
 /***/ "./node_modules/style-loader/index.js!./node_modules/css-loader/index.js!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/lib/loader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/Slider.vue?vue&type=style&index=0&lang=scss&":
 /*!**********************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
   !*** ./node_modules/style-loader!./node_modules/css-loader!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src??ref--7-2!./node_modules/sass-loader/lib/loader.js??ref--7-3!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/Slider.vue?vue&type=style&index=0&lang=scss& ***!
@@ -40707,8 +40716,7 @@ var staticRenderFns = [
             _c(
               "a",
               {
-                staticClass:
-                  "tw-btn inline-block h-50 leading-50 text-xs w-1/4 text-center hover:bg-yellow-lighter lg:m-12",
+                staticClass: "tw-btn w-1/4 hover:bg-yellow-lighter lg:m-12",
                 attrs: { href: "/", "data-aos": "zoom-in-up" }
               },
               [_vm._v("\n                MILANO & LA ROCHELLE\n            ")]
@@ -40717,8 +40725,7 @@ var staticRenderFns = [
             _c(
               "a",
               {
-                staticClass:
-                  "tw-btn inline-block h-50 leading-50 text-xs w-1/4 text-center hover:bg-yellow-lighter lg:m-12",
+                staticClass: "tw-btn w-1/4 hover:bg-yellow-lighter lg:m-12",
                 attrs: { href: "/", "data-aos": "zoom-in-up" }
               },
               [_vm._v("\n                LISBON\n            ")]
@@ -41964,8 +41971,7 @@ var staticRenderFns = [
             _c(
               "a",
               {
-                staticClass:
-                  "tw-btn inline-block h-50 leading-50 text-xs w-1/4 text-center hover:bg-yellow-lighter lg:m-12",
+                staticClass: "tw-btn w-1/4 hover:bg-yellow-lighter lg:m-12",
                 attrs: {
                   href: "https://beauty.hotpepper.jp/kr/slnH000248220/coupon/"
                 }
@@ -41980,8 +41986,7 @@ var staticRenderFns = [
             _c(
               "a",
               {
-                staticClass:
-                  "tw-btn inline-block h-50 leading-50 text-xs w-1/4 text-center hover:bg-yellow-lighter lg:m-12",
+                staticClass: "tw-btn w-1/4 hover:bg-yellow-lighter lg:m-12",
                 attrs: {
                   href: "https://beauty.hotpepper.jp/kr/slnH000364510/coupon/"
                 }
@@ -42502,10 +42507,7 @@ var render = function() {
                   _c("router-link", { attrs: { to: "/concept" } }, [
                     _c(
                       "a",
-                      {
-                        staticClass:
-                          "tw-btn inline-block h-50 leading-50 text-xs w-2/5 text-center hover:bg-yellow-lighter"
-                      },
+                      { staticClass: "tw-btn w-2/5 hover:bg-yellow-lighter" },
                       [
                         _vm._v(
                           "\n                            コンセプト＆こだわり\n                        "
@@ -43092,7 +43094,7 @@ var staticRenderFns = [
                     "a",
                     {
                       staticClass:
-                        "tw-btn inline-block h-50 leading-50 text-xs w-1/4 text-center hover:bg-yellow-lighter lg:m-12",
+                        "tw-btn w-1/4 hover:bg-yellow-lighter lg:m-12",
                       attrs: {
                         href:
                           "https://beauty.hotpepper.jp/kr/slnH000248220/coupon/"
@@ -43109,7 +43111,7 @@ var staticRenderFns = [
                     "a",
                     {
                       staticClass:
-                        "tw-btn inline-block h-50 leading-50 text-xs w-1/4 text-center hover:bg-yellow-lighter lg:m-12",
+                        "tw-btn w-1/4 hover:bg-yellow-lighter lg:m-12",
                       attrs: {
                         href:
                           "https://beauty.hotpepper.jp/kr/slnH000364510/coupon/"
@@ -43403,8 +43405,7 @@ var staticRenderFns = [
             _c(
               "a",
               {
-                staticClass:
-                  "tw-btn inline-block h-50 leading-50 text-xs w-1/4 text-center hover:bg-yellow-lighter lg:m-12",
+                staticClass: "tw-btn w-1/4 hover:bg-yellow-lighter lg:m-12",
                 attrs: {
                   href: "https://beauty.hotpepper.jp/kr/slnH000248220/coupon/"
                 }
@@ -43419,8 +43420,7 @@ var staticRenderFns = [
             _c(
               "a",
               {
-                staticClass:
-                  "tw-btn inline-block h-50 leading-50 text-xs w-1/4 text-center hover:bg-yellow-lighter lg:m-12",
+                staticClass: "tw-btn w-1/4 hover:bg-yellow-lighter lg:m-12",
                 attrs: {
                   href: "https://beauty.hotpepper.jp/kr/slnH000364510/coupon/"
                 }
@@ -43812,8 +43812,7 @@ var staticRenderFns = [
             _c(
               "a",
               {
-                staticClass:
-                  "tw-btn inline-block h-50 leading-50 text-xs w-1/2 text-center hover:bg-yellow-lighter m-8",
+                staticClass: "tw-btn w-1/2 hover:bg-yellow-lighter m-8",
                 attrs: {
                   href: "https://beauty.hotpepper.jp/kr/slnH000248220/review/"
                 }
@@ -43899,8 +43898,7 @@ var render = function() {
                   _c(
                     "router-link",
                     {
-                      staticClass:
-                        "tw-btn w-full h-50 leading-50 text-xs text-center hover:bg-yellow-lighter",
+                      staticClass: "tw-btn w-full hover:bg-yellow-lighter",
                       attrs: { tag: "a", to: "/salon" }
                     },
                     [
@@ -43922,8 +43920,7 @@ var render = function() {
                   _c(
                     "router-link",
                     {
-                      staticClass:
-                        "tw-btn w-full h-50 leading-50 text-xs text-center hover:bg-yellow-lighter",
+                      staticClass: "tw-btn w-full hover:bg-yellow-lighter",
                       attrs: { tag: "a", to: "/salon" }
                     },
                     [
@@ -43945,8 +43942,7 @@ var render = function() {
                   _c(
                     "router-link",
                     {
-                      staticClass:
-                        "tw-btn w-full h-50 leading-50 text-xs text-center hover:bg-yellow-lighter",
+                      staticClass: "tw-btn w-full hover:bg-yellow-lighter",
                       attrs: { tag: "a", to: "/salon" }
                     },
                     [
@@ -44536,8 +44532,7 @@ var staticRenderFns = [
               _c(
                 "a",
                 {
-                  staticClass:
-                    "tw-btn inline-block h-50 leading-50 text-xs w-1/2 text-center hover:bg-yellow-lighter m-8",
+                  staticClass: "tw-btn w-1/2 hover:bg-yellow-lighter m-8",
                   attrs: {
                     href: "https://beauty.hotpepper.jp/kr/slnH000248220/review/"
                   }
@@ -44694,8 +44689,7 @@ var staticRenderFns = [
               _c(
                 "a",
                 {
-                  staticClass:
-                    "tw-btn inline-block h-50 leading-50 text-xs w-full text-center hover:bg-yellow-lighter",
+                  staticClass: "tw-btn w-full hover:bg-yellow-lighter",
                   attrs: { href: "/" }
                 },
                 [
@@ -44804,8 +44798,7 @@ var staticRenderFns = [
               _c(
                 "a",
                 {
-                  staticClass:
-                    "tw-btn inline-block h-50 leading-50 text-xs w-full text-center hover:bg-yellow-lighter",
+                  staticClass: "tw-btn w-full hover:bg-yellow-lighter",
                   attrs: { href: "/" }
                 },
                 [
@@ -44907,8 +44900,7 @@ var staticRenderFns = [
               _c(
                 "a",
                 {
-                  staticClass:
-                    "tw-btn inline-block h-50 leading-50 text-xs w-full text-center hover:bg-yellow-lighter",
+                  staticClass: "tw-btn w-full hover:bg-yellow-lighter",
                   attrs: { href: "/" }
                 },
                 [
@@ -45244,8 +45236,7 @@ var staticRenderFns = [
                 _c(
                   "a",
                   {
-                    staticClass:
-                      "tw-btn inline-block h-50 leading-50 text-xs w-1/2 text-center hover:bg-yellow-lighter m-8",
+                    staticClass: "tw-btn w-1/2 hover:bg-yellow-lighter m-8",
                     attrs: {
                       href:
                         "https://beauty.hotpepper.jp/kr/slnH000248220/review/"
@@ -45261,8 +45252,7 @@ var staticRenderFns = [
                 _c(
                   "a",
                   {
-                    staticClass:
-                      "tw-btn inline-block h-50 leading-50 text-xs w-1/2 text-center hover:bg-yellow-lighter m-8",
+                    staticClass: "tw-btn w-1/2 hover:bg-yellow-lighter m-8",
                     attrs: {
                       href:
                         "https://beauty.hotpepper.jp/kr/slnH000364510/review/"
@@ -45526,8 +45516,7 @@ var staticRenderFns = [
                 _c(
                   "a",
                   {
-                    staticClass:
-                      "tw-btn inline-block h-50 leading-50 text-xs w-1/2 text-center hover:bg-yellow-lighter m-8",
+                    staticClass: "tw-btn w-1/2 hover:bg-yellow-lighter m-8",
                     attrs: {
                       href:
                         "https://beauty.hotpepper.jp/kr/slnH000248220/review/"
@@ -45543,8 +45532,7 @@ var staticRenderFns = [
                 _c(
                   "a",
                   {
-                    staticClass:
-                      "tw-btn inline-block h-50 leading-50 text-xs w-1/2 text-center hover:bg-yellow-lighter m-8",
+                    staticClass: "tw-btn w-1/2 hover:bg-yellow-lighter m-8",
                     attrs: {
                       href:
                         "https://beauty.hotpepper.jp/kr/slnH000364510/review/"
@@ -45756,8 +45744,7 @@ var staticRenderFns = [
                 _c(
                   "a",
                   {
-                    staticClass:
-                      "tw-btn inline-block h-50 leading-50 text-xs w-1/2 text-center hover:bg-yellow-lighter m-8",
+                    staticClass: "tw-btn w-1/2 hover:bg-yellow-lighter m-8",
                     attrs: {
                       href:
                         "https://beauty.hotpepper.jp/kr/slnH000248220/review/"
@@ -45773,8 +45760,7 @@ var staticRenderFns = [
                 _c(
                   "a",
                   {
-                    staticClass:
-                      "tw-btn inline-block h-50 leading-50 text-xs w-1/2 text-center hover:bg-yellow-lighter m-8",
+                    staticClass: "tw-btn w-1/2 hover:bg-yellow-lighter m-8",
                     attrs: {
                       href:
                         "https://beauty.hotpepper.jp/kr/slnH000364510/review/"
@@ -45976,8 +45962,7 @@ var staticRenderFns = [
                 _c(
                   "a",
                   {
-                    staticClass:
-                      "tw-btn inline-block h-50 leading-50 text-xs w-1/2 text-center hover:bg-yellow-lighter m-8",
+                    staticClass: "tw-btn w-1/2 hover:bg-yellow-lighter m-8",
                     attrs: {
                       href:
                         "https://beauty.hotpepper.jp/kr/slnH000248220/review/"
@@ -45993,8 +45978,7 @@ var staticRenderFns = [
                 _c(
                   "a",
                   {
-                    staticClass:
-                      "tw-btn inline-block h-50 leading-50 text-xs w-1/2 text-center hover:bg-yellow-lighter m-8",
+                    staticClass: "tw-btn w-1/2 hover:bg-yellow-lighter m-8",
                     attrs: {
                       href:
                         "https://beauty.hotpepper.jp/kr/slnH000364510/review/"
@@ -46468,8 +46452,7 @@ var staticRenderFns = [
             _c(
               "a",
               {
-                staticClass:
-                  "tw-btn inline-block h-50 leading-50 text-xs w-1/4 text-center hover:bg-yellow-lighter lg:m-12",
+                staticClass: "tw-btn w-1/4 hover:bg-yellow-lighter lg:m-12",
                 attrs: { href: "https://www.instagram.com/nana_eyelashsalon/" }
               },
               [_vm._v("\n                    EYELASH\n                ")]
@@ -46478,8 +46461,7 @@ var staticRenderFns = [
             _c(
               "a",
               {
-                staticClass:
-                  "tw-btn inline-block h-50 leading-50 text-xs w-1/4 text-center hover:bg-yellow-lighter lg:m-12",
+                staticClass: "tw-btn w-1/4 hover:bg-yellow-lighter lg:m-12",
                 attrs: { href: "https://www.instagram.com/nana_nail_lisbon/" }
               },
               [_vm._v("\n                    NAIL\n                ")]
@@ -47398,8 +47380,7 @@ var staticRenderFns = [
               _c(
                 "a",
                 {
-                  staticClass:
-                    "tw-btn inline-block h-50 leading-50 text-xs w-1/2 text-center hover:bg-yellow-lighter m-8",
+                  staticClass: "tw-btn w-1/2 hover:bg-yellow-lighter m-8",
                   attrs: {
                     href: "https://work.salonboard.com/kr/slnH000364510/"
                   }
@@ -47691,8 +47672,7 @@ var staticRenderFns = [
               _c(
                 "a",
                 {
-                  staticClass:
-                    "tw-btn inline-block h-50 leading-50 text-xs w-1/2 text-center hover:bg-yellow-lighter m-8",
+                  staticClass: "tw-btn w-1/2 hover:bg-yellow-lighter m-8",
                   attrs: {
                     href: "https://beauty.hotpepper.jp/kr/slnH000248220/review/"
                   }
@@ -48261,8 +48241,7 @@ var staticRenderFns = [
               _c(
                 "a",
                 {
-                  staticClass:
-                    "tw-btn inline-block h-50 leading-50 text-xs w-1/2 text-center hover:bg-yellow-lighter m-8",
+                  staticClass: "tw-btn w-1/2 hover:bg-yellow-lighter m-8",
                   attrs: {
                     href: "https://beauty.hotpepper.jp/kr/slnH000248220/review/"
                   }
@@ -62732,24 +62711,23 @@ __webpack_require__.r(__webpack_exports__);
 /*!*********************************************!*\
   !*** ./resources/js/components/Reserve.vue ***!
   \*********************************************/
-/*! no static exports found */
+/*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _Reserve_vue_vue_type_template_id_7a7c7821_scoped_true___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./Reserve.vue?vue&type=template&id=7a7c7821&scoped=true& */ "./resources/js/components/Reserve.vue?vue&type=template&id=7a7c7821&scoped=true&");
-/* harmony import */ var _Reserve_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Reserve.vue?vue&type=script&lang=js& */ "./resources/js/components/Reserve.vue?vue&type=script&lang=js&");
-/* harmony reexport (unknown) */ for(var __WEBPACK_IMPORT_KEY__ in _Reserve_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__) if(__WEBPACK_IMPORT_KEY__ !== 'default') (function(key) { __webpack_require__.d(__webpack_exports__, key, function() { return _Reserve_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__[key]; }) }(__WEBPACK_IMPORT_KEY__));
+/* harmony import */ var _Reserve_vue_vue_type_style_index_0_id_7a7c7821_scoped_true_lang_scss___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Reserve.vue?vue&type=style&index=0&id=7a7c7821&scoped=true&lang=scss& */ "./resources/js/components/Reserve.vue?vue&type=style&index=0&id=7a7c7821&scoped=true&lang=scss&");
 /* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
 
-
+var script = {}
 
 
 
 /* normalize component */
 
 var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__["default"])(
-  _Reserve_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__["default"],
+  script,
   _Reserve_vue_vue_type_template_id_7a7c7821_scoped_true___WEBPACK_IMPORTED_MODULE_0__["render"],
   _Reserve_vue_vue_type_template_id_7a7c7821_scoped_true___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"],
   false,
@@ -62766,19 +62744,19 @@ component.options.__file = "resources/js/components/Reserve.vue"
 
 /***/ }),
 
-/***/ "./resources/js/components/Reserve.vue?vue&type=script&lang=js&":
-/*!**********************************************************************!*\
-  !*** ./resources/js/components/Reserve.vue?vue&type=script&lang=js& ***!
-  \**********************************************************************/
+/***/ "./resources/js/components/Reserve.vue?vue&type=style&index=0&id=7a7c7821&scoped=true&lang=scss&":
+/*!*******************************************************************************************************!*\
+  !*** ./resources/js/components/Reserve.vue?vue&type=style&index=0&id=7a7c7821&scoped=true&lang=scss& ***!
+  \*******************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony import */ var _node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Reserve_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/babel-loader/lib??ref--4-0!../../../node_modules/vue-loader/lib??vue-loader-options!./Reserve.vue?vue&type=script&lang=js& */ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/Reserve.vue?vue&type=script&lang=js&");
-/* harmony import */ var _node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Reserve_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Reserve_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__);
-/* harmony reexport (unknown) */ for(var __WEBPACK_IMPORT_KEY__ in _node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Reserve_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__) if(__WEBPACK_IMPORT_KEY__ !== 'default') (function(key) { __webpack_require__.d(__webpack_exports__, key, function() { return _node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Reserve_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__[key]; }) }(__WEBPACK_IMPORT_KEY__));
- /* harmony default export */ __webpack_exports__["default"] = (_node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Reserve_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0___default.a); 
+/* harmony import */ var _node_modules_style_loader_index_js_node_modules_css_loader_index_js_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_7_2_node_modules_sass_loader_lib_loader_js_ref_7_3_node_modules_vue_loader_lib_index_js_vue_loader_options_Reserve_vue_vue_type_style_index_0_id_7a7c7821_scoped_true_lang_scss___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/style-loader!../../../node_modules/css-loader!../../../node_modules/vue-loader/lib/loaders/stylePostLoader.js!../../../node_modules/postcss-loader/src??ref--7-2!../../../node_modules/sass-loader/lib/loader.js??ref--7-3!../../../node_modules/vue-loader/lib??vue-loader-options!./Reserve.vue?vue&type=style&index=0&id=7a7c7821&scoped=true&lang=scss& */ "./node_modules/style-loader/index.js!./node_modules/css-loader/index.js!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/lib/loader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/Reserve.vue?vue&type=style&index=0&id=7a7c7821&scoped=true&lang=scss&");
+/* harmony import */ var _node_modules_style_loader_index_js_node_modules_css_loader_index_js_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_7_2_node_modules_sass_loader_lib_loader_js_ref_7_3_node_modules_vue_loader_lib_index_js_vue_loader_options_Reserve_vue_vue_type_style_index_0_id_7a7c7821_scoped_true_lang_scss___WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_style_loader_index_js_node_modules_css_loader_index_js_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_7_2_node_modules_sass_loader_lib_loader_js_ref_7_3_node_modules_vue_loader_lib_index_js_vue_loader_options_Reserve_vue_vue_type_style_index_0_id_7a7c7821_scoped_true_lang_scss___WEBPACK_IMPORTED_MODULE_0__);
+/* harmony reexport (unknown) */ for(var __WEBPACK_IMPORT_KEY__ in _node_modules_style_loader_index_js_node_modules_css_loader_index_js_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_7_2_node_modules_sass_loader_lib_loader_js_ref_7_3_node_modules_vue_loader_lib_index_js_vue_loader_options_Reserve_vue_vue_type_style_index_0_id_7a7c7821_scoped_true_lang_scss___WEBPACK_IMPORTED_MODULE_0__) if(__WEBPACK_IMPORT_KEY__ !== 'default') (function(key) { __webpack_require__.d(__webpack_exports__, key, function() { return _node_modules_style_loader_index_js_node_modules_css_loader_index_js_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_7_2_node_modules_sass_loader_lib_loader_js_ref_7_3_node_modules_vue_loader_lib_index_js_vue_loader_options_Reserve_vue_vue_type_style_index_0_id_7a7c7821_scoped_true_lang_scss___WEBPACK_IMPORTED_MODULE_0__[key]; }) }(__WEBPACK_IMPORT_KEY__));
+ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_style_loader_index_js_node_modules_css_loader_index_js_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_7_2_node_modules_sass_loader_lib_loader_js_ref_7_3_node_modules_vue_loader_lib_index_js_vue_loader_options_Reserve_vue_vue_type_style_index_0_id_7a7c7821_scoped_true_lang_scss___WEBPACK_IMPORTED_MODULE_0___default.a); 
 
 /***/ }),
 

@@ -42,7 +42,7 @@
                         </ul>
 
                         <a href="/"
-                           class="tw-btn inline-block h-50 leading-50 text-xs w-full text-center hover:bg-yellow-lighter"
+                           class="tw-btn w-full hover:bg-yellow-lighter"
                         >
                             サロン紹介＆ご予約
                         </a>
@@ -87,7 +87,7 @@
                         </ul>
 
                         <a href="/"
-                           class="tw-btn inline-block h-50 leading-50 text-xs w-full text-center hover:bg-yellow-lighter"
+                           class="tw-btn w-full hover:bg-yellow-lighter"
                         >
                             サロン紹介＆ご予約
                         </a>
@@ -132,7 +132,7 @@
                         </ul>
 
                         <a href="/"
-                           class="tw-btn inline-block h-50 leading-50 text-xs w-full text-center hover:bg-yellow-lighter"
+                           class="tw-btn w-full hover:bg-yellow-lighter"
                         >
                             サロン紹介＆ご予約
                         </a>

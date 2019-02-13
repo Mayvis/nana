@@ -211,7 +211,7 @@
 
                         <div class="w-full flex justify-center">
                             <a href="https://work.salonboard.com/kr/slnH000364510/"
-                               class="tw-btn inline-block h-50 leading-50 text-xs w-1/2 text-center hover:bg-yellow-lighter m-8">
+                               class="tw-btn w-1/2 hover:bg-yellow-lighter m-8">
                                 エントリーはこちらから
                             </a>
                         </div>

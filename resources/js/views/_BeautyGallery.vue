@@ -50,13 +50,13 @@
                     </p>
 
                     <a href="https://www.instagram.com/nana_eyelashsalon/"
-                       class="tw-btn inline-block h-50 leading-50 text-xs w-1/4 text-center hover:bg-yellow-lighter lg:m-12"
+                       class="tw-btn w-1/4 hover:bg-yellow-lighter lg:m-12"
                     >
                         EYELASH
                     </a>
 
                     <a href="https://www.instagram.com/nana_nail_lisbon/"
-                       class="tw-btn inline-block h-50 leading-50 text-xs w-1/4 text-center hover:bg-yellow-lighter lg:m-12"
+                       class="tw-btn w-1/4 hover:bg-yellow-lighter lg:m-12"
                     >
                         NAIL
                     </a>

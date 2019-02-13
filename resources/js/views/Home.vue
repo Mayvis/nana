@@ -39,7 +39,7 @@
                     <div>
                         <router-link to="/concept">
                             <a
-                                class="tw-btn inline-block h-50 leading-50 text-xs w-2/5 text-center hover:bg-yellow-lighter"
+                                class="tw-btn w-2/5 hover:bg-yellow-lighter"
                             >
                                 コンセプト＆こだわり
                             </a>
@@ -234,13 +234,13 @@
                         </p>
 
                         <a href="https://beauty.hotpepper.jp/kr/slnH000248220/coupon/"
-                           class="tw-btn inline-block h-50 leading-50 text-xs w-1/4 text-center hover:bg-yellow-lighter lg:m-12"
+                           class="tw-btn w-1/4 hover:bg-yellow-lighter lg:m-12"
                         >
                             MILANO & LA ROCHELLE
                         </a>
 
                         <a href="https://beauty.hotpepper.jp/kr/slnH000364510/coupon/"
-                           class="tw-btn inline-block h-50 leading-50 text-xs w-1/4 text-center hover:bg-yellow-lighter lg:m-12"
+                           class="tw-btn w-1/4 hover:bg-yellow-lighter lg:m-12"
                         >
                             LISBON
                         </a>
@@ -400,15 +400,6 @@
         }
     }
 
-    .tw-btn {
-        transition: background-color .2s;
-
-        background: url('/icon/left_top.svg') left top/10px 10px no-repeat,
-        url('/icon/right_top.svg') right top/10px 8px no-repeat,
-        url('/icon/left_bottom.svg') left bottom/10px 10px no-repeat,
-        url('/icon/right_bottom.svg') right bottom/10px 8px no-repeat #fff;
-    }
-
     .tw-thumbnail {
         @apply text-black;
         transition: opacity .2s;
@@ -508,18 +499,6 @@
                 left: 0;
                 background-color: #555;
             }
-        }
-    }
-
-    .tw-nana {
-        position: absolute;
-        top: -8%;
-        left: 50%;
-        transform: translateX(-50%);
-
-        img {
-            width: 196px;
-            height: auto;
         }
     }
 
