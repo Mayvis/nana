@@ -74,7 +74,7 @@
 
 <script>
     import links from '../components/beauty/_Links';
-    import collection from '../components/_collection';
+    import collection from '../components/_Collection';
 
     export default {
         components: {links, collection},
