@@ -31,7 +31,11 @@ p {
 }
 
 h3 {
-    @apply leading-loose tracking-loose text-base text-teal;
+    @apply tracking-normal leading-loose text-base text-teal;
+
+    @screen md {
+        @apply tracking-loose;
+    }
 }
 
 img {

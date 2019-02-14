@@ -11,21 +11,26 @@
             <template slot="desc">口コミで人気の秘密</template>
         </hero-bg>
 
-        <section class="lg:mb-24">
-            <div class="max-w-1000 mx-auto">
+        <!--    sec 01    -->
+        <section class="mb-24">
+            <div class="max-w-1000 mx-auto px-8">
 
-                <div class="tw-title text-center relative lg:mb-16">
-                    <span class="text-350 absolute sub-title">01</span>
+                <div class="tw-title text-center relative mb-16">
+                    <span class="sub-title">01</span>
 
-                    <h2 class="leading-normal font-san p-8">モチが良いからコスパがいい！</h2>
+                    <h2 class="leading-normal font-san p-4 md:p-8 text-base md:text-2xl">モチが良いからコスパがいい！</h2>
                 </div>
 
+                <figure class="md:hidden overflow-hidden flex items-center mb-8" style="max-height: 300px;">
+                    <img src="/decoration/voice_1.jpg" alt="モチが良いからコスパがいい！">
+                </figure>
+
                 <div class="flex sm:flex-wrap sm:justify-center">
-                    <figure class="lg:w-1/3 pr-8">
+                    <figure class="lg:w-1/3 pr-8 hidden md:block">
                         <img src="/decoration/voice_1.jpg" alt="モチが良いからコスパがいい！">
                     </figure>
 
-                    <div class="lg:w-2/3 sm:w-full pl-8 lg:mb-16">
+                    <div class="lg:w-2/3 sm:w-full lg:pl-8 mb-16">
                         <article>
                             <h3 class="pb-6">
                                 「高い技術×厳選商材」で、<br>
@@ -69,12 +74,12 @@
                 <div class="flex">
                     <p class="lg:w-1/12 relative">
                         <span
-                            class="ref-title text-2xl tracking-loose leading-loose border-b-2 border-black">VOICE</span>
+                            class="ref-title">VOICE</span>
                     </p>
 
-                    <div class="p-16 bg-grey-lighter lg:w-11/12">
-                        <div class="flex">
-                            <div class="lg:w-1/2 m-8 border-grey-darkest border-b">
+                    <div class="p-4 md:p-16 bg-grey-lighter lg:w-11/12">
+                        <div class="flex flex-col md:flex-row">
+                            <div class="md:w-1/2 m-8 border-grey-darkest border-b">
                                 <h5 class="text-center bg-white font-normal tw-name relative">きいさん ： 女性 / 50代</h5>
 
                                 <p class="text-xs pb-8 text-grey-darker pt-4">
@@ -82,7 +87,7 @@
                                 </p>
                             </div>
 
-                            <div class="lg:w-1/2 m-8 border-grey-darkest border-b">
+                            <div class="md:w-1/2 m-8 border-grey-darkest border-b">
                                 <h5 class="text-center bg-white font-normal tw-name relative">Mamiさん ： 女性 / 30代前半</h5>
 
                                 <p class="text-xs pb-8 text-grey-darker pt-4">
@@ -91,8 +96,8 @@
                             </div>
                         </div>
 
-                        <div class="flex">
-                            <div class="lg:w-1/2 m-8 border-grey-darkest border-b">
+                        <div class="flex flex-col md:flex-row">
+                            <div class="md:w-1/2 m-8 border-grey-darkest border-b">
                                 <h5 class="text-center bg-white font-normal tw-name relative">たけのこさん ： 女性 / 30代前半</h5>
 
                                 <p class="text-xs pb-8 text-grey-darker pt-4">
@@ -101,7 +106,7 @@
                                 </p>
                             </div>
 
-                            <div class="lg:w-1/2 m-8 border-grey-darkest border-b">
+                            <div class="md:w-1/2 m-8 border-grey-darkest border-b">
                                 <h5 class="text-center bg-white font-normal tw-name relative">ぱきんこさん ： 女性 / 50代</h5>
 
                                 <p class="text-xs pb-8 text-grey-darker pt-4">
@@ -112,18 +117,18 @@
 
                         <div class="flex flex-wrap pt-8">
                             <p class="w-full text-center text-xs font-bold">
-                                口コミをもっとみる
+                                口コミをもっとみる<br class="md:hidden">
                                 <span class="tracking-wider text-black pb-8 text-grey-darker font-fotura font-normal">( HOTPEPPER Beautyへリンクします )</span>
                             </p>
 
-                            <div class="w-full flex justify-center">
+                            <div class="w-full flex flex-col md:flex-row justify-center">
                                 <a href="https://beauty.hotpepper.jp/kr/slnH000248220/review/"
-                                   class="tw-btn w-1/2 hover:bg-yellow-lighter m-8">
+                                   class="tw-btn md:w-1/2 my-4 md:m-8">
                                     MILANO & LA ROCHELLE
                                 </a>
 
                                 <a href="https://beauty.hotpepper.jp/kr/slnH000364510/review/"
-                                   class="tw-btn w-1/2 hover:bg-yellow-lighter m-8">
+                                   class="tw-btn md:w-1/2 my-4 md:m-8">
                                     LISBON
                                 </a>
                             </div>
@@ -134,17 +139,25 @@
             </div>
         </section>
 
-        <section class="lg:mb-24">
-            <div class="max-w-1000 mx-auto">
+        <!--    sec 02    -->
+        <section class="mb-24">
+            <div class="max-w-1000 mx-auto px-8">
 
-                <div class="tw-title text-center relative lg:mb-16">
-                    <span class="text-350 absolute sub-title">02</span>
+                <div class="tw-title text-center relative mb-16">
+                    <span class="sub-title">02</span>
 
-                    <h2 class="leading-normal font-san p-8">しっかりとしたカウンセリングで、自分に合ったデザインに</h2>
+                    <h2 class="leading-normal font-san p-4 md:p-8 text-base md:text-2xl">
+                        しっかりとしたカウンセリングで、<br class="md:hidden">
+                        自分に合ったデザインに
+                    </h2>
                 </div>
 
-                <div class="flex lg:mb-16">
-                    <figure class="tw-flex-end lg:w-2/5 lg:pl-8">
+                <figure class="md:hidden overflow-hidden flex items-center mb-8" style="max-height: 300px;">
+                    <img src="/decoration/voice_2.jpg" alt="しっかりとしたカウンセリングで、自分に合ったデザインに">
+                </figure>
+
+                <div class="flex mb-16">
+                    <figure class="lg:w-1/3 pr-8 hidden md:block">
                         <img src="/decoration/voice_2.jpg" alt="しっかりとしたカウンセリングで、自分に合ったデザインに">
                     </figure>
 
@@ -188,12 +201,12 @@
                 <div class="flex">
                     <p class="lg:w-1/12 relative">
                         <span
-                            class="ref-title text-2xl tracking-loose leading-loose border-b-2 border-black">VOICE</span>
+                            class="ref-title">VOICE</span>
                     </p>
 
-                    <div class="p-16 bg-grey-lighter lg:w-11/12">
-                        <div class="flex">
-                            <div class="lg:w-1/2 m-8 border-grey-darkest border-b">
+                    <div class="p-4 md:p-16 bg-grey-lighter lg:w-11/12">
+                        <div class="flex flex-col md:flex-row">
+                            <div class="md:w-1/2 m-8 border-grey-darkest border-b">
                                 <h5 class="text-center bg-white font-normal tw-name relative">あいこさん ： 女性 / 30代前半</h5>
 
                                 <p class="text-xs pb-8 text-grey-darker pt-4">
@@ -201,7 +214,7 @@
                                 </p>
                             </div>
 
-                            <div class="lg:w-1/2 m-8 border-grey-darkest border-b">
+                            <div class="md:w-1/2 m-8 border-grey-darkest border-b">
                                 <h5 class="text-center bg-white font-normal tw-name relative">めぐみさん ： 女性 / 40代</h5>
 
                                 <p class="text-xs pb-8 text-grey-darker pt-4">
@@ -210,8 +223,8 @@
                             </div>
                         </div>
 
-                        <div class="flex">
-                            <div class="lg:w-1/2 m-8 border-grey-darkest border-b">
+                        <div class="flex flex-col md:flex-row">
+                            <div class="md:w-1/2 m-8 border-grey-darkest border-b">
                                 <h5 class="text-center bg-white font-normal tw-name relative">ちゃんななさん ： 女性 / 20代後半</h5>
 
                                 <p class="text-xs pb-8 text-grey-darker pt-4">
@@ -220,30 +233,31 @@
                                 </p>
                             </div>
 
-                            <div class="lg:w-1/2 m-8 border-grey-darkest border-b">
+                            <div class="md:w-1/2 m-8 border-grey-darkest border-b">
                                 <h5 class="text-center bg-white font-normal tw-name relative">みさきさん ： 女性 / 20代前半</h5>
 
                                 <p class="text-xs pb-8 text-grey-darker pt-4">
-                                    マツエクする時はいつもこちらにお伺いさせて頂いてます。毎回来た時に必ずカウセリングを行なって頂いて、お店の雰囲気も落ち着いており、寝てしまうくらいです、、。笑 仕上がりもパーフェクトで、本当に毎回感謝です。<br>
+                                    マツエクする時はいつもこちらにお伺いさせて頂いてます。毎回来た時に必ずカウセリングを行なって頂いて、お店の雰囲気も落ち着いており、寝てしまうくらいです、、。笑
+                                    仕上がりもパーフェクトで、本当に毎回感謝です。<br>
                                     メイク直しやヘアーアイロンの貸し出しなどゆっくりできるのも本当に嬉しいです。これからもお伺いした時はよろしくお願います。いつもありがとうございます！！
                                 </p>
                             </div>
                         </div>
 
-                        <div class="flex flex-wrap">
-                            <p class="w-full text-center text-xs font-bold pt-8">
-                                口コミをもっとみる
-                                <span class="tracking-wider pb-8 text-grey-darker font-fotura font-normal">( HOTPEPPER Beautyへリンクします )</span>
+                        <div class="flex flex-wrap pt-8">
+                            <p class="w-full text-center text-xs font-bold">
+                                口コミをもっとみる<br class="md:hidden">
+                                <span class="tracking-wider text-black pb-8 text-grey-darker font-fotura font-normal">( HOTPEPPER Beautyへリンクします )</span>
                             </p>
 
-                            <div class="w-full flex justify-center">
+                            <div class="w-full flex flex-col md:flex-row justify-center">
                                 <a href="https://beauty.hotpepper.jp/kr/slnH000248220/review/"
-                                   class="tw-btn w-1/2 hover:bg-yellow-lighter m-8">
+                                   class="tw-btn md:w-1/2 my-4 md:m-8">
                                     MILANO & LA ROCHELLE
                                 </a>
 
                                 <a href="https://beauty.hotpepper.jp/kr/slnH000364510/review/"
-                                   class="tw-btn w-1/2 hover:bg-yellow-lighter m-8">
+                                   class="tw-btn md:w-1/2 my-4 md:m-8">
                                     LISBON
                                 </a>
                             </div>
@@ -254,17 +268,24 @@
             </div>
         </section>
 
-        <section class="lg:mb-24">
-            <div class="max-w-1000 mx-auto">
+        <!--    sec 03    -->
+        <section class="mb-24">
+            <div class="max-w-1000 mx-auto px-8">
 
-                <div class="tw-title text-center relative lg:mb-16">
-                    <span class="text-350 absolute sub-title">03</span>
+                <div class="tw-title text-center relative mb-16">
+                    <span class="sub-title">03</span>
 
-                    <h2 class="leading-normal font-san p-8">やわらかい枕でぐっすり！居心地のよさもバツグン</h2>
+                    <h2 class="leading-normal font-san p-4 md:p-8 text-base md:text-2xl">
+                        やわらかい枕でぐっすり！居心地のよさもバツグン
+                    </h2>
                 </div>
 
-                <div class="flex lg:mb-16">
-                    <figure class="lg:w-2/5 lg:pr-8">
+                <figure class="md:hidden overflow-hidden flex items-center mb-8" style="max-height: 300px;">
+                    <img src="/decoration/voice_3.jpg" alt="やわらかい枕でぐっすり！居心地のよさもバツグン">
+                </figure>
+
+                <div class="flex mb-16">
+                    <figure class="lg:w-1/3 pr-8 hidden md:block">
                         <img src="/decoration/voice_3.jpg" alt="やわらかい枕でぐっすり！居心地のよさもバツグン">
                     </figure>
 
@@ -296,9 +317,9 @@
                             class="ref-title text-2xl tracking-loose leading-loose border-b-2 border-black">VOICE</span>
                     </p>
 
-                    <div class="p-16 bg-grey-lighter lg:w-11/12">
-                        <div class="flex">
-                            <div class="lg:w-1/2 m-8 border-grey-darkest border-b">
+                    <div class="p-4 md:p-16 bg-grey-lighter lg:w-11/12">
+                        <div class="flex flex-col md:flex-row">
+                            <div class="md:w-1/2 m-8 border-grey-darkest border-b">
                                 <h5 class="text-center bg-white font-normal tw-name relative">MOEさん ： 女性 / 20代後半</h5>
 
                                 <p class="text-xs tracking-wider leading-loose pb-8 text-grey-darker pt-4">
@@ -308,7 +329,7 @@
                                 </p>
                             </div>
 
-                            <div class="lg:w-1/2 m-8 border-grey-darkest border-b">
+                            <div class="md:w-1/2 m-8 border-grey-darkest border-b">
                                 <h5 class="text-center bg-white font-normal tw-name relative">おいちゃんさん ： 女性 / 20代前半</h5>
 
                                 <p class="text-xs tracking-wider leading-loose pb-8 text-grey-darker pt-4">
@@ -317,8 +338,8 @@
                             </div>
                         </div>
 
-                        <div class="flex">
-                            <div class="m-8 border-grey-darkest border-b">
+                        <div class="flex flex-col md:flex-row">
+                            <div class="md:w-1/2 m-8 border-grey-darkest border-b">
                                 <h5 class="text-center bg-white font-normal tw-name relative">たけのこさん ： 女性 / 30代前半</h5>
 
                                 <p class="text-xs tracking-wider leading-loose pb-8 text-grey-darker pt-4">
@@ -328,20 +349,20 @@
                             </div>
                         </div>
 
-                        <div class="flex flex-wrap">
-                            <p class="w-full text-center text-xs font-bold pt-8">
-                                口コミをもっとみる
-                                <span class="tracking-wider pb-8 text-grey-darker font-fotura font-normal">( HOTPEPPER Beautyへリンクします )</span>
+                        <div class="flex flex-wrap pt-8">
+                            <p class="w-full text-center text-xs font-bold">
+                                口コミをもっとみる<br class="md:hidden">
+                                <span class="tracking-wider text-black pb-8 text-grey-darker font-fotura font-normal">( HOTPEPPER Beautyへリンクします )</span>
                             </p>
 
-                            <div class="w-full flex justify-center">
+                            <div class="w-full flex flex-col md:flex-row justify-center">
                                 <a href="https://beauty.hotpepper.jp/kr/slnH000248220/review/"
-                                   class="tw-btn w-1/2 hover:bg-yellow-lighter m-8">
+                                   class="tw-btn md:w-1/2 my-4 md:m-8">
                                     MILANO & LA ROCHELLE
                                 </a>
 
                                 <a href="https://beauty.hotpepper.jp/kr/slnH000364510/review/"
-                                   class="tw-btn w-1/2 hover:bg-yellow-lighter m-8">
+                                   class="tw-btn md:w-1/2 my-4 md:m-8">
                                     LISBON
                                 </a>
                             </div>
@@ -352,16 +373,23 @@
             </div>
         </section>
 
-        <section class="lg:mb-24">
-            <div class="max-w-1000 mx-auto">
-                <div class="tw-title text-center relative lg:mb-16">
-                    <span class="text-350 absolute sub-title">04</span>
+        <!--    sec 04    -->
+        <section class="mb-24">
+            <div class="max-w-1000 mx-auto px-8">
+                <div class="tw-title text-center relative mb-16">
+                    <span class="sub-title">04</span>
 
-                    <h2 class="leading-normal font-san p-8">スピーディーな施術は、スキマ時間にぴったり！</h2>
+                    <h2 class="leading-normal font-san p-4 md:p-8 text-base md:text-2xl">
+                        スピーディーな施術は、スキマ時間にぴったり！
+                    </h2>
                 </div>
 
-                <div class="flex lg:mb-16">
-                    <figure class="tw-flex-end lg:w-2/5 lg:pl-8">
+                <figure class="md:hidden overflow-hidden flex items-center mb-8" style="max-height: 300px;">
+                    <img src="/decoration/voice_4.jpg" alt="スピーディーな施術は、スキマ時間にぴったり！">
+                </figure>
+
+                <div class="flex mb-16">
+                    <figure class="lg:w-1/3 pr-8 hidden md:block">
                         <img src="/decoration/voice_4.jpg" alt="スピーディーな施術は、スキマ時間にぴったり！">
                     </figure>
 
@@ -402,17 +430,19 @@
                             class="ref-title text-2xl tracking-loose leading-loose border-b-2 border-black">VOICE</span>
                     </p>
 
-                    <div class="p-16 bg-grey-lighter lg:w-11/12">
-                        <div class="flex">
-                            <div class="lg:w-1/2 m-8 border-grey-darkest border-b">
-                                <h5 class="text-center bg-white font-normal tw-name relative">ナミチンゲールさん ： 女性 / 20代後半</h5>
+                    <div class="p-4 md:p-16 bg-grey-lighter lg:w-11/12">
+                        <div class="flex flex-col md:flex-row">
+                            <div class="md:w-1/2 m-8 border-grey-darkest border-b">
+                                <h5 class="text-center bg-white font-normal tw-name relative">
+                                    ナミチンゲールさん ： 女性 / 20代後半
+                                </h5>
 
                                 <p class="text-xs tracking-wider leading-loose pb-8 text-grey-darker pt-4">
                                     ずっとこちらでお世話になってます。どのスタッフの方になっても仕上がりで差が出ることなく満足してます。入店してから施術までの流れもテキパキと丁寧に対応してくれるので、こちらもとても気持ちよく過ごさせてもらっています。これからもよろしくお願いします。
                                 </p>
                             </div>
 
-                            <div class="lg:w-1/2 m-8 border-grey-darkest border-b">
+                            <div class="md:w-1/2 m-8 border-grey-darkest border-b">
                                 <h5 class="text-center bg-white font-normal tw-name relative">ちえさん ： 女性 / 20代前半</h5>
 
                                 <p class="text-xs tracking-wider leading-loose pb-8 text-grey-darker pt-4">
@@ -422,20 +452,20 @@
                             </div>
                         </div>
 
-                        <div class="flex flex-wrap">
-                            <p class="w-full text-center text-xs font-bold pt-8">
-                                口コミをもっとみる
-                                <span class="tracking-wider pb-8 text-grey-darker font-fotura font-normal">( HOTPEPPER Beautyへリンクします )</span>
+                        <div class="flex flex-wrap pt-8">
+                            <p class="w-full text-center text-xs font-bold">
+                                口コミをもっとみる<br class="md:hidden">
+                                <span class="tracking-wider text-black pb-8 text-grey-darker font-fotura font-normal">( HOTPEPPER Beautyへリンクします )</span>
                             </p>
 
-                            <div class="w-full flex justify-center">
+                            <div class="w-full flex flex-col md:flex-row justify-center">
                                 <a href="https://beauty.hotpepper.jp/kr/slnH000248220/review/"
-                                   class="tw-btn w-1/2 hover:bg-yellow-lighter m-8">
+                                   class="tw-btn md:w-1/2 my-4 md:m-8">
                                     MILANO & LA ROCHELLE
                                 </a>
 
                                 <a href="https://beauty.hotpepper.jp/kr/slnH000364510/review/"
-                                   class="tw-btn w-1/2 hover:bg-yellow-lighter m-8">
+                                   class="tw-btn md:w-1/2 my-4 md:m-8">
                                     LISBON
                                 </a>
                             </div>
@@ -462,10 +492,13 @@
 
 <style scoped lang="scss">
     .sub-title {
-        position: absolute;
-        top: 0;
+        @apply absolute pin-t text-3xl;
         left: 50%;
         transform: translate(-50%, -50%);
+
+        @screen lg {
+            @apply text-350;
+        }
     }
 
     .tw-name:before {
@@ -481,8 +514,11 @@
     }
 
     .ref-title {
-        position: absolute;
-        top: 20px;
-        left: 0;
+        @apply text-2xl tracking-loose leading-loose border-b-2 border-black absolute pin-l pin-t;
+        transform: translateY(-100%);
+
+        @screen md {
+            top: 20px;
+        }
     }
 </style>

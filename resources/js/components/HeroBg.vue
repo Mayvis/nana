@@ -22,8 +22,12 @@
 
 <style scoped lang="scss">
     .tw-hero {
-        height: 360px;
+        height: 240px;
         margin-top: -165px;
+
+        @screen md {
+            height: 360px;
+        }
     }
 
     .tw-svg {

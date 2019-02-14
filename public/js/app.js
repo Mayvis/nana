@@ -4845,6 +4845,36 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 /* harmony default export */ __webpack_exports__["default"] = ({
   created: function created() {// axios
   }
@@ -6053,7 +6083,7 @@ exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loa
 
 
 // module
-exports.push([module.i, ".tw-hero[data-v-403b2eec] {\n  height: 360px;\n  margin-top: -165px;\n}\n.tw-svg[data-v-403b2eec] {\n  overflow: visible;\n  height: 86px;\n  margin-top: -30px;\n  font-family: \"sofia-pro-condensed\", sans-serif;\n  font-size: 50px;\n  line-height: 1;\n  letter-spacing: .2em;\n}\n@media (min-width: 992px) {\n.tw-svg[data-v-403b2eec] {\n    font-size: 86px;\n}\n}\n.tw-svg text[data-v-403b2eec] {\n  fill: rgba(255, 255, 255, 0);\n  stroke: #333;\n  stroke-width: .8;\n  stroke-linejoin: round;\n  font-family: \"sofia-pro-condensed\", sans-serif;\n  line-height: 1;\n}\n", ""]);
+exports.push([module.i, ".tw-hero[data-v-403b2eec] {\n  height: 240px;\n  margin-top: -165px;\n}\n@media (min-width: 768px) {\n.tw-hero[data-v-403b2eec] {\n    height: 360px;\n}\n}\n.tw-svg[data-v-403b2eec] {\n  overflow: visible;\n  height: 86px;\n  margin-top: -30px;\n  font-family: \"sofia-pro-condensed\", sans-serif;\n  font-size: 50px;\n  line-height: 1;\n  letter-spacing: .2em;\n}\n@media (min-width: 992px) {\n.tw-svg[data-v-403b2eec] {\n    font-size: 86px;\n}\n}\n.tw-svg text[data-v-403b2eec] {\n  fill: rgba(255, 255, 255, 0);\n  stroke: #333;\n  stroke-width: .8;\n  stroke-linejoin: round;\n  font-family: \"sofia-pro-condensed\", sans-serif;\n  line-height: 1;\n}\n", ""]);
 
 // exports
 
@@ -6376,7 +6406,7 @@ exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loa
 
 
 // module
-exports.push([module.i, ".sub-title[data-v-3cb21ea3] {\n  position: absolute;\n  top: 0;\n  left: 50%;\n  -webkit-transform: translate(-50%, -50%);\n          transform: translate(-50%, -50%);\n}\n.tw-name[data-v-3cb21ea3]:before {\n  content: \"(\";\n  position: absolute;\n  left: 0;\n}\n.tw-name[data-v-3cb21ea3]:after {\n  content: \")\";\n  position: absolute;\n  right: 0;\n}\n.ref-title[data-v-3cb21ea3] {\n  position: absolute;\n  top: 20px;\n  left: 0;\n}\n", ""]);
+exports.push([module.i, ".sub-title[data-v-3cb21ea3] {\n  position: absolute;\n  top: 0;\n  font-size: 1.875rem;\n  left: 50%;\n  -webkit-transform: translate(-50%, -50%);\n          transform: translate(-50%, -50%);\n}\n@media (min-width: 992px) {\n.sub-title[data-v-3cb21ea3] {\n    font-size: 350%;\n}\n}\n.tw-name[data-v-3cb21ea3]:before {\n  content: \"(\";\n  position: absolute;\n  left: 0;\n}\n.tw-name[data-v-3cb21ea3]:after {\n  content: \")\";\n  position: absolute;\n  right: 0;\n}\n.ref-title[data-v-3cb21ea3] {\n  font-size: 1.5rem;\n  letter-spacing: .2em;\n  line-height: 2;\n  border-bottom-width: 2px;\n  border-color: #22292f;\n  position: absolute;\n  left: 0;\n  top: 0;\n  -webkit-transform: translateY(-100%);\n          transform: translateY(-100%);\n}\n@media (min-width: 768px) {\n.ref-title[data-v-3cb21ea3] {\n    top: 20px;\n}\n}\n", ""]);
 
 // exports
 
@@ -42281,9 +42311,9 @@ var staticRenderFns = [
           _vm._v(" "),
           _c("article", [
             _c("h3", { staticClass: "pb-6" }, [
-              _vm._v(
-                "\n                        丁寧な接客、寝心地の良いベッド、メイクブース。"
-              ),
+              _vm._v("\n                        丁寧な接客、"),
+              _c("br", { staticClass: "sm:hidden" }),
+              _vm._v("寝心地の良いベッド、メイクブース。"),
               _c("br"),
               _vm._v(
                 "\n                        無防備になるからこその安心を。\n                    "
@@ -42397,9 +42427,9 @@ var staticRenderFns = [
           _vm._v(" "),
           _c("article", [
             _c("h3", { staticClass: "pb-6" }, [
-              _vm._v(
-                "\n                        他店より長い研修は、未経験者でも経験者でも同じ。"
-              ),
+              _vm._v("\n                        他店より長い研修は、"),
+              _c("br", { staticClass: "mb:hidden" }),
+              _vm._v("未経験者でも経験者でも同じ。"),
               _c("br"),
               _vm._v(
                 "\n                        全員が美容師免許保持者。\n                    "
@@ -45387,20 +45417,39 @@ var staticRenderFns = [
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
-    return _c("section", { staticClass: "lg:mb-24" }, [
-      _c("div", { staticClass: "max-w-1000 mx-auto" }, [
-        _c("div", { staticClass: "tw-title text-center relative lg:mb-16" }, [
-          _c("span", { staticClass: "text-350 absolute sub-title" }, [
-            _vm._v("01")
-          ]),
+    return _c("section", { staticClass: "mb-24" }, [
+      _c("div", { staticClass: "max-w-1000 mx-auto px-8" }, [
+        _c("div", { staticClass: "tw-title text-center relative mb-16" }, [
+          _c("span", { staticClass: "sub-title" }, [_vm._v("01")]),
           _vm._v(" "),
-          _c("h2", { staticClass: "leading-normal font-san p-8" }, [
-            _vm._v("モチが良いからコスパがいい！")
-          ])
+          _c(
+            "h2",
+            {
+              staticClass:
+                "leading-normal font-san p-4 md:p-8 text-base md:text-2xl"
+            },
+            [_vm._v("モチが良いからコスパがいい！")]
+          )
         ]),
         _vm._v(" "),
+        _c(
+          "figure",
+          {
+            staticClass: "md:hidden overflow-hidden flex items-center mb-8",
+            staticStyle: { "max-height": "300px" }
+          },
+          [
+            _c("img", {
+              attrs: {
+                src: "/decoration/voice_1.jpg",
+                alt: "モチが良いからコスパがいい！"
+              }
+            })
+          ]
+        ),
+        _vm._v(" "),
         _c("div", { staticClass: "flex sm:flex-wrap sm:justify-center" }, [
-          _c("figure", { staticClass: "lg:w-1/3 pr-8" }, [
+          _c("figure", { staticClass: "lg:w-1/3 pr-8 hidden md:block" }, [
             _c("img", {
               attrs: {
                 src: "/decoration/voice_1.jpg",
@@ -45409,7 +45458,7 @@ var staticRenderFns = [
             })
           ]),
           _vm._v(" "),
-          _c("div", { staticClass: "lg:w-2/3 sm:w-full pl-8 lg:mb-16" }, [
+          _c("div", { staticClass: "lg:w-2/3 sm:w-full lg:pl-8 mb-16" }, [
             _c("article", [
               _c("h3", { staticClass: "pb-6" }, [
                 _vm._v(
@@ -45486,21 +45535,14 @@ var staticRenderFns = [
         _vm._v(" "),
         _c("div", { staticClass: "flex" }, [
           _c("p", { staticClass: "lg:w-1/12 relative" }, [
-            _c(
-              "span",
-              {
-                staticClass:
-                  "ref-title text-2xl tracking-loose leading-loose border-b-2 border-black"
-              },
-              [_vm._v("VOICE")]
-            )
+            _c("span", { staticClass: "ref-title" }, [_vm._v("VOICE")])
           ]),
           _vm._v(" "),
-          _c("div", { staticClass: "p-16 bg-grey-lighter lg:w-11/12" }, [
-            _c("div", { staticClass: "flex" }, [
+          _c("div", { staticClass: "p-4 md:p-16 bg-grey-lighter lg:w-11/12" }, [
+            _c("div", { staticClass: "flex flex-col md:flex-row" }, [
               _c(
                 "div",
-                { staticClass: "lg:w-1/2 m-8 border-grey-darkest border-b" },
+                { staticClass: "md:w-1/2 m-8 border-grey-darkest border-b" },
                 [
                   _c(
                     "h5",
@@ -45525,7 +45567,7 @@ var staticRenderFns = [
               _vm._v(" "),
               _c(
                 "div",
-                { staticClass: "lg:w-1/2 m-8 border-grey-darkest border-b" },
+                { staticClass: "md:w-1/2 m-8 border-grey-darkest border-b" },
                 [
                   _c(
                     "h5",
@@ -45549,10 +45591,10 @@ var staticRenderFns = [
               )
             ]),
             _vm._v(" "),
-            _c("div", { staticClass: "flex" }, [
+            _c("div", { staticClass: "flex flex-col md:flex-row" }, [
               _c(
                 "div",
-                { staticClass: "lg:w-1/2 m-8 border-grey-darkest border-b" },
+                { staticClass: "md:w-1/2 m-8 border-grey-darkest border-b" },
                 [
                   _c(
                     "h5",
@@ -45581,7 +45623,7 @@ var staticRenderFns = [
               _vm._v(" "),
               _c(
                 "div",
-                { staticClass: "lg:w-1/2 m-8 border-grey-darkest border-b" },
+                { staticClass: "md:w-1/2 m-8 border-grey-darkest border-b" },
                 [
                   _c(
                     "h5",
@@ -45607,9 +45649,9 @@ var staticRenderFns = [
             _vm._v(" "),
             _c("div", { staticClass: "flex flex-wrap pt-8" }, [
               _c("p", { staticClass: "w-full text-center text-xs font-bold" }, [
-                _vm._v(
-                  "\n                            口コミをもっとみる\n                            "
-                ),
+                _vm._v("\n                            口コミをもっとみる"),
+                _c("br", { staticClass: "md:hidden" }),
+                _vm._v(" "),
                 _c(
                   "span",
                   {
@@ -45620,39 +45662,45 @@ var staticRenderFns = [
                 )
               ]),
               _vm._v(" "),
-              _c("div", { staticClass: "w-full flex justify-center" }, [
-                _c(
-                  "a",
-                  {
-                    staticClass: "tw-btn w-1/2 hover:bg-yellow-lighter m-8",
-                    attrs: {
-                      href:
-                        "https://beauty.hotpepper.jp/kr/slnH000248220/review/"
-                    }
-                  },
-                  [
-                    _vm._v(
-                      "\n                                MILANO & LA ROCHELLE\n                            "
-                    )
-                  ]
-                ),
-                _vm._v(" "),
-                _c(
-                  "a",
-                  {
-                    staticClass: "tw-btn w-1/2 hover:bg-yellow-lighter m-8",
-                    attrs: {
-                      href:
-                        "https://beauty.hotpepper.jp/kr/slnH000364510/review/"
-                    }
-                  },
-                  [
-                    _vm._v(
-                      "\n                                LISBON\n                            "
-                    )
-                  ]
-                )
-              ])
+              _c(
+                "div",
+                {
+                  staticClass: "w-full flex flex-col md:flex-row justify-center"
+                },
+                [
+                  _c(
+                    "a",
+                    {
+                      staticClass: "tw-btn md:w-1/2 my-4 md:m-8",
+                      attrs: {
+                        href:
+                          "https://beauty.hotpepper.jp/kr/slnH000248220/review/"
+                      }
+                    },
+                    [
+                      _vm._v(
+                        "\n                                MILANO & LA ROCHELLE\n                            "
+                      )
+                    ]
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "a",
+                    {
+                      staticClass: "tw-btn md:w-1/2 my-4 md:m-8",
+                      attrs: {
+                        href:
+                          "https://beauty.hotpepper.jp/kr/slnH000364510/review/"
+                      }
+                    },
+                    [
+                      _vm._v(
+                        "\n                                LISBON\n                            "
+                      )
+                    ]
+                  )
+                ]
+              )
             ])
           ])
         ])
@@ -45663,20 +45711,45 @@ var staticRenderFns = [
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
-    return _c("section", { staticClass: "lg:mb-24" }, [
-      _c("div", { staticClass: "max-w-1000 mx-auto" }, [
-        _c("div", { staticClass: "tw-title text-center relative lg:mb-16" }, [
-          _c("span", { staticClass: "text-350 absolute sub-title" }, [
-            _vm._v("02")
-          ]),
+    return _c("section", { staticClass: "mb-24" }, [
+      _c("div", { staticClass: "max-w-1000 mx-auto px-8" }, [
+        _c("div", { staticClass: "tw-title text-center relative mb-16" }, [
+          _c("span", { staticClass: "sub-title" }, [_vm._v("02")]),
           _vm._v(" "),
-          _c("h2", { staticClass: "leading-normal font-san p-8" }, [
-            _vm._v("しっかりとしたカウンセリングで、自分に合ったデザインに")
-          ])
+          _c(
+            "h2",
+            {
+              staticClass:
+                "leading-normal font-san p-4 md:p-8 text-base md:text-2xl"
+            },
+            [
+              _vm._v("\n                    しっかりとしたカウンセリングで、"),
+              _c("br", { staticClass: "md:hidden" }),
+              _vm._v(
+                "\n                    自分に合ったデザインに\n                "
+              )
+            ]
+          )
         ]),
         _vm._v(" "),
-        _c("div", { staticClass: "flex lg:mb-16" }, [
-          _c("figure", { staticClass: "tw-flex-end lg:w-2/5 lg:pl-8" }, [
+        _c(
+          "figure",
+          {
+            staticClass: "md:hidden overflow-hidden flex items-center mb-8",
+            staticStyle: { "max-height": "300px" }
+          },
+          [
+            _c("img", {
+              attrs: {
+                src: "/decoration/voice_2.jpg",
+                alt: "しっかりとしたカウンセリングで、自分に合ったデザインに"
+              }
+            })
+          ]
+        ),
+        _vm._v(" "),
+        _c("div", { staticClass: "flex mb-16" }, [
+          _c("figure", { staticClass: "lg:w-1/3 pr-8 hidden md:block" }, [
             _c("img", {
               attrs: {
                 src: "/decoration/voice_2.jpg",
@@ -45758,21 +45831,14 @@ var staticRenderFns = [
         _vm._v(" "),
         _c("div", { staticClass: "flex" }, [
           _c("p", { staticClass: "lg:w-1/12 relative" }, [
-            _c(
-              "span",
-              {
-                staticClass:
-                  "ref-title text-2xl tracking-loose leading-loose border-b-2 border-black"
-              },
-              [_vm._v("VOICE")]
-            )
+            _c("span", { staticClass: "ref-title" }, [_vm._v("VOICE")])
           ]),
           _vm._v(" "),
-          _c("div", { staticClass: "p-16 bg-grey-lighter lg:w-11/12" }, [
-            _c("div", { staticClass: "flex" }, [
+          _c("div", { staticClass: "p-4 md:p-16 bg-grey-lighter lg:w-11/12" }, [
+            _c("div", { staticClass: "flex flex-col md:flex-row" }, [
               _c(
                 "div",
-                { staticClass: "lg:w-1/2 m-8 border-grey-darkest border-b" },
+                { staticClass: "md:w-1/2 m-8 border-grey-darkest border-b" },
                 [
                   _c(
                     "h5",
@@ -45797,7 +45863,7 @@ var staticRenderFns = [
               _vm._v(" "),
               _c(
                 "div",
-                { staticClass: "lg:w-1/2 m-8 border-grey-darkest border-b" },
+                { staticClass: "md:w-1/2 m-8 border-grey-darkest border-b" },
                 [
                   _c(
                     "h5",
@@ -45821,10 +45887,10 @@ var staticRenderFns = [
               )
             ]),
             _vm._v(" "),
-            _c("div", { staticClass: "flex" }, [
+            _c("div", { staticClass: "flex flex-col md:flex-row" }, [
               _c(
                 "div",
-                { staticClass: "lg:w-1/2 m-8 border-grey-darkest border-b" },
+                { staticClass: "md:w-1/2 m-8 border-grey-darkest border-b" },
                 [
                   _c(
                     "h5",
@@ -45853,7 +45919,7 @@ var staticRenderFns = [
               _vm._v(" "),
               _c(
                 "div",
-                { staticClass: "lg:w-1/2 m-8 border-grey-darkest border-b" },
+                { staticClass: "md:w-1/2 m-8 border-grey-darkest border-b" },
                 [
                   _c(
                     "h5",
@@ -45869,7 +45935,7 @@ var staticRenderFns = [
                     { staticClass: "text-xs pb-8 text-grey-darker pt-4" },
                     [
                       _vm._v(
-                        "\n                                マツエクする時はいつもこちらにお伺いさせて頂いてます。毎回来た時に必ずカウセリングを行なって頂いて、お店の雰囲気も落ち着いており、寝てしまうくらいです、、。笑 仕上がりもパーフェクトで、本当に毎回感謝です。"
+                        "\n                                マツエクする時はいつもこちらにお伺いさせて頂いてます。毎回来た時に必ずカウセリングを行なって頂いて、お店の雰囲気も落ち着いており、寝てしまうくらいです、、。笑\n                                仕上がりもパーフェクトで、本当に毎回感謝です。"
                       ),
                       _c("br"),
                       _vm._v(
@@ -45881,58 +45947,60 @@ var staticRenderFns = [
               )
             ]),
             _vm._v(" "),
-            _c("div", { staticClass: "flex flex-wrap" }, [
-              _c(
-                "p",
-                { staticClass: "w-full text-center text-xs font-bold pt-8" },
-                [
-                  _vm._v(
-                    "\n                            口コミをもっとみる\n                            "
-                  ),
-                  _c(
-                    "span",
-                    {
-                      staticClass:
-                        "tracking-wider pb-8 text-grey-darker font-fotura font-normal"
-                    },
-                    [_vm._v("( HOTPEPPER Beautyへリンクします )")]
-                  )
-                ]
-              ),
-              _vm._v(" "),
-              _c("div", { staticClass: "w-full flex justify-center" }, [
-                _c(
-                  "a",
-                  {
-                    staticClass: "tw-btn w-1/2 hover:bg-yellow-lighter m-8",
-                    attrs: {
-                      href:
-                        "https://beauty.hotpepper.jp/kr/slnH000248220/review/"
-                    }
-                  },
-                  [
-                    _vm._v(
-                      "\n                                MILANO & LA ROCHELLE\n                            "
-                    )
-                  ]
-                ),
+            _c("div", { staticClass: "flex flex-wrap pt-8" }, [
+              _c("p", { staticClass: "w-full text-center text-xs font-bold" }, [
+                _vm._v("\n                            口コミをもっとみる"),
+                _c("br", { staticClass: "md:hidden" }),
                 _vm._v(" "),
                 _c(
-                  "a",
+                  "span",
                   {
-                    staticClass: "tw-btn w-1/2 hover:bg-yellow-lighter m-8",
-                    attrs: {
-                      href:
-                        "https://beauty.hotpepper.jp/kr/slnH000364510/review/"
-                    }
+                    staticClass:
+                      "tracking-wider text-black pb-8 text-grey-darker font-fotura font-normal"
                   },
-                  [
-                    _vm._v(
-                      "\n                                LISBON\n                            "
-                    )
-                  ]
+                  [_vm._v("( HOTPEPPER Beautyへリンクします )")]
                 )
-              ])
+              ]),
+              _vm._v(" "),
+              _c(
+                "div",
+                {
+                  staticClass: "w-full flex flex-col md:flex-row justify-center"
+                },
+                [
+                  _c(
+                    "a",
+                    {
+                      staticClass: "tw-btn md:w-1/2 my-4 md:m-8",
+                      attrs: {
+                        href:
+                          "https://beauty.hotpepper.jp/kr/slnH000248220/review/"
+                      }
+                    },
+                    [
+                      _vm._v(
+                        "\n                                MILANO & LA ROCHELLE\n                            "
+                      )
+                    ]
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "a",
+                    {
+                      staticClass: "tw-btn md:w-1/2 my-4 md:m-8",
+                      attrs: {
+                        href:
+                          "https://beauty.hotpepper.jp/kr/slnH000364510/review/"
+                      }
+                    },
+                    [
+                      _vm._v(
+                        "\n                                LISBON\n                            "
+                      )
+                    ]
+                  )
+                ]
+              )
             ])
           ])
         ])
@@ -45943,20 +46011,43 @@ var staticRenderFns = [
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
-    return _c("section", { staticClass: "lg:mb-24" }, [
-      _c("div", { staticClass: "max-w-1000 mx-auto" }, [
-        _c("div", { staticClass: "tw-title text-center relative lg:mb-16" }, [
-          _c("span", { staticClass: "text-350 absolute sub-title" }, [
-            _vm._v("03")
-          ]),
+    return _c("section", { staticClass: "mb-24" }, [
+      _c("div", { staticClass: "max-w-1000 mx-auto px-8" }, [
+        _c("div", { staticClass: "tw-title text-center relative mb-16" }, [
+          _c("span", { staticClass: "sub-title" }, [_vm._v("03")]),
           _vm._v(" "),
-          _c("h2", { staticClass: "leading-normal font-san p-8" }, [
-            _vm._v("やわらかい枕でぐっすり！居心地のよさもバツグン")
-          ])
+          _c(
+            "h2",
+            {
+              staticClass:
+                "leading-normal font-san p-4 md:p-8 text-base md:text-2xl"
+            },
+            [
+              _vm._v(
+                "\n                    やわらかい枕でぐっすり！居心地のよさもバツグン\n                "
+              )
+            ]
+          )
         ]),
         _vm._v(" "),
-        _c("div", { staticClass: "flex lg:mb-16" }, [
-          _c("figure", { staticClass: "lg:w-2/5 lg:pr-8" }, [
+        _c(
+          "figure",
+          {
+            staticClass: "md:hidden overflow-hidden flex items-center mb-8",
+            staticStyle: { "max-height": "300px" }
+          },
+          [
+            _c("img", {
+              attrs: {
+                src: "/decoration/voice_3.jpg",
+                alt: "やわらかい枕でぐっすり！居心地のよさもバツグン"
+              }
+            })
+          ]
+        ),
+        _vm._v(" "),
+        _c("div", { staticClass: "flex mb-16" }, [
+          _c("figure", { staticClass: "lg:w-1/3 pr-8 hidden md:block" }, [
             _c("img", {
               attrs: {
                 src: "/decoration/voice_3.jpg",
@@ -46016,11 +46107,11 @@ var staticRenderFns = [
             )
           ]),
           _vm._v(" "),
-          _c("div", { staticClass: "p-16 bg-grey-lighter lg:w-11/12" }, [
-            _c("div", { staticClass: "flex" }, [
+          _c("div", { staticClass: "p-4 md:p-16 bg-grey-lighter lg:w-11/12" }, [
+            _c("div", { staticClass: "flex flex-col md:flex-row" }, [
               _c(
                 "div",
-                { staticClass: "lg:w-1/2 m-8 border-grey-darkest border-b" },
+                { staticClass: "md:w-1/2 m-8 border-grey-darkest border-b" },
                 [
                   _c(
                     "h5",
@@ -46052,7 +46143,7 @@ var staticRenderFns = [
               _vm._v(" "),
               _c(
                 "div",
-                { staticClass: "lg:w-1/2 m-8 border-grey-darkest border-b" },
+                { staticClass: "md:w-1/2 m-8 border-grey-darkest border-b" },
                 [
                   _c(
                     "h5",
@@ -46079,88 +46170,94 @@ var staticRenderFns = [
               )
             ]),
             _vm._v(" "),
-            _c("div", { staticClass: "flex" }, [
-              _c("div", { staticClass: "m-8 border-grey-darkest border-b" }, [
-                _c(
-                  "h5",
-                  {
-                    staticClass:
-                      "text-center bg-white font-normal tw-name relative"
-                  },
-                  [_vm._v("たけのこさん ： 女性 / 30代前半")]
-                ),
-                _vm._v(" "),
-                _c(
-                  "p",
-                  {
-                    staticClass:
-                      "text-xs tracking-wider leading-loose pb-8 text-grey-darker pt-4"
-                  },
-                  [
-                    _vm._v(
-                      "\n                                初めてのマツエクで、丁寧に説明してくださったおかげで希望どおりの仕上がりでした。施術もとても丁寧で、安心してお任せ出来ました。サロンの雰囲気も素敵でしたし、口コミ(後から見ましたが)どおり、施術後のドリンクとお菓子のサービスはちょっと嬉しいですね。"
-                    ),
-                    _c("br"),
-                    _vm._v(
-                      "\n                                施術中、お客さんとの会話が聞こえなかったのは、皆さん居心地の良さで眠ってらしたんでしょうね。私は緊張で眠れませんでしたけど。あと、メイク直しの時間がゆっくり出来るのも良かったです。次の時も同じ担当の方にお願いしたいです。\n                            "
-                    )
-                  ]
-                )
-              ])
-            ]),
-            _vm._v(" "),
-            _c("div", { staticClass: "flex flex-wrap" }, [
+            _c("div", { staticClass: "flex flex-col md:flex-row" }, [
               _c(
-                "p",
-                { staticClass: "w-full text-center text-xs font-bold pt-8" },
+                "div",
+                { staticClass: "md:w-1/2 m-8 border-grey-darkest border-b" },
                 [
-                  _vm._v(
-                    "\n                            口コミをもっとみる\n                            "
-                  ),
                   _c(
-                    "span",
+                    "h5",
                     {
                       staticClass:
-                        "tracking-wider pb-8 text-grey-darker font-fotura font-normal"
+                        "text-center bg-white font-normal tw-name relative"
                     },
-                    [_vm._v("( HOTPEPPER Beautyへリンクします )")]
+                    [_vm._v("たけのこさん ： 女性 / 30代前半")]
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "p",
+                    {
+                      staticClass:
+                        "text-xs tracking-wider leading-loose pb-8 text-grey-darker pt-4"
+                    },
+                    [
+                      _vm._v(
+                        "\n                                初めてのマツエクで、丁寧に説明してくださったおかげで希望どおりの仕上がりでした。施術もとても丁寧で、安心してお任せ出来ました。サロンの雰囲気も素敵でしたし、口コミ(後から見ましたが)どおり、施術後のドリンクとお菓子のサービスはちょっと嬉しいですね。"
+                      ),
+                      _c("br"),
+                      _vm._v(
+                        "\n                                施術中、お客さんとの会話が聞こえなかったのは、皆さん居心地の良さで眠ってらしたんでしょうね。私は緊張で眠れませんでしたけど。あと、メイク直しの時間がゆっくり出来るのも良かったです。次の時も同じ担当の方にお願いしたいです。\n                            "
+                      )
+                    ]
                   )
                 ]
-              ),
-              _vm._v(" "),
-              _c("div", { staticClass: "w-full flex justify-center" }, [
-                _c(
-                  "a",
-                  {
-                    staticClass: "tw-btn w-1/2 hover:bg-yellow-lighter m-8",
-                    attrs: {
-                      href:
-                        "https://beauty.hotpepper.jp/kr/slnH000248220/review/"
-                    }
-                  },
-                  [
-                    _vm._v(
-                      "\n                                MILANO & LA ROCHELLE\n                            "
-                    )
-                  ]
-                ),
+              )
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "flex flex-wrap pt-8" }, [
+              _c("p", { staticClass: "w-full text-center text-xs font-bold" }, [
+                _vm._v("\n                            口コミをもっとみる"),
+                _c("br", { staticClass: "md:hidden" }),
                 _vm._v(" "),
                 _c(
-                  "a",
+                  "span",
                   {
-                    staticClass: "tw-btn w-1/2 hover:bg-yellow-lighter m-8",
-                    attrs: {
-                      href:
-                        "https://beauty.hotpepper.jp/kr/slnH000364510/review/"
-                    }
+                    staticClass:
+                      "tracking-wider text-black pb-8 text-grey-darker font-fotura font-normal"
                   },
-                  [
-                    _vm._v(
-                      "\n                                LISBON\n                            "
-                    )
-                  ]
+                  [_vm._v("( HOTPEPPER Beautyへリンクします )")]
                 )
-              ])
+              ]),
+              _vm._v(" "),
+              _c(
+                "div",
+                {
+                  staticClass: "w-full flex flex-col md:flex-row justify-center"
+                },
+                [
+                  _c(
+                    "a",
+                    {
+                      staticClass: "tw-btn md:w-1/2 my-4 md:m-8",
+                      attrs: {
+                        href:
+                          "https://beauty.hotpepper.jp/kr/slnH000248220/review/"
+                      }
+                    },
+                    [
+                      _vm._v(
+                        "\n                                MILANO & LA ROCHELLE\n                            "
+                      )
+                    ]
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "a",
+                    {
+                      staticClass: "tw-btn md:w-1/2 my-4 md:m-8",
+                      attrs: {
+                        href:
+                          "https://beauty.hotpepper.jp/kr/slnH000364510/review/"
+                      }
+                    },
+                    [
+                      _vm._v(
+                        "\n                                LISBON\n                            "
+                      )
+                    ]
+                  )
+                ]
+              )
             ])
           ])
         ])
@@ -46171,20 +46268,43 @@ var staticRenderFns = [
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
-    return _c("section", { staticClass: "lg:mb-24" }, [
-      _c("div", { staticClass: "max-w-1000 mx-auto" }, [
-        _c("div", { staticClass: "tw-title text-center relative lg:mb-16" }, [
-          _c("span", { staticClass: "text-350 absolute sub-title" }, [
-            _vm._v("04")
-          ]),
+    return _c("section", { staticClass: "mb-24" }, [
+      _c("div", { staticClass: "max-w-1000 mx-auto px-8" }, [
+        _c("div", { staticClass: "tw-title text-center relative mb-16" }, [
+          _c("span", { staticClass: "sub-title" }, [_vm._v("04")]),
           _vm._v(" "),
-          _c("h2", { staticClass: "leading-normal font-san p-8" }, [
-            _vm._v("スピーディーな施術は、スキマ時間にぴったり！")
-          ])
+          _c(
+            "h2",
+            {
+              staticClass:
+                "leading-normal font-san p-4 md:p-8 text-base md:text-2xl"
+            },
+            [
+              _vm._v(
+                "\n                    スピーディーな施術は、スキマ時間にぴったり！\n                "
+              )
+            ]
+          )
         ]),
         _vm._v(" "),
-        _c("div", { staticClass: "flex lg:mb-16" }, [
-          _c("figure", { staticClass: "tw-flex-end lg:w-2/5 lg:pl-8" }, [
+        _c(
+          "figure",
+          {
+            staticClass: "md:hidden overflow-hidden flex items-center mb-8",
+            staticStyle: { "max-height": "300px" }
+          },
+          [
+            _c("img", {
+              attrs: {
+                src: "/decoration/voice_4.jpg",
+                alt: "スピーディーな施術は、スキマ時間にぴったり！"
+              }
+            })
+          ]
+        ),
+        _vm._v(" "),
+        _c("div", { staticClass: "flex mb-16" }, [
+          _c("figure", { staticClass: "lg:w-1/3 pr-8 hidden md:block" }, [
             _c("img", {
               attrs: {
                 src: "/decoration/voice_4.jpg",
@@ -46264,11 +46384,11 @@ var staticRenderFns = [
             )
           ]),
           _vm._v(" "),
-          _c("div", { staticClass: "p-16 bg-grey-lighter lg:w-11/12" }, [
-            _c("div", { staticClass: "flex" }, [
+          _c("div", { staticClass: "p-4 md:p-16 bg-grey-lighter lg:w-11/12" }, [
+            _c("div", { staticClass: "flex flex-col md:flex-row" }, [
               _c(
                 "div",
-                { staticClass: "lg:w-1/2 m-8 border-grey-darkest border-b" },
+                { staticClass: "md:w-1/2 m-8 border-grey-darkest border-b" },
                 [
                   _c(
                     "h5",
@@ -46276,7 +46396,11 @@ var staticRenderFns = [
                       staticClass:
                         "text-center bg-white font-normal tw-name relative"
                     },
-                    [_vm._v("ナミチンゲールさん ： 女性 / 20代後半")]
+                    [
+                      _vm._v(
+                        "\n                                ナミチンゲールさん ： 女性 / 20代後半\n                            "
+                      )
+                    ]
                   ),
                   _vm._v(" "),
                   _c(
@@ -46296,7 +46420,7 @@ var staticRenderFns = [
               _vm._v(" "),
               _c(
                 "div",
-                { staticClass: "lg:w-1/2 m-8 border-grey-darkest border-b" },
+                { staticClass: "md:w-1/2 m-8 border-grey-darkest border-b" },
                 [
                   _c(
                     "h5",
@@ -46327,58 +46451,60 @@ var staticRenderFns = [
               )
             ]),
             _vm._v(" "),
-            _c("div", { staticClass: "flex flex-wrap" }, [
-              _c(
-                "p",
-                { staticClass: "w-full text-center text-xs font-bold pt-8" },
-                [
-                  _vm._v(
-                    "\n                            口コミをもっとみる\n                            "
-                  ),
-                  _c(
-                    "span",
-                    {
-                      staticClass:
-                        "tracking-wider pb-8 text-grey-darker font-fotura font-normal"
-                    },
-                    [_vm._v("( HOTPEPPER Beautyへリンクします )")]
-                  )
-                ]
-              ),
-              _vm._v(" "),
-              _c("div", { staticClass: "w-full flex justify-center" }, [
-                _c(
-                  "a",
-                  {
-                    staticClass: "tw-btn w-1/2 hover:bg-yellow-lighter m-8",
-                    attrs: {
-                      href:
-                        "https://beauty.hotpepper.jp/kr/slnH000248220/review/"
-                    }
-                  },
-                  [
-                    _vm._v(
-                      "\n                                MILANO & LA ROCHELLE\n                            "
-                    )
-                  ]
-                ),
+            _c("div", { staticClass: "flex flex-wrap pt-8" }, [
+              _c("p", { staticClass: "w-full text-center text-xs font-bold" }, [
+                _vm._v("\n                            口コミをもっとみる"),
+                _c("br", { staticClass: "md:hidden" }),
                 _vm._v(" "),
                 _c(
-                  "a",
+                  "span",
                   {
-                    staticClass: "tw-btn w-1/2 hover:bg-yellow-lighter m-8",
-                    attrs: {
-                      href:
-                        "https://beauty.hotpepper.jp/kr/slnH000364510/review/"
-                    }
+                    staticClass:
+                      "tracking-wider text-black pb-8 text-grey-darker font-fotura font-normal"
                   },
-                  [
-                    _vm._v(
-                      "\n                                LISBON\n                            "
-                    )
-                  ]
+                  [_vm._v("( HOTPEPPER Beautyへリンクします )")]
                 )
-              ])
+              ]),
+              _vm._v(" "),
+              _c(
+                "div",
+                {
+                  staticClass: "w-full flex flex-col md:flex-row justify-center"
+                },
+                [
+                  _c(
+                    "a",
+                    {
+                      staticClass: "tw-btn md:w-1/2 my-4 md:m-8",
+                      attrs: {
+                        href:
+                          "https://beauty.hotpepper.jp/kr/slnH000248220/review/"
+                      }
+                    },
+                    [
+                      _vm._v(
+                        "\n                                MILANO & LA ROCHELLE\n                            "
+                      )
+                    ]
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "a",
+                    {
+                      staticClass: "tw-btn md:w-1/2 my-4 md:m-8",
+                      attrs: {
+                        href:
+                          "https://beauty.hotpepper.jp/kr/slnH000364510/review/"
+                      }
+                    },
+                    [
+                      _vm._v(
+                        "\n                                LISBON\n                            "
+                      )
+                    ]
+                  )
+                ]
+              )
             ])
           ])
         ])
