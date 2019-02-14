@@ -13,7 +13,7 @@
 
     export default {
         mounted() {
-           this.init();
+            this.init();
         },
 
         methods: {
@@ -33,7 +33,15 @@
 
 <style lang="scss">
     .fade.main-carousel {
-        width: 1100px;
+        width: 75%;
+        height: 100%;
+        padding-right: 32px;
+
+        @media only screen and (max-width: 767px) {
+            width: 100%;
+            padding-right: 0;
+            padding-bottom: 25%;
+        }
     }
 
     .fade .carousel-cell {
@@ -45,6 +53,14 @@
         left: 0 !important;
         transform: scale(1);
         transition: 1.5s ease-in-out;
+
+        @media only screen and (max-width: 991px) {
+            height: 510px;
+
+            .flickity-viewport {
+                height: 510px !important;
+            }
+        }
 
         &.is-selected {
             opacity: 0.75;

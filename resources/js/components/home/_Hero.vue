@@ -29,7 +29,8 @@
                 class="line-72"></span><span class="line-73"></span><span class="line-74"></span><span
                 class="line-75"></span><span class="line-76"></span></span>
 
-            <svg width="54" height="86" class="mr-7"
+            <svg width="54" height="86"
+                 class="mr-7"
                  data-aos="fade-up"
                  data-aos-delay="600"
             >
@@ -45,18 +46,21 @@
                  data-aos="fade-up"
                  data-aos-delay="800"
             >
-                <text x="0" y="0" dominant-baseline="hanging"
+                <text x="0" y="0"
+                      dominant-baseline="hanging"
                       data-aos="fill-animation"
                       data-aos-delay="1000"
                 >A
                 </text>
             </svg>
 
-            <svg width="54" height="86" class="mr-7"
+            <svg width="54" height="86"
+                 class="mr-7"
                  data-aos="fade-up"
                  data-aos-delay="1000"
             >
-                <text x="0" y="0" dominant-baseline="hanging"
+                <text x="0" y="0"
+                      dominant-baseline="hanging"
                       data-aos="fill-animation"
                       data-aos-delay="1200"
                 >N
@@ -67,7 +71,8 @@
                  data-aos="fade-up"
                  data-aos-delay="1200"
             >
-                <text x="0" y="0" dominant-baseline="hanging"
+                <text x="0" y="0"
+                      dominant-baseline="hanging"
                       data-aos="fill-animation"
                       data-aos-delay="1400"
                 >A
@@ -81,14 +86,14 @@
             Eyelash Extensions Salon.
         </p>
 
-        <div>
+        <div class="flex md:flex-col">
             <div data-aos="fade-in"
                  data-aos-delay="400"
             >
-                <img src="/icon/line.png" alt="break-line" class="line mb-16 mt-16">
+                <img src="/icon/line.png" alt="break-line" class="line md:my-16 sm:my-0">
             </div>
 
-            <ul class="list"
+            <ul class="sm:text-15 font-fotura tracking-loosest leading-loosest flex md:flex-col"
                 data-aos="fade-up"
                 data-aos-delay="200"
             >
@@ -105,12 +110,48 @@
 </script>
 
 <style scoped lang="scss">
-    [data-aos="fill-animation"] {
-        fill: #c3b282;
-        transition-property: fill;
+    .hero {
+        top: 20%;
+        left: 10%;
 
-        &.aos-animate {
-            fill: transparent;
+        text {
+            fill: rgba(255, 255, 255, 0);
+            stroke: #333;
+            font-size: 76px;
+            stroke-width: .8;
+            stroke-linejoin: round;
+            line-height: 1;
+        }
+
+        [data-aos="fill-animation"] {
+            fill: #c3b282;
+            transition-property: fill;
+
+            &.aos-animate {
+                fill: transparent;
+            }
+        }
+
+        .sub {
+            letter-spacing: .3em;
+        }
+
+        .line {
+            width: 72px;
+            height: auto;
+        }
+
+        li {
+            padding-right: 8px;
+        }
+
+        @media only screen and (max-width: 768px) {
+            top: 85%;
+            left: 16px;
+
+            .line {
+                width: 48px;
+            }
         }
     }
 

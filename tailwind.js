@@ -830,6 +830,7 @@ module.exports = {
     zIndex: {
         'auto': 'auto',
         '0': 0,
+        '1': 1,
         '10': 10,
         '20': 20,
         '30': 30,
@@ -992,7 +993,7 @@ module.exports = {
     plugins: [
         require('tailwindcss/plugins/container')({
             // center: true,
-            // padding: '1rem',
+            padding: '1rem',
         }),
     ],
 

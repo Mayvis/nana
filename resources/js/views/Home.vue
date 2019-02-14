@@ -1,26 +1,31 @@
 <template>
     <div>
-        <section class="flex justify-end relative lg:mb-32 container">
+        <!--    HERO    -->
+        <section class="relative mb-24 container mx-auto">
             <hero></hero>
 
-            <carousel></carousel>
+            <div class="relative w-full flex md:justify-end justify-center">
+                <carousel></carousel>
 
-            <span class="absolute scroll text-sm font-fotura tracking-loose text-black">SCROLL ⇀</span>
+                <span class="absolute scroll text-sm font-fotura tracking-loose text-black">SCROLL ⇀</span>
+            </div>
         </section>
 
-        <section class="lg:mb-16 container mx-auto">
-            <div class="flex lg:pl-8">
-                <figure class="w-2/5"
+        <!--    CONCEPT    -->
+        <section class="mb-16 container mx-auto">
+            <div class="flex justify-end relative">
+                <figure class="lg:w-1/3 w-1/4 z-1 absolute pin-l pin-t md:block hidden"
                         data-aos="zoom-in-up"
                 >
                     <img src="/decoration/concept.png" alt="concept">
                 </figure>
 
-                <div class="w-3/5 m-16 bg-teal-lightest p-50 pl-90" style="box-sizing: border-box"
+                <div class="w-full md:w-4/5 lg:w-3/5 md:mt-16 bg-teal-lightest p-8 sm:p-50 xl:pl-90"
+                     style="box-sizing: border-box"
                      data-aos="zoom-in-up"
                 >
                     <article>
-                        <h3 class="tracking-loosest text-4xl leading-loose text-grey-darkest">CONCEPT</h3>
+                        <h3 class="tracking-loosest text-4xl text-grey-darkest">CONCEPT</h3>
 
                         <p class="font-fotura my-7 text-xs">
                             Just a little more consideration leads your trust.<br>
@@ -39,7 +44,7 @@
                     <div>
                         <router-link to="/concept">
                             <a
-                                class="tw-btn w-2/5 hover:bg-yellow-lighter"
+                                class="tw-btn w-full sm:w-1/2 hover:bg-yellow-lighter"
                             >
                                 コンセプト＆こだわり
                             </a>
@@ -49,65 +54,74 @@
             </div>
         </section>
 
-        <section class="lg:pr-16 lg:pl-16 lg:mb-32 container mx-auto">
-            <ul class="flex">
-                <li class="lg:w-1/3 flex items-center">
-                    <h2 class="tracking-loosest text-4xl text-black font-fotura">NANA SALON</h2>
+        <!--    STORE    -->
+        <section class="lg:py-16 mb-16 container mx-auto">
+            <ul class="flex flex-col lg:flex-row">
+                <li class="lg:w-1/3 w-full flex items-center">
+                    <h2 class="tracking-loosest w-full text-center lg:text-4xl text-black font-fotura">NANA SALON</h2>
                 </li>
 
-                <li class="lg:w-2/3"
+                <li class="lg:w-2/3 w-full"
                     data-aos="zoom-in-up"
                 >
-                    <ul class="flex py-4">
-                        <li class="lg:mr-12 tw-thumbnail">
-                            <a href="/">
-                                <figure>
+                    <ul class="flex lg:flex-row flex-col justify-center items-center py-4">
+                        <li class="tw-thumbnail lg:w-1/3 w-full p-4">
+                            <a href="/" class="flex lg:flex-col justify-center relative sm:pt-0 pt-8">
+                                <figure class="w-2/5 sm:w-1/2 md:w-1/3 lg:w-full">
                                     <img src="/store/MILANO.jpg" alt="MILANO">
                                 </figure>
 
-                                <div class="mb-10">
-                                    <h4>MILANO</h4>
-                                    <ul>
-                                        <li>10:00 - 20:00</li>
+                                <div class="pl-4 lg:pl-0 w-1/2 lg:w-full">
+                                    <h4 class="sm:tracking-loosest text-xl sm:leading-loosest absolute sm:relative pin-l pin-t">
+                                        MILANO</h4>
+
+                                    <ul class="lg:mb-10 mb-4">
+                                        <li class="hidden lg:block">10:00 - 20:00</li>
                                         <li>福岡市中央区天神2-4-20<br>天神プラッサ405号</li>
                                     </ul>
-                                </div>
 
-                                <p class="text-sm relative pl-8">サロン紹介 & ご予約</p>
+                                    <p class="xl:text-sm text-xs relative sm:pl-8">サロン紹介 & ご予約</p>
+                                </div>
                             </a>
                         </li>
-                        <li class="tw-thumbnail lg:mr-12">
-                            <a href="/">
-                                <figure>
+
+                        <li class="tw-thumbnail lg:w-1/3 w-full p-4">
+                            <a href="/" class="flex lg:flex-col justify-center relative sm:pt-0 pt-8">
+                                <figure class="w-2/5 sm:w-1/2 md:w-1/3 lg:w-full">
                                     <img src="/store/La_Rochelle.jpg" alt="La Rochelle">
                                 </figure>
 
-                                <div class="mb-10">
-                                    <h4>La Rochelle</h4>
-                                    <ul>
-                                        <li>10:00 - 20:00</li>
+                                <div class="pl-4 lg:pl-0 w-1/2 lg:w-full">
+                                    <h4 class="sm:tracking-loosest text-xl sm:leading-loosest absolute sm:relative pin-l pin-t">
+                                        La Rochelle</h4>
+
+                                    <ul class="lg:mb-10 mb-4">
+                                        <li class="hidden lg:block">10:00 - 20:00</li>
                                         <li>福岡市中央区天神2-4-20<br>天神プラッサ902号</li>
                                     </ul>
-                                </div>
 
-                                <p class="text-sm relative pl-8">サロン紹介 & ご予約</p>
+                                    <p class="xl:text-sm text-xs relative sm:pl-8">サロン紹介 & ご予約</p>
+                                </div>
                             </a>
                         </li>
-                        <li class="tw-thumbnail">
-                            <a href="/">
-                                <figure>
+
+                        <li class="tw-thumbnail lg:w-1/3 w-full p-4">
+                            <a href="/" class="flex lg:flex-col justify-center relative sm:pt-0 pt-8">
+                                <figure class="w-2/5 sm:w-1/2 md:w-1/3 lg:w-full">
                                     <img src="/store/LISBON.jpg" alt="LISBON">
                                 </figure>
 
-                                <div class="mb-10">
-                                    <h4>LISBON</h4>
-                                    <ul>
-                                        <li>10:00 - 20:00</li>
+                                <div class="pl-4 lg:pl-0 w-1/2 lg:w-full">
+                                    <h4 class="sm:tracking-loosest text-xl sm:leading-loosest absolute sm:relative pin-l pin-t">
+                                        LISBON</h4>
+
+                                    <ul class="lg:mb-10 mb-4">
+                                        <li class="hidden lg:block">10:00 - 20:00</li>
                                         <li>福岡市中央区大名1-13-23<br>LEX21 5F</li>
                                     </ul>
-                                </div>
 
-                                <p class="text-sm relative pl-8">サロン紹介 & ご予約</p>
+                                    <p class="xl:text-sm text-xs relative sm:pl-8">サロン紹介 & ご予約</p>
+                                </div>
                             </a>
                         </li>
                     </ul>
@@ -115,15 +129,31 @@
             </ul>
         </section>
 
-        <section class="lg:mb-32">
-            <div class="flex container">
-                <div class="lg:w-2/3">
+        <!--    INSTAGRAM    -->
+        <section class="mb-32">
+            <div class="flex container mx-auto lg:m-0">
+                <div class="lg:w-2/3 w-full">
+                    <h3 class="tracking-loosest text-4xl text-black font-fotura leading-loose text-center lg:hidden">
+                        INSTAGRAM</h3>
+
+                    <a href="https://www.instagram.com/nana_eyelashsalon/"
+                       class="ig-link text-center py-4 block lg:hidden"
+                    >
+                        <span>FOLLOW</span> @nana_eyelashsalon !
+                    </a>
+
                     <slider></slider>
+
+                    <a href="https://www.instagram.com/nana_eyelashsalon/"
+                       class="ig-link text-center py-4 block lg:hidden"
+                    >
+                        <span>FOLLOW</span> @nana_eyelashsalon !
+                    </a>
 
                     <slider :right-to-left="true"></slider>
                 </div>
 
-                <div class="lg:w-1/3 lg:pl-16 flex justify-center flex-col">
+                <div class="lg:w-1/3 lg:pl-8 lg:flex lg:justify-center lg:flex-col hidden">
                     <h3 class="tracking-loosest text-4xl text-black font-fotura leading-loose">INSTAGRAM</h3>
 
                     <a href="https://www.instagram.com/nana_eyelashsalon/"
@@ -141,15 +171,16 @@
             </div>
         </section>
 
-        <section class="lg:mb-24">
-            <div class="container mx-auto bg-grey-lighter flex justify-center flex-col lg:p-24">
+        <!--    PRICE    -->
+        <section class="mb-24">
+            <div class="container mx-auto bg-grey-lighter flex justify-center flex-col lg:p-24 p-8">
                 <h3 class="tracking-loosest text-4xl text-black font-adobe leading-loosest text-center"
                     data-aos="zoom-in-up"
                 >MENU&PRICE</h3>
 
-                <div class="flex">
-                    <div class="flex-1 lg:pl-60"
-                        data-aos="zoom-in-up"
+                <div class="md:flex">
+                    <div class="md:flex-1 lg:pl-60 mb-8"
+                         data-aos="zoom-in-up"
                     >
                         <h4 class="item-h">Eyelash</h4>
 
@@ -185,8 +216,8 @@
                         </table>
                     </div>
 
-                    <div class="flex-1 lg:pl-60"
-                        data-aos="zoom-in-up"
+                    <div class="md:flex-1 lg:pl-60 mb-8"
+                         data-aos="zoom-in-up"
                     >
                         <h4 class="item-h">Nail</h4>
 
@@ -220,27 +251,27 @@
                 </div>
 
                 <div class="lg:pt-16"
-                    data-aos="zoom-in-up"
+                     data-aos="zoom-in-up"
                 >
-                    <p class="text-center text-xs lg:pb-16">
-                        ＊ メニュー・金額は一例です。各メニューの詳細やお得なクーポンはHOTPEPPER Beautyをご確認ください。
+                    <p class="text-center text-xs pb-16">
+                        ＊ メニュー・金額は一例です。<br class="md:hidden">各メニューの詳細やお得なクーポンはHOTPEPPER Beautyをご確認ください。
                     </p>
 
-                    <div class="border-black border flex relative justify-center lg:pt-12">
-                        <p class="absolute flex flex-col text-center p-8 bg-grey-lighter" style="top: -45px">
+                    <div class="border-black border flex relative justify-center flex-wrap md:flex-no-wrap md:pt-12">
+                        <p class="md:absolute flex flex-col text-center p-8 bg-grey-lighter" style="top: -45px">
                             <span>メニュー＆クーポン一覧</span>
 
                             <span class="text-xs">( HOTPEPPER Beautyへリンクします )</span>
                         </p>
 
                         <a href="https://beauty.hotpepper.jp/kr/slnH000248220/coupon/"
-                           class="tw-btn w-1/4 hover:bg-yellow-lighter lg:m-12"
+                           class="tw-btn w-full md:w-1/4 hover:bg-yellow-lighter md:m-12 m-6"
                         >
                             MILANO & LA ROCHELLE
                         </a>
 
                         <a href="https://beauty.hotpepper.jp/kr/slnH000364510/coupon/"
-                           class="tw-btn w-1/4 hover:bg-yellow-lighter lg:m-12"
+                           class="tw-btn w-full md:w-1/4 hover:bg-yellow-lighter md:m-12 m-6"
                         >
                             LISBON
                         </a>
@@ -249,33 +280,37 @@
             </div>
         </section>
 
-        <section class="lg:mb-24">
-            <div class="max-w-1000 mx-auto">
-                <h3 class="tracking-loosest text-4xl text-black font-fotura leading-loose mb-4">STAFF</h3>
+        <!--    STAFF    -->
+        <section class="mb-24">
+            <div class="max-w-1000 px-4 mx-auto">
+                <h3 class="tracking-loosest text-4xl text-black font-fotura leading-loose mb-4 text-center md:text-left">
+                    STAFF</h3>
 
                 <cabinet></cabinet>
             </div>
         </section>
 
-        <section class="lg:mb-24">
-            <div class="max-w-1000 mx-auto">
+        <!--    BEAUTY x LIFE    -->
+        <section class="mb-24">
+            <div class="max-w-1000 mx-auto px-4">
                 <h3 class="tracking-loosest text-4xl text-black font-fotura leading-loose mb-4"
                     data-aos="fade-in"
                 >BEAUTY×LIFE</h3>
 
-                <ul class="flex"
+                <ul class="flex flex-wrap"
                     data-aos="fade"
                 >
-                    <li class="flex-1 p-4 thumbnail">
+                    <li class="w-full sm:w-1/2 lg:w-1/3 p-4 thumbnail">
                         <router-link to="/beauty" tag="a">
                             <figure>
                                 <img src="/beauty/beauty_1.jpg" alt="マツエクのある毎日">
                             </figure>
 
                             <article class="font-fotura font-adobe">
-                                <h4 class="leading-loose text-xl tracking-loose pt-6">#マツエクのある毎日</h4>
+                                <h4 class="leading-loose lg:text-xl text-base tracking-loose pt-6">#マツエクのある毎日</h4>
 
                                 <p class="font-thin text-sm pb-6">Eyelash Life</p>
+
                                 <p class="text-xs pb-8">
                                     いつでも可愛くありたい、どんなときもキレイでいたい。誰もが持つそんな気持ちを、ほんのちょっとすくい上げる安心感がある。それがマツエクなのです。
                                 </p>
@@ -285,14 +320,14 @@
                         </router-link>
                     </li>
 
-                    <li class="flex-1 p-4 thumbnail">
+                    <li class="w-full sm:w-1/2 lg:w-1/3 p-4 thumbnail">
                         <router-link to="/beauty">
                             <figure>
                                 <img src="/beauty/beauty_2.jpg" alt="お手入れ方法">
                             </figure>
 
                             <article class="font-fotura font-adobe">
-                                <h4 class="leading-loose text-xl tracking-loose pt-6">#お手入れ方法</h4>
+                                <h4 class="leading-loose lg:text-xl text-base tracking-loose pt-6">#お手入れ方法</h4>
 
                                 <p class="font-thin text-sm pb-6">Eyelash Care</p>
 
@@ -305,14 +340,14 @@
                         </router-link>
                     </li>
 
-                    <li class="flex-1 p-4 thumbnail">
+                    <li class="w-full sm:w-1/2 lg:w-1/3 p-4 thumbnail">
                         <router-link to="/beauty">
                             <figure>
                                 <img src="/beauty/beauty_3.jpg" alt="ネイルのある毎日">
                             </figure>
 
                             <article class="font-fotura font-adobe">
-                                <h4 class="leading-loose text-xl tracking-loose pt-6">#ネイルのある毎日</h4>
+                                <h4 class="leading-loose lg:text-xl text-base tracking-loose pt-6">#ネイルのある毎日</h4>
 
                                 <p class="font-thin text-sm pb-6">Nail Life</p>
 
@@ -328,9 +363,11 @@
             </div>
         </section>
 
+        <!--    RESERVE    -->
         <reserve></reserve>
 
-        <section class="lg:mb-32">
+        <!--    ARTICLE    -->
+        <section class="mb-32 mx-4 hidden md:block">
             <div class="tw-article">
                 <article>
                     福岡市天神・西通りに3つのマツエクサロンを展開する「NANA」は、福岡を代表するマツエク店です。口コミでの評判が高い人気店。初めてマツエクをされる方にも安心の高い技術力と国産の上質なエクステが、人気の理由です。3Dやカラー、ナチュラルなど、お客様のまつ毛にピッタリのデザインをご提案いたします。福岡でまつエクをお探しなら、まずは西通りのNANAにお越しください。
@@ -351,40 +388,11 @@
     }
 </script>
 
-<style sroped lang="scss">
-    .hero {
-        top: 160px;
-        left: 130px;
-
-        text {
-            fill: rgba(255, 255, 255, 0);
-            stroke: #333;
-            font-size: 76px;
-            stroke-width: .8;
-            stroke-linejoin: round;
-            line-height: 1;
-        }
-
-        .sub {
-            letter-spacing: .3em;
-        }
-
-        .line {
-            width: 72px;
-            height: auto;
-        }
-
-        .list li {
-            @apply font-fotura text-15;
-            letter-spacing: 0.6em;
-            line-height: 3.5;
-        }
-    }
-
+<style scoped lang="scss">
     .scroll {
         transform: rotate(90deg);
         bottom: 40px;
-        right: -75px;
+        right: -32px;
         animation: pos 2s ease-in-out infinite;
     }
 
@@ -408,10 +416,6 @@
             opacity: 0.5;
         }
 
-        h4 {
-            @apply tracking-loosest text-xl leading-loosest;
-        }
-
         li {
             @apply font-fotura font-adobe text-xs tracking-wider leading-loose text-black;
         }
@@ -425,12 +429,17 @@
                 top: 8px;
                 left: 0;
                 background-color: #555;
+                display: none;
+
+                @media only screen and (min-width: 576px) {
+                    display: block;
+                }
             }
         }
     }
 
     .ig-link {
-        @apply block font-fotura text-xs tracking-loose leading-loose relative;
+        @apply font-fotura text-xs tracking-loose leading-loose relative;
         transition: opacity .4s;
 
         &:before {
@@ -442,6 +451,10 @@
             top: 50%;
             left: 0;
             transform: translateY(-50%);
+
+            @media only screen and (max-width: 991px) {
+                display: none;
+            }
         }
 
         &:hover {

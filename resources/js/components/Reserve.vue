@@ -1,5 +1,5 @@
 <template>
-    <section class="lg:mb-24">
+    <section class="mb-24 px-4">
         <div class="container mx-auto relative flex justify-center flex-col bg-teal-lightest pt-24">
             <figure class="tw-nana">
                 <img src="/logo/nana.png" alt="NANA">
@@ -8,19 +8,21 @@
             <div class="flex flex-col text-center">
                 <span class="font-semibold">ご予約はこちらから</span>
 
-                <span class="text-center text-xs text-grey-darkest pt-2 pb-2 tracking-loose">( HOTPEPPER Beauty の予約ページ へリンクします )</span>
+                <span class="text-center text-xs font-light text-grey py-2 tracking-loose hidden md:block">( HOTPEPPER Beauty の予約ページ へリンクします )</span>
+
+                <span class="text-center text-xs font-light text-grey py-2 tracking-loose md:hidden">( HOTPEPPER Beauty へリンクします )</span>
             </div>
 
-            <div class="flex justify-center">
+            <div class="flex justify-center flex-wrap md:flex-no-wrap">
                 <a href="/"
-                   class="tw-btn w-1/4 hover:bg-yellow-lighter lg:m-12"
+                   class="tw-btn w-full md:w-1/4 hover:bg-yellow-lighter md:m-12 mx-6 mt-4"
                    data-aos="zoom-in-up"
                 >
                     MILANO & LA ROCHELLE
                 </a>
 
                 <a href="/"
-                   class="tw-btn w-1/4 hover:bg-yellow-lighter lg:m-12"
+                   class="tw-btn w-full md:w-1/4 hover:bg-yellow-lighter md:m-12 mx-6 my-8"
                    data-aos="zoom-in-up"
                 >
                     LISBON

@@ -36,6 +36,10 @@ h3 {
     @apply leading-loose tracking-loose text-base text-teal;
 }
 
+img {
+    @apply align-bottom;
+}
+
 [v-cloak] {
     display: none
 }
@@ -48,49 +52,13 @@ h3 {
     opacity: 0;
 }
 
-.menu {
-    @apply border rounded-full relative cursor-pointer border-black bg-white fixed w-14 h-14;
-    top: 60px;
-    right: 50px;
-
-    &.active {
-        span:first-child {
-            transform: translate(0, 0) rotate(-45deg);
-        }
-
-        span:nth-child(2) {
-            transform: translate(60px, 0);
-            opacity: 0;
-        }
-
-        span:last-child {
-            transform: translate(0, 0) rotate(45deg);
-        }
-    }
-
-    span {
-        background-color: #333;
-        width: 20px;
-        height: 1px;
-        position: absolute;
-        top: calc(50% - (1px / 2));
-        left: 20px;
-        transition: all .2s;
-        transform-origin: center center;
-    }
-
-    > span:first-child {
-        transform: translate(0, -7px);
-    }
-
-    > span:last-child {
-        transform: translate(0, 7px);
-    }
-}
-
 .logo {
     @apply bg-white;
     padding: 60px 50px;
+
+    @media only screen and (max-width: 992px) {
+        padding: 30px 20px;
+    }
 
     img {
         transition: opacity .4s;
@@ -103,6 +71,10 @@ h3 {
 
 main {
     padding-top: 165px;
+
+    @media only screen and (max-width: 992px) {
+        padding-top: 120px;
+    }
 }
 
 .tw-flex-start {

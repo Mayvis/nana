@@ -1,7 +1,7 @@
 <template>
     <ul class="flex flex-wrap">
         <li v-for="(user, index) in users"
-            class="w-1/6 p-2 relative cabinet"
+            class="lg:w-1/6 md:w-1/4 sm:w-1/3 w-1/2 p-2 relative cabinet"
             data-aos="fade-in"
             :data-aos-delay="index*50"
         >

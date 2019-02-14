@@ -504,6 +504,8 @@ table {
 
 .container {
   width: 100%;
+  padding-right: 1rem;
+  padding-left: 1rem;
 }
 
 @media (min-width: 576px) {
@@ -6448,6 +6450,10 @@ table {
   z-index: 0;
 }
 
+.z-1 {
+  z-index: 1;
+}
+
 .z-10 {
   z-index: 10;
 }
@@ -6519,6 +6525,10 @@ h3 {
   color: #67a2b7;
 }
 
+img {
+  vertical-align: bottom;
+}
+
 [v-cloak] {
   display: none;
 }
@@ -6533,61 +6543,15 @@ h3 {
   opacity: 0;
 }
 
-.menu {
-  border-width: 1px;
-  border-radius: 9999px;
-  position: relative;
-  cursor: pointer;
-  border-color: #22292f;
-  background-color: #fff;
-  position: fixed;
-  width: 3.75rem;
-  height: 3.75rem;
-  top: 60px;
-  right: 50px;
-}
-
-.menu.active span:first-child {
-  -webkit-transform: translate(0, 0) rotate(-45deg);
-          transform: translate(0, 0) rotate(-45deg);
-}
-
-.menu.active span:nth-child(2) {
-  -webkit-transform: translate(60px, 0);
-          transform: translate(60px, 0);
-  opacity: 0;
-}
-
-.menu.active span:last-child {
-  -webkit-transform: translate(0, 0) rotate(45deg);
-          transform: translate(0, 0) rotate(45deg);
-}
-
-.menu span {
-  background-color: #333;
-  width: 20px;
-  height: 1px;
-  position: absolute;
-  top: calc(50% - (1px / 2));
-  left: 20px;
-  transition: all .2s;
-  -webkit-transform-origin: center center;
-          transform-origin: center center;
-}
-
-.menu > span:first-child {
-  -webkit-transform: translate(0, -7px);
-          transform: translate(0, -7px);
-}
-
-.menu > span:last-child {
-  -webkit-transform: translate(0, 7px);
-          transform: translate(0, 7px);
-}
-
 .logo {
   background-color: #fff;
   padding: 60px 50px;
+}
+
+@media only screen and (max-width: 992px) {
+  .logo {
+    padding: 30px 20px;
+  }
 }
 
 .logo img {
@@ -6600,6 +6564,12 @@ h3 {
 
 main {
   padding-top: 165px;
+}
+
+@media only screen and (max-width: 992px) {
+  main {
+    padding-top: 120px;
+  }
 }
 
 .tw-flex-start {
@@ -12523,6 +12493,10 @@ main {
     z-index: 0;
   }
 
+  .sm\:z-1 {
+    z-index: 1;
+  }
+
   .sm\:z-10 {
     z-index: 10;
   }
@@ -18435,6 +18409,10 @@ main {
 
   .md\:z-0 {
     z-index: 0;
+  }
+
+  .md\:z-1 {
+    z-index: 1;
   }
 
   .md\:z-10 {
@@ -24351,6 +24329,10 @@ main {
     z-index: 0;
   }
 
+  .lg\:z-1 {
+    z-index: 1;
+  }
+
   .lg\:z-10 {
     z-index: 10;
   }
@@ -30265,6 +30247,10 @@ main {
     z-index: 0;
   }
 
+  .xl\:z-1 {
+    z-index: 1;
+  }
+
   .xl\:z-10 {
     z-index: 10;
   }
@@ -36177,6 +36163,10 @@ main {
 
   .xxl\:z-0 {
     z-index: 0;
+  }
+
+  .xxl\:z-1 {
+    z-index: 1;
   }
 
   .xxl\:z-10 {

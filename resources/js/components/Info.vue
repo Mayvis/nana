@@ -1,15 +1,15 @@
 <template>
     <transition name="slide-fade">
         <div class="fixed pin-b pin-l w-full z-10" v-show="isVisible">
-            <ul class="flex bg-teal-link">
+            <ul class="flex bg-teal-link flex-wrap">
                 <li class="flex-1 text-center border-white border-r">
-                    <p class="info">RESERVATION：ご予約はこちらから</p>
+                    <p class="info sm:pl-12">RESERVATION：ご予約はこちらから</p>
                 </li>
 
                 <li class="flex-1 border-white border-r list">
                     <a
                         href="https://beauty.hotpepper.jp/CSP/kr/reserve/?storeId=H000248220"
-                        class="info arrow"
+                        class="info arrow sm:pl-12"
                     >
                         Milano & Le Rochelle
                     </a>
@@ -18,7 +18,7 @@
                 <li class="flex-1 border-white border-r list">
                     <a
                         href="https://beauty.hotpepper.jp/CSP/kr/reserve/?storeId=H000364510"
-                        class="info arrow"
+                        class="info arrow sm:pl-12"
                     >
                         Lisbon
                     </a>
@@ -59,7 +59,7 @@
     }
 
     .info {
-        @apply text-white text-sm font-fotura leading-50 block pl-12;
+        @apply text-white text-sm font-fotura leading-50 block;
     }
     
     .arrow {
