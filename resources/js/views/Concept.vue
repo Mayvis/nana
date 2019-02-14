@@ -18,7 +18,7 @@
                     <img src="/decoration/concept.png" alt="concept" width="490" height="382">
                 </figure>
 
-                <div class="relative md:p-16 pt-0">
+                <div class="relative md:p-16 md:pr-240 pt-0">
                     <div class="tw-describe p-4 md:p-0">
                         <h2 class="tracking-wider text-lg lg:text-3xl leading-normal pt-2">
                             NANAは美容業界でもっとも<br>

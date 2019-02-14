@@ -4441,6 +4441,10 @@ table {
   padding: 90px;
 }
 
+.p-240 {
+  padding: 240px;
+}
+
 .p-px {
   padding: 1px;
 }
@@ -4623,6 +4627,16 @@ table {
 .px-90 {
   padding-left: 90px;
   padding-right: 90px;
+}
+
+.py-240 {
+  padding-top: 240px;
+  padding-bottom: 240px;
+}
+
+.px-240 {
+  padding-left: 240px;
+  padding-right: 240px;
 }
 
 .py-px {
@@ -4921,6 +4935,22 @@ table {
 
 .pl-90 {
   padding-left: 90px;
+}
+
+.pt-240 {
+  padding-top: 240px;
+}
+
+.pr-240 {
+  padding-right: 240px;
+}
+
+.pb-240 {
+  padding-bottom: 240px;
+}
+
+.pl-240 {
+  padding-left: 240px;
 }
 
 .pt-px {
@@ -10507,6 +10537,10 @@ main {
     padding: 90px;
   }
 
+  .sm\:p-240 {
+    padding: 240px;
+  }
+
   .sm\:p-px {
     padding: 1px;
   }
@@ -10689,6 +10723,16 @@ main {
   .sm\:px-90 {
     padding-left: 90px;
     padding-right: 90px;
+  }
+
+  .sm\:py-240 {
+    padding-top: 240px;
+    padding-bottom: 240px;
+  }
+
+  .sm\:px-240 {
+    padding-left: 240px;
+    padding-right: 240px;
   }
 
   .sm\:py-px {
@@ -10987,6 +11031,22 @@ main {
 
   .sm\:pl-90 {
     padding-left: 90px;
+  }
+
+  .sm\:pt-240 {
+    padding-top: 240px;
+  }
+
+  .sm\:pr-240 {
+    padding-right: 240px;
+  }
+
+  .sm\:pb-240 {
+    padding-bottom: 240px;
+  }
+
+  .sm\:pl-240 {
+    padding-left: 240px;
   }
 
   .sm\:pt-px {
@@ -16429,6 +16489,10 @@ main {
     padding: 90px;
   }
 
+  .md\:p-240 {
+    padding: 240px;
+  }
+
   .md\:p-px {
     padding: 1px;
   }
@@ -16611,6 +16675,16 @@ main {
   .md\:px-90 {
     padding-left: 90px;
     padding-right: 90px;
+  }
+
+  .md\:py-240 {
+    padding-top: 240px;
+    padding-bottom: 240px;
+  }
+
+  .md\:px-240 {
+    padding-left: 240px;
+    padding-right: 240px;
   }
 
   .md\:py-px {
@@ -16909,6 +16983,22 @@ main {
 
   .md\:pl-90 {
     padding-left: 90px;
+  }
+
+  .md\:pt-240 {
+    padding-top: 240px;
+  }
+
+  .md\:pr-240 {
+    padding-right: 240px;
+  }
+
+  .md\:pb-240 {
+    padding-bottom: 240px;
+  }
+
+  .md\:pl-240 {
+    padding-left: 240px;
   }
 
   .md\:pt-px {
@@ -22351,6 +22441,10 @@ main {
     padding: 90px;
   }
 
+  .lg\:p-240 {
+    padding: 240px;
+  }
+
   .lg\:p-px {
     padding: 1px;
   }
@@ -22533,6 +22627,16 @@ main {
   .lg\:px-90 {
     padding-left: 90px;
     padding-right: 90px;
+  }
+
+  .lg\:py-240 {
+    padding-top: 240px;
+    padding-bottom: 240px;
+  }
+
+  .lg\:px-240 {
+    padding-left: 240px;
+    padding-right: 240px;
   }
 
   .lg\:py-px {
@@ -22831,6 +22935,22 @@ main {
 
   .lg\:pl-90 {
     padding-left: 90px;
+  }
+
+  .lg\:pt-240 {
+    padding-top: 240px;
+  }
+
+  .lg\:pr-240 {
+    padding-right: 240px;
+  }
+
+  .lg\:pb-240 {
+    padding-bottom: 240px;
+  }
+
+  .lg\:pl-240 {
+    padding-left: 240px;
   }
 
   .lg\:pt-px {
@@ -28273,6 +28393,10 @@ main {
     padding: 90px;
   }
 
+  .xl\:p-240 {
+    padding: 240px;
+  }
+
   .xl\:p-px {
     padding: 1px;
   }
@@ -28455,6 +28579,16 @@ main {
   .xl\:px-90 {
     padding-left: 90px;
     padding-right: 90px;
+  }
+
+  .xl\:py-240 {
+    padding-top: 240px;
+    padding-bottom: 240px;
+  }
+
+  .xl\:px-240 {
+    padding-left: 240px;
+    padding-right: 240px;
   }
 
   .xl\:py-px {
@@ -28753,6 +28887,22 @@ main {
 
   .xl\:pl-90 {
     padding-left: 90px;
+  }
+
+  .xl\:pt-240 {
+    padding-top: 240px;
+  }
+
+  .xl\:pr-240 {
+    padding-right: 240px;
+  }
+
+  .xl\:pb-240 {
+    padding-bottom: 240px;
+  }
+
+  .xl\:pl-240 {
+    padding-left: 240px;
   }
 
   .xl\:pt-px {
@@ -34195,6 +34345,10 @@ main {
     padding: 90px;
   }
 
+  .xxl\:p-240 {
+    padding: 240px;
+  }
+
   .xxl\:p-px {
     padding: 1px;
   }
@@ -34377,6 +34531,16 @@ main {
   .xxl\:px-90 {
     padding-left: 90px;
     padding-right: 90px;
+  }
+
+  .xxl\:py-240 {
+    padding-top: 240px;
+    padding-bottom: 240px;
+  }
+
+  .xxl\:px-240 {
+    padding-left: 240px;
+    padding-right: 240px;
   }
 
   .xxl\:py-px {
@@ -34675,6 +34839,22 @@ main {
 
   .xxl\:pl-90 {
     padding-left: 90px;
+  }
+
+  .xxl\:pt-240 {
+    padding-top: 240px;
+  }
+
+  .xxl\:pr-240 {
+    padding-right: 240px;
+  }
+
+  .xxl\:pb-240 {
+    padding-bottom: 240px;
+  }
+
+  .xxl\:pl-240 {
+    padding-left: 240px;
   }
 
   .xxl\:pt-px {
