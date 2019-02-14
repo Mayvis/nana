@@ -1,9 +1,9 @@
 <template>
-    <section class="lg:mb-24">
+    <section class="mb-24">
         <slot name="hero"></slot>
 
         <div>
-            <svg width="100%" height="86" class="svg-concept">
+            <svg width="100%" height="86" class="tw-svg">
                 <text x="50%" y="50%" text-anchor="middle" dominant-baseline="central">
                     <slot name="title"></slot>
                 </text>
@@ -17,9 +17,7 @@
 </template>
 
 <script>
-    export default {
-
-    }
+    export default {}
 </script>
 
 <style scoped lang="scss">
@@ -28,22 +26,26 @@
         margin-top: -165px;
     }
 
-    .svg-concept {
+    .tw-svg {
         overflow: visible;
         height: 86px;
         margin-top: -30px;
         font-family: "sofia-pro-condensed", sans-serif;
-        font-size: 86px;
+        font-size: 50px;
         line-height: 1;
         letter-spacing: .2em;
 
-    text {
-        fill: rgba(255, 255, 255, 0);
-        stroke: #333;
-        stroke-width: .8;
-        stroke-linejoin: round;
-        font-family: "sofia-pro-condensed", sans-serif;
-        line-height: 1;
-    }
+        @screen lg {
+            font-size: 86px;
+        }
+
+        text {
+            fill: rgba(255, 255, 255, 0);
+            stroke: #333;
+            stroke-width: .8;
+            stroke-linejoin: round;
+            font-family: "sofia-pro-condensed", sans-serif;
+            line-height: 1;
+        }
     }
 </style>

@@ -11,15 +11,16 @@
             <template slot="desc">コンセプト & こだわり</template>
         </hero-bg>
 
-        <section class="lg:mb-24">
-            <div class="container mx-auto flex">
-                <figure class="lg:w-2/5">
+        <!--    sec 01    -->
+        <section class="mb-24">
+            <div class="container mx-auto md:flex">
+                <figure class="w-2/5">
                     <img src="/decoration/concept.png" alt="concept" width="490" height="382">
                 </figure>
 
-                <div class="relative lg:w-3/5 p-16">
-                    <div class="tw-describe">
-                        <h2 class="tracking-wider text-3xl leading-normal pt-2">
+                <div class="relative md:p-16 pt-0">
+                    <div class="tw-describe p-4 md:p-0">
+                        <h2 class="tracking-wider text-lg lg:text-3xl leading-normal pt-2">
                             NANAは美容業界でもっとも<br>
                             “愛される場所”であり続けます。
                         </h2>
@@ -34,13 +35,19 @@
             </div>
         </section>
 
-        <section class="lg:mb-24">
-            <div class="max-w-1000 mx-auto flex">
-                <div class="lg:w-2/3 pl-8 pr-8">
-                    <div class="flex items-center p-4 tw-title mb-12">
-                        <span class="text-350 pl-4 pr-4">01</span>
+        <!--    sec 02    -->
+        <section class="mb-24">
+            <div class="max-w-1000 mx-auto md:flex">
 
-                        <h2 class="leading-normal font-sans">
+                <figure class="p-8 md:hidden overflow-hidden flex items-center mb-16" style="max-height: 300px;">
+                    <img src="/decoration/concept_1.jpg" alt="居心地の良さを大切に">
+                </figure>
+
+                <div class="lg:w-2/3 px-8">
+                    <div class="flex items-center p-4 tw-title mb-12">
+                        <span class="text-2xl md:text-350 px-4">01</span>
+
+                        <h2 class="leading-normal font-sans text-xl md:text-2xl">
                             居心地の良さを大切に
                         </h2>
                     </div>
@@ -75,23 +82,29 @@
                     </article>
                 </div>
 
-                <figure class="lg:w-1/3 p-8">
+                <figure class="lg:w-1/3 p-8 hidden md:block">
                     <img src="/decoration/concept_1.jpg" alt="居心地の良さを大切に">
                 </figure>
             </div>
         </section>
 
-        <section class="lg:mb-24">
+        <!--    sec 03    -->
+        <section class="mb-24">
+
+            <figure class="p-8 md:hidden overflow-hidden flex items-center mb-16" style="max-height: 300px;">
+                <img src="/decoration/concept_2.jpg" alt="安心・安全の確かな技術。マツエクデビューならNANAで！">
+            </figure>
+
             <div class="max-w-1000 mx-auto flex">
-                <figure class="lg:w-2/5 p-8">
+                <figure class="lg:w-2/5 p-8 hidden md:block">
                     <img src="/decoration/concept_2.jpg" alt="安心・安全の確かな技術。マツエクデビューならNANAで！">
                 </figure>
 
-                <div class="lg:w-3/5 pl-10 pr-10">
+                <div class="lg:w-3/5 px-10">
                     <div class="flex items-center p-4 tw-title mb-12">
-                        <span class="text-350 pl-4 pr-4">02</span>
+                        <span class="text-2xl md:text-350 px-4">02</span>
 
-                        <h2 class="leading-normal font-sans">
+                        <h2 class="leading-normal font-sans text-base sm:text-lg md:text-2xl">
                             安心・安全の確かな技術。<br>
                             マツエクデビューならNANAで！
                         </h2>
@@ -125,13 +138,18 @@
             </div>
         </section>
 
-        <section class="lg:mb-24">
-            <div class="max-w-1000 mx-auto flex">
-                <div class="lg:w-2/3 pl-8 pr-8">
-                    <div class="flex items-center p-4 tw-title mb-12">
-                        <span class="text-350 pl-4 pr-4">03</span>
+        <!--    sec 04    -->
+        <section class="mb-24">
+            <figure class="p-8 md:hidden overflow-hidden flex items-center mb-16" style="max-height: 300px;">
+                <img src="/decoration/concept_3.jpg" alt="マツエクのコンセプト  こだわり  NANA（福岡市中央区天神西通り）">
+            </figure>
 
-                        <h2 class="leading-normal font-sans">
+            <div class="max-w-1000 mx-auto flex">
+                <div class="lg:w-2/3 px-8">
+                    <div class="flex items-center p-4 tw-title mb-12">
+                        <span class="text-2xl md:text-350 px-4">03</span>
+
+                        <h2 class="leading-normal font-sans text-base sm:text-lg md:text-2xl">
                             愛され、大切にされる<br>
                             女性になるために
                         </h2>
@@ -164,23 +182,27 @@
                     </article>
                 </div>
 
-                <figure class="lg:w-1/3 p-8">
+                <figure class="lg:w-1/3 p-8 hidden md:block">
                     <img src="/decoration/concept_3.jpg" alt="マツエクのコンセプト  こだわり  NANA（福岡市中央区天神西通り）">
                 </figure>
             </div>
         </section>
 
-        <section class="lg:mb-24">
+        <section class="mb-24">
+            <figure class="p-8 md:hidden overflow-hidden flex items-center mb-16" style="max-height: 300px;">
+                <img src="/decoration/concept_4.jpg" alt="スタッフが美しいとお客さまもまた、美しい">
+            </figure>
+
             <div class="max-w-1000 mx-auto flex">
-                <figure class="lg:w-2/5 p-8">
+                <figure class="lg:w-2/5 p-8 hidden md:block">
                     <img src="/decoration/concept_4.jpg" alt="スタッフが美しいとお客さまもまた、美しい">
                 </figure>
 
                 <div class="lg:w-3/5 pl-10 pr-10">
                     <div class="flex items-center p-4 tw-title mb-12">
-                        <span class="text-350 pl-4 pr-4">04</span>
+                        <span class="text-2xl md:text-350 px-4">04</span>
 
-                        <h2 class="leading-normal font-sans">
+                        <h2 class="leading-normal font-sans text-base sm:text-lg md:text-2xl">
                             スタッフが美しいと<br>
                             お客さまもまた、美しい
                         </h2>
@@ -237,14 +259,20 @@
 </script>
 
 <style scoped lang="scss">
-    .tw-describe:after {
-        content: '';
-        position: absolute;
-        top: 25%;
-        left: -5%;
-        background-color: #e8eff1;
-        width: 105%;
-        height: 60%;
-        z-index: -1;
+    .tw-describe {
+        &:after {
+            content: '';
+            position: absolute;
+            top: 25%;
+            left: 0;
+            background-color: #e8eff1;
+            width: 100%;
+            height: 80%;
+            z-index: -1;
+
+            @screen md {
+                height: 60%;
+            }
+        }
     }
 </style>

@@ -3017,6 +3017,28 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 /* harmony default export */ __webpack_exports__["default"] = ({
   created: function created() {// axios
   }
@@ -6031,7 +6053,7 @@ exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loa
 
 
 // module
-exports.push([module.i, ".tw-hero[data-v-403b2eec] {\n  height: 360px;\n  margin-top: -165px;\n}\n.svg-concept[data-v-403b2eec] {\n  overflow: visible;\n  height: 86px;\n  margin-top: -30px;\n  font-family: \"sofia-pro-condensed\", sans-serif;\n  font-size: 86px;\n  line-height: 1;\n  letter-spacing: .2em;\n}\n.svg-concept text[data-v-403b2eec] {\n  fill: rgba(255, 255, 255, 0);\n  stroke: #333;\n  stroke-width: .8;\n  stroke-linejoin: round;\n  font-family: \"sofia-pro-condensed\", sans-serif;\n  line-height: 1;\n}\n", ""]);
+exports.push([module.i, ".tw-hero[data-v-403b2eec] {\n  height: 360px;\n  margin-top: -165px;\n}\n.tw-svg[data-v-403b2eec] {\n  overflow: visible;\n  height: 86px;\n  margin-top: -30px;\n  font-family: \"sofia-pro-condensed\", sans-serif;\n  font-size: 50px;\n  line-height: 1;\n  letter-spacing: .2em;\n}\n@media (min-width: 992px) {\n.tw-svg[data-v-403b2eec] {\n    font-size: 86px;\n}\n}\n.tw-svg text[data-v-403b2eec] {\n  fill: rgba(255, 255, 255, 0);\n  stroke: #333;\n  stroke-width: .8;\n  stroke-linejoin: round;\n  font-family: \"sofia-pro-condensed\", sans-serif;\n  line-height: 1;\n}\n", ""]);
 
 // exports
 
@@ -6240,7 +6262,7 @@ exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loa
 
 
 // module
-exports.push([module.i, ".tw-describe[data-v-21659a99]:after {\n  content: \"\";\n  position: absolute;\n  top: 25%;\n  left: -5%;\n  background-color: #e8eff1;\n  width: 105%;\n  height: 60%;\n  z-index: -1;\n}\n", ""]);
+exports.push([module.i, ".tw-describe[data-v-21659a99]:after {\n  content: \"\";\n  position: absolute;\n  top: 25%;\n  left: 0;\n  background-color: #e8eff1;\n  width: 100%;\n  height: 80%;\n  z-index: -1;\n}\n@media (min-width: 768px) {\n.tw-describe[data-v-21659a99]:after {\n    height: 60%;\n}\n}\n", ""]);
 
 // exports
 
@@ -40481,17 +40503,14 @@ var render = function() {
   var _c = _vm._self._c || _h
   return _c(
     "section",
-    { staticClass: "lg:mb-24" },
+    { staticClass: "mb-24" },
     [
       _vm._t("hero"),
       _vm._v(" "),
       _c("div", [
         _c(
           "svg",
-          {
-            staticClass: "svg-concept",
-            attrs: { width: "100%", height: "86" }
-          },
+          { staticClass: "tw-svg", attrs: { width: "100%", height: "86" } },
           [
             _c(
               "text",
@@ -40890,7 +40909,7 @@ var render = function() {
   var _vm = this
   var _h = _vm.$createElement
   var _c = _vm._self._c || _h
-  return _c("section", { staticClass: "lg:mb-24" }, [
+  return _c("section", { staticClass: "mb-24" }, [
     _c(
       "div",
       { staticClass: "max-w-1200 border-b border-grey pb-4 tw-line relative" },
@@ -42172,9 +42191,9 @@ var staticRenderFns = [
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
-    return _c("section", { staticClass: "lg:mb-24" }, [
-      _c("div", { staticClass: "container mx-auto flex" }, [
-        _c("figure", { staticClass: "lg:w-2/5" }, [
+    return _c("section", { staticClass: "mb-24" }, [
+      _c("div", { staticClass: "container mx-auto md:flex" }, [
+        _c("figure", { staticClass: "w-2/5" }, [
           _c("img", {
             attrs: {
               src: "/decoration/concept.png",
@@ -42185,11 +42204,14 @@ var staticRenderFns = [
           })
         ]),
         _vm._v(" "),
-        _c("div", { staticClass: "relative lg:w-3/5 p-16" }, [
-          _c("div", { staticClass: "tw-describe" }, [
+        _c("div", { staticClass: "relative md:p-16 pt-0" }, [
+          _c("div", { staticClass: "tw-describe p-4 md:p-0" }, [
             _c(
               "h2",
-              { staticClass: "tracking-wider text-3xl leading-normal pt-2" },
+              {
+                staticClass:
+                  "tracking-wider text-lg lg:text-3xl leading-normal pt-2"
+              },
               [
                 _vm._v("\n                        NANAは美容業界でもっとも"),
                 _c("br"),
@@ -42221,17 +42243,40 @@ var staticRenderFns = [
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
-    return _c("section", { staticClass: "lg:mb-24" }, [
-      _c("div", { staticClass: "max-w-1000 mx-auto flex" }, [
-        _c("div", { staticClass: "lg:w-2/3 pl-8 pr-8" }, [
+    return _c("section", { staticClass: "mb-24" }, [
+      _c("div", { staticClass: "max-w-1000 mx-auto md:flex" }, [
+        _c(
+          "figure",
+          {
+            staticClass:
+              "p-8 md:hidden overflow-hidden flex items-center mb-16",
+            staticStyle: { "max-height": "300px" }
+          },
+          [
+            _c("img", {
+              attrs: {
+                src: "/decoration/concept_1.jpg",
+                alt: "居心地の良さを大切に"
+              }
+            })
+          ]
+        ),
+        _vm._v(" "),
+        _c("div", { staticClass: "lg:w-2/3 px-8" }, [
           _c("div", { staticClass: "flex items-center p-4 tw-title mb-12" }, [
-            _c("span", { staticClass: "text-350 pl-4 pr-4" }, [_vm._v("01")]),
+            _c("span", { staticClass: "text-2xl md:text-350 px-4" }, [
+              _vm._v("01")
+            ]),
             _vm._v(" "),
-            _c("h2", { staticClass: "leading-normal font-sans" }, [
-              _vm._v(
-                "\n                        居心地の良さを大切に\n                    "
-              )
-            ])
+            _c(
+              "h2",
+              { staticClass: "leading-normal font-sans text-xl md:text-2xl" },
+              [
+                _vm._v(
+                  "\n                        居心地の良さを大切に\n                    "
+                )
+              ]
+            )
           ]),
           _vm._v(" "),
           _c("article", [
@@ -42286,7 +42331,7 @@ var staticRenderFns = [
           ])
         ]),
         _vm._v(" "),
-        _c("figure", { staticClass: "lg:w-1/3 p-8" }, [
+        _c("figure", { staticClass: "lg:w-1/3 p-8 hidden md:block" }, [
           _c("img", {
             attrs: {
               src: "/decoration/concept_1.jpg",
@@ -42301,9 +42346,25 @@ var staticRenderFns = [
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
-    return _c("section", { staticClass: "lg:mb-24" }, [
+    return _c("section", { staticClass: "mb-24" }, [
+      _c(
+        "figure",
+        {
+          staticClass: "p-8 md:hidden overflow-hidden flex items-center mb-16",
+          staticStyle: { "max-height": "300px" }
+        },
+        [
+          _c("img", {
+            attrs: {
+              src: "/decoration/concept_2.jpg",
+              alt: "安心・安全の確かな技術。マツエクデビューならNANAで！"
+            }
+          })
+        ]
+      ),
+      _vm._v(" "),
       _c("div", { staticClass: "max-w-1000 mx-auto flex" }, [
-        _c("figure", { staticClass: "lg:w-2/5 p-8" }, [
+        _c("figure", { staticClass: "lg:w-2/5 p-8 hidden md:block" }, [
           _c("img", {
             attrs: {
               src: "/decoration/concept_2.jpg",
@@ -42312,17 +42373,26 @@ var staticRenderFns = [
           })
         ]),
         _vm._v(" "),
-        _c("div", { staticClass: "lg:w-3/5 pl-10 pr-10" }, [
+        _c("div", { staticClass: "lg:w-3/5 px-10" }, [
           _c("div", { staticClass: "flex items-center p-4 tw-title mb-12" }, [
-            _c("span", { staticClass: "text-350 pl-4 pr-4" }, [_vm._v("02")]),
+            _c("span", { staticClass: "text-2xl md:text-350 px-4" }, [
+              _vm._v("02")
+            ]),
             _vm._v(" "),
-            _c("h2", { staticClass: "leading-normal font-sans" }, [
-              _vm._v("\n                        安心・安全の確かな技術。"),
-              _c("br"),
-              _vm._v(
-                "\n                        マツエクデビューならNANAで！\n                    "
-              )
-            ])
+            _c(
+              "h2",
+              {
+                staticClass:
+                  "leading-normal font-sans text-base sm:text-lg md:text-2xl"
+              },
+              [
+                _vm._v("\n                        安心・安全の確かな技術。"),
+                _c("br"),
+                _vm._v(
+                  "\n                        マツエクデビューならNANAで！\n                    "
+                )
+              ]
+            )
           ]),
           _vm._v(" "),
           _c("article", [
@@ -42379,19 +42449,45 @@ var staticRenderFns = [
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
-    return _c("section", { staticClass: "lg:mb-24" }, [
+    return _c("section", { staticClass: "mb-24" }, [
+      _c(
+        "figure",
+        {
+          staticClass: "p-8 md:hidden overflow-hidden flex items-center mb-16",
+          staticStyle: { "max-height": "300px" }
+        },
+        [
+          _c("img", {
+            attrs: {
+              src: "/decoration/concept_3.jpg",
+              alt:
+                "マツエクのコンセプト  こだわり  NANA（福岡市中央区天神西通り）"
+            }
+          })
+        ]
+      ),
+      _vm._v(" "),
       _c("div", { staticClass: "max-w-1000 mx-auto flex" }, [
-        _c("div", { staticClass: "lg:w-2/3 pl-8 pr-8" }, [
+        _c("div", { staticClass: "lg:w-2/3 px-8" }, [
           _c("div", { staticClass: "flex items-center p-4 tw-title mb-12" }, [
-            _c("span", { staticClass: "text-350 pl-4 pr-4" }, [_vm._v("03")]),
+            _c("span", { staticClass: "text-2xl md:text-350 px-4" }, [
+              _vm._v("03")
+            ]),
             _vm._v(" "),
-            _c("h2", { staticClass: "leading-normal font-sans" }, [
-              _vm._v("\n                        愛され、大切にされる"),
-              _c("br"),
-              _vm._v(
-                "\n                        女性になるために\n                    "
-              )
-            ])
+            _c(
+              "h2",
+              {
+                staticClass:
+                  "leading-normal font-sans text-base sm:text-lg md:text-2xl"
+              },
+              [
+                _vm._v("\n                        愛され、大切にされる"),
+                _c("br"),
+                _vm._v(
+                  "\n                        女性になるために\n                    "
+                )
+              ]
+            )
           ]),
           _vm._v(" "),
           _c("article", [
@@ -42445,7 +42541,7 @@ var staticRenderFns = [
           ])
         ]),
         _vm._v(" "),
-        _c("figure", { staticClass: "lg:w-1/3 p-8" }, [
+        _c("figure", { staticClass: "lg:w-1/3 p-8 hidden md:block" }, [
           _c("img", {
             attrs: {
               src: "/decoration/concept_3.jpg",
@@ -42461,9 +42557,25 @@ var staticRenderFns = [
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
-    return _c("section", { staticClass: "lg:mb-24" }, [
+    return _c("section", { staticClass: "mb-24" }, [
+      _c(
+        "figure",
+        {
+          staticClass: "p-8 md:hidden overflow-hidden flex items-center mb-16",
+          staticStyle: { "max-height": "300px" }
+        },
+        [
+          _c("img", {
+            attrs: {
+              src: "/decoration/concept_4.jpg",
+              alt: "スタッフが美しいとお客さまもまた、美しい"
+            }
+          })
+        ]
+      ),
+      _vm._v(" "),
       _c("div", { staticClass: "max-w-1000 mx-auto flex" }, [
-        _c("figure", { staticClass: "lg:w-2/5 p-8" }, [
+        _c("figure", { staticClass: "lg:w-2/5 p-8 hidden md:block" }, [
           _c("img", {
             attrs: {
               src: "/decoration/concept_4.jpg",
@@ -42474,15 +42586,24 @@ var staticRenderFns = [
         _vm._v(" "),
         _c("div", { staticClass: "lg:w-3/5 pl-10 pr-10" }, [
           _c("div", { staticClass: "flex items-center p-4 tw-title mb-12" }, [
-            _c("span", { staticClass: "text-350 pl-4 pr-4" }, [_vm._v("04")]),
+            _c("span", { staticClass: "text-2xl md:text-350 px-4" }, [
+              _vm._v("04")
+            ]),
             _vm._v(" "),
-            _c("h2", { staticClass: "leading-normal font-sans" }, [
-              _vm._v("\n                        スタッフが美しいと"),
-              _c("br"),
-              _vm._v(
-                "\n                        お客さまもまた、美しい\n                    "
-              )
-            ])
+            _c(
+              "h2",
+              {
+                staticClass:
+                  "leading-normal font-sans text-base sm:text-lg md:text-2xl"
+              },
+              [
+                _vm._v("\n                        スタッフが美しいと"),
+                _c("br"),
+                _vm._v(
+                  "\n                        お客さまもまた、美しい\n                    "
+                )
+              ]
+            )
           ]),
           _vm._v(" "),
           _c("article", [

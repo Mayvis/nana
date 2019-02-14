@@ -1,5 +1,5 @@
 <template>
-    <section class="lg:mb-24">
+    <section class="mb-24">
         <div class="max-w-1200 border-b border-grey pb-4 tw-line relative">
             <div class="max-w-600">
                 <ul class="flex justify-center">
