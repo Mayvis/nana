@@ -4293,6 +4293,10 @@ table {
   opacity: .5;
 }
 
+.opacity-60 {
+  opacity: .6;
+}
+
 .opacity-75 {
   opacity: .75;
 }
@@ -6526,7 +6530,7 @@ h3 {
 }
 
 img {
-  vertical-align: bottom;
+  vertical-align: middle;
 }
 
 [v-cloak] {
@@ -6545,12 +6549,14 @@ img {
 
 .logo {
   background-color: #fff;
-  padding: 60px 50px;
+  display: none;
+  padding: 30px 20px;
 }
 
-@media only screen and (max-width: 992px) {
+@media (min-width: 768px) {
   .logo {
-    padding: 30px 20px;
+    display: block;
+    padding: 60px 50px;
   }
 }
 
@@ -6563,12 +6569,12 @@ img {
 }
 
 main {
-  padding-top: 165px;
+  padding-top: 120px;
 }
 
-@media only screen and (max-width: 992px) {
+@media (min-width: 992px) {
   main {
-    padding-top: 120px;
+    padding-top: 165px;
   }
 }
 
@@ -6586,8 +6592,13 @@ main {
   font-size: .75rem;
   height: 50px;
   line-height: 50px;
+  width: 100%;
   transition: background-color .2s;
   background: url("/icon/left_top.svg") left top/10px 10px no-repeat, url("/icon/right_top.svg") right top/10px 8px no-repeat, url("/icon/left_bottom.svg") left bottom/10px 10px no-repeat, url("/icon/right_bottom.svg") right bottom/10px 8px no-repeat #fff;
+}
+
+.tw-btn:hover {
+  background-color: #f7f1ad;
 }
 
 .tw-mask {
@@ -6602,6 +6613,10 @@ main {
   background: #b8c2cc;
   bottom: 2px;
   left: 0;
+}
+
+.tw-title {
+  background: url("/icon/left_top.svg") left top/10px 10px no-repeat, url("/icon/right_top.svg") right top/10px 8px no-repeat, url("/icon/left_bottom.svg") left bottom/10px 10px no-repeat, url("/icon/right_bottom.svg") right bottom/10px 8px no-repeat, url("/icon/dot.png") top left/6px 6px repeat;
 }
 
 @media (min-width: 576px) {
@@ -10350,6 +10365,10 @@ main {
 
   .sm\:opacity-50 {
     opacity: .5;
+  }
+
+  .sm\:opacity-60 {
+    opacity: .6;
   }
 
   .sm\:opacity-75 {
@@ -16270,6 +16289,10 @@ main {
     opacity: .5;
   }
 
+  .md\:opacity-60 {
+    opacity: .6;
+  }
+
   .md\:opacity-75 {
     opacity: .75;
   }
@@ -22186,6 +22209,10 @@ main {
 
   .lg\:opacity-50 {
     opacity: .5;
+  }
+
+  .lg\:opacity-60 {
+    opacity: .6;
   }
 
   .lg\:opacity-75 {
@@ -28106,6 +28133,10 @@ main {
     opacity: .5;
   }
 
+  .xl\:opacity-60 {
+    opacity: .6;
+  }
+
   .xl\:opacity-75 {
     opacity: .75;
   }
@@ -34022,6 +34053,10 @@ main {
 
   .xxl\:opacity-50 {
     opacity: .5;
+  }
+
+  .xxl\:opacity-60 {
+    opacity: .6;
   }
 
   .xxl\:opacity-75 {

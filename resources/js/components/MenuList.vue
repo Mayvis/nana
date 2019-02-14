@@ -61,9 +61,13 @@
 
 <style scoped lang="scss">
     .menu-list {
-        @apply w-2/5 h-screen fixed pin-t pin-r align-middle z-20 overflow-y-scroll scrolling-touch bg-teal-lighter;
+        @apply w-full h-screen fixed pin-t pin-r align-middle z-20 overflow-y-scroll scrolling-touch bg-teal-lighter;
         transition: all .4s;
         padding: 160px 50px 50px 50px;
+
+        @screen md {
+            @apply w-2/5;
+        }
 
         .menu-list-item {
             @apply leading-loose font-semibold text-2xl text-black tracking-loose font-adobe font-sans relative inline-block;

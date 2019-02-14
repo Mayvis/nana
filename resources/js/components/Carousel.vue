@@ -33,9 +33,7 @@
 
 <style lang="scss">
     .fade.main-carousel {
-        width: 75%;
-        height: 100%;
-        padding-right: 32px;
+        @apply w-3/4 h-full pr-8;
 
         @media only screen and (max-width: 767px) {
             width: 100%;
@@ -54,6 +52,10 @@
         transform: scale(1);
         transition: 1.5s ease-in-out;
 
+        .flickity-viewport {
+            @apply h-auto;
+        }
+
         @media only screen and (max-width: 991px) {
             height: 510px;
 
@@ -63,8 +65,7 @@
         }
 
         &.is-selected {
-            opacity: 0.75;
-            left: 0;
+            @apply opacity-75 pin-l;
             transform: scale(1.02);
         }
     }

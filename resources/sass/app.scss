@@ -23,9 +23,7 @@ ul, li {
 }
 
 p, h1, h2, h3, h4, h5, h6 {
-    line-height: 1;
-    margin: 0;
-    padding: 0;
+    @apply leading-none m-0 p-0;
 }
 
 p {
@@ -37,11 +35,11 @@ h3 {
 }
 
 img {
-    @apply align-bottom;
+    @apply align-middle;
 }
 
 [v-cloak] {
-    display: none
+    @apply hidden;
 }
 
 .fade-enter-active, .fade-leave-active {
@@ -53,11 +51,12 @@ img {
 }
 
 .logo {
-    @apply bg-white;
-    padding: 60px 50px;
+    @apply bg-white hidden;
+    padding: 30px 20px;
 
-    @media only screen and (max-width: 992px) {
-        padding: 30px 20px;
+    @screen md {
+        @apply block;
+        padding: 60px 50px;
     }
 
     img {
@@ -70,10 +69,10 @@ img {
 }
 
 main {
-    padding-top: 165px;
+    padding-top: 120px;
 
-    @media only screen and (max-width: 992px) {
-        padding-top: 120px;
+    @screen lg {
+        padding-top: 165px;
     }
 }
 
@@ -86,13 +85,17 @@ main {
 }
 
 .tw-btn {
-    @apply text-center inline-block text-xs h-50 leading-50;
+    @apply text-center inline-block text-xs h-50 leading-50 w-full;
     transition: background-color .2s;
 
     background: url('/icon/left_top.svg') left top/10px 10px no-repeat,
     url('/icon/right_top.svg') right top/10px 8px no-repeat,
     url('/icon/left_bottom.svg') left bottom/10px 10px no-repeat,
     url('/icon/right_bottom.svg') right bottom/10px 8px no-repeat #fff;
+
+    &:hover {
+        @apply bg-yellow-lighter;
+    }
 }
 
 .tw-mask {
@@ -109,4 +112,12 @@ main {
         bottom: 2px;
         left: 0;
     }
+}
+
+.tw-title {
+    background: url('/icon/left_top.svg') left top/10px 10px no-repeat,
+    url('/icon/right_top.svg') right top/10px 8px no-repeat,
+    url('/icon/left_bottom.svg') left bottom/10px 10px no-repeat,
+    url('/icon/right_bottom.svg') right bottom/10px 8px no-repeat,
+    url('/icon/dot.png') top left/6px 6px repeat;
 }

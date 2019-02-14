@@ -381,14 +381,6 @@
         }
     }
 
-    .tw-title {
-        background: url('/icon/left_top.svg') left top/10px 10px no-repeat,
-        url('/icon/right_top.svg') right top/10px 8px no-repeat,
-        url('/icon/left_bottom.svg') left bottom/10px 10px no-repeat,
-        url('/icon/right_bottom.svg') right bottom/10px 8px no-repeat,
-        url('/icon/dot.png') top left/6px 6px repeat;
-    }
-
     .tw-name:before {
         content: '(';
         position: absolute;

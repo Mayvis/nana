@@ -7,12 +7,12 @@
             <div class="relative w-full flex md:justify-end justify-center">
                 <carousel></carousel>
 
-                <span class="absolute scroll text-sm font-fotura tracking-loose text-black">SCROLL ⇀</span>
+                <span class="tw-scroll-icon">SCROLL ⇀</span>
             </div>
         </section>
 
         <!--    CONCEPT    -->
-        <section class="mb-16 container mx-auto">
+        <section class="mb-24 container mx-auto">
             <div class="flex justify-end relative">
                 <figure class="lg:w-1/3 w-1/4 z-1 absolute pin-l pin-t md:block hidden"
                         data-aos="zoom-in-up"
@@ -28,7 +28,7 @@
                         <h3 class="tracking-loosest text-4xl text-grey-darkest">CONCEPT</h3>
 
                         <p class="font-fotura my-7 text-xs">
-                            Just a little more consideration leads your trust.<br>
+                            Just a little tw-more-btn consideration leads your trust.<br>
                             NANA continues to be the "most loved place" in the beauty industry.<br>
                             Because we have relief, trust, compassion, not only to customers but also to staff.
                         </p>
@@ -44,7 +44,7 @@
                     <div>
                         <router-link to="/concept">
                             <a
-                                class="tw-btn w-full sm:w-1/2 hover:bg-yellow-lighter"
+                                class="tw-btn sm:w-1/2"
                             >
                                 コンセプト＆こだわり
                             </a>
@@ -58,7 +58,7 @@
         <section class="lg:py-16 mb-16 container mx-auto">
             <ul class="flex flex-col lg:flex-row">
                 <li class="lg:w-1/3 w-full flex items-center">
-                    <h2 class="tracking-loosest w-full text-center lg:text-4xl text-black font-fotura">NANA SALON</h2>
+                    <h2 class="tracking-loosest w-full text-center text-4xl text-black font-fotura">NANA SALON</h2>
                 </li>
 
                 <li class="lg:w-2/3 w-full"
@@ -182,7 +182,7 @@
                     <div class="md:flex-1 lg:pl-60 mb-8"
                          data-aos="zoom-in-up"
                     >
-                        <h4 class="item-h">Eyelash</h4>
+                        <h4 class="tw-menu-title">Eyelash</h4>
 
                         <table class="price">
                             <tr>
@@ -219,7 +219,7 @@
                     <div class="md:flex-1 lg:pl-60 mb-8"
                          data-aos="zoom-in-up"
                     >
-                        <h4 class="item-h">Nail</h4>
+                        <h4 class="tw-menu-title">Nail</h4>
 
                         <table class="price">
                             <tr>
@@ -265,13 +265,13 @@
                         </p>
 
                         <a href="https://beauty.hotpepper.jp/kr/slnH000248220/coupon/"
-                           class="tw-btn w-full md:w-1/4 hover:bg-yellow-lighter md:m-12 m-6"
+                           class="tw-btn md:w-1/4 md:m-12 m-6"
                         >
                             MILANO & LA ROCHELLE
                         </a>
 
                         <a href="https://beauty.hotpepper.jp/kr/slnH000364510/coupon/"
-                           class="tw-btn w-full md:w-1/4 hover:bg-yellow-lighter md:m-12 m-6"
+                           class="tw-btn md:w-1/4 md:m-12 m-6"
                         >
                             LISBON
                         </a>
@@ -283,7 +283,7 @@
         <!--    STAFF    -->
         <section class="mb-24">
             <div class="max-w-1000 px-4 mx-auto">
-                <h3 class="tracking-loosest text-4xl text-black font-fotura leading-loose mb-4 text-center md:text-left">
+                <h3 class="tracking-loosest text-4xl text-black font-fotura mb-4 text-center md:text-left">
                     STAFF</h3>
 
                 <cabinet></cabinet>
@@ -293,14 +293,14 @@
         <!--    BEAUTY x LIFE    -->
         <section class="mb-24">
             <div class="max-w-1000 mx-auto px-4">
-                <h3 class="tracking-loosest text-4xl text-black font-fotura leading-loose mb-4"
+                <h3 class="tracking-loosest text-4xl text-black font-fotura mb-4"
                     data-aos="fade-in"
                 >BEAUTY×LIFE</h3>
 
                 <ul class="flex flex-wrap"
                     data-aos="fade"
                 >
-                    <li class="w-full sm:w-1/2 lg:w-1/3 p-4 thumbnail">
+                    <li class="thumbnail">
                         <router-link to="/beauty" tag="a">
                             <figure>
                                 <img src="/beauty/beauty_1.jpg" alt="マツエクのある毎日">
@@ -315,12 +315,12 @@
                                     いつでも可愛くありたい、どんなときもキレイでいたい。誰もが持つそんな気持ちを、ほんのちょっとすくい上げる安心感がある。それがマツエクなのです。
                                 </p>
 
-                                <p class="text-xs more relative pl-8">READ MORE</p>
+                                <p class="tw-more-btn">READ MORE</p>
                             </article>
                         </router-link>
                     </li>
 
-                    <li class="w-full sm:w-1/2 lg:w-1/3 p-4 thumbnail">
+                    <li class="thumbnail">
                         <router-link to="/beauty">
                             <figure>
                                 <img src="/beauty/beauty_2.jpg" alt="お手入れ方法">
@@ -335,12 +335,12 @@
                                     きれいなまつ毛を保つためにはどうしたらいいんだろう？みなさんに素敵なマツエクライフをお過ごしいただくための、プロ目線からの適切な対処法をお伝えします。
                                 </p>
 
-                                <p class="text-xs more relative pl-8">READ MORE</p>
+                                <p class="tw-more-btn">READ MORE</p>
                             </article>
                         </router-link>
                     </li>
 
-                    <li class="w-full sm:w-1/2 lg:w-1/3 p-4 thumbnail">
+                    <li class="thumbnail">
                         <router-link to="/beauty">
                             <figure>
                                 <img src="/beauty/beauty_3.jpg" alt="ネイルのある毎日">
@@ -355,7 +355,7 @@
                                     季節、イベント、髪型。あなたを彩る、もうひとつの魔法を指先に。日常の中にあっても星のように瞬く“キラキラ”が、そこにはあるのです。
                                 </p>
 
-                                <p class="text-xs more relative pl-8">READ MORE</p>
+                                <p class="tw-more-btn">READ MORE</p>
                             </article>
                         </router-link>
                     </li>
@@ -389,22 +389,23 @@
 </script>
 
 <style scoped lang="scss">
-    .scroll {
+    .tw-scroll-icon {
+        @apply text-sm font-fotura tracking-loose text-black absolute;
         transform: rotate(90deg);
         bottom: 40px;
         right: -32px;
         animation: pos 2s ease-in-out infinite;
-    }
 
-    @keyframes pos {
-        0% {
-            bottom: 50px
-        }
-        50% {
-            bottom: 40px
-        }
-        100% {
-            bottom: 50px
+        @keyframes pos {
+            0% {
+                bottom: 50px
+            }
+            50% {
+                bottom: 40px
+            }
+            100% {
+                bottom: 50px
+            }
         }
     }
 
@@ -413,7 +414,7 @@
         transition: opacity .2s;
 
         &:hover {
-            opacity: 0.5;
+            @apply opacity-50;
         }
 
         li {
@@ -422,17 +423,13 @@
 
         p {
             &:before {
+                @apply absolute pin-l hidden bg-grey-darkest w-5;
                 content: "";
-                width: 20px;
                 height: 1px;
-                position: absolute;
                 top: 8px;
-                left: 0;
-                background-color: #555;
-                display: none;
 
-                @media only screen and (min-width: 576px) {
-                    display: block;
+                @screen sm {
+                    @apply block;
                 }
             }
         }
@@ -443,42 +440,34 @@
         transition: opacity .4s;
 
         &:before {
+            @apply hidden pin-l absolute bg-black w-5;
             content: '';
-            width: 20px;
             height: 1px;
-            background: black;
-            position: absolute;
             top: 50%;
-            left: 0;
             transform: translateY(-50%);
 
-            @media only screen and (max-width: 991px) {
-                display: none;
+            @screen lg {
+                @apply block;
             }
         }
 
         &:hover {
-            opacity: 0.5;
+            @apply opacity-50;
         }
 
         span {
-            display: inline-block;
-            padding-left: 30px;
+            @apply inline-block pl-7;
         }
     }
 
-    .item-h {
-        @apply font-adobe tracking-loosest text-xl font-normal relative leading-loose;
-        margin-bottom: 20px;
+    .tw-menu-title {
+        @apply font-adobe tracking-loosest text-xl font-normal relative leading-loose mb-5;
 
         &:after {
+            @apply absolute pin-l pin-b bg-grey-darkest;
             content: "";
             width: 30px;
             height: 1px;
-            background: #555;
-            position: absolute;
-            left: 0;
-            bottom: 0;
         }
     }
 
@@ -486,31 +475,38 @@
         @apply text-left text-sm text-black leading-loose;
 
         tr {
-            padding-top: 10px;
+            @apply pt-3;
         }
 
         th, td {
-            padding-right: 30px;
-            font-weight: 300;
+            @apply font-thin pr-7;
         }
     }
 
     .thumbnail {
+        @apply w-full p-4;
         transition: opacity .4s;
 
-        &:hover {
-            opacity: .6;
+        @screen sm {
+            @apply w-1/2;
         }
 
-        .more {
+        @screen lg {
+            @apply w-1/3;
+        }
+
+        &:hover {
+            @apply opacity-60;
+        }
+
+        .tw-more-btn {
+            @apply text-xs relative pl-8;
+
             &:before {
+                @apply pin-l bg-grey-darkest absolute w-5;
                 content: "";
-                width: 20px;
                 height: 1px;
-                position: absolute;
                 top: 10px;
-                left: 0;
-                background-color: #555;
             }
         }
     }
