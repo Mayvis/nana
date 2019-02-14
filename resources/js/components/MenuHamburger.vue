@@ -36,13 +36,17 @@
 
 <style lang="scss" scoped>
     .menu {
-        @apply border rounded-full relative cursor-pointer border-black bg-white fixed w-14 h-14;
-        top: 60px;
-        right: 50px;
+        @apply relative cursor-pointer bg-white fixed w-14 h-14 pin-t pin-r;
 
-        @media only screen and (max-width: 992px) {
+        @screen md {
+            @apply rounded-full border border-black;
             top: 30px;
             right: 20px;
+        }
+
+        @screen lg {
+            top: 60px;
+            right: 50px;
         }
 
         &.active {
