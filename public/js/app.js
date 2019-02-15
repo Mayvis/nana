@@ -3453,161 +3453,6 @@ __webpack_require__.r(__webpack_exports__);
 
 /***/ }),
 
-/***/ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/views/Menu.vue?vue&type=script&lang=js&":
-/*!**********************************************************************************************************************************************************!*\
-  !*** ./node_modules/babel-loader/lib??ref--4-0!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/views/Menu.vue?vue&type=script&lang=js& ***!
-  \**********************************************************************************************************************************************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-/* harmony default export */ __webpack_exports__["default"] = ({
-  created: function created() {// axios
-  }
-});
-
-/***/ }),
-
 /***/ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/views/Nail.vue?vue&type=script&lang=js&":
 /*!**********************************************************************************************************************************************************!*\
   !*** ./node_modules/babel-loader/lib??ref--4-0!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/views/Nail.vue?vue&type=script&lang=js& ***!
@@ -4218,6 +4063,11 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
+//
+//
+//
+//
+//
 //
 //
 //
@@ -6330,7 +6180,7 @@ exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loa
 
 
 // module
-exports.push([module.i, ".tw-header[data-v-71d1a504]:after {\n  position: absolute;\n  content: \"\";\n  left: 0;\n  bottom: 15%;\n  width: 15%;\n  height: 1px;\n  background: #000;\n}\n", ""]);
+exports.push([module.i, ".tw-table[data-v-71d1a504] {\n  font-size: .75rem;\n  line-height: 2;\n  letter-spacing: .2em;\n  color: #3d4852;\n}\n.tw-table td[data-v-71d1a504]:last-child {\n  padding-left: 1rem;\n}\n.tw-header[data-v-71d1a504] {\n  position: relative;\n  padding-bottom: 1rem;\n  text-align: left;\n  font-size: 1.5rem;\n  font-weight: 700;\n  letter-spacing: .3em;\n  color: #22292f;\n}\n@media (min-width: 768px) {\n.tw-header[data-v-71d1a504] {\n    padding-bottom: 0;\n}\n}\n@media (min-width: 992px) {\n.tw-header[data-v-71d1a504] {\n    font-size: 2.25rem;\n}\n}\n.tw-header[data-v-71d1a504]:after {\n  position: absolute;\n  content: \"\";\n  left: 0;\n  bottom: 15%;\n  width: 15%;\n  height: 1px;\n  background: #000;\n}\n.btn-info[data-v-71d1a504] {\n  position: absolute;\n  display: flex;\n  flex-direction: column;\n  text-align: center;\n  background-color: #fff;\n  font-size: .75rem;\n  padding-left: .5rem;\n  padding-right: .5rem;\n  width: 80%;\n  left: 50%;\n  top: -35px;\n  -webkit-transform: translateX(-50%);\n          transform: translateX(-50%);\n}\n@media (min-width: 576px) {\n.btn-info[data-v-71d1a504] {\n    padding-left: 2rem;\n    padding-right: 2rem;\n    width: 60%;\n    top: -45px;\n}\n}\n", ""]);
 
 // exports
 
@@ -6387,7 +6237,7 @@ exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loa
 
 
 // module
-exports.push([module.i, ".tw-header[data-v-f57feba4]:after {\n  position: absolute;\n  content: \"\";\n  left: 0;\n  bottom: 15%;\n  width: 15%;\n  height: 1px;\n  background-color: #000;\n}\n.text-gold.tw-header[data-v-f57feba4]:after {\n  background-color: #c3b282;\n}\n.text-blue-lighter.tw-header[data-v-f57feba4]:after {\n  background-color: #629dae;\n}\n.tw-base[data-v-f57feba4] {\n  content: \"\";\n  position: absolute;\n  top: 50%;\n  left: 0;\n  -webkit-transform: translateY(-50%);\n          transform: translateY(-50%);\n  width: 100vw;\n  height: 50%;\n  z-index: -2;\n}\n.tw-border[data-v-f57feba4] {\n  position: absolute;\n  top: 51.5%;\n  left: 51.5%;\n  -webkit-transform: translate(-50%, -50%);\n          transform: translate(-50%, -50%);\n  width: 100%;\n  height: 100%;\n  z-index: -1;\n}\n.tw-color-blue[data-v-f57feba4] {\n  border-right: 1px solid #3b587e;\n  border-bottom: 1px solid #3b587e;\n}\n.tw-color-blue-lighter[data-v-f57feba4] {\n  border-right: 1px solid #629dae;\n  border-bottom: 1px solid #629dae;\n}\n.tw-color-yellow[data-v-f57feba4] {\n  border-right: 1px solid #c3b282;\n  border-bottom: 1px solid #c3b282;\n}\n", ""]);
+exports.push([module.i, ".tw-header[data-v-f57feba4] {\n  font-size: 1.5rem;\n  font-weight: 700;\n  line-height: 3.5;\n  letter-spacing: .3em;\n  position: relative;\n}\n@media (min-width: 768px) {\n.tw-header[data-v-f57feba4] {\n    font-size: 2.25rem;\n}\n}\n.tw-header[data-v-f57feba4]:after {\n  position: absolute;\n  content: \"\";\n  left: 0;\n  bottom: 15%;\n  width: 15%;\n  height: 1px;\n  background-color: #000;\n}\n.text-gold.tw-header[data-v-f57feba4]:after {\n  background-color: #c3b282;\n}\n.text-blue-lighter.tw-header[data-v-f57feba4]:after {\n  background-color: #629dae;\n}\n.tw-base[data-v-f57feba4] {\n  content: \"\";\n  position: absolute;\n  top: 50%;\n  left: 0;\n  -webkit-transform: translateY(-50%);\n          transform: translateY(-50%);\n  width: 100vw;\n  height: 50%;\n  z-index: -2;\n}\n.tw-border[data-v-f57feba4] {\n  position: absolute;\n  top: 51.5%;\n  left: 51.5%;\n  -webkit-transform: translate(-50%, -50%);\n          transform: translate(-50%, -50%);\n  width: 100%;\n  height: 100%;\n  z-index: -1;\n}\n.tw-color-blue[data-v-f57feba4] {\n  border-right: 1px solid #3b587e;\n  border-bottom: 1px solid #3b587e;\n}\n.tw-color-blue-lighter[data-v-f57feba4] {\n  border-right: 1px solid #629dae;\n  border-bottom: 1px solid #629dae;\n}\n.tw-color-yellow[data-v-f57feba4] {\n  border-right: 1px solid #c3b282;\n  border-bottom: 1px solid #c3b282;\n}\n.google-map[data-v-f57feba4] {\n  width: 100%;\n  height: 360px;\n}\n@media (min-width: 768px) {\n.google-map[data-v-f57feba4] {\n    height: 540px;\n}\n}\n@media (min-width: 992px) {\n.google-map[data-v-f57feba4] {\n    height: 720px;\n}\n}\n", ""]);
 
 // exports
 
@@ -40868,8 +40718,7 @@ var staticRenderFns = [
               _c(
                 "a",
                 {
-                  staticClass:
-                    "tw-btn w-full md:w-1/4 hover:bg-yellow-lighter md:m-12 mx-6 mt-4",
+                  staticClass: "tw-btn md:w-1/4 md:m-12 mx-6 mt-4",
                   attrs: { href: "/", "data-aos": "zoom-in-up" }
                 },
                 [_vm._v("\n                MILANO & LA ROCHELLE\n            ")]
@@ -40878,8 +40727,7 @@ var staticRenderFns = [
               _c(
                 "a",
                 {
-                  staticClass:
-                    "tw-btn w-full md:w-1/4 hover:bg-yellow-lighter md:m-12 mx-6 my-8",
+                  staticClass: "tw-btn md:w-1/4 md:m-12 mx-6 my-8",
                   attrs: { href: "/", "data-aos": "zoom-in-up" }
                 },
                 [_vm._v("\n                LISBON\n            ")]
@@ -43628,10 +43476,12 @@ var staticRenderFns = [
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
-    return _c("section", { staticClass: "lg:mb-16" }, [
+    return _c("section", { staticClass: "mb-16" }, [
       _c("p", { staticClass: "text-center pb-8 font-fotura text-xs" }, [
+        _vm._v("\n            ＊ メニュー・金額は一例です。"),
+        _c("br", { staticClass: "md:hidden" }),
         _vm._v(
-          "\n            ＊ メニュー・金額は一例です。各メニューの詳細やお得なクーポンはHOTPEPPER Beautyをご確認ください。\n        "
+          "\n            各メニューの詳細やお得なクーポンは HOTPEPPER Beautyをご確認ください。\n        "
         )
       ])
     ])
@@ -43640,35 +43490,27 @@ var staticRenderFns = [
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
-    return _c("section", { staticClass: "lg:mb-24" }, [
-      _c("div", { staticClass: "max-w-1000 mx-auto lg:mb-16 flex" }, [
-        _c("figure", { staticClass: "lg:w-1/2 tw-flex-end" }, [
-          _c("img", {
-            attrs: { src: "/decoration/menu_1.jpg", alt: "EYELASH" }
-          })
-        ]),
-        _vm._v(" "),
-        _c("div", { staticClass: "lg:w-1/2 tw-flex-start p-8 pt-4" }, [
-          _c(
-            "table",
-            {
-              staticClass:
-                "text-xs leading-loose tracking-loose text-grey-darkest"
-            },
-            [
+    return _c("section", { staticClass: "mb-24" }, [
+      _c(
+        "div",
+        {
+          staticClass: "max-w-1000 mx-auto mb-16 flex flex-col md:flex-row px-8"
+        },
+        [
+          _c("figure", { staticClass: "w-full md:w-1/2 tw-flex-end mb-8" }, [
+            _c("img", {
+              attrs: { src: "/decoration/menu_1.jpg", alt: "EYELASH" }
+            })
+          ]),
+          _vm._v(" "),
+          _c("div", { staticClass: "w-full md:w-1/2 p-0 md:px-8 lg:pt-4" }, [
+            _c("table", { staticClass: "tw-table" }, [
               _c("tr", [
-                _c(
-                  "th",
-                  {
-                    staticClass:
-                      "text-left text-4xl font-bold leading-loosest tracking-loosest text-black tw-header relative"
-                  },
-                  [
-                    _vm._v(
-                      "\n                            EYELASH\n                        "
-                    )
-                  ]
-                )
+                _c("th", { staticClass: "tw-header" }, [
+                  _vm._v(
+                    "\n                            EYELASH\n                        "
+                  )
+                ])
               ]),
               _vm._v(" "),
               _c("tr", [
@@ -43712,43 +43554,35 @@ var staticRenderFns = [
                 _vm._v(" "),
                 _c("td", [_vm._v("¥6,980")])
               ])
-            ]
-          )
-        ])
-      ])
+            ])
+          ])
+        ]
+      )
     ])
   },
   function() {
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
-    return _c("section", { staticClass: "lg:mb-24" }, [
-      _c("div", { staticClass: "max-w-1000 mx-auto lg:mb-16 flex" }, [
-        _c("figure", { staticClass: "lg:w-1/2 lg:mr-16" }, [
-          _c("img", { attrs: { src: "/decoration/menu_2.jpg", alt: "NAIL" } })
-        ]),
-        _vm._v(" "),
-        _c("div", { staticClass: "lg:w-1/2" }, [
-          _c(
-            "table",
-            {
-              staticClass:
-                "text-xs leading-loose tracking-loose text-grey-darkest"
-            },
-            [
+    return _c("section", { staticClass: "mb-24" }, [
+      _c(
+        "div",
+        {
+          staticClass: "max-w-1000 mx-auto mb-16 flex flex-col md:flex-row px-8"
+        },
+        [
+          _c("figure", { staticClass: "w-full md:w-1/2 mb-8" }, [
+            _c("img", { attrs: { src: "/decoration/menu_2.jpg", alt: "NAIL" } })
+          ]),
+          _vm._v(" "),
+          _c("div", { staticClass: "w-full md:w-1/2 p-0 md:px-8" }, [
+            _c("table", { staticClass: "tw-table" }, [
               _c("tr", [
-                _c(
-                  "th",
-                  {
-                    staticClass:
-                      "text-left text-4xl font-bold tracking-loosest text-black tw-header relative leading-none pb-8"
-                  },
-                  [
-                    _vm._v(
-                      "\n                            NAIL\n                        "
-                    )
-                  ]
-                )
+                _c("th", { staticClass: "tw-header" }, [
+                  _vm._v(
+                    "\n                            NAIL\n                        "
+                  )
+                ])
               ]),
               _vm._v(" "),
               _c("tr", [
@@ -43786,69 +43620,66 @@ var staticRenderFns = [
                 _vm._v(" "),
                 _c("td", [_vm._v("¥7,980")])
               ])
-            ]
-          )
-        ])
-      ])
+            ])
+          ])
+        ]
+      )
     ])
   },
   function() {
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
-    return _c("section", { staticClass: "lg:mb-24 max-w-1000 mx-auto" }, [
-      _c("div", { staticClass: "lg:pt-16" }, [
-        _c(
-          "div",
-          {
-            staticClass:
-              "border-black border flex relative justify-center lg:pt-12"
-          },
-          [
-            _c(
-              "p",
-              {
-                staticClass: "absolute flex flex-col text-center p-8 bg-white",
-                staticStyle: { top: "-45px" }
-              },
-              [
+    return _c(
+      "section",
+      { staticClass: "mb-24 max-w-1000 mx-auto w-full px-4" },
+      [
+        _c("div", { staticClass: "pt-16" }, [
+          _c(
+            "div",
+            {
+              staticClass:
+                "border-black border flex flex-col md:flex-row relative items-center justify-center pt-12 p-4"
+            },
+            [
+              _c("p", { staticClass: "btn-info" }, [
                 _c("span", [_vm._v("メニュー＆クーポン一覧")]),
                 _vm._v(" "),
-                _c("span", { staticClass: "text-xs pt-4" }, [
+                _c("span", { staticClass: "pt-4" }, [
                   _vm._v("( HOTPEPPER Beautyへリンクします )")
                 ])
-              ]
-            ),
-            _vm._v(" "),
-            _c(
-              "a",
-              {
-                staticClass: "tw-btn w-1/4 hover:bg-yellow-lighter lg:m-12",
-                attrs: {
-                  href: "https://beauty.hotpepper.jp/kr/slnH000248220/coupon/"
-                }
-              },
-              [
-                _vm._v(
-                  "\n                    MILANO & LA ROCHELLE\n                "
-                )
-              ]
-            ),
-            _vm._v(" "),
-            _c(
-              "a",
-              {
-                staticClass: "tw-btn w-1/4 hover:bg-yellow-lighter lg:m-12",
-                attrs: {
-                  href: "https://beauty.hotpepper.jp/kr/slnH000364510/coupon/"
-                }
-              },
-              [_vm._v("\n                    LISBON\n                ")]
-            )
-          ]
-        )
-      ])
-    ])
+              ]),
+              _vm._v(" "),
+              _c(
+                "a",
+                {
+                  staticClass: "tw-btn md:w-1/4 md:m-12 my-4",
+                  attrs: {
+                    href: "https://beauty.hotpepper.jp/kr/slnH000248220/coupon/"
+                  }
+                },
+                [
+                  _vm._v(
+                    "\n                    MILANO & LA ROCHELLE\n                "
+                  )
+                ]
+              ),
+              _vm._v(" "),
+              _c(
+                "a",
+                {
+                  staticClass: "tw-btn md:w-1/4 md:m-12 my-4",
+                  attrs: {
+                    href: "https://beauty.hotpepper.jp/kr/slnH000364510/coupon/"
+                  }
+                },
+                [_vm._v("\n                    LISBON\n                ")]
+              )
+            ]
+          )
+        ])
+      ]
+    )
   }
 ]
 render._withStripped = true
@@ -45032,54 +44863,29 @@ var staticRenderFns = [
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
-    return _c("section", { staticClass: "lg:mb-24 relative" }, [
-      _c("div", { staticClass: "max-w-1000 mx-auto" }, [
-        _c("div", { staticClass: "flex" }, [
-          _c("div", { staticClass: "lg:w-1/2" }, [
-            _c("figure", { staticClass: "lg:mb-16" }, [
-              _c("img", {
-                attrs: {
-                  src: "/decoration/salon_1.jpg",
-                  alt: "MILANO",
-                  width: "427",
-                  height: "330"
-                }
-              })
-            ]),
-            _vm._v(" "),
-            _c("figure", [
-              _c("img", {
-                attrs: {
-                  src: "/decoration/salon_2.jpg",
-                  alt: "MILANO",
-                  width: "210",
-                  height: "170"
-                }
-              })
-            ])
-          ]),
-          _vm._v(" "),
+    return _c("section", { staticClass: "mb-24 relative" }, [
+      _c("div", { staticClass: "max-w-1000 mx-auto p-4" }, [
+        _c("div", { staticClass: "flex flex-col md:flex-row" }, [
           _c(
             "div",
             {
               staticClass:
-                "lg:w-1/2 bg-white p-16 pt-8 border border-blue-darker lg:my-16 lg:mx-8 relative"
+                "lg:w-1/2 w-full bg-white p-16 pt-8 border border-blue-darker mb-16 md:my-16 md:mx-8 relative tw-flex-end"
             },
             [
-              _c(
-                "h2",
-                {
-                  staticClass:
-                    "text-4xl font-bold leading-loosest tracking-loosest text-black text-blue-darker tw-header relative"
-                },
-                [_vm._v("\n                        MILANO")]
-              ),
-              _vm._v(" "),
-              _c("p", { staticClass: "text-xs pb-8 text-grey-darker" }, [
-                _vm._v(
-                  "\n                        Salon information\n                    "
-                )
+              _c("h2", { staticClass: "tw-header text-blue-darker" }, [
+                _vm._v("\n                        MILANO\n                    ")
               ]),
+              _vm._v(" "),
+              _c(
+                "p",
+                { staticClass: "text-xs pb-4 lg:pb-8 text-grey-darker" },
+                [
+                  _vm._v(
+                    "\n                        Salon information\n                    "
+                  )
+                ]
+              ),
               _vm._v(" "),
               _c(
                 "ul",
@@ -45104,22 +44910,39 @@ var staticRenderFns = [
                 ]
               ),
               _vm._v(" "),
-              _c(
-                "a",
-                {
-                  staticClass: "tw-btn w-full hover:bg-yellow-lighter",
-                  attrs: { href: "/" }
-                },
-                [
-                  _vm._v(
-                    "\n                        サロン紹介＆ご予約\n                    "
-                  )
-                ]
-              ),
+              _c("a", { staticClass: "tw-btn", attrs: { href: "/" } }, [
+                _vm._v(
+                  "\n                        サロン紹介＆ご予約\n                    "
+                )
+              ]),
               _vm._v(" "),
               _c("div", { staticClass: "tw-border tw-color-blue" })
             ]
-          )
+          ),
+          _vm._v(" "),
+          _c("div", { staticClass: "lg:w-1/2 w-full" }, [
+            _c("figure", { staticClass: "mb-16" }, [
+              _c("img", {
+                attrs: {
+                  src: "/decoration/salon_1.jpg",
+                  alt: "MILANO",
+                  width: "427",
+                  height: "330"
+                }
+              })
+            ]),
+            _vm._v(" "),
+            _c("figure", [
+              _c("img", {
+                attrs: {
+                  src: "/decoration/salon_2.jpg",
+                  alt: "MILANO",
+                  width: "210",
+                  height: "170"
+                }
+              })
+            ])
+          ])
         ])
       ]),
       _vm._v(" "),
@@ -45130,52 +44953,21 @@ var staticRenderFns = [
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
-    return _c("section", { staticClass: "lg:mb-24 relative" }, [
-      _c("div", { staticClass: "max-w-1000 mx-auto" }, [
-        _c("div", { staticClass: "flex" }, [
+    return _c("section", { staticClass: "mb-24 relative" }, [
+      _c("div", { staticClass: "max-w-1000 mx-auto p-4" }, [
+        _c("div", { staticClass: "flex flex-col md:flex-row" }, [
           _c(
             "div",
             {
               staticClass:
-                "lg:w-1/2 tw-flex-end items-end flex items-end flex-col"
-            },
-            [
-              _c("figure", { staticClass: "lg:mb-16" }, [
-                _c("img", {
-                  attrs: {
-                    src: "/decoration/salon_3.jpg",
-                    alt: "La Rochelle",
-                    width: "427",
-                    height: "330"
-                  }
-                })
-              ]),
-              _vm._v(" "),
-              _c("figure", [
-                _c("img", {
-                  attrs: {
-                    src: "/decoration/salon_4.jpg",
-                    alt: "La Rochelle",
-                    width: "210",
-                    height: "170"
-                  }
-                })
-              ])
-            ]
-          ),
-          _vm._v(" "),
-          _c(
-            "div",
-            {
-              staticClass:
-                "lg:w-1/2 bg-white p-16 pt-8 border border-gold lg:my-16 lg:mx-8 relative tw-flex-start"
+                "lg:w-1/2 w-full bg-white p-16 pt-8 border border-gold mb-16 md:my-16 md:mx-8 relative"
             },
             [
               _c(
                 "h2",
                 {
                   staticClass:
-                    "text-4xl font-bold leading-loosest tracking-loosest text-black text-gold tw-header relative"
+                    "text-4xl font-bold leading-loosest tracking-loosest text-gold tw-header relative"
                 },
                 [
                   _vm._v(
@@ -45213,20 +45005,43 @@ var staticRenderFns = [
                 ]
               ),
               _vm._v(" "),
-              _c(
-                "a",
-                {
-                  staticClass: "tw-btn w-full hover:bg-yellow-lighter",
-                  attrs: { href: "/" }
-                },
-                [
-                  _vm._v(
-                    "\n                        サロン紹介＆ご予約\n                    "
-                  )
-                ]
-              ),
+              _c("a", { staticClass: "tw-btn", attrs: { href: "/" } }, [
+                _vm._v(
+                  "\n                        サロン紹介＆ご予約\n                    "
+                )
+              ]),
               _vm._v(" "),
               _c("div", { staticClass: "tw-border tw-color-yellow" })
+            ]
+          ),
+          _vm._v(" "),
+          _c(
+            "div",
+            {
+              staticClass: "w-full lg:w-1/2 items-end flex items-end flex-col"
+            },
+            [
+              _c("figure", { staticClass: "mb-16" }, [
+                _c("img", {
+                  attrs: {
+                    src: "/decoration/salon_3.jpg",
+                    alt: "La Rochelle",
+                    width: "427",
+                    height: "330"
+                  }
+                })
+              ]),
+              _vm._v(" "),
+              _c("figure", [
+                _c("img", {
+                  attrs: {
+                    src: "/decoration/salon_4.jpg",
+                    alt: "La Rochelle",
+                    width: "210",
+                    height: "170"
+                  }
+                })
+              ])
             ]
           )
         ])
@@ -45239,45 +45054,21 @@ var staticRenderFns = [
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
-    return _c("section", { staticClass: "lg:mb-24 relative" }, [
-      _c("div", { staticClass: "max-w-1000 mx-auto" }, [
-        _c("div", { staticClass: "flex" }, [
-          _c("div", { staticClass: "lg:w-1/2" }, [
-            _c("figure", { staticClass: "lg:mb-16" }, [
-              _c("img", {
-                attrs: {
-                  src: "/decoration/salon_5.jpg",
-                  alt: "LISBON",
-                  width: "427",
-                  height: "330"
-                }
-              })
-            ]),
-            _vm._v(" "),
-            _c("figure", [
-              _c("img", {
-                attrs: {
-                  src: "/decoration/salon_6.jpg",
-                  alt: "LISBON",
-                  width: "210",
-                  height: "170"
-                }
-              })
-            ])
-          ]),
-          _vm._v(" "),
+    return _c("section", { staticClass: "mb-24 relative" }, [
+      _c("div", { staticClass: "max-w-1000 mx-auto p-4" }, [
+        _c("div", { staticClass: "flex flex-col md:flex-row" }, [
           _c(
             "div",
             {
               staticClass:
-                "lg:w-1/2 bg-white p-16 pt-8 border border-blue-lighter lg:my-16 lg:mx-8 relative"
+                "lg:w-1/2 w-full bg-white p-16 pt-8 border border-blue-lighter mb-16 md:my-16 md:mx-8 relative tw-flex-end"
             },
             [
               _c(
                 "h2",
                 {
                   staticClass:
-                    "text-4xl font-bold leading-loosest tracking-loosest text-black text-blue-lighter tw-header relative"
+                    "text-4xl font-bold leading-loosest tracking-loosest text-blue-lighter tw-header relative"
                 },
                 [
                   _vm._v(
@@ -45315,22 +45106,39 @@ var staticRenderFns = [
                 ]
               ),
               _vm._v(" "),
-              _c(
-                "a",
-                {
-                  staticClass: "tw-btn w-full hover:bg-yellow-lighter",
-                  attrs: { href: "/" }
-                },
-                [
-                  _vm._v(
-                    "\n                        サロン紹介＆ご予約\n                    "
-                  )
-                ]
-              ),
+              _c("a", { staticClass: "tw-btn", attrs: { href: "/" } }, [
+                _vm._v(
+                  "\n                        サロン紹介＆ご予約\n                    "
+                )
+              ]),
               _vm._v(" "),
               _c("div", { staticClass: "tw-border tw-color-blue-lighter" })
             ]
-          )
+          ),
+          _vm._v(" "),
+          _c("div", { staticClass: "lg:w-1/2 w-full" }, [
+            _c("figure", { staticClass: "mb-16" }, [
+              _c("img", {
+                attrs: {
+                  src: "/decoration/salon_5.jpg",
+                  alt: "LISBON",
+                  width: "427",
+                  height: "330"
+                }
+              })
+            ]),
+            _vm._v(" "),
+            _c("figure", [
+              _c("img", {
+                attrs: {
+                  src: "/decoration/salon_6.jpg",
+                  alt: "LISBON",
+                  width: "210",
+                  height: "170"
+                }
+              })
+            ])
+          ])
         ])
       ]),
       _vm._v(" "),
@@ -45341,16 +45149,19 @@ var staticRenderFns = [
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
-    return _c("section", { staticClass: "max-w-1000 mx-auto lg:mb-24" }, [
-      _c("iframe", {
-        attrs: {
-          src:
-            "https://www.google.com/maps/d/embed?mid=1Wwn-z48yRGrD0lOk6UrT0G6X2r71mv6W",
-          width: "1000",
-          height: "720"
-        }
-      })
-    ])
+    return _c(
+      "section",
+      { staticClass: "max-w-1000 mx-auto mb-24 px-4 w-full sm:w-4/5" },
+      [
+        _c("iframe", {
+          staticClass: "google-map",
+          attrs: {
+            src:
+              "https://www.google.com/maps/d/embed?mid=1Wwn-z48yRGrD0lOk6UrT0G6X2r71mv6W"
+          }
+        })
+      ]
+    )
   }
 ]
 render._withStripped = true
@@ -64244,19 +64055,17 @@ __webpack_require__.r(__webpack_exports__);
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _Menu_vue_vue_type_template_id_71d1a504_scoped_true___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./Menu.vue?vue&type=template&id=71d1a504&scoped=true& */ "./resources/js/views/Menu.vue?vue&type=template&id=71d1a504&scoped=true&");
-/* harmony import */ var _Menu_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Menu.vue?vue&type=script&lang=js& */ "./resources/js/views/Menu.vue?vue&type=script&lang=js&");
-/* empty/unused harmony star reexport *//* harmony import */ var _Menu_vue_vue_type_style_index_0_id_71d1a504_scoped_true_lang_scss___WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./Menu.vue?vue&type=style&index=0&id=71d1a504&scoped=true&lang=scss& */ "./resources/js/views/Menu.vue?vue&type=style&index=0&id=71d1a504&scoped=true&lang=scss&");
-/* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+/* harmony import */ var _Menu_vue_vue_type_style_index_0_id_71d1a504_scoped_true_lang_scss___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Menu.vue?vue&type=style&index=0&id=71d1a504&scoped=true&lang=scss& */ "./resources/js/views/Menu.vue?vue&type=style&index=0&id=71d1a504&scoped=true&lang=scss&");
+/* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
 
-
-
+var script = {}
 
 
 
 /* normalize component */
 
-var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_3__["default"])(
-  _Menu_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__["default"],
+var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__["default"])(
+  script,
   _Menu_vue_vue_type_template_id_71d1a504_scoped_true___WEBPACK_IMPORTED_MODULE_0__["render"],
   _Menu_vue_vue_type_template_id_71d1a504_scoped_true___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"],
   false,
@@ -64270,20 +64079,6 @@ var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_
 if (false) { var api; }
 component.options.__file = "resources/js/views/Menu.vue"
 /* harmony default export */ __webpack_exports__["default"] = (component.exports);
-
-/***/ }),
-
-/***/ "./resources/js/views/Menu.vue?vue&type=script&lang=js&":
-/*!**************************************************************!*\
-  !*** ./resources/js/views/Menu.vue?vue&type=script&lang=js& ***!
-  \**************************************************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony import */ var _node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Menu_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/babel-loader/lib??ref--4-0!../../../node_modules/vue-loader/lib??vue-loader-options!./Menu.vue?vue&type=script&lang=js& */ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/views/Menu.vue?vue&type=script&lang=js&");
-/* empty/unused harmony star reexport */ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Menu_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__["default"]); 
 
 /***/ }),
 

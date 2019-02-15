@@ -15,14 +15,14 @@
 
             <div class="flex justify-center flex-wrap md:flex-no-wrap">
                 <a href="/"
-                   class="tw-btn w-full md:w-1/4 hover:bg-yellow-lighter md:m-12 mx-6 mt-4"
+                   class="tw-btn md:w-1/4 md:m-12 mx-6 mt-4"
                    data-aos="zoom-in-up"
                 >
                     MILANO & LA ROCHELLE
                 </a>
 
                 <a href="/"
-                   class="tw-btn w-full md:w-1/4 hover:bg-yellow-lighter md:m-12 mx-6 my-8"
+                   class="tw-btn md:w-1/4 md:m-12 mx-6 my-8"
                    data-aos="zoom-in-up"
                 >
                     LISBON

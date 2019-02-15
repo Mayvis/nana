@@ -11,24 +11,17 @@
             <template slot="desc">店舗紹介</template>
         </hero-bg>
 
-        <section class="lg:mb-24 relative">
-            <div class="max-w-1000 mx-auto">
-                <div class="flex">
-                    <div class="lg:w-1/2">
-                        <figure class="lg:mb-16">
-                            <img src="/decoration/salon_1.jpg" alt="MILANO" width="427" height="330">
-                        </figure>
+        <!--    sec 01    -->
+        <section class="mb-24 relative">
+            <div class="max-w-1000 mx-auto p-4">
+                <div class="flex flex-col md:flex-row">
+                    <div
+                        class="lg:w-1/2 w-full bg-white p-16 pt-8 border border-blue-darker mb-16 md:my-16 md:mx-8 relative tw-flex-end">
+                        <h2 class="tw-header text-blue-darker">
+                            MILANO
+                        </h2>
 
-                        <figure>
-                            <img src="/decoration/salon_2.jpg" alt="MILANO" width="210" height="170">
-                        </figure>
-                    </div>
-
-                    <div class="lg:w-1/2 bg-white p-16 pt-8 border border-blue-darker lg:my-16 lg:mx-8 relative">
-                        <h2 class="text-4xl font-bold leading-loosest tracking-loosest text-black text-blue-darker tw-header relative">
-                            MILANO</h2>
-
-                        <p class="text-xs pb-8 text-grey-darker">
+                        <p class="text-xs pb-4 lg:pb-8 text-grey-darker">
                             Salon information
                         </p>
 
@@ -42,12 +35,22 @@
                         </ul>
 
                         <a href="/"
-                           class="tw-btn w-full hover:bg-yellow-lighter"
+                           class="tw-btn"
                         >
                             サロン紹介＆ご予約
                         </a>
 
                         <div class="tw-border tw-color-blue"></div>
+                    </div>
+
+                    <div class="lg:w-1/2 w-full">
+                        <figure class="mb-16">
+                            <img src="/decoration/salon_1.jpg" alt="MILANO" width="427" height="330">
+                        </figure>
+
+                        <figure>
+                            <img src="/decoration/salon_2.jpg" alt="MILANO" width="210" height="170">
+                        </figure>
                     </div>
                 </div>
             </div>
@@ -55,21 +58,12 @@
             <div class="tw-base bg-grey-lighter"></div>
         </section>
 
-        <section class="lg:mb-24 relative">
-            <div class="max-w-1000 mx-auto">
-                <div class="flex">
-                    <div class="lg:w-1/2 tw-flex-end items-end flex items-end flex-col">
-                        <figure class="lg:mb-16">
-                            <img src="/decoration/salon_3.jpg" alt="La Rochelle" width="427" height="330">
-                        </figure>
-
-                        <figure>
-                            <img src="/decoration/salon_4.jpg" alt="La Rochelle" width="210" height="170">
-                        </figure>
-                    </div>
-
-                    <div class="lg:w-1/2 bg-white p-16 pt-8 border border-gold lg:my-16 lg:mx-8 relative tw-flex-start">
-                        <h2 class="text-4xl font-bold leading-loosest tracking-loosest text-black text-gold tw-header relative">
+        <!--    sec 02    -->
+        <section class="mb-24 relative">
+            <div class="max-w-1000 mx-auto p-4">
+                <div class="flex flex-col md:flex-row">
+                    <div class="lg:w-1/2 w-full bg-white p-16 pt-8 border border-gold mb-16 md:my-16 md:mx-8 relative">
+                        <h2 class="text-4xl font-bold leading-loosest tracking-loosest text-gold tw-header relative">
                             La Rochelle
                         </h2>
 
@@ -87,12 +81,22 @@
                         </ul>
 
                         <a href="/"
-                           class="tw-btn w-full hover:bg-yellow-lighter"
+                           class="tw-btn"
                         >
                             サロン紹介＆ご予約
                         </a>
 
                         <div class="tw-border tw-color-yellow"></div>
+                    </div>
+
+                    <div class="w-full lg:w-1/2 items-end flex items-end flex-col">
+                        <figure class="mb-16">
+                            <img src="/decoration/salon_3.jpg" alt="La Rochelle" width="427" height="330">
+                        </figure>
+
+                        <figure>
+                            <img src="/decoration/salon_4.jpg" alt="La Rochelle" width="210" height="170">
+                        </figure>
                     </div>
                 </div>
             </div>
@@ -100,21 +104,12 @@
             <div class="tw-base bg-yellow-lightest"></div>
         </section>
 
-        <section class="lg:mb-24 relative">
-            <div class="max-w-1000 mx-auto">
-                <div class="flex">
-                    <div class="lg:w-1/2">
-                        <figure class="lg:mb-16">
-                            <img src="/decoration/salon_5.jpg" alt="LISBON" width="427" height="330">
-                        </figure>
-
-                        <figure>
-                            <img src="/decoration/salon_6.jpg" alt="LISBON" width="210" height="170">
-                        </figure>
-                    </div>
-
-                    <div class="lg:w-1/2 bg-white p-16 pt-8 border border-blue-lighter lg:my-16 lg:mx-8 relative">
-                        <h2 class="text-4xl font-bold leading-loosest tracking-loosest text-black text-blue-lighter tw-header relative">
+        <!--    sec 03    -->
+        <section class="mb-24 relative">
+            <div class="max-w-1000 mx-auto p-4">
+                <div class="flex flex-col md:flex-row">
+                    <div class="lg:w-1/2 w-full bg-white p-16 pt-8 border border-blue-lighter mb-16 md:my-16 md:mx-8 relative tw-flex-end">
+                        <h2 class="text-4xl font-bold leading-loosest tracking-loosest text-blue-lighter tw-header relative">
                             LISBON
                         </h2>
 
@@ -132,12 +127,22 @@
                         </ul>
 
                         <a href="/"
-                           class="tw-btn w-full hover:bg-yellow-lighter"
+                           class="tw-btn"
                         >
                             サロン紹介＆ご予約
                         </a>
 
                         <div class="tw-border tw-color-blue-lighter"></div>
+                    </div>
+
+                    <div class="lg:w-1/2 w-full">
+                        <figure class="mb-16">
+                            <img src="/decoration/salon_5.jpg" alt="LISBON" width="427" height="330">
+                        </figure>
+
+                        <figure>
+                            <img src="/decoration/salon_6.jpg" alt="LISBON" width="210" height="170">
+                        </figure>
                     </div>
                 </div>
             </div>
@@ -145,10 +150,10 @@
             <div class="tw-base bg-blue-lightest"></div>
         </section>
 
-        <section class="max-w-1000 mx-auto lg:mb-24">
+        <!--    google    -->
+        <section class="max-w-1000 mx-auto mb-24 px-4 w-full sm:w-4/5">
             <iframe src="https://www.google.com/maps/d/embed?mid=1Wwn-z48yRGrD0lOk6UrT0G6X2r71mv6W"
-                    width="1000"
-                    height="720">
+                    class="google-map">
             </iframe>
         </section>
 
@@ -163,14 +168,22 @@
 </script>
 
 <style scoped lang="scss">
-    .tw-header:after {
-        position: absolute;
-        content: '';
-        left: 0;
-        bottom: 15%;
-        width: 15%;
-        height: 1px;
-        background-color: #000;
+    .tw-header {
+        @apply text-2xl font-bold leading-loosest tracking-loosest relative;
+
+        @screen md {
+            @apply text-4xl;
+        }
+
+        &:after {
+            position: absolute;
+            content: '';
+            left: 0;
+            bottom: 15%;
+            width: 15%;
+            height: 1px;
+            background-color: #000;
+        }
     }
 
     .text-gold.tw-header:after {
@@ -215,5 +228,18 @@
     .tw-color-yellow {
         border-right: 1px solid #c3b282;
         border-bottom: 1px solid #c3b282;
+    }
+
+    .google-map {
+        width: 100%;
+        height: 360px;
+
+        @screen md {
+            height: 540px;
+        }
+
+        @screen lg {
+            height: 720px;
+        }
     }
 </style>
