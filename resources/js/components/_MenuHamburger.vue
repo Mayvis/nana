@@ -15,7 +15,7 @@
 </template>
 
 <script>
-    import MenuList from './MenuList.vue';
+    import MenuList from './_MenuList.vue';
 
     export default {
         components: {MenuList},

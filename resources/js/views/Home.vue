@@ -378,9 +378,9 @@
 </template>
 
 <script>
-    import carousel from '../components/Carousel';
+    import carousel from '../components/_Carousel';
     import hero from '../components/home/_Hero';
-    import slider from '../components/Slider';
+    import slider from '../components/_Slider';
     import cabinet from '../components/home/_Cabinet';
 
     export default {

@@ -61,7 +61,7 @@
 
 <style scoped lang="scss">
     .menu-list {
-        @apply w-full h-screen fixed pin-t pin-r align-middle z-20 overflow-y-scroll scrolling-touch bg-teal-lighter;
+        @apply w-full h-screen fixed pin-t pin-r align-middle z-20 overflow-y-scroll scrolling-touch bg-teal-lighter opacity-90;
         transition: all .4s;
         padding: 160px 50px 50px 50px;
 

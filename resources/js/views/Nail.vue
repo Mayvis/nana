@@ -11,70 +11,78 @@
             <template slot="desc">ネイル</template>
         </hero-bg>
 
-        <section class="lg:mb-24">
+        <section class="mb-24">
             <div class="max-w-1000 mx-auto flex">
-                <div class="lg:w-3/5 pl-8 pr-8">
-                    <div class="flex items-center p-4 tw-title mb-12">
-                        <span class="text-350 pl-4 pr-4">01</span>
 
-                        <h2 class="leading-normal font-sans">
-                            手に入れるのは<br>
-                            “しなやかな” 美しさ
-                        </h2>
-                    </div>
+                <essay :figure="{src: '/decoration/nail_1.jpg',
+                                 alt: '手に入れるのは“しなやかな” 美しさ',
+                                 end: true}">
+                    <template slot="article">
 
-                    <article>
-                        <h3 class="pb-6">
-                            しぐさが変わって、もっと女性らしく。<br>
-                            あなたの印象を変えるのが“ネイル”。
-                        </h3>
+                        <title-with-left-number>
+                            <template slot="num">01</template>
 
-                        <p class="pb-8">
-                            不思議なことに、ネイルをすることによって変わるのが、
-                            <span class="tw-mask">“しぐさ”</span>です。<br>
-                            指先が彩られることによって、ちょっとした動き、そして雰囲気までしなやかになり、女性らしさが加わる。日々キレイにしておくことで、ひとつの動作が丁寧になる。気持ちがもっと華やかになり、背筋がぴんと伸びる。ネイルとは女性の印象をがらりと変えるものなのです。
-                        </p>
-                    </article>
+                            <template slot="title">
+                                手に入れるのは<br>
+                                “しなやかな” 美しさ
+                            </template>
+                        </title-with-left-number>
 
-                    <article>
-                        <h3 class="pb-6">
-                            ひとりひとりの爪の形、肌の色に合わせた施術。<br>
-                            自然体の美しさで、日常生活を魅力的に。
-                        </h3>
+                        <article>
+                            <h3 class="pb-6">
+                                しぐさが変わって、もっと女性らしく。<br>
+                                あなたの印象を変えるのが“ネイル”。
+                            </h3>
 
-                        <p class="pb-8">
-                            ネイルの色は組み合わせ次第で無限に作り出すことができます。そこにお客さまひとりひとりが持つ爪の長さ・短さや肌の色を鑑み、
-                            <span class="tw-mask">女性が本来持っているかわいらしさや美しさを引き立てる表現</span>
-                            を乗せていきます。
-                        </p>
+                            <p class="pb-8">
+                                不思議なことに、ネイルをすることによって変わるのが、
+                                <span class="tw-mask">“しぐさ”</span>です。<br>
+                                指先が彩られることによって、ちょっとした動き、そして雰囲気までしなやかになり、女性らしさが加わる。日々キレイにしておくことで、ひとつの動作が丁寧になる。気持ちがもっと華やかになり、背筋がぴんと伸びる。ネイルとは女性の印象をがらりと変えるものなのです。
+                            </p>
+                        </article>
 
-                        <p class="pb-8">
-                            NANAのネイルは、
-                            <span class="tw-mask">“愛されるネイル”</span>
-                            です。恋人に限らず、友人、家族、職場のみなさんに愛される。アートでデコラティブなだけではなく、シンプル、かつナチュラルで、美しい。ひとりひとりにふさわしい、
-                            <span class="tw-mask">“愛されるネイル”</span>
-                            を提供するのが、NANAのネイルです。
-                        </p>
-                    </article>
-                </div>
+                        <article>
+                            <h3 class="pb-6">
+                                ひとりひとりの爪の形、肌の色に合わせた施術。<br>
+                                自然体の美しさで、日常生活を魅力的に。
+                            </h3>
 
-                <figure class="lg:w-2/5 p-8">
-                    <img src="/decoration/nail_1.jpg" alt="手に入れるのは“しなやかな” 美しさ">
-                </figure>
+                            <p class="pb-8">
+                                ネイルの色は組み合わせ次第で無限に作り出すことができます。そこにお客さまひとりひとりが持つ爪の長さ・短さや肌の色を鑑み、
+                                <span class="tw-mask">女性が本来持っているかわいらしさや美しさを引き立てる表現</span>
+                                を乗せていきます。
+                            </p>
+
+                            <p class="pb-8">
+                                NANAのネイルは、
+                                <span class="tw-mask">“愛されるネイル”</span>
+                                です。恋人に限らず、友人、家族、職場のみなさんに愛される。アートでデコラティブなだけではなく、シンプル、かつナチュラルで、美しい。ひとりひとりにふさわしい、
+                                <span class="tw-mask">“愛されるネイル”</span>
+                                を提供するのが、NANAのネイルです。
+                            </p>
+                        </article>
+                    </template>
+                </essay>
+
             </div>
         </section>
 
-        <section class="lg:mb-24">
+        <section class="mb-24">
+
+            <figure class="p-8 md:hidden overflow-hidden flex items-center mb-16 max-h-300">
+                <img src="/decoration/nail_2.png" alt="大切な “美容デー” を充実させて“自分らしい美しさ” を纏う">
+            </figure>
+
             <div class="max-w-1000 mx-auto flex">
-                <figure class="lg:w-2/5 p-8">
+                <figure class="lg:w-2/5 p-8 hidden md:block">
                     <img src="/decoration/nail_2.png" alt="大切な “美容デー” を充実させて“自分らしい美しさ” を纏う">
                 </figure>
 
-                <div class="lg:w-3/5 pl-10 pr-10">
+                <div class="lg:w-3/5 px-10">
                     <div class="flex items-center p-4 tw-title mb-12">
-                        <span class="text-350 pl-4 pr-4">02</span>
+                        <span class="text-2xl md:text-350 px-4">02</span>
 
-                        <h2 class="leading-normal font-sans">
+                        <h2 class="leading-normal font-sans text-base sm:text-lg md:text-2xl">
                             大切な“美容デー”を充実させて<br>
                             “自分らしい美しさ”を纏う
                         </h2>
@@ -129,54 +137,46 @@
             </div>
         </section>
 
-        <section class="lg:mb-24">
-            <div class="max-w-1000 mx-auto">
-                <div class="max-w-1000 mx-auto">
+        <section class="mb-24">
+            <div class="max-w-1000 mx-auto px-4">
+                <title-with-word>
+                    <template slot="sub">INSTAGRAM</template>
 
-                    <div class="tw-title text-center relative lg:mb-16">
-                        <span class="text-sm tracking-loose absolute sub-title">INSTAGRAM</span>
+                    <template slot="title">NANA COLLECTION</template>
+                </title-with-word>
 
-                        <h2 class="leading-normal font-san tracking-wider text-sm p-8 pt-16">NANA COLLECTION</h2>
-                    </div>
+                <div class="text-center mb-8 md:mb-16">
+                    FOLLOW <a href="/">@nana_nail_lisbon !</a>
+                </div>
 
-                    <div class="text-center lg:mb-16">
-                        FOLLOW <a href="/">@nana_nail_lisbon !</a>
-                    </div>
+                <collection limit="0"></collection>
 
-                    <div class="flex flex-wrap lg:mb-24">
-                        <figure v-for="image in images" class="w-1/5 align-bottom p-2">
-                            <img :src="image" alt="instagram">
-                        </figure>
-                    </div>
+                <div class="flex my-24">
+                    <p class="lg:w-1/12 relative">
+                        <span class="ref-title text-2xl tracking-loose leading-loose border-b-2 border-black">
+                            RESERVATION!
+                        </span>
+                    </p>
 
-                    <div class="flex lg:mb-16">
-                        <p class="lg:w-1/12 relative">
-                            <span class="ref-title text-2xl tracking-loose leading-loose border-b-2 border-black">
-                                RESERVATION!
-                            </span>
-                        </p>
-
-                        <div class="p-16 bg-teal-lightest lg:w-11/12">
-                            <div class="flex flex-wrap">
-                                <p class="w-full text-center text-sm font-bold pt-8">
-                                    NAIL RESERVATION<br>
-                                    <span
-                                        class="tracking-wider text-black pb-8 text-grey-darker font-fotura font-normal text-xs"
-                                    >
+                    <div class="p-16 bg-teal-lightest w-full lg:w-11/12">
+                        <div class="flex flex-wrap">
+                            <p class="w-full text-center text-sm font-bold pt-8">
+                                NAIL RESERVATION<br>
+                                <span
+                                    class="tracking-wider text-black pb-8 text-grey-darker font-fotura font-normal text-xs"
+                                >
                                         ( HOTPEPPER Beautyへリンクします )</span>
-                                </p>
+                            </p>
 
-                                <div class="w-full flex justify-center">
-                                    <a href="https://beauty.hotpepper.jp/kr/slnH000248220/review/"
-                                       class="tw-btn w-1/2 hover:bg-yellow-lighter m-8">
-                                        ネイルのご予約はこちら
-                                    </a>
-                                </div>
+                            <div class="w-full flex justify-center">
+                                <a href="https://beauty.hotpepper.jp/kr/slnH000248220/review/"
+                                   class="tw-btn w-1/2 hover:bg-yellow-lighter m-8">
+                                    ネイルのご予約はこちら
+                                </a>
                             </div>
-
                         </div>
-                    </div>
 
+                    </div>
                 </div>
             </div>
         </section>
@@ -188,28 +188,13 @@
 </template>
 
 <script>
+    import collection from '../components/_Collection';
+    import essay from '../components/_Essay';
+    import titleWithLeftNumber from '../components/_TitleWithLeftNumber';
+    import titleWithWord from '../components/_TitleWithWord';
+
     export default {
-        data() {
-            return {
-                images: [],
-            }
-        },
-
-        mounted() {
-            this.init();
-        },
-
-        methods: {
-            init() {
-                const accessToken = '10852513017.c1b883c.3ebd9833bd2840f8be1e0d808949afd2';
-
-                window.$.get("https://api.instagram.com/v1/users/self/media/recent/?access_token=" + accessToken, res => {
-                    window.$.each(res.data, index => {
-                        this.images.push(res.data[index].images.standard_resolution.url);
-                    });
-                });
-            }
-        },
+        components: {collection, essay, titleWithLeftNumber, titleWithWord},
     }
 </script>
 
@@ -219,5 +204,14 @@
         top: 30%;
         left: 50%;
         transform: translateX(-50%);
+    }
+
+    .ref-title {
+        @apply text-2xl tracking-loose leading-loose border-b-2 border-black absolute pin-l pin-t;
+        transform: translateY(-100%);
+
+        @screen md {
+            top: 20px;
+        }
     }
 </style>

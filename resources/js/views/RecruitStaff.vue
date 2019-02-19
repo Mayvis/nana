@@ -13,40 +13,47 @@
 
         <links></links>
 
-        <section class="lg:mb-24">
-            <div class="max-w-1000 mx-auto border-b border-grey-light">
+        <section class="mb-24">
+            <div class="max-w-1000 mx-auto px-4">
+                <title-with-word>
+                    <template slot="sub">STAFF VOICE</template>
 
-                <div class="tw-title text-center relative lg:mb-16">
-                    <span class="text-sm tracking-loose font-light absolute sub-title">STAFF VOICE</span>
+                    <template slot="title">NANAで働くスタッフに<br class="inline-block sm:hidden">
+                        インタビューをしました。
+                    </template>
+                </title-with-word>
+            </div>
+        </section>
 
-                    <h2 class="leading-normal font-san tracking-wider text-normal p-8 pt-16">
-                        NANAで働くスタッフにインタビューをしました。</h2>
-                </div>
-
-                <div class="flex sm:flex-wrap sm:justify-center">
-                    <figure class="lg:w-2/5 pr-8">
-                        <img src="/staff/JUNNA.jpg" alt="JUNNA">
-                    </figure>
-
-                    <div class="lg:w-3/5 sm:w-full pl-8 lg:mb-16">
+        <!--    sec 01    -->
+        <section class="mb-24">
+            <div class="max-w-1000 mx-auto px-4 border-b border-grey-light">
+                <essay :figure="{src: '/staff/JUNNA.jpg',
+                                 alt: 'JANNA',
+                                 end: false}"
+                >
+                    <template slot="article">
                         <h2 class="tracking-wide leading-normal text-4xl font-adobe pb-6 mb-8">
                             #JUNNA<br>
 
                             <span class="text-sm font-adobe tracking-loose leading-loose font-normal relative tw-bar">
-                                施術歴3年 チーフ
-                            </span>
+                            施術歴3年 チーフ
+                        </span>
                         </h2>
 
                         <article class="pb-4">
-                            <h6 class="tw-mask inline-block text-sm font-adobe tracking-loose">NANAに入社した理由はなんですか？</h6>
+                            <h6 class="text-sm font-adobe tracking-loose">
+                                <span class="tw-mask">NANAに入社した理由はなんですか？</span>
+                            </h6>
+
                             <p class="py-4">
                                 未経験でも採用してくれる場所を探していたところ、NANAの募集を見かけました。口コミが多かったし、内容も良いものばかりだったので信頼できるお店だ、と思って応募しました。未経験でもお給料が他のお店よりも高かったことも、大きなポイントでしたね。NANAではお弁当が支給されるので、さらにお財布的にとても助かっています！
                             </p>
                         </article>
 
                         <article class="pb-4">
-                            <h6 class="tw-mask inline-block text-sm font-adobe tracking-loose">
-                                会社の教育制度についてどのように感じていますか？
+                            <h6 class="text-sm font-adobe tracking-loose">
+                                <span class="tw-mask">会社の教育制度についてどのように感じていますか？</span>
                             </h6>
 
                             <p class="py-4">
@@ -56,39 +63,37 @@
 
                         <article class="pb-4">
                             <h6 class="tw-mask inline-block text-sm font-adobe tracking-loose">
-                                働いていて“楽しい”と感じるのはどんな時ですか？
+                                <span class="tw-mask">働いていて“楽しい”と感じるのはどんな時ですか？</span>
                             </h6>
 
                             <p class="py-4">
                                 施術自体が楽しいです！丁寧にお客さまのご要望やイメージにあわせてつけていく時が、本当に楽しい瞬間ですね。
                             </p>
                         </article>
-                    </div>
-                </div>
-
+                    </template>
+                </essay>
             </div>
         </section>
 
-        <section class="lg:mb-24">
-            <div class="max-w-1000 mx-auto border-b border-grey-light">
-
-                <div class="flex sm:flex-wrap sm:justify-center">
-                    <figure class="lg:w-2/5 pl-8 tw-flex-end">
-                        <img src="/staff/EMINA.jpg" alt="EMINA">
-                    </figure>
-
-                    <div class="lg:w-3/5 sm:w-full pl-8 lg:mb-16">
+        <!--    sec 02    -->
+        <section class="mb-24">
+            <div class="max-w-1000 mx-auto px-4 border-b border-grey-light">
+                <essay :figure="{src: '/staff/EMINA.jpg',
+                                 alt: 'EMINA',
+                                 end: true}"
+                >
+                    <template slot="article">
                         <h2 class="tracking-wide leading-normal text-4xl font-adobe pb-6 mb-8">
                             #EMINA<br>
 
                             <span class="text-sm font-adobe tracking-loose leading-loose font-normal relative tw-bar">
-                                施術歴4年 チーフ
-                            </span>
+                        施術歴4年 チーフ
+                    </span>
                         </h2>
 
                         <article class="pb-4">
-                            <h6 class="tw-mask inline-block text-sm font-adobe tracking-loose">
-                                NANAに入社した理由はなんですか？
+                            <h6 class="text-sm font-adobe tracking-loose">
+                                <span class="tw-mask">NANAに入社した理由はなんですか？</span>
                             </h6>
 
                             <p class="py-4">
@@ -97,8 +102,8 @@
                         </article>
 
                         <article class="pb-4">
-                            <h6 class="tw-mask inline-block text-sm font-adobe tracking-loose">
-                                会社の教育制度についてどのように感じていますか？
+                            <h6 class="text-sm font-adobe tracking-loose">
+                                <span class="tw-mask">会社の教育制度についてどのように感じていますか？</span>
                             </h6>
 
                             <p class="py-4">
@@ -107,39 +112,40 @@
                         </article>
 
                         <article class="pb-4">
-                            <h6 class="tw-mask inline-block text-sm font-adobe tracking-loose">
-                                働いていて“楽しい”と感じるのはどんな時ですか？
+                            <h6 class="text-sm font-adobe tracking-loose">
+                                <span class="tw-mask">働いていて“楽しい”と感じるのはどんな時ですか？</span>
                             </h6>
 
                             <p class="py-4">
                                 キレイな仕上がりにできた時です！　やっぱりお客さまに喜んでもらえるのが一番嬉しいです。
                             </p>
                         </article>
-                    </div>
-                </div>
-
+                    </template>
+                </essay>
             </div>
         </section>
 
-        <section class="lg:mb-24">
-            <div class="max-w-1000 mx-auto border-b border-grey-light">
+        <!--    sec 03    -->
+        <section class="mb-24">
+            <div class="max-w-1000 mx-auto px-4 border-b border-grey-light">
 
-                <div class="flex sm:flex-wrap sm:justify-center">
-                    <figure class="lg:w-2/5 pr-8">
-                        <img src="/staff/NATSUMI.jpg" alt="NATSUMI">
-                    </figure>
-
-                    <div class="lg:w-3/5 sm:w-full pl-8 lg:mb-16">
+                <essay :figure="{src: '/staff/NATSUMI.jpg',
+                                 alt: 'NATSUMI',
+                                 end: false}"
+                >
+                    <template slot="article">
                         <h2 class="tracking-wide leading-normal text-4xl font-adobe pb-6 mb-8">
                             #NATSUMI<br>
 
                             <span class="text-sm font-adobe tracking-loose leading-loose font-normal relative tw-bar">
-                                施術歴3年 チーフ
-                            </span>
+                        施術歴3年 チーフ
+                    </span>
                         </h2>
 
                         <article class="pb-4">
-                            <h6 class="tw-mask inline-block text-sm font-adobe tracking-loose">NANAに入社した理由はなんですか？</h6>
+                            <h6 class="text-sm font-adobe tracking-loose">
+                                <span class="tw-mask ">NANAに入社した理由はなんですか？</span>
+                            </h6>
 
                             <p class="py-4">
                                 美容師免許を持っているので、それを活かしたかったんです。それと、以前は大型チェーン店にいたので、意見とかも通りにくかったり、上下関係に疲れていたりもしました。NANAだと人数も少なくて、社長にもすぐに意見が通る環境だと感じたので応募しました。
@@ -147,8 +153,8 @@
                         </article>
 
                         <article class="pb-4">
-                            <h6 class="tw-mask inline-block text-sm font-adobe tracking-loose">
-                                会社の教育制度についてどのように感じていますか？
+                            <h6 class="text-sm font-adobe tracking-loose">
+                                <span class="tw-mask">会社の教育制度についてどのように感じていますか？</span>
                             </h6>
 
                             <p class="py-4">
@@ -157,40 +163,40 @@
                         </article>
 
                         <article class="pb-4">
-                            <h6 class="tw-mask inline-block text-sm font-adobe tracking-loose">
-                                働いていて“楽しい”と感じるのはどんな時ですか？
+                            <h6 class="text-sm font-adobe tracking-loose">
+                                <span class="tw-mask">働いていて“楽しい”と感じるのはどんな時ですか？</span>
                             </h6>
 
                             <p class="py-4">
                                 スタッフ同士の仲がいいんです。嘘みたいに聞こえるかもしれないけど、これは本当で。スタッフ同士で施術し合うことがNANAではできるんですけど、その時に他のチーフや店長から指名されたら「よっしゃ！」と思います。やっぱりみんなそれぞれ技術が高いので、その中から選んでもらえるのは嬉しいです。もちろんそれはお客さまも同じで、「キレイにしてもらってありがとう」とか言っていただくと、頑張ってよかった！って本当に感じます。
                             </p>
                         </article>
-                    </div>
-                </div>
+                    </template>
+                </essay>
 
             </div>
         </section>
 
-        <section class="lg:mb-24">
-            <div class="max-w-1000 mx-auto border-b border-grey-light">
-
-                <div class="flex sm:flex-wrap sm:justify-center">
-                    <figure class="lg:w-2/5 pl-8 tw-flex-end">
-                        <img src="/staff/AKKO.jpg" alt="AKKO">
-                    </figure>
-
-                    <div class="lg:w-3/5 sm:w-full pl-8 lg:mb-16">
+        <!--    sec 04    -->
+        <section class="mb-24">
+            <div class="max-w-1000 mx-auto px-4 border-b border-grey-light">
+                <essay :figure="{src: '/staff/AKKO.jpg',
+                                 alt: 'AKKO',
+                                 end: true}"
+                >
+                    <template slot="article">
                         <h2 class="tracking-wide leading-normal text-4xl font-adobe pb-6 mb-8">
                             #AKKO<br>
 
-                            <span class="text-sm font-adobe tracking-loose leading-loose font-normal relative tw-bar">
+                            <span
+                                class="text-sm inline-block font-adobe tracking-loose leading-loose font-normal relative tw-bar">
                                 施術歴4年 チーフ
                             </span>
                         </h2>
 
                         <article class="pb-4">
-                            <h6 class="tw-mask inline-block text-sm font-adobe tracking-loose">
-                                NANAに入社した理由はなんですか？
+                            <h6 class="text-sm font-adobe tracking-loose">
+                                <span class="tw-mask">NANAに入社した理由はなんですか？</span>
                             </h6>
 
                             <p class="py-4">
@@ -199,8 +205,8 @@
                         </article>
 
                         <article class="pb-4">
-                            <h6 class="tw-mask inline-block text-sm font-adobe tracking-loose">
-                                会社の教育制度についてどのように感じていますか？
+                            <h6 class="text-sm font-adobe tracking-loose">
+                                <span class="tw-mask">会社の教育制度についてどのように感じていますか？</span>
                             </h6>
 
                             <p class="py-4">
@@ -209,45 +215,24 @@
                         </article>
 
                         <article class="pb-4">
-                            <h6 class="tw-mask inline-block text-sm font-adobe tracking-loose">
-                                働いていて“楽しい”と感じるのはどんな時ですか？
+                            <h6 class="text-sm font-adobe tracking-loose">
+                                <span class="tw-mask">働いていて“楽しい”と感じるのはどんな時ですか？</span>
                             </h6>
 
                             <p class="py-4">
                                 お客さまに頼ってもらった時です！「ノープランで来たんですけど」と言われても、「じゃあこうしましょう！」って提案ができて、それを喜んでもらえるんです。お客さまとコミュニケーションを取りながら仕事ができるのは、本当に楽しいです。
                             </p>
                         </article>
-                    </div>
-                </div>
-
+                    </template>
+                </essay>
             </div>
         </section>
 
-        <section class="lg:mb-24 mx-auto max-w-1000">
-            <div class="flex lg:mb-16">
-                <p class="lg:w-1/12 relative">
-                        <span
-                            class="ref-title text-2xl tracking-loose leading-loose border-b-2 border-black">ENTRY!</span>
-                </p>
-
-                <div class="p-16 bg-teal-lightest lg:w-11/12">
-                    <div class="flex flex-col">
-                        <p class="text-center pt-4">
-                            それぞれの個性で “お客様を美しく”。<br>
-                            NANAで働きたいという方のご応募を心よりお待ちしております。
-                        </p>
-
-                        <div class="w-full flex justify-center">
-                            <a href="https://beauty.hotpepper.jp/kr/slnH000248220/review/"
-                               class="tw-btn w-1/2 hover:bg-yellow-lighter m-8">
-                                ネイルのご予約はこちら
-                            </a>
-                        </div>
-                    </div>
-
-                </div>
-            </div>
-        </section>
+        <recruit-reserve link="https://beauty.hotpepper.jp/kr/slnH000248220/review/">
+            <template slot="btn-name">
+                ネイルのご予約はこちら
+            </template>
+        </recruit-reserve>
 
         <links></links>
 
@@ -259,35 +244,16 @@
 
 <script>
     import links from '../components/recruit/_Links';
+    import titleWithWord from '../components/_TitleWithWord';
+    import recruitReserve from '../components/recruit/_Reserve';
+    import essay from '../components/_Essay';
 
     export default {
-        components: {links},
+        components: {links, titleWithWord, recruitReserve, essay},
     }
 </script>
 
 <style scoped lang="scss">
-    .tw-recruit {
-        @apply w-1/2 p-8 border-t border-grey-light mr-4 text-sm text-grey-darkest relative;
-
-        &:after {
-            content: '';
-            position: absolute;
-            background: url('/icon/harpoon.png') right center/12px 4px no-repeat;
-            width: 20px;
-            height: 4px;
-            right: 8px;
-            top: 50%;
-            transform: translateY(-50%);
-        }
-    }
-
-    .sub-title {
-        position: absolute;
-        top: 30%;
-        left: 50%;
-        transform: translateX(-50%);
-    }
-
     .tw-bar:after {
         content: '';
         position: absolute;

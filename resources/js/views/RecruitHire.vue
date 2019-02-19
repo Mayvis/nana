@@ -13,13 +13,14 @@
 
         <links></links>
 
-        <section class="lg:mb-24 max-w-1000 mx-auto">
-            <div class="tw-title text-center relative lg:mb-16">
-                <span class="text-sm tracking-loose font-light absolute sub-title">RECRUIT</span>
+        <!--    main    -->
+        <section class="mb-24 max-w-1000 mx-auto px-4">
 
-                <h2 class="leading-normal font-san tracking-wider text-normal p-8 pt-16">
-                    募集要項</h2>
-            </div>
+            <title-with-word>
+                <template slot="sub">RECRUIT</template>
+
+                <template slot="title">募集要項</template>
+            </title-with-word>
 
             <div>
                 <table class="tw-table">
@@ -81,9 +82,9 @@
                         <th>昇給・賞与</th>
                         <td>
                             ◎賞与/年4回（現状毎年支給しております）<br>
-                             評価制度に基づき1回につき3~15万円の支給あり<br>
-                             2019年には賞与を年2回<br>
-                             月給一ヶ月以上を支給できるようただ今準備中です。<br>
+                            評価制度に基づき1回につき3~15万円の支給あり<br>
+                            2019年には賞与を年2回<br>
+                            月給一ヶ月以上を支給できるようただ今準備中です。<br>
                             ◎昇給賞与　必ず年1回2000円
                         </td>
                     </tr>
@@ -99,31 +100,11 @@
             </div>
         </section>
 
-        <section class="lg:mb-24 mx-auto max-w-1000">
-            <div class="flex lg:mb-16">
-                <p class="lg:w-1/12 relative">
-                        <span
-                            class="ref-title text-2xl tracking-loose leading-loose border-b-2 border-black">ENTRY!</span>
-                </p>
-
-                <div class="p-16 bg-teal-lightest lg:w-11/12">
-                    <div class="flex flex-col">
-                        <p class="text-center pt-4">
-                            それぞれの個性で “お客様を美しく”。<br>
-                            NANAで働きたいという方のご応募を心よりお待ちしております。
-                        </p>
-
-                        <div class="w-full flex justify-center">
-                            <a href="https://beauty.hotpepper.jp/kr/slnH000248220/review/"
-                               class="tw-btn w-1/2 hover:bg-yellow-lighter m-8">
-                                ネイルのご予約はこちら
-                            </a>
-                        </div>
-                    </div>
-
-                </div>
-            </div>
-        </section>
+        <recruitReserve link="https://work.salonboard.com/kr/slnH000364510/">
+            <template slot="btn-name">
+                エントリーはこちらから
+            </template>
+        </recruitReserve>
 
         <links></links>
 
@@ -135,9 +116,11 @@
 
 <script>
     import links from '../components/recruit/_Links';
+    import titleWithWord from '../components/_TitleWithWord';
+    import recruitReserve from '../components/recruit/_Reserve';
 
     export default {
-        components: {links},
+        components: {links, titleWithWord, recruitReserve},
     }
 </script>
 
@@ -157,15 +140,21 @@
         }
     }
 
-    .sub-title {
-        position: absolute;
-        top: 30%;
-        left: 50%;
-        transform: translateX(-50%);
+    .ref-title {
+        @apply text-2xl tracking-loose leading-loose border-b-2 border-black absolute pin-l pin-t;
+        transform: translateY(-100%);
+
+        @screen md {
+            top: 20px;
+        }
     }
 
     .tw-table {
-        @apply text-sm;
+        @apply text-xs;
+
+        @screen md {
+            @apply text-sm;
+        }
 
         tr {
             @apply border-b border-grey-light leading-normal tracking-wider;

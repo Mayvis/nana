@@ -13,14 +13,14 @@
 
         <links></links>
 
-        <section class="lg:mb-24">
-            <div class="max-w-1000 mx-auto">
+        <section class="mb-24">
+            <div class="max-w-1000 mx-auto px-4">
 
-                <div class="tw-title text-center relative lg:mb-16">
-                    <span class="font-fotura leading-loose tracking-loose absolute sub-title font-sm">EYELASH CARE</span>
+                <title-with-word>
+                    <template slot="sub">EYELASH CARE</template>
 
-                    <h2 class="leading-normal font-san p-8 pt-12">“非常に便利なマツエクですが、お手入れには注意が必要な点もあります。</h2>
-                </div>
+                    <template slot="title">“非常に便利なマツエクですが、お手入れには注意が必要な点もあります。</template>
+                </title-with-word>
 
                 <div class="flex items-center justify-center lg:mb-16">
                     <p class="text-center text-light">
@@ -32,8 +32,8 @@
                 </div>
 
                 <div>
-                    <div class="flex">
-                        <div class="tw-flex-size p-8">
+                    <div class="flex flex-col md:flex-row">
+                        <div class="w-full md:w-1/2 md:p-8">
                             <figure class="flex justify-center items-center bg-grey-lighter mb-8 h-200">
                                 <img src="/icon/decoration_3.png" alt="オイルクレンジングは使用しない" width="46" height="92">
                             </figure>
@@ -51,7 +51,7 @@
                             </article>
                         </div>
 
-                        <div class="tw-flex-size p-8">
+                        <div class="w-full md:w-1/2 md:p-8">
                             <figure class="flex justify-center items-center bg-grey-lighter mb-8 h-200">
                                 <img src="/icon/decoration_4.png" alt="優しく乾かす" width="93" height="67">
                             </figure>
@@ -70,8 +70,8 @@
                         </div>
                     </div>
 
-                    <div class="flex">
-                        <div class="tw-flex-size p-8">
+                    <div class="flex flex-col md:flex-row">
+                        <div class="w-full md:w-1/2 md:p-8">
                             <figure class="flex justify-center items-center bg-grey-lighter mb-8 h-200">
                                 <img src="/icon/decoration_3.png" alt="オイルクレンジングは使用しない" width="46" height="92">
                             </figure>
@@ -89,7 +89,7 @@
                             </article>
                         </div>
 
-                        <div class="tw-flex-size p-8">
+                        <div class="w-full md:w-1/2 md:p-8">
                             <figure class="flex justify-center items-center bg-grey-lighter mb-8 h-200">
                                 <img src="/icon/decoration_4.png" alt="優しく乾かす" width="93" height="67">
                             </figure>
@@ -122,25 +122,14 @@
 
 <script>
     import links from '../components/beauty/_Links';
+    import titleWithWord from '../components/_TitleWithWord';
 
     export default {
-        components: {links},
+        components: {links, titleWithWord},
     }
 </script>
 
 <style scoped lang="scss">
-    .sub-title {
-        position: absolute;
-        top: 30%;
-        left: 50%;
-        transform: translate(-50%, -50%);
-    }
-
-    .tw-flex-size {
-        flex-grow: 1;
-        flex-basis: 0;
-    }
-
     .tw-price-table {
         @apply text-sm leading-loose tracking-loose;
 

@@ -3721,6 +3721,14 @@ table {
   margin-left: 1px;
 }
 
+.max-h-280 {
+  max-height: 280px;
+}
+
+.max-h-300 {
+  max-height: 300px;
+}
+
 .max-h-full {
   max-height: 100%;
 }
@@ -3729,8 +3737,20 @@ table {
   max-height: 100vh;
 }
 
+.max-h-none {
+  max-height: none;
+}
+
 .max-w-600 {
   max-width: 600px;
+}
+
+.max-w-720 {
+  max-width: 720px;
+}
+
+.max-w-920 {
+  max-width: 920px;
 }
 
 .max-w-1000 {
@@ -4299,6 +4319,10 @@ table {
 
 .opacity-75 {
   opacity: .75;
+}
+
+.opacity-90 {
+  opacity: .9;
 }
 
 .opacity-100 {
@@ -6548,20 +6572,29 @@ h6 {
 p {
   letter-spacing: .15em;
   line-height: 2;
-  font-size: 13px;
+  font-size: .75rem;
   color: #3d4852;
+}
+
+@media (min-width: 768px) {
+  p {
+    font-size: 13px;
+  }
 }
 
 h3 {
   letter-spacing: 0;
   line-height: 2;
-  font-size: 1rem;
+  font-size: .875rem;
   color: #67a2b7;
+  font-weight: 500;
 }
 
 @media (min-width: 768px) {
   h3 {
     letter-spacing: .2em;
+    font-size: 1rem;
+    font-weight: 600;
   }
 }
 
@@ -9837,6 +9870,14 @@ main {
     margin-left: 1px;
   }
 
+  .sm\:max-h-280 {
+    max-height: 280px;
+  }
+
+  .sm\:max-h-300 {
+    max-height: 300px;
+  }
+
   .sm\:max-h-full {
     max-height: 100%;
   }
@@ -9845,8 +9886,20 @@ main {
     max-height: 100vh;
   }
 
+  .sm\:max-h-none {
+    max-height: none;
+  }
+
   .sm\:max-w-600 {
     max-width: 600px;
+  }
+
+  .sm\:max-w-720 {
+    max-width: 720px;
+  }
+
+  .sm\:max-w-920 {
+    max-width: 920px;
   }
 
   .sm\:max-w-1000 {
@@ -10415,6 +10468,10 @@ main {
 
   .sm\:opacity-75 {
     opacity: .75;
+  }
+
+  .sm\:opacity-90 {
+    opacity: .9;
   }
 
   .sm\:opacity-100 {
@@ -15789,6 +15846,14 @@ main {
     margin-left: 1px;
   }
 
+  .md\:max-h-280 {
+    max-height: 280px;
+  }
+
+  .md\:max-h-300 {
+    max-height: 300px;
+  }
+
   .md\:max-h-full {
     max-height: 100%;
   }
@@ -15797,8 +15862,20 @@ main {
     max-height: 100vh;
   }
 
+  .md\:max-h-none {
+    max-height: none;
+  }
+
   .md\:max-w-600 {
     max-width: 600px;
+  }
+
+  .md\:max-w-720 {
+    max-width: 720px;
+  }
+
+  .md\:max-w-920 {
+    max-width: 920px;
   }
 
   .md\:max-w-1000 {
@@ -16367,6 +16444,10 @@ main {
 
   .md\:opacity-75 {
     opacity: .75;
+  }
+
+  .md\:opacity-90 {
+    opacity: .9;
   }
 
   .md\:opacity-100 {
@@ -21741,6 +21822,14 @@ main {
     margin-left: 1px;
   }
 
+  .lg\:max-h-280 {
+    max-height: 280px;
+  }
+
+  .lg\:max-h-300 {
+    max-height: 300px;
+  }
+
   .lg\:max-h-full {
     max-height: 100%;
   }
@@ -21749,8 +21838,20 @@ main {
     max-height: 100vh;
   }
 
+  .lg\:max-h-none {
+    max-height: none;
+  }
+
   .lg\:max-w-600 {
     max-width: 600px;
+  }
+
+  .lg\:max-w-720 {
+    max-width: 720px;
+  }
+
+  .lg\:max-w-920 {
+    max-width: 920px;
   }
 
   .lg\:max-w-1000 {
@@ -22319,6 +22420,10 @@ main {
 
   .lg\:opacity-75 {
     opacity: .75;
+  }
+
+  .lg\:opacity-90 {
+    opacity: .9;
   }
 
   .lg\:opacity-100 {
@@ -27693,6 +27798,14 @@ main {
     margin-left: 1px;
   }
 
+  .xl\:max-h-280 {
+    max-height: 280px;
+  }
+
+  .xl\:max-h-300 {
+    max-height: 300px;
+  }
+
   .xl\:max-h-full {
     max-height: 100%;
   }
@@ -27701,8 +27814,20 @@ main {
     max-height: 100vh;
   }
 
+  .xl\:max-h-none {
+    max-height: none;
+  }
+
   .xl\:max-w-600 {
     max-width: 600px;
+  }
+
+  .xl\:max-w-720 {
+    max-width: 720px;
+  }
+
+  .xl\:max-w-920 {
+    max-width: 920px;
   }
 
   .xl\:max-w-1000 {
@@ -28271,6 +28396,10 @@ main {
 
   .xl\:opacity-75 {
     opacity: .75;
+  }
+
+  .xl\:opacity-90 {
+    opacity: .9;
   }
 
   .xl\:opacity-100 {
@@ -33645,6 +33774,14 @@ main {
     margin-left: 1px;
   }
 
+  .xxl\:max-h-280 {
+    max-height: 280px;
+  }
+
+  .xxl\:max-h-300 {
+    max-height: 300px;
+  }
+
   .xxl\:max-h-full {
     max-height: 100%;
   }
@@ -33653,8 +33790,20 @@ main {
     max-height: 100vh;
   }
 
+  .xxl\:max-h-none {
+    max-height: none;
+  }
+
   .xxl\:max-w-600 {
     max-width: 600px;
+  }
+
+  .xxl\:max-w-720 {
+    max-width: 720px;
+  }
+
+  .xxl\:max-w-920 {
+    max-width: 920px;
   }
 
   .xxl\:max-w-1000 {
@@ -34223,6 +34372,10 @@ main {
 
   .xxl\:opacity-75 {
     opacity: .75;
+  }
+
+  .xxl\:opacity-90 {
+    opacity: .9;
   }
 
   .xxl\:opacity-100 {

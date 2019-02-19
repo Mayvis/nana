@@ -14,21 +14,22 @@
         <links></links>
 
         <!--   01    -->
-        <section class="lg:mb-24">
-            <div class="max-w-1000 mx-auto">
+        <section class="sm:mb-24 mb-8">
+            <div class="max-w-1000 mx-auto px-4">
+                <title-with-top-number>
+                    <template slot="num">01</template>
 
-                <div class="tw-title text-center relative lg:mb-16">
-                    <span class="text-350 absolute sub-title">01</span>
+                    <template slot="title">
+                        “愛されネイル”で気持ちを
+                    </template>
+                </title-with-top-number>
 
-                    <h2 class="leading-normal font-san p-8">“愛されネイル”で気持ちを</h2>
-                </div>
-
-                <div class="flex sm:flex-wrap sm:justify-center px-4">
-                    <figure class="lg:w-1/3 pl-8 tw-flex-end">
-                        <img src="/decoration/beauty/beauty_3.jpg" alt="“愛されネイル”で気持ちを上げて、一歩踏み出そう">
-                    </figure>
-
-                    <div class="lg:w-2/3 sm:w-full pr-8 lg:mb-16">
+                <essay :figure="{src: '/decoration/beauty/beauty_3.jpg',
+                                 alt: '“愛されネイル”で気持ちを上げて、一歩踏み出そう',
+                                 one_third: true,
+                                 end: true}"
+                >
+                    <template slot="article">
                         <article>
                             <h3 class="pb-6">
                                 季節、イベント、髪型に合わせたデザイン。<br>
@@ -51,7 +52,7 @@
                         <article>
                             <h3 class="pb-6">
                                 ネイリストと話す至福の時間。<br>
-                                ネイルは勇気をもらって一歩踏み出す大切なアイテム。
+                                ネイルは勇気をもらって<br class="md:hidden">一歩踏み出す大切なアイテム。
                             </h3>
 
                             <p class="pb-8">
@@ -62,27 +63,28 @@
                                 が、そのネイルにこめられています。
                             </p>
                         </article>
-                    </div>
+                    </template>
+                </essay>
 
-                </div>
             </div>
         </section>
 
         <!--    02    -->
-        <section class="lg:mb-24">
-            <div class="max-w-1000 mx-auto">
+        <section class="sm:mb-24 mb-16">
+            <div class="max-w-1000 mx-auto px-4">
+                <title-with-top-number>
+                    <template slot="num">02</template>
 
-                <div class="tw-title text-center relative lg:mb-16">
-                    <span class="text-350 absolute sub-title">02</span>
-                    <h2 class="leading-normal font-san p-8">セルフネイルじゃダメ？プロに任せる理由とは</h2>
-                </div>
+                    <template slot="title">
+                        セルフネイルじゃダメ？プロに任せる理由とは
+                    </template>
+                </title-with-top-number>
 
-                <div class="flex sm:flex-wrap sm:justify-center px-4">
-                    <figure class="lg:w-1/3 pr-8">
-                        <img src="/decoration/beauty/beauty_4.jpg" alt="セルフネイルじゃダメ？プロに任せる理由とは">
-                    </figure>
-
-                    <div class="lg:w-2/3 sm:w-full pl-8 lg:mb-16">
+                <essay :figure="{src: '/decoration/beauty/beauty_4.jpg',
+                                 alt: 'セルフネイルじゃダメ？プロに任せる理由とは',
+                                 one_third: true,
+                                 end: false}">
+                    <template slot="article">
                         <article>
                             <h3 class="pb-6">
                                 アートもカラーも思いのまま。<br>
@@ -107,25 +109,25 @@
                                 も、大きな魅力です。
                             </p>
                         </article>
-                    </div>
+                    </template>
+                </essay>
 
-                </div>
-
-                <div class="flex">
+                <div class="flex mt-16 md:mt-0 mx-4">
                     <p class="lg:w-1/12 relative">
                         <span
                             class="ref-title text-2xl tracking-loose leading-loose border-b-2 border-black">CHECK!</span>
                     </p>
 
-                    <div class="p-16 bg-grey-lighter lg:w-11/12 flex justify-center">
+                    <div class="p-2 sm:p-8 lg:p-16 bg-grey-lighter w-full lg:w-11/12 flex justify-center">
                         <table class="tw-price-table">
                             <tr>
                                 <th></th>
                                 <th>
-                                    <span class="tw-name relative inline-block px-8 bg-yellow-light">サロンネイル</span>
+                                    <span class="tw-name relative inline-block px-2 sm:px-4 lg:px-8 bg-yellow-light">サロンネイル</span>
                                 </th>
                                 <th>
-                                    <span class="tw-name relative inline-block px-8 bg-white">セルフネイル</span>
+                                    <span
+                                        class="tw-name relative inline-block px-2 sm:px-4 lg:px-8 bg-white">セルフネイル</span>
                                 </th>
                             </tr>
                             <tr>
@@ -149,7 +151,9 @@
                                 <td>○</td>
                             </tr>
                             <tr>
-                                <th>ネイルの持ち・崩れにくさ</th>
+                                <th>ネイルの持ち<br class="md:hidden"><span class="hidden md:inline-block">・</span>
+                                    崩れにくさ
+                                </th>
                                 <td>○</td>
                                 <td>△</td>
                             </tr>
@@ -171,21 +175,22 @@
         </section>
 
         <!--    03    -->
-        <section class="lg:mb-24">
-            <div class="max-w-1000 mx-auto">
+        <section class="sm:mb-24 mb-8">
+            <div class="max-w-1000 mx-auto px-4">
 
-                <div class="tw-title text-center relative lg:mb-16">
-                    <span class="text-350 absolute sub-title">03</span>
+                <title-with-top-number>
+                    <template slot="num">03</template>
 
-                    <h2 class="leading-normal font-san p-8">派手さだけじゃない。大切な“爪のケア”にこそネイルがぴったり</h2>
-                </div>
+                    <template slot="title">
+                        派手さだけじゃない。大切な“爪のケア”にこそネイルがぴったり
+                    </template>
+                </title-with-top-number>
 
-                <div class="flex sm:flex-wrap sm:justify-center px-4">
-                    <figure class="lg:w-1/3 pl-8 tw-flex-end">
-                        <img src="/decoration/beauty/beauty_5.jpg" alt="派手さだけじゃない。大切な“爪のケア”にこそネイルがぴったり">
-                    </figure>
-
-                    <div class="lg:w-2/3 sm:w-full pr-8 lg:mb-16">
+                <essay :figure="{src: '/decoration/beauty/beauty_5.jpg',
+                                 alt: '派手さだけじゃない。大切な“爪のケア”にこそネイルがぴったり',
+                                 one_third: true,
+                                 end: true}">
+                    <template slot="article">
                         <article>
                             <h3 class="pb-6">
                                 ネイルの本質は“爪のケア”。<br>
@@ -217,9 +222,9 @@
                                 でもあるのです。ぜひみなさんも、自分らしい素敵なネイルライフをお過ごしください！
                             </p>
                         </article>
-                    </div>
+                    </template>
+                </essay>
 
-                </div>
             </div>
         </section>
 
@@ -233,22 +238,48 @@
 
 <script>
     import links from '../components/beauty/_Links';
+    import titleWithTopNumber from '../components/_TitleWithTopNumber';
+    import essay from '../components/_Essay';
 
     export default {
-        components: {links},
+        components: {links, titleWithTopNumber, essay},
     }
 </script>
 
 <style scoped lang="scss">
     .sub-title {
-        position: absolute;
-        top: 0;
+        @apply absolute pin-t text-3xl;
         left: 50%;
         transform: translate(-50%, -50%);
+
+        @screen lg {
+            @apply text-350;
+        }
+    }
+
+    .tw-figure {
+        @apply w-full overflow-hidden flex items-center max-h-300;
+
+        @screen md {
+            @apply w-1/3 pr-8 items-start max-h-none;
+        }
+    }
+
+    .ref-title {
+        @apply text-2xl tracking-loose leading-loose border-b-2 border-black absolute pin-l pin-t;
+        transform: translateY(-100%);
+
+        @screen md {
+            top: 20px;
+        }
     }
 
     .tw-price-table {
-        @apply text-sm leading-loose tracking-loose;
+        @apply text-xs leading-loose tracking-loose;
+
+        @screen sm {
+            @apply text-sm;
+        }
 
         tr {
             @apply border-b border-grey-light;

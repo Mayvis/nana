@@ -13,14 +13,13 @@
 
         <links></links>
 
-        <section class="lg:mb-24">
-            <div class="max-w-1000 mx-auto">
-                <div class="tw-title text-center relative lg:mb-16">
-                    <span
-                        class="font-fotura leading-loose tracking-loose absolute sub-title font-sm">INSTAGRAM</span>
+        <section class="mb-24">
+            <div class="max-w-1000 mx-auto px-4">
+                <title-with-word>
+                    <template slot="sub">INSTAGRAM</template>
 
-                    <h2 class="leading-normal font-san p-8 pt-12">NANA COLLECTION</h2>
-                </div>
+                    <template slot="title">NANA COLLECTION</template>
+                </title-with-word>
 
                 <div>
                     <p class="text-center pb-8">
@@ -40,29 +39,7 @@
             </div>
         </section>
 
-        <section class="lg:mb-24 max-w-1000 mx-auto">
-            <div class="lg:pt-16">
-                <div class="border-black border flex relative justify-center lg:pt-12">
-                    <p class="absolute flex flex-col text-center p-8 bg-white" style="top: -45px">
-                        <span>NANA INSTAGRAM</span>
-
-                        <span class="text-xs text-grey-darkest pt-4">( Instagram へリンクします )</span>
-                    </p>
-
-                    <a href="https://www.instagram.com/nana_eyelashsalon/"
-                       class="tw-btn w-1/4 hover:bg-yellow-lighter lg:m-12"
-                    >
-                        EYELASH
-                    </a>
-
-                    <a href="https://www.instagram.com/nana_nail_lisbon/"
-                       class="tw-btn w-1/4 hover:bg-yellow-lighter lg:m-12"
-                    >
-                        NAIL
-                    </a>
-                </div>
-            </div>
-        </section>
+        <external-links></external-links>
 
         <links></links>
 
@@ -74,10 +51,12 @@
 
 <script>
     import links from '../components/beauty/_Links';
+    import titleWithWord from '../components/_TitleWithWord';
     import collection from '../components/_Collection';
+    import externalLinks from '../components/_ExternalLinks';
 
     export default {
-        components: {links, collection},
+        components: {links, titleWithWord, collection, externalLinks},
     }
 </script>
 

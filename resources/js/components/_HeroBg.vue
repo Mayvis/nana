@@ -1,5 +1,5 @@
 <template>
-    <section class="mb-24">
+    <section class="mb-16 md:mb-24">
         <slot name="hero"></slot>
 
         <div>
@@ -33,11 +33,16 @@
     .tw-svg {
         overflow: visible;
         height: 86px;
-        margin-top: -30px;
+        margin-top: -40px;
         font-family: "sofia-pro-condensed", sans-serif;
-        font-size: 50px;
+        font-size: 36px;
         line-height: 1;
         letter-spacing: .2em;
+
+        @screen md {
+            margin-top: -30px;
+            font-size: 50px;
+        }
 
         @screen lg {
             font-size: 86px;

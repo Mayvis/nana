@@ -12,8 +12,8 @@
         </hero-bg>
 
         <section class="mb-16">
-            <p class="text-center pb-8 font-fotura text-xs">
-                ＊ メニュー・金額は一例です。<br class="md:hidden">
+            <p class="md:text-center px-4 pb-8 font-fotura text-xs">
+                ＊ メニュー・金額は一例です。<br class="hidden md:inline-block">
                 各メニューの詳細やお得なクーポンは HOTPEPPER Beautyをご確認ください。
             </p>
         </section>
@@ -110,35 +110,21 @@
             </div>
         </section>
 
-        <section class="mb-24 max-w-1000 mx-auto w-full px-4">
-            <div class="pt-16">
-                <div class="border-black border flex flex-col md:flex-row relative items-center justify-center pt-12 p-4">
-                    <p class="btn-info">
-                        <span>メニュー＆クーポン一覧</span>
-
-                        <span class="pt-4">( HOTPEPPER Beautyへリンクします )</span>
-                    </p>
-
-                    <a href="https://beauty.hotpepper.jp/kr/slnH000248220/coupon/"
-                       class="tw-btn md:w-1/4 md:m-12 my-4"
-                    >
-                        MILANO & LA ROCHELLE
-                    </a>
-
-                    <a href="https://beauty.hotpepper.jp/kr/slnH000364510/coupon/"
-                       class="tw-btn md:w-1/4 md:m-12 my-4"
-                    >
-                        LISBON
-                    </a>
-                </div>
-            </div>
-        </section>
+        <external-links></external-links>
 
         <breadcrumb></breadcrumb>
 
         <reserve></reserve>
     </div>
 </template>
+
+<script>
+    import externalLinks from '../components/_ExternalLinks';
+
+    export default {
+        components: {externalLinks}
+    }
+</script>
 
 <style scoped lang="scss">
     .tw-table {
@@ -168,18 +154,6 @@
             width: 15%;
             height: 1px;
             background: #000;
-        }
-    }
-
-    .btn-info {
-        @apply absolute flex flex-col text-center bg-white text-xs px-2 w-4/5;
-        left: 50%;
-        top: -35px;
-        transform: translateX(-50%);
-
-        @screen sm {
-            @apply px-8 w-3/5;
-            top: -45px;
         }
     }
 </style>

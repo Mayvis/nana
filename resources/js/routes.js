@@ -33,17 +33,17 @@ let routes = [
     },
     {
         path: '/beauty/care',
-        component: require('./views/_BeautyCare').default,
+        component: require('./views/BeautyCare').default,
         name: 'マツエクのお手入れ方法',
     },
     {
         path: '/beauty/life',
-        component: require('./views/_BeautyLife').default,
+        component: require('./views/BeautyLife').default,
         name: 'ネイルのある毎日',
     },
     {
         path: '/beauty/gallery',
-        component: require('./views/_BeautyGallery').default,
+        component: require('./views/BeautyGallery').default,
         name: 'お客様 × NANA',
     },
     {
@@ -58,17 +58,17 @@ let routes = [
     },
     {
         path: '/recruit/staff',
-        component: require('./views/_RecruitStaff').default,
+        component: require('./views/RecruitStaff').default,
         name: '先輩スタッフの声',
     },
     {
         path: '/recruit/day',
-        component: require('./views/_RecruitDay').default,
+        component: require('./views/RecruitDay').default,
         name: 'スタッフの１日',
     },
     {
         path: '/recruit/hire',
-        component: require('./views/_RecruitHire').default,
+        component: require('./views/RecruitHire').default,
         name: '募集要項',
     }
 ];

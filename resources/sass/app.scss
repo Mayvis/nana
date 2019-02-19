@@ -27,14 +27,18 @@ p, h1, h2, h3, h4, h5, h6 {
 }
 
 p {
-    @apply tracking-wider leading-loose text-13 text-grey-darkest;
+    @apply tracking-wider leading-loose text-xs text-grey-darkest;
+
+    @screen md {
+        @apply text-13;
+    }
 }
 
 h3 {
-    @apply tracking-normal leading-loose text-base text-teal;
+    @apply tracking-normal leading-loose text-sm text-teal font-medium;
 
     @screen md {
-        @apply tracking-loose;
+        @apply tracking-loose text-base font-semibold;
     }
 }
 

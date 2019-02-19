@@ -13,24 +13,19 @@
 
         <!--    sec 01    -->
         <section class="mb-24">
-            <div class="max-w-1000 mx-auto px-8">
+            <div class="max-w-1000 mx-auto px-4">
 
-                <div class="tw-title text-center relative mb-16">
-                    <span class="sub-title">01</span>
+                <title-with-top-number>
+                    <template slot="num">01</template>
 
-                    <h2 class="leading-normal font-san p-4 md:p-8 text-base md:text-2xl">モチが良いからコスパがいい！</h2>
-                </div>
+                    <template slot="title">モチが良いからコスパがいい！</template>
+                </title-with-top-number>
 
-                <figure class="md:hidden overflow-hidden flex items-center mb-8" style="max-height: 300px;">
-                    <img src="/decoration/voice_1.jpg" alt="モチが良いからコスパがいい！">
-                </figure>
-
-                <div class="flex sm:flex-wrap sm:justify-center">
-                    <figure class="lg:w-1/3 pr-8 hidden md:block">
-                        <img src="/decoration/voice_1.jpg" alt="モチが良いからコスパがいい！">
-                    </figure>
-
-                    <div class="lg:w-2/3 sm:w-full lg:pl-8 mb-16">
+                <essay :figure="{src: '/decoration/voice_1.jpg',
+                                 alt: 'モチが良いからコスパがいい！',
+                                 one_third: true,
+                                 end: false}">
+                    <template slot="article">
                         <article>
                             <h3 class="pb-6">
                                 「高い技術×厳選商材」で、<br>
@@ -68,10 +63,10 @@
                                 する。それが初心者の方に“安心”を与えることができ、さらにリピーターさんにも喜ばれる。NANAが“マツエク初心者”の方にも安心していただける、大きな理由です。j
                             </p>
                         </article>
-                    </div>
-                </div>
+                    </template>
+                </essay>
 
-                <div class="flex">
+                <div class="flex mt-16 md:mt-0">
                     <p class="lg:w-1/12 relative">
                         <span
                             class="ref-title">VOICE</span>
@@ -141,27 +136,23 @@
 
         <!--    sec 02    -->
         <section class="mb-24">
-            <div class="max-w-1000 mx-auto px-8">
+            <div class="max-w-1000 mx-auto px-4">
 
-                <div class="tw-title text-center relative mb-16">
-                    <span class="sub-title">02</span>
+                <title-with-top-number>
+                    <template slot="num">02</template>
 
-                    <h2 class="leading-normal font-san p-4 md:p-8 text-base md:text-2xl">
-                        しっかりとしたカウンセリングで、<br class="md:hidden">
+                    <template slot="title">
+                        しっかりとした<br class="md:hidden">
+                        カウンセリングで、<br class="md:hidden">
                         自分に合ったデザインに
-                    </h2>
-                </div>
+                    </template>
+                </title-with-top-number>
 
-                <figure class="md:hidden overflow-hidden flex items-center mb-8" style="max-height: 300px;">
-                    <img src="/decoration/voice_2.jpg" alt="しっかりとしたカウンセリングで、自分に合ったデザインに">
-                </figure>
-
-                <div class="flex mb-16">
-                    <figure class="lg:w-1/3 pr-8 hidden md:block">
-                        <img src="/decoration/voice_2.jpg" alt="しっかりとしたカウンセリングで、自分に合ったデザインに">
-                    </figure>
-
-                    <div class="tw-flex-start lg:w-3/5 lg:pr-8">
+                <essay :figure="{src: '/decoration/voice_2.jpg',
+                                 alt: 'しっかりとしたカウンセリングで、自分に合ったデザインに',
+                                 one_third: true,
+                                 end: true}">
+                    <template slot="article">
                         <article>
                             <h3 class="pb-6">
                                 デザイン、色、本数、長さ。<br>
@@ -195,10 +186,10 @@
                                 。信頼できるスタッフとじっくり、自分の状態や理想の形を相談していただきたいと考えています。もちろんメンテナンス方法などもしっかりとお伝えしています。不安な点は何でもご相談ください！
                             </p>
                         </article>
-                    </div>
-                </div>
+                    </template>
+                </essay>
 
-                <div class="flex">
+                <div class="flex mt-16 md:mt-16">
                     <p class="lg:w-1/12 relative">
                         <span
                             class="ref-title">VOICE</span>
@@ -270,26 +261,22 @@
 
         <!--    sec 03    -->
         <section class="mb-24">
-            <div class="max-w-1000 mx-auto px-8">
+            <div class="max-w-1000 mx-auto px-4">
 
-                <div class="tw-title text-center relative mb-16">
-                    <span class="sub-title">03</span>
+                <title-with-top-number>
+                    <template slot="num">03</template>
 
-                    <h2 class="leading-normal font-san p-4 md:p-8 text-base md:text-2xl">
-                        やわらかい枕でぐっすり！居心地のよさもバツグン
-                    </h2>
-                </div>
+                    <template slot="title">
+                        やわらかい枕でぐっすり！<br class="md:hidden">
+                        居心地のよさもバツグン
+                    </template>
+                </title-with-top-number>
 
-                <figure class="md:hidden overflow-hidden flex items-center mb-8" style="max-height: 300px;">
-                    <img src="/decoration/voice_3.jpg" alt="やわらかい枕でぐっすり！居心地のよさもバツグン">
-                </figure>
-
-                <div class="flex mb-16">
-                    <figure class="lg:w-1/3 pr-8 hidden md:block">
-                        <img src="/decoration/voice_3.jpg" alt="やわらかい枕でぐっすり！居心地のよさもバツグン">
-                    </figure>
-
-                    <div class="lg:w-3/5 lg:pl-8">
+                <essay :figure="{src: '/decoration/voice_3.jpg',
+                                 alt: 'やわらかい枕でぐっすり！居心地のよさもバツグン',
+                                 one_third: true,
+                                 end: false}">
+                    <template slot="article">
                         <article>
                             <h3 class="pb-6">
                                 ふんわりベッドでリラックス。<br>
@@ -308,16 +295,17 @@
                                 です。
                             </p>
                         </article>
-                    </div>
-                </div>
+                    </template>
+                </essay>
 
-                <div class="flex">
+                <div class="flex mt-16 md:mt-0">
                     <p class="lg:w-1/12 relative">
                         <span
                             class="ref-title text-2xl tracking-loose leading-loose border-b-2 border-black">VOICE</span>
                     </p>
 
                     <div class="p-4 md:p-16 bg-grey-lighter lg:w-11/12">
+
                         <div class="flex flex-col md:flex-row">
                             <div class="md:w-1/2 m-8 border-grey-darkest border-b">
                                 <h5 class="text-center bg-white font-normal tw-name relative">MOEさん ： 女性 / 20代後半</h5>
@@ -338,8 +326,8 @@
                             </div>
                         </div>
 
-                        <div class="flex flex-col md:flex-row">
-                            <div class="md:w-1/2 m-8 border-grey-darkest border-b">
+                        <div class="flex">
+                            <div class="w-full m-8 border-grey-darkest border-b">
                                 <h5 class="text-center bg-white font-normal tw-name relative">たけのこさん ： 女性 / 30代前半</h5>
 
                                 <p class="text-xs tracking-wider leading-loose pb-8 text-grey-darker pt-4">
@@ -375,25 +363,21 @@
 
         <!--    sec 04    -->
         <section class="mb-24">
-            <div class="max-w-1000 mx-auto px-8">
-                <div class="tw-title text-center relative mb-16">
-                    <span class="sub-title">04</span>
+            <div class="max-w-1000 mx-auto px-4">
+                <title-with-top-number>
+                    <template slot="num">04</template>
 
-                    <h2 class="leading-normal font-san p-4 md:p-8 text-base md:text-2xl">
-                        スピーディーな施術は、スキマ時間にぴったり！
-                    </h2>
-                </div>
+                    <template slot="title">
+                        スピーディーな施術は、<br class="md:hidden">
+                        スキマ時間にぴったり！
+                    </template>
+                </title-with-top-number>
 
-                <figure class="md:hidden overflow-hidden flex items-center mb-8" style="max-height: 300px;">
-                    <img src="/decoration/voice_4.jpg" alt="スピーディーな施術は、スキマ時間にぴったり！">
-                </figure>
-
-                <div class="flex mb-16">
-                    <figure class="lg:w-1/3 pr-8 hidden md:block">
-                        <img src="/decoration/voice_4.jpg" alt="スピーディーな施術は、スキマ時間にぴったり！">
-                    </figure>
-
-                    <div class="tw-flex-start lg:w-3/5 lg:pr-8">
+                <essay :figure="{src: '/decoration/voice_4.jpg',
+                                 alt: 'やわらかい枕でぐっすり！居心地のよさもバツグン',
+                                 one_third: true,
+                                 end: true}">
+                    <template slot="article">
                         <article>
                             <h3 class="pb-6">
                                 休憩時間、買い物の合間に。<br>
@@ -421,10 +405,10 @@
                                 向かうお客さまをお送りするのが、NANAのスタイルです。
                             </p>
                         </article>
-                    </div>
-                </div>
+                    </template>
+                </essay>
 
-                <div class="flex">
+                <div class="flex mt-16 md:mt-0">
                     <p class="lg:w-1/12 relative">
                         <span
                             class="ref-title text-2xl tracking-loose leading-loose border-b-2 border-black">VOICE</span>
@@ -483,24 +467,15 @@
 </template>
 
 <script>
+    import titleWithTopNumber from '../components/_TitleWithTopNumber';
+    import essay from '../components/_Essay';
+
     export default {
-        created() {
-            // axios
-        }
+        components: {titleWithTopNumber, essay},
     }
 </script>
 
 <style scoped lang="scss">
-    .sub-title {
-        @apply absolute pin-t text-3xl;
-        left: 50%;
-        transform: translate(-50%, -50%);
-
-        @screen lg {
-            @apply text-350;
-        }
-    }
-
     .tw-name:before {
         content: '(';
         position: absolute;

@@ -30,12 +30,12 @@ Vue.use(PortalVue);
 // const files = require.context('./', true, /\.vue$/i)
 // files.keys().map(key => Vue.component(key.split('/').pop().split('.')[0], files(key).default))
 
-Vue.component('menu-list', require('./components/MenuList.vue').default);
-Vue.component('menu-hamburger', require('./components/MenuHamburger.vue').default);
-Vue.component('hero-bg', require('./components/HeroBg.vue').default);
-Vue.component('info', require('./components/Info.vue').default);
+Vue.component('menu-list', require('./components/_MenuList.vue').default);
+Vue.component('menu-hamburger', require('./components/_MenuHamburger.vue').default);
+Vue.component('hero-bg', require('./components/_HeroBg.vue').default);
+Vue.component('info', require('./components/_Info.vue').default);
 Vue.component('breadcrumb', require('./components/_Breadcrumb.vue').default);
-Vue.component('reserve', require('./components/Reserve.vue').default);
+Vue.component('reserve', require('./components/_Reserve.vue').default);
 
 /**
  * Next, we will create a fresh Vue application instance and attach it to

@@ -163,10 +163,6 @@
     </div>
 </template>
 
-<script>
-    export default {}
-</script>
-
 <style scoped lang="scss">
     .tw-header {
         @apply text-2xl font-bold leading-loosest tracking-loosest relative;

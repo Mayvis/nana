@@ -14,21 +14,21 @@
         <links></links>
 
         <!--   01    -->
-        <section class="lg:mb-24">
-            <div class="max-w-1000 mx-auto">
+        <section class="mb-24">
+            <div class="max-w-1000 mx-auto px-4">
+                <title-with-top-number>
+                    <template slot="num">01</template>
 
-                <div class="tw-title text-center relative lg:mb-16">
-                    <span class="text-350 absolute sub-title">01</span>
+                    <template slot="title">
+                        マツエクは、オンナノコの<br class="md:hidden">『ラク』を作ってくれる
+                    </template>
+                </title-with-top-number>
 
-                    <h2 class="leading-normal font-san p-8">マツエクは、オンナノコの『ラク』を作ってくれる</h2>
-                </div>
-
-                <div class="flex sm:flex-wrap sm:justify-center px-4">
-                    <figure class="lg:w-1/3 pr-8">
-                        <img src="/decoration/beauty/beauty_1.jpg" alt="マツエクのある毎日  NANA（福岡市中央区天神西通り）">
-                    </figure>
-
-                    <div class="lg:w-2/3 sm:w-full pl-8 lg:mb-16">
+                <essay :figure="{src: '/decoration/beauty/beauty_1.jpg',
+                                 alt: 'マツエクのある毎日  NANA（福岡市中央区天神西通り）',
+                                 one_third: true,
+                                 end: false}">
+                    <template slot="article">
                         <article>
                             <h3 class="pb-6">
                                 すっぴんはもう怖くない！<br>
@@ -56,24 +56,25 @@
                                 」のがマツエクなのです。
                             </p>
                         </article>
-                    </div>
+                    </template>
+                </essay>
 
-                </div>
             </div>
         </section>
 
         <!--    02    -->
-        <section class="lg:mb-32">
-            <div class="max-w-1000 mx-auto">
+        <section class="mb-24">
+            <div class="max-w-1000 mx-auto px-4">
+                <title-with-top-number>
+                    <template slot="num">02</template>
 
-                <div class="tw-title text-center relative lg:mb-16">
-                    <span class="text-350 absolute sub-title">02</span>
-
-                    <h2 class="leading-normal font-san p-8">実際にはどう違うの？ マスカラ・つけまつげと比べてみよう</h2>
-                </div>
+                    <template slot="title">
+                        実際にはどう違うの？ <br class="md:hidden">マスカラ・つけまつげと比べてみよう
+                    </template>
+                </title-with-top-number>
 
                 <div class="flex sm:flex-wrap sm:justify-center px-4">
-                    <div class="sm:w-full pl-8 lg:mb-16">
+                    <div class="sm:w-full md:pl-8 mb-16">
                         <article>
                             <h3 class="pb-6">
                                 お風呂もOK、仕上がりもキレイ、そして、コスパ抜群！
@@ -93,18 +94,23 @@
                             class="ref-title text-2xl tracking-loose leading-loose border-b-2 border-black">CHECK!</span>
                     </p>
 
-                    <div class="p-16 bg-grey-lighter lg:w-11/12 flex justify-center">
+                    <div class="p-2 sm:p-8 lg:p-16 bg-grey-lighter w-full lg:w-11/12 flex justify-center">
                         <table class="tw-price-table">
                             <tr>
                                 <th></th>
                                 <th>
-                                    <span class="tw-name relative inline-block px-8 bg-yellow-light">マツエク</span>
+                                    <span class="tw-name relative inline-block px-2 sm:px-4 lg:px-8 bg-yellow-light">
+                                        マツエク
+                                    </span>
                                 </th>
                                 <th>
-                                    <span class="tw-name relative inline-block px-8 bg-white">マスカラ</span>
+                                    <span class="tw-name relative inline-block px-2 sm:px-4 lg:px-8 bg-white">
+                                        マスカラ
+                                    </span>
                                 </th>
                                 <th>
-                                    <span class="tw-name relative inline-block px-8 bg-white">つけまつげ</span>
+                                    <span
+                                        class="tw-name relative inline-block px-2 sm:px-4 lg:px-8 bg-white">つけまつげ</span>
                                 </th>
                             </tr>
                             <tr>
@@ -114,7 +120,7 @@
                                 <td>○</td>
                             </tr>
                             <tr>
-                                <th>まつげのボリューム</th>
+                                <th>まつげの<br class="sm:hidden">ボリューム</th>
                                 <td>◎</td>
                                 <td>△</td>
                                 <td>○</td>
@@ -132,7 +138,9 @@
                                 <td>△</td>
                             </tr>
                             <tr>
-                                <th>メイクの持ち・崩れにくさ</th>
+                                <th>メイクの持ち<span class="hidden sm:inline-block">・</span><br class="sm:hidden">
+                                    崩れにくさ
+                                </th>
                                 <td>○</td>
                                 <td>△</td>
                                 <td>○</td>
@@ -150,8 +158,8 @@
                 <div class="flex flex-col border-b border-grey pb-12">
                     <h3 class="leading-normal font-san p-8 pl-0">マスカラ</h3>
 
-                    <div class="flex">
-                        <figure class="bg-grey-lighter flex justify-center items-center tw-icon mr-8">
+                    <div class="flex flex-col md:flex-row">
+                        <figure class="bg-grey-lighter flex justify-center items-center tw-icon md:mr-8 w-full">
                             <img src="/icon/decoration_1.png" alt="マスカラ" width="42" height="72">
                         </figure>
 
@@ -184,8 +192,8 @@
                 <div class="flex flex-col pb-12">
                     <h3 class="leading-normal font-san p-8 pl-0">マスカラ</h3>
 
-                    <div class="flex">
-                        <figure class="bg-grey-lighter flex justify-center items-center tw-icon mr-8">
+                    <div class="flex flex-col md:flex-row">
+                        <figure class="bg-grey-lighter flex justify-center items-center tw-icon md:mr-8 w-full">
                             <img src="/icon/decoration_2.png" alt="つけまつげ" width="71" height="41">
                         </figure>
 
@@ -215,8 +223,8 @@
                     </div>
                 </div>
 
-                <div class="flex justify-center items-center pb-12 border border-black py-8 my-8">
-                    <article class="relative flex flex-col items-center justify-center w-2/3 h-full">
+                <div class="flex justify-center items-center pb-12 border border-black py-4 my-8 relative">
+                    <article class="tw-article">
                         <span class="tw-center">マツエクはコスパ抜群！</span>
 
                         <p class="h-full">
@@ -229,21 +237,23 @@
         </section>
 
         <!--    03    -->
-        <section class="lg:mb-16">
-            <div class="max-w-1000 mx-auto">
+        <section class="mb-24">
+            <div class="max-w-1000 mx-auto px-4">
 
-                <div class="tw-title text-center relative lg:mb-16">
-                    <span class="text-350 absolute sub-title">03</span>
+                <title-with-top-number>
+                    <template slot="num">03</template>
 
-                    <h2 class="leading-normal font-san p-8">「まつげがついていないと、気分が上がらないのよね」</h2>
-                </div>
+                    <template slot="title">
+                        「まつげがついていないと、<br class="md:hidden">
+                        気分が上がらないのよね」
+                    </template>
+                </title-with-top-number>
 
-                <div class="flex sm:flex-wrap sm:justify-center px-4">
-                    <figure class="lg:w-1/3 pl-8 tw-flex-end">
-                        <img src="/decoration/beauty/beauty_2.jpg" alt="「まつげがついていないと、気分が上がらないのよね」">
-                    </figure>
-
-                    <div class="lg:w-2/3 sm:w-full pr-8">
+                <essay :figure="{src: '/decoration/beauty/beauty_2.jpg',
+                                 alt: '「まつげがついていないと、気分が上がらないのよね」',
+                                 one_third: true,
+                                 end: true}">
+                    <template slot="article">
                         <article>
                             <h3 class="pb-6">
                                 いつでも可愛く、いつでもキレイ。<br>
@@ -278,35 +288,12 @@
                                 それがマツエクなのです。
                             </p>
                         </article>
-                    </div>
-
-                </div>
+                    </template>
+                </essay>
             </div>
         </section>
 
-        <section class="lg:mb-24 max-w-1000 mx-auto">
-            <div class="lg:pt-16">
-                <div class="border-black border flex relative justify-center lg:pt-12">
-                    <p class="absolute flex flex-col text-center p-8 bg-white" style="top: -40px">
-                        <span>メニュー＆クーポン一覧</span>
-
-                        <span class="text-xs pt-4">( HOTPEPPER Beautyへリンクします )</span>
-                    </p>
-
-                    <a href="https://beauty.hotpepper.jp/kr/slnH000248220/coupon/"
-                       class="tw-btn w-1/4 hover:bg-yellow-lighter lg:m-12"
-                    >
-                        MILANO & LA ROCHELLE
-                    </a>
-
-                    <a href="https://beauty.hotpepper.jp/kr/slnH000364510/coupon/"
-                       class="tw-btn w-1/4 hover:bg-yellow-lighter lg:m-12"
-                    >
-                        LISBON
-                    </a>
-                </div>
-            </div>
-        </section>
+        <external-links></external-links>
 
         <links></links>
 
@@ -318,22 +305,22 @@
 
 <script>
     import links from '../components/beauty/_Links';
+    import essay from '../components/_Essay';
+    import externalLinks from '../components/_ExternalLinks';
+    import titleWithTopNumber from '../components/_TitleWithTopNumber';
 
     export default {
-        components: {links},
+        components: {links, essay, externalLinks, titleWithTopNumber},
     }
 </script>
 
 <style scoped lang="scss">
-    .sub-title {
-        position: absolute;
-        top: 0;
-        left: 50%;
-        transform: translate(-50%, -50%);
-    }
-
     .tw-price-table {
-        @apply text-sm leading-loose tracking-loose;
+        @apply text-xs leading-loose tracking-loose w-full;
+
+        @screen md {
+            @apply text-sm;
+        }
 
         tr {
             @apply border-b border-grey-light;
@@ -348,11 +335,19 @@
         }
 
         th {
-            @apply text-left p-4;
+            @apply text-left p-2;
+
+            @screen md {
+                @apply p-4;
+            }
         }
 
         td {
-            @apply text-center p-4;
+            @apply text-center p-2;
+
+            @screen md {
+                @apply p-4;
+            }
         }
     }
 
@@ -365,26 +360,38 @@
         flex-basis: 0;
     }
 
+    .tw-article {
+        @apply flex flex-col items-center justify-center w-full p-4 h-full;
+
+        @screen md {
+            @apply p-0 w-2/3;
+        }
+    }
+
     .tw-center {
-        position: absolute;
-        top: -40%;
+        @apply whitespace-no-wrap pin-t absolute font-bold;
         left: 50%;
-        transform: translateX(-50%);
+        transform: translate(-50%, -50%);
         background-color: #fff;
         padding: 0 40px;
-        font-weight: bold;
     }
 
     .tw-name:before {
         content: '(';
-        position: absolute;
-        left: 0;
+        @apply absolute pin-t pin-l;
     }
 
     .tw-name:after {
         content: ')';
-        position: absolute;
-        right: 0;
+        @apply absolute pin-t pin-r;
     }
 
+    .ref-title {
+        @apply text-2xl tracking-loose leading-loose border-b-2 border-black absolute pin-l pin-t;
+        transform: translateY(-100%);
+
+        @screen md {
+            top: 20px;
+        }
+    }
 </style>
