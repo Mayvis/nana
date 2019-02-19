@@ -6576,10 +6576,6 @@ table {
   src: url("/css/font/Futura_PT.otf") format("opentype");
 }
 
-html {
-  scroll-behavior: smooth;
-}
-
 a {
   color: #22292f;
   text-decoration: none;
