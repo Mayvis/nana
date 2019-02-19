@@ -29,19 +29,9 @@
         </div>
     </main>
 
-{{--    <footer class="pb-50 bg-grey-lighter">--}}
-{{--        <div class="container mx-auto flex justify-between text-xs text-grey-darker">--}}
-{{--            <span class="leading-50">Copyright © CASABLANCA All Rights Reserved.</span>--}}
+    @include('layouts.footer')
 
-{{--            <div>--}}
-{{--                <a href="/" class="leading-50 text-grey-darker">Recruit</a> / <a href="/"--}}
-{{--                                                                                 class="leading-50 text-grey-darker">Site--}}
-{{--                    Map</a>--}}
-{{--            </div>--}}
-{{--        </div>--}}
-{{--    </footer>--}}
-
-{{--    <info></info>--}}
+    <info></info>
 </div>
 
 </body>

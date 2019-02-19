@@ -4465,6 +4465,10 @@ table {
   padding: 90px;
 }
 
+.p-100 {
+  padding: 100px;
+}
+
 .p-240 {
   padding: 240px;
 }
@@ -4651,6 +4655,16 @@ table {
 .px-90 {
   padding-left: 90px;
   padding-right: 90px;
+}
+
+.py-100 {
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.px-100 {
+  padding-left: 100px;
+  padding-right: 100px;
 }
 
 .py-240 {
@@ -4959,6 +4973,22 @@ table {
 
 .pl-90 {
   padding-left: 90px;
+}
+
+.pt-100 {
+  padding-top: 100px;
+}
+
+.pr-100 {
+  padding-right: 100px;
+}
+
+.pb-100 {
+  padding-bottom: 100px;
+}
+
+.pl-100 {
+  padding-left: 100px;
 }
 
 .pt-240 {
@@ -10606,6 +10636,10 @@ main {
     padding: 90px;
   }
 
+  .sm\:p-100 {
+    padding: 100px;
+  }
+
   .sm\:p-240 {
     padding: 240px;
   }
@@ -10792,6 +10826,16 @@ main {
   .sm\:px-90 {
     padding-left: 90px;
     padding-right: 90px;
+  }
+
+  .sm\:py-100 {
+    padding-top: 100px;
+    padding-bottom: 100px;
+  }
+
+  .sm\:px-100 {
+    padding-left: 100px;
+    padding-right: 100px;
   }
 
   .sm\:py-240 {
@@ -11100,6 +11144,22 @@ main {
 
   .sm\:pl-90 {
     padding-left: 90px;
+  }
+
+  .sm\:pt-100 {
+    padding-top: 100px;
+  }
+
+  .sm\:pr-100 {
+    padding-right: 100px;
+  }
+
+  .sm\:pb-100 {
+    padding-bottom: 100px;
+  }
+
+  .sm\:pl-100 {
+    padding-left: 100px;
   }
 
   .sm\:pt-240 {
@@ -16582,6 +16642,10 @@ main {
     padding: 90px;
   }
 
+  .md\:p-100 {
+    padding: 100px;
+  }
+
   .md\:p-240 {
     padding: 240px;
   }
@@ -16768,6 +16832,16 @@ main {
   .md\:px-90 {
     padding-left: 90px;
     padding-right: 90px;
+  }
+
+  .md\:py-100 {
+    padding-top: 100px;
+    padding-bottom: 100px;
+  }
+
+  .md\:px-100 {
+    padding-left: 100px;
+    padding-right: 100px;
   }
 
   .md\:py-240 {
@@ -17076,6 +17150,22 @@ main {
 
   .md\:pl-90 {
     padding-left: 90px;
+  }
+
+  .md\:pt-100 {
+    padding-top: 100px;
+  }
+
+  .md\:pr-100 {
+    padding-right: 100px;
+  }
+
+  .md\:pb-100 {
+    padding-bottom: 100px;
+  }
+
+  .md\:pl-100 {
+    padding-left: 100px;
   }
 
   .md\:pt-240 {
@@ -22558,6 +22648,10 @@ main {
     padding: 90px;
   }
 
+  .lg\:p-100 {
+    padding: 100px;
+  }
+
   .lg\:p-240 {
     padding: 240px;
   }
@@ -22744,6 +22838,16 @@ main {
   .lg\:px-90 {
     padding-left: 90px;
     padding-right: 90px;
+  }
+
+  .lg\:py-100 {
+    padding-top: 100px;
+    padding-bottom: 100px;
+  }
+
+  .lg\:px-100 {
+    padding-left: 100px;
+    padding-right: 100px;
   }
 
   .lg\:py-240 {
@@ -23052,6 +23156,22 @@ main {
 
   .lg\:pl-90 {
     padding-left: 90px;
+  }
+
+  .lg\:pt-100 {
+    padding-top: 100px;
+  }
+
+  .lg\:pr-100 {
+    padding-right: 100px;
+  }
+
+  .lg\:pb-100 {
+    padding-bottom: 100px;
+  }
+
+  .lg\:pl-100 {
+    padding-left: 100px;
   }
 
   .lg\:pt-240 {
@@ -28534,6 +28654,10 @@ main {
     padding: 90px;
   }
 
+  .xl\:p-100 {
+    padding: 100px;
+  }
+
   .xl\:p-240 {
     padding: 240px;
   }
@@ -28720,6 +28844,16 @@ main {
   .xl\:px-90 {
     padding-left: 90px;
     padding-right: 90px;
+  }
+
+  .xl\:py-100 {
+    padding-top: 100px;
+    padding-bottom: 100px;
+  }
+
+  .xl\:px-100 {
+    padding-left: 100px;
+    padding-right: 100px;
   }
 
   .xl\:py-240 {
@@ -29028,6 +29162,22 @@ main {
 
   .xl\:pl-90 {
     padding-left: 90px;
+  }
+
+  .xl\:pt-100 {
+    padding-top: 100px;
+  }
+
+  .xl\:pr-100 {
+    padding-right: 100px;
+  }
+
+  .xl\:pb-100 {
+    padding-bottom: 100px;
+  }
+
+  .xl\:pl-100 {
+    padding-left: 100px;
   }
 
   .xl\:pt-240 {
@@ -34510,6 +34660,10 @@ main {
     padding: 90px;
   }
 
+  .xxl\:p-100 {
+    padding: 100px;
+  }
+
   .xxl\:p-240 {
     padding: 240px;
   }
@@ -34696,6 +34850,16 @@ main {
   .xxl\:px-90 {
     padding-left: 90px;
     padding-right: 90px;
+  }
+
+  .xxl\:py-100 {
+    padding-top: 100px;
+    padding-bottom: 100px;
+  }
+
+  .xxl\:px-100 {
+    padding-left: 100px;
+    padding-right: 100px;
   }
 
   .xxl\:py-240 {
@@ -35004,6 +35168,22 @@ main {
 
   .xxl\:pl-90 {
     padding-left: 90px;
+  }
+
+  .xxl\:pt-100 {
+    padding-top: 100px;
+  }
+
+  .xxl\:pr-100 {
+    padding-right: 100px;
+  }
+
+  .xxl\:pb-100 {
+    padding-bottom: 100px;
+  }
+
+  .xxl\:pl-100 {
+    padding-left: 100px;
   }
 
   .xxl\:pt-240 {

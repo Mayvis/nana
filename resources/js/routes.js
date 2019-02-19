@@ -70,6 +70,10 @@ let routes = [
         path: '/recruit/hire',
         component: require('./views/RecruitHire').default,
         name: '募集要項',
+    },
+    {
+        path: '*',
+        redirect: '/',
     }
 ];
 
