@@ -65,8 +65,12 @@
                     data-aos="zoom-in-up"
                 >
                     <ul class="flex lg:flex-row flex-col justify-center items-center py-4">
+
                         <li class="tw-thumbnail lg:w-1/3 w-full p-4">
-                            <a href="/" class="flex lg:flex-col justify-center relative sm:pt-0 pt-8">
+                            <router-link tag="a"
+                                         :to="{path: '/salon', hash: '#js-milano'}"
+                                         class="flex lg:flex-col justify-center relative sm:pt-0 pt-8"
+                            >
                                 <figure class="w-2/5 sm:w-1/2 md:w-1/3 lg:w-full">
                                     <img src="/store/MILANO.jpg" alt="MILANO">
                                 </figure>
@@ -82,11 +86,14 @@
 
                                     <p class="xl:text-sm text-xs relative sm:pl-8">サロン紹介 & ご予約</p>
                                 </div>
-                            </a>
+                            </router-link>
                         </li>
 
                         <li class="tw-thumbnail lg:w-1/3 w-full p-4">
-                            <a href="/" class="flex lg:flex-col justify-center relative sm:pt-0 pt-8">
+                            <router-link tag="a"
+                                         :to="{path: '/salon', hash: '#js-la-rochelle'}"
+                                         class="flex lg:flex-col justify-center relative sm:pt-0 pt-8"
+                            >
                                 <figure class="w-2/5 sm:w-1/2 md:w-1/3 lg:w-full">
                                     <img src="/store/La_Rochelle.jpg" alt="La Rochelle">
                                 </figure>
@@ -102,11 +109,14 @@
 
                                     <p class="xl:text-sm text-xs relative sm:pl-8">サロン紹介 & ご予約</p>
                                 </div>
-                            </a>
+                            </router-link>
                         </li>
 
                         <li class="tw-thumbnail lg:w-1/3 w-full p-4">
-                            <a href="/" class="flex lg:flex-col justify-center relative sm:pt-0 pt-8">
+                            <router-link tag="a"
+                                         :to="{path: '/salon', hash: '#js-lisbon'}"
+                                         class="flex lg:flex-col justify-center relative sm:pt-0 pt-8"
+                            >
                                 <figure class="w-2/5 sm:w-1/2 md:w-1/3 lg:w-full">
                                     <img src="/store/LISBON.jpg" alt="LISBON">
                                 </figure>
@@ -122,7 +132,7 @@
 
                                     <p class="xl:text-sm text-xs relative sm:pl-8">サロン紹介 & ご予約</p>
                                 </div>
-                            </a>
+                            </router-link>
                         </li>
                     </ul>
                 </li>

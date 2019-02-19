@@ -12,7 +12,7 @@
         </hero-bg>
 
         <!--    sec 01    -->
-        <section class="mb-24 relative">
+        <section class="mb-24 relative" id="js-milano">
             <div class="max-w-1000 mx-auto p-4">
                 <div class="flex flex-col md:flex-row">
                     <div
@@ -59,7 +59,7 @@
         </section>
 
         <!--    sec 02    -->
-        <section class="mb-24 relative">
+        <section class="mb-24 relative" id="js-la-rochelle">
             <div class="max-w-1000 mx-auto p-4">
                 <div class="flex flex-col md:flex-row">
                     <div class="lg:w-1/2 w-full bg-white p-16 pt-8 border border-gold mb-16 md:my-16 md:mx-8 relative">
@@ -105,7 +105,7 @@
         </section>
 
         <!--    sec 03    -->
-        <section class="mb-24 relative">
+        <section class="mb-24 relative" id="js-lisbon">
             <div class="max-w-1000 mx-auto p-4">
                 <div class="flex flex-col md:flex-row">
                     <div class="lg:w-1/2 w-full bg-white p-16 pt-8 border border-blue-lighter mb-16 md:my-16 md:mx-8 relative tw-flex-end">

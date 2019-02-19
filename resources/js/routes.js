@@ -81,13 +81,22 @@ export default new VueRouter({
     routes,
     linkActiveClass: 'is-active',
     linkExactActiveClass: 'is-exact-active',
-    scrollBehavior(to) {
-        if (to.hash) return {selector: to.hash}; // 如果有指定hash的話滾動到hash的位置
+    scrollBehavior(to, from, savedPosition) {
+        if (savedPosition) return savedPosition;
+
+        // Vue router transition issue while using anchor, need to use promise to async execute and delay after transition render finish.
+        if (to.hash) {
+            return new Promise((resolve) => {
+                setTimeout(() => {
+                    resolve({selector: to.hash});  // 如果有指定hash的話滾動到hash的位置
+                }, 600);
+            });
+        }
 
         return new Promise((resolve) => {
             setTimeout(() => {
-                resolve({ x: 0, y: 0 })
-            }, 500)
+                resolve({ x: 0, y: 0 }); // scroll to (0, 0)
+            }, 500);
         })
     }
 });

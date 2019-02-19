@@ -4025,6 +4025,16 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 
 
 
@@ -6139,7 +6149,7 @@ exports = module.exports = __webpack_require__(/*! ../../../../node_modules/css-
 
 
 // module
-exports.push([module.i, ".hero[data-v-920bb058] {\n  top: 20%;\n  left: 10%;\n}\n.hero text[data-v-920bb058] {\n  fill: rgba(255, 255, 255, 0);\n  stroke: #333;\n  font-size: 76px;\n  stroke-width: .8;\n  stroke-linejoin: round;\n  line-height: 1;\n}\n.hero [data-aos=fill-animation][data-v-920bb058] {\n  fill: #c3b282;\n  transition-property: fill;\n}\n.hero [data-aos=fill-animation].aos-animate[data-v-920bb058] {\n  fill: transparent;\n}\n.hero .sub[data-v-920bb058] {\n  letter-spacing: .3em;\n}\n.hero .line[data-v-920bb058] {\n  width: 72px;\n  height: auto;\n}\n.hero li[data-v-920bb058] {\n  padding-right: 8px;\n}\n@media only screen and (max-width: 768px) {\n.hero[data-v-920bb058] {\n    top: 85%;\n    left: 16px;\n}\n.hero .line[data-v-920bb058] {\n    width: 48px;\n}\n}\n.line-1[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-1-data-v-920bb058 .8s linear .61s;\n          animation: bump-1-data-v-920bb058 .8s linear .61s;\n}\n@-webkit-keyframes bump-1-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 9px;\n    left: 10px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 37px;\n    left: 18px;\n}\n100% {\n    background-color: transparent;\n    bottom: 40px;\n    left: 7px;\n}\n}\n@keyframes bump-1-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 9px;\n    left: 10px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 37px;\n    left: 18px;\n}\n100% {\n    background-color: transparent;\n    bottom: 40px;\n    left: 7px;\n}\n}\n.line-2[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-2-data-v-920bb058 .8s linear .62s;\n          animation: bump-2-data-v-920bb058 .8s linear .62s;\n}\n@-webkit-keyframes bump-2-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 53px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 48px;\n    left: 8px;\n}\n100% {\n    background-color: transparent;\n    bottom: 54px;\n    left: 6px;\n}\n}\n@keyframes bump-2-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 53px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 48px;\n    left: 8px;\n}\n100% {\n    background-color: transparent;\n    bottom: 54px;\n    left: 6px;\n}\n}\n.line-3[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-3-data-v-920bb058 .8s linear .63s;\n          animation: bump-3-data-v-920bb058 .8s linear .63s;\n}\n@-webkit-keyframes bump-3-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 24px;\n    left: 2px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 11px;\n    left: 1px;\n}\n100% {\n    background-color: transparent;\n    bottom: 12px;\n    left: 2px;\n}\n}\n@keyframes bump-3-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 24px;\n    left: 2px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 11px;\n    left: 1px;\n}\n100% {\n    background-color: transparent;\n    bottom: 12px;\n    left: 2px;\n}\n}\n.line-4[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-4-data-v-920bb058 .8s linear .64s;\n          animation: bump-4-data-v-920bb058 .8s linear .64s;\n}\n@-webkit-keyframes bump-4-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 17px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 8px;\n    left: 12px;\n}\n100% {\n    background-color: transparent;\n    bottom: 9px;\n    left: 2px;\n}\n}\n@keyframes bump-4-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 17px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 8px;\n    left: 12px;\n}\n100% {\n    background-color: transparent;\n    bottom: 9px;\n    left: 2px;\n}\n}\n.line-5[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-5-data-v-920bb058 .8s linear .65s;\n          animation: bump-5-data-v-920bb058 .8s linear .65s;\n}\n@-webkit-keyframes bump-5-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 15px;\n    left: 1px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 72px;\n    left: 12px;\n}\n100% {\n    background-color: transparent;\n    bottom: 15px;\n    left: 10px;\n}\n}\n@keyframes bump-5-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 15px;\n    left: 1px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 72px;\n    left: 12px;\n}\n100% {\n    background-color: transparent;\n    bottom: 15px;\n    left: 10px;\n}\n}\n.line-6[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-6-data-v-920bb058 .8s linear .66s;\n          animation: bump-6-data-v-920bb058 .8s linear .66s;\n}\n@-webkit-keyframes bump-6-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 51px;\n    left: 10px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 33px;\n    left: 20px;\n}\n100% {\n    background-color: transparent;\n    bottom: 23px;\n    left: 10px;\n}\n}\n@keyframes bump-6-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 51px;\n    left: 10px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 33px;\n    left: 20px;\n}\n100% {\n    background-color: transparent;\n    bottom: 23px;\n    left: 10px;\n}\n}\n.line-7[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-7-data-v-920bb058 .8s linear .67s;\n          animation: bump-7-data-v-920bb058 .8s linear .67s;\n}\n@-webkit-keyframes bump-7-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 51px;\n    left: 2px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 6px;\n    left: 5px;\n}\n100% {\n    background-color: transparent;\n    bottom: 48px;\n    left: 5px;\n}\n}\n@keyframes bump-7-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 51px;\n    left: 2px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 6px;\n    left: 5px;\n}\n100% {\n    background-color: transparent;\n    bottom: 48px;\n    left: 5px;\n}\n}\n.line-8[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-8-data-v-920bb058 .8s linear .68s;\n          animation: bump-8-data-v-920bb058 .8s linear .68s;\n}\n@-webkit-keyframes bump-8-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 11px;\n    left: 1px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 33px;\n    left: 10px;\n}\n100% {\n    background-color: transparent;\n    bottom: 29px;\n    left: 9px;\n}\n}\n@keyframes bump-8-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 11px;\n    left: 1px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 33px;\n    left: 10px;\n}\n100% {\n    background-color: transparent;\n    bottom: 29px;\n    left: 9px;\n}\n}\n.line-9[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-9-data-v-920bb058 .8s linear .69s;\n          animation: bump-9-data-v-920bb058 .8s linear .69s;\n}\n@-webkit-keyframes bump-9-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 29px;\n    left: 1px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 43px;\n    left: 9px;\n}\n100% {\n    background-color: transparent;\n    bottom: 25px;\n    left: 6px;\n}\n}\n@keyframes bump-9-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 29px;\n    left: 1px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 43px;\n    left: 9px;\n}\n100% {\n    background-color: transparent;\n    bottom: 25px;\n    left: 6px;\n}\n}\n.line-10[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-10-data-v-920bb058 .8s linear .61s;\n          animation: bump-10-data-v-920bb058 .8s linear .61s;\n}\n@-webkit-keyframes bump-10-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 48px;\n    left: 8px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 26px;\n    left: 6px;\n}\n100% {\n    background-color: transparent;\n    bottom: 57px;\n    left: 8px;\n}\n}\n@keyframes bump-10-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 48px;\n    left: 8px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 26px;\n    left: 6px;\n}\n100% {\n    background-color: transparent;\n    bottom: 57px;\n    left: 8px;\n}\n}\n.line-11[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-11-data-v-920bb058 .8s linear .611s;\n          animation: bump-11-data-v-920bb058 .8s linear .611s;\n}\n@-webkit-keyframes bump-11-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 22px;\n    left: 3px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 60px;\n    left: 7px;\n}\n100% {\n    background-color: transparent;\n    bottom: 34px;\n    left: 6px;\n}\n}\n@keyframes bump-11-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 22px;\n    left: 3px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 60px;\n    left: 7px;\n}\n100% {\n    background-color: transparent;\n    bottom: 34px;\n    left: 6px;\n}\n}\n.line-12[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-12-data-v-920bb058 .8s linear .612s;\n          animation: bump-12-data-v-920bb058 .8s linear .612s;\n}\n@-webkit-keyframes bump-12-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 3px;\n    left: 4px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 16px;\n    left: 19px;\n}\n100% {\n    background-color: transparent;\n    bottom: 13px;\n    left: 2px;\n}\n}\n@keyframes bump-12-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 3px;\n    left: 4px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 16px;\n    left: 19px;\n}\n100% {\n    background-color: transparent;\n    bottom: 13px;\n    left: 2px;\n}\n}\n.line-13[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-13-data-v-920bb058 .8s linear .613s;\n          animation: bump-13-data-v-920bb058 .8s linear .613s;\n}\n@-webkit-keyframes bump-13-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 58px;\n    left: 2px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 35px;\n    left: 8px;\n}\n100% {\n    background-color: transparent;\n    bottom: 7px;\n    left: 8px;\n}\n}\n@keyframes bump-13-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 58px;\n    left: 2px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 35px;\n    left: 8px;\n}\n100% {\n    background-color: transparent;\n    bottom: 7px;\n    left: 8px;\n}\n}\n.line-14[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-14-data-v-920bb058 .8s linear .614s;\n          animation: bump-14-data-v-920bb058 .8s linear .614s;\n}\n@-webkit-keyframes bump-14-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 15px;\n    left: 7px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 72px;\n    left: 2px;\n}\n100% {\n    background-color: transparent;\n    bottom: 52px;\n    left: 2px;\n}\n}\n@keyframes bump-14-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 15px;\n    left: 7px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 72px;\n    left: 2px;\n}\n100% {\n    background-color: transparent;\n    bottom: 52px;\n    left: 2px;\n}\n}\n.line-15[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-15-data-v-920bb058 .8s linear .615s;\n          animation: bump-15-data-v-920bb058 .8s linear .615s;\n}\n@-webkit-keyframes bump-15-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 21px;\n    left: 8px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 38px;\n    left: 10px;\n}\n100% {\n    background-color: transparent;\n    bottom: 21px;\n    left: 2px;\n}\n}\n@keyframes bump-15-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 21px;\n    left: 8px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 38px;\n    left: 10px;\n}\n100% {\n    background-color: transparent;\n    bottom: 21px;\n    left: 2px;\n}\n}\n.line-16[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-16-data-v-920bb058 .8s linear .616s;\n          animation: bump-16-data-v-920bb058 .8s linear .616s;\n}\n@-webkit-keyframes bump-16-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 53px;\n    left: 10px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 20px;\n    left: 9px;\n}\n100% {\n    background-color: transparent;\n    bottom: 50px;\n    left: 2px;\n}\n}\n@keyframes bump-16-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 53px;\n    left: 10px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 20px;\n    left: 9px;\n}\n100% {\n    background-color: transparent;\n    bottom: 50px;\n    left: 2px;\n}\n}\n.line-17[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-17-data-v-920bb058 .8s linear .617s;\n          animation: bump-17-data-v-920bb058 .8s linear .617s;\n}\n@-webkit-keyframes bump-17-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 11px;\n    left: 3px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 55px;\n    left: 3px;\n}\n100% {\n    background-color: transparent;\n    bottom: 23px;\n    left: 5px;\n}\n}\n@keyframes bump-17-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 11px;\n    left: 3px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 55px;\n    left: 3px;\n}\n100% {\n    background-color: transparent;\n    bottom: 23px;\n    left: 5px;\n}\n}\n.line-18[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-18-data-v-920bb058 .8s linear .618s;\n          animation: bump-18-data-v-920bb058 .8s linear .618s;\n}\n@-webkit-keyframes bump-18-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 57px;\n    left: 4px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 8px;\n    left: 5px;\n}\n100% {\n    background-color: transparent;\n    bottom: 49px;\n    left: 2px;\n}\n}\n@keyframes bump-18-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 57px;\n    left: 4px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 8px;\n    left: 5px;\n}\n100% {\n    background-color: transparent;\n    bottom: 49px;\n    left: 2px;\n}\n}\n.line-19[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-19-data-v-920bb058 .8s linear .819s;\n          animation: bump-19-data-v-920bb058 .8s linear .819s;\n}\n@-webkit-keyframes bump-19-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 23px;\n    left: 2px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 9px;\n    left: 17px;\n}\n100% {\n    background-color: transparent;\n    bottom: 3px;\n    left: 10px;\n}\n}\n@keyframes bump-19-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 23px;\n    left: 2px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 9px;\n    left: 17px;\n}\n100% {\n    background-color: transparent;\n    bottom: 3px;\n    left: 10px;\n}\n}\n.line-20[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-20-data-v-920bb058 .8s linear .82s;\n          animation: bump-20-data-v-920bb058 .8s linear .82s;\n}\n@-webkit-keyframes bump-20-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 18px;\n    left: 8px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 23px;\n    left: 11px;\n}\n100% {\n    background-color: transparent;\n    bottom: 9px;\n    left: 6px;\n}\n}\n@keyframes bump-20-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 18px;\n    left: 8px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 23px;\n    left: 11px;\n}\n100% {\n    background-color: transparent;\n    bottom: 9px;\n    left: 6px;\n}\n}\n.line-21[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-21-data-v-920bb058 .8s linear .821s;\n          animation: bump-21-data-v-920bb058 .8s linear .821s;\n}\n@-webkit-keyframes bump-21-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 27px;\n    left: 3px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 59px;\n    left: 8px;\n}\n100% {\n    background-color: transparent;\n    bottom: 15px;\n    left: 3px;\n}\n}\n@keyframes bump-21-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 27px;\n    left: 3px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 59px;\n    left: 8px;\n}\n100% {\n    background-color: transparent;\n    bottom: 15px;\n    left: 3px;\n}\n}\n.line-22[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-22-data-v-920bb058 .8s linear .822s;\n          animation: bump-22-data-v-920bb058 .8s linear .822s;\n}\n@-webkit-keyframes bump-22-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 38px;\n    left: 6px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 12px;\n    left: 20px;\n}\n100% {\n    background-color: transparent;\n    bottom: 6px;\n    left: 5px;\n}\n}\n@keyframes bump-22-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 38px;\n    left: 6px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 12px;\n    left: 20px;\n}\n100% {\n    background-color: transparent;\n    bottom: 6px;\n    left: 5px;\n}\n}\n.line-23[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-23-data-v-920bb058 .8s linear .823s;\n          animation: bump-23-data-v-920bb058 .8s linear .823s;\n}\n@-webkit-keyframes bump-23-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 26px;\n    left: 10px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 55px;\n    left: 17px;\n}\n100% {\n    background-color: transparent;\n    bottom: 26px;\n    left: 4px;\n}\n}\n@keyframes bump-23-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 26px;\n    left: 10px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 55px;\n    left: 17px;\n}\n100% {\n    background-color: transparent;\n    bottom: 26px;\n    left: 4px;\n}\n}\n.line-24[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-24-data-v-920bb058 .8s linear .824s;\n          animation: bump-24-data-v-920bb058 .8s linear .824s;\n}\n@-webkit-keyframes bump-24-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 14px;\n    left: 2px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 26px;\n    left: 18px;\n}\n100% {\n    background-color: transparent;\n    bottom: 18px;\n    left: 8px;\n}\n}\n@keyframes bump-24-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 14px;\n    left: 2px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 26px;\n    left: 18px;\n}\n100% {\n    background-color: transparent;\n    bottom: 18px;\n    left: 8px;\n}\n}\n.line-25[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-25-data-v-920bb058 .8s linear .825s;\n          animation: bump-25-data-v-920bb058 .8s linear .825s;\n}\n@-webkit-keyframes bump-25-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 4px;\n    left: 3px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 27px;\n    left: 15px;\n}\n100% {\n    background-color: transparent;\n    bottom: 5px;\n    left: 8px;\n}\n}\n@keyframes bump-25-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 4px;\n    left: 3px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 27px;\n    left: 15px;\n}\n100% {\n    background-color: transparent;\n    bottom: 5px;\n    left: 8px;\n}\n}\n.line-26[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-26-data-v-920bb058 .8s linear .826s;\n          animation: bump-26-data-v-920bb058 .8s linear .826s;\n}\n@-webkit-keyframes bump-26-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 26px;\n    left: 1px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 9px;\n    left: 7px;\n}\n100% {\n    background-color: transparent;\n    bottom: 56px;\n    left: 8px;\n}\n}\n@keyframes bump-26-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 26px;\n    left: 1px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 9px;\n    left: 7px;\n}\n100% {\n    background-color: transparent;\n    bottom: 56px;\n    left: 8px;\n}\n}\n.line-27[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-27-data-v-920bb058 .8s linear .827s;\n          animation: bump-27-data-v-920bb058 .8s linear .827s;\n}\n@-webkit-keyframes bump-27-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 50px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 18px;\n    left: 5px;\n}\n100% {\n    background-color: transparent;\n    bottom: 14px;\n    left: 1px;\n}\n}\n@keyframes bump-27-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 50px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 18px;\n    left: 5px;\n}\n100% {\n    background-color: transparent;\n    bottom: 14px;\n    left: 1px;\n}\n}\n.line-28[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-28-data-v-920bb058 .8s linear .828s;\n          animation: bump-28-data-v-920bb058 .8s linear .828s;\n}\n@-webkit-keyframes bump-28-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 47px;\n    left: 1px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 80px;\n    left: 14px;\n}\n100% {\n    background-color: transparent;\n    bottom: 56px;\n    left: 6px;\n}\n}\n@keyframes bump-28-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 47px;\n    left: 1px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 80px;\n    left: 14px;\n}\n100% {\n    background-color: transparent;\n    bottom: 56px;\n    left: 6px;\n}\n}\n.line-29[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-29-data-v-920bb058 .8s linear .829s;\n          animation: bump-29-data-v-920bb058 .8s linear .829s;\n}\n@-webkit-keyframes bump-29-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 11px;\n    left: 4px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 59px;\n    left: 8px;\n}\n100% {\n    background-color: transparent;\n    bottom: 22px;\n    left: 9px;\n}\n}\n@keyframes bump-29-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 11px;\n    left: 4px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 59px;\n    left: 8px;\n}\n100% {\n    background-color: transparent;\n    bottom: 22px;\n    left: 9px;\n}\n}\n.line-30[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-30-data-v-920bb058 .8s linear .83s;\n          animation: bump-30-data-v-920bb058 .8s linear .83s;\n}\n@-webkit-keyframes bump-30-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 24px;\n    left: 4px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 37px;\n    left: 2px;\n}\n100% {\n    background-color: transparent;\n    bottom: 57px;\n    left: 2px;\n}\n}\n@keyframes bump-30-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 24px;\n    left: 4px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 37px;\n    left: 2px;\n}\n100% {\n    background-color: transparent;\n    bottom: 57px;\n    left: 2px;\n}\n}\n.line-31[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-31-data-v-920bb058 .8s linear .831s;\n          animation: bump-31-data-v-920bb058 .8s linear .831s;\n}\n@-webkit-keyframes bump-31-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 30px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 58px;\n    left: 8px;\n}\n100% {\n    background-color: transparent;\n    bottom: 24px;\n    left: 4px;\n}\n}\n@keyframes bump-31-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 30px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 58px;\n    left: 8px;\n}\n100% {\n    background-color: transparent;\n    bottom: 24px;\n    left: 4px;\n}\n}\n.line-32[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-32-data-v-920bb058 .8s linear .832s;\n          animation: bump-32-data-v-920bb058 .8s linear .832s;\n}\n@-webkit-keyframes bump-32-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 19px;\n    left: 7px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 37px;\n    left: 6px;\n}\n100% {\n    background-color: transparent;\n    bottom: 20px;\n    left: 8px;\n}\n}\n@keyframes bump-32-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 19px;\n    left: 7px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 37px;\n    left: 6px;\n}\n100% {\n    background-color: transparent;\n    bottom: 20px;\n    left: 8px;\n}\n}\n.line-33[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-33-data-v-920bb058 .8s linear .833s;\n          animation: bump-33-data-v-920bb058 .8s linear .833s;\n}\n@-webkit-keyframes bump-33-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 4px;\n    left: 8px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 24px;\n    left: 16px;\n}\n100% {\n    background-color: transparent;\n    bottom: 24px;\n    left: 10px;\n}\n}\n@keyframes bump-33-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 4px;\n    left: 8px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 24px;\n    left: 16px;\n}\n100% {\n    background-color: transparent;\n    bottom: 24px;\n    left: 10px;\n}\n}\n.line-34[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-34-data-v-920bb058 .8s linear .834s;\n          animation: bump-34-data-v-920bb058 .8s linear .834s;\n}\n@-webkit-keyframes bump-34-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 18px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 29px;\n    left: 7px;\n}\n100% {\n    background-color: transparent;\n    bottom: 1px;\n    left: 1px;\n}\n}\n@keyframes bump-34-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 18px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 29px;\n    left: 7px;\n}\n100% {\n    background-color: transparent;\n    bottom: 1px;\n    left: 1px;\n}\n}\n.line-35[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-35-data-v-920bb058 .8s linear .835s;\n          animation: bump-35-data-v-920bb058 .8s linear .835s;\n}\n@-webkit-keyframes bump-35-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 47px;\n    left: 6px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 18px;\n    left: 12px;\n}\n100% {\n    background-color: transparent;\n    bottom: 20px;\n    left: 5px;\n}\n}\n@keyframes bump-35-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 47px;\n    left: 6px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 18px;\n    left: 12px;\n}\n100% {\n    background-color: transparent;\n    bottom: 20px;\n    left: 5px;\n}\n}\n.line-36[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-36-data-v-920bb058 .8s linear .836s;\n          animation: bump-36-data-v-920bb058 .8s linear .836s;\n}\n@-webkit-keyframes bump-36-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 54px;\n    left: 4px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 59px;\n    left: 1px;\n}\n100% {\n    background-color: transparent;\n    bottom: 17px;\n    left: 8px;\n}\n}\n@keyframes bump-36-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 54px;\n    left: 4px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 59px;\n    left: 1px;\n}\n100% {\n    background-color: transparent;\n    bottom: 17px;\n    left: 8px;\n}\n}\n.line-37[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-37-data-v-920bb058 .8s linear .837s;\n          animation: bump-37-data-v-920bb058 .8s linear .837s;\n}\n@-webkit-keyframes bump-37-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 7px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 79px;\n    left: 6px;\n}\n100% {\n    background-color: transparent;\n    bottom: 30px;\n    left: 1px;\n}\n}\n@keyframes bump-37-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 7px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 79px;\n    left: 6px;\n}\n100% {\n    background-color: transparent;\n    bottom: 30px;\n    left: 1px;\n}\n}\n.line-38[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-38-data-v-920bb058 .8s linear 138s;\n          animation: bump-38-data-v-920bb058 .8s linear 138s;\n}\n@-webkit-keyframes bump-38-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 56px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 2px;\n    left: 2px;\n}\n100% {\n    background-color: transparent;\n    bottom: 45px;\n    left: 9px;\n}\n}\n@keyframes bump-38-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 56px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 2px;\n    left: 2px;\n}\n100% {\n    background-color: transparent;\n    bottom: 45px;\n    left: 9px;\n}\n}\n.line-39[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-39-data-v-920bb058 .8s linear 139s;\n          animation: bump-39-data-v-920bb058 .8s linear 139s;\n}\n@-webkit-keyframes bump-39-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 33px;\n    left: 7px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 74px;\n    left: 8px;\n}\n100% {\n    background-color: transparent;\n    bottom: 43px;\n    left: 4px;\n}\n}\n@keyframes bump-39-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 33px;\n    left: 7px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 74px;\n    left: 8px;\n}\n100% {\n    background-color: transparent;\n    bottom: 43px;\n    left: 4px;\n}\n}\n.line-40[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-40-data-v-920bb058 .8s linear 140s;\n          animation: bump-40-data-v-920bb058 .8s linear 140s;\n}\n@-webkit-keyframes bump-40-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 4px;\n    left: 8px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 80px;\n    left: 19px;\n}\n100% {\n    background-color: transparent;\n    bottom: 26px;\n    left: 8px;\n}\n}\n@keyframes bump-40-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 4px;\n    left: 8px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 80px;\n    left: 19px;\n}\n100% {\n    background-color: transparent;\n    bottom: 26px;\n    left: 8px;\n}\n}\n.line-41[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-41-data-v-920bb058 .8s linear 141s;\n          animation: bump-41-data-v-920bb058 .8s linear 141s;\n}\n@-webkit-keyframes bump-41-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 58px;\n    left: 3px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 16px;\n    left: 5px;\n}\n100% {\n    background-color: transparent;\n    bottom: 2px;\n    left: 5px;\n}\n}\n@keyframes bump-41-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 58px;\n    left: 3px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 16px;\n    left: 5px;\n}\n100% {\n    background-color: transparent;\n    bottom: 2px;\n    left: 5px;\n}\n}\n.line-42[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-42-data-v-920bb058 .8s linear 142s;\n          animation: bump-42-data-v-920bb058 .8s linear 142s;\n}\n@-webkit-keyframes bump-42-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 2px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 55px;\n    left: 15px;\n}\n100% {\n    background-color: transparent;\n    bottom: 27px;\n    left: 4px;\n}\n}\n@keyframes bump-42-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 2px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 55px;\n    left: 15px;\n}\n100% {\n    background-color: transparent;\n    bottom: 27px;\n    left: 4px;\n}\n}\n.line-43[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-43-data-v-920bb058 .8s linear 143s;\n          animation: bump-43-data-v-920bb058 .8s linear 143s;\n}\n@-webkit-keyframes bump-43-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 13px;\n    left: 8px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 39px;\n    left: 20px;\n}\n100% {\n    background-color: transparent;\n    bottom: 26px;\n    left: 2px;\n}\n}\n@keyframes bump-43-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 13px;\n    left: 8px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 39px;\n    left: 20px;\n}\n100% {\n    background-color: transparent;\n    bottom: 26px;\n    left: 2px;\n}\n}\n.line-44[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-44-data-v-920bb058 .8s linear 144s;\n          animation: bump-44-data-v-920bb058 .8s linear 144s;\n}\n@-webkit-keyframes bump-44-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 23px;\n    left: 5px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 76px;\n    left: 20px;\n}\n100% {\n    background-color: transparent;\n    bottom: 17px;\n    left: 1px;\n}\n}\n@keyframes bump-44-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 23px;\n    left: 5px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 76px;\n    left: 20px;\n}\n100% {\n    background-color: transparent;\n    bottom: 17px;\n    left: 1px;\n}\n}\n.line-45[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-45-data-v-920bb058 .8s linear 145s;\n          animation: bump-45-data-v-920bb058 .8s linear 145s;\n}\n@-webkit-keyframes bump-45-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 49px;\n    left: 3px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 66px;\n    left: 20px;\n}\n100% {\n    background-color: transparent;\n    bottom: 37px;\n    left: 5px;\n}\n}\n@keyframes bump-45-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 49px;\n    left: 3px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 66px;\n    left: 20px;\n}\n100% {\n    background-color: transparent;\n    bottom: 37px;\n    left: 5px;\n}\n}\n.line-46[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-46-data-v-920bb058 .8s linear 146s;\n          animation: bump-46-data-v-920bb058 .8s linear 146s;\n}\n@-webkit-keyframes bump-46-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 41px;\n    left: 10px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 13px;\n    left: 6px;\n}\n100% {\n    background-color: transparent;\n    bottom: 60px;\n    left: 8px;\n}\n}\n@keyframes bump-46-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 41px;\n    left: 10px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 13px;\n    left: 6px;\n}\n100% {\n    background-color: transparent;\n    bottom: 60px;\n    left: 8px;\n}\n}\n.line-47[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-47-data-v-920bb058 .8s linear 147s;\n          animation: bump-47-data-v-920bb058 .8s linear 147s;\n}\n@-webkit-keyframes bump-47-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 15px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 51px;\n    left: 10px;\n}\n100% {\n    background-color: transparent;\n    bottom: 52px;\n    left: 3px;\n}\n}\n@keyframes bump-47-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 15px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 51px;\n    left: 10px;\n}\n100% {\n    background-color: transparent;\n    bottom: 52px;\n    left: 3px;\n}\n}\n.line-48[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-48-data-v-920bb058 .8s linear 148s;\n          animation: bump-48-data-v-920bb058 .8s linear 148s;\n}\n@-webkit-keyframes bump-48-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 24px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 28px;\n    left: 3px;\n}\n100% {\n    background-color: transparent;\n    bottom: 17px;\n    left: 1px;\n}\n}\n@keyframes bump-48-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 24px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 28px;\n    left: 3px;\n}\n100% {\n    background-color: transparent;\n    bottom: 17px;\n    left: 1px;\n}\n}\n.line-49[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-49-data-v-920bb058 .8s linear 149s;\n          animation: bump-49-data-v-920bb058 .8s linear 149s;\n}\n@-webkit-keyframes bump-49-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 56px;\n    left: 5px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 11px;\n    left: 3px;\n}\n100% {\n    background-color: transparent;\n    bottom: 22px;\n    left: 2px;\n}\n}\n@keyframes bump-49-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 56px;\n    left: 5px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 11px;\n    left: 3px;\n}\n100% {\n    background-color: transparent;\n    bottom: 22px;\n    left: 2px;\n}\n}\n.line-50[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-50-data-v-920bb058 .8s linear 150s;\n          animation: bump-50-data-v-920bb058 .8s linear 150s;\n}\n@-webkit-keyframes bump-50-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 20px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 63px;\n    left: 14px;\n}\n100% {\n    background-color: transparent;\n    bottom: 24px;\n    left: 2px;\n}\n}\n@keyframes bump-50-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 20px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 63px;\n    left: 14px;\n}\n100% {\n    background-color: transparent;\n    bottom: 24px;\n    left: 2px;\n}\n}\n.line-51[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-51-data-v-920bb058 .8s linear 151s;\n          animation: bump-51-data-v-920bb058 .8s linear 151s;\n}\n@-webkit-keyframes bump-51-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 21px;\n    left: 7px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 53px;\n    left: 12px;\n}\n100% {\n    background-color: transparent;\n    bottom: 39px;\n    left: 9px;\n}\n}\n@keyframes bump-51-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 21px;\n    left: 7px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 53px;\n    left: 12px;\n}\n100% {\n    background-color: transparent;\n    bottom: 39px;\n    left: 9px;\n}\n}\n.line-52[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-52-data-v-920bb058 .8s linear 152s;\n          animation: bump-52-data-v-920bb058 .8s linear 152s;\n}\n@-webkit-keyframes bump-52-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 7px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 6px;\n    left: 15px;\n}\n100% {\n    background-color: transparent;\n    bottom: 42px;\n    left: 5px;\n}\n}\n@keyframes bump-52-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 7px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 6px;\n    left: 15px;\n}\n100% {\n    background-color: transparent;\n    bottom: 42px;\n    left: 5px;\n}\n}\n.line-53[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-53-data-v-920bb058 .8s linear 153s;\n          animation: bump-53-data-v-920bb058 .8s linear 153s;\n}\n@-webkit-keyframes bump-53-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 43px;\n    left: 5px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 37px;\n    left: 6px;\n}\n100% {\n    background-color: transparent;\n    bottom: 8px;\n    left: 10px;\n}\n}\n@keyframes bump-53-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 43px;\n    left: 5px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 37px;\n    left: 6px;\n}\n100% {\n    background-color: transparent;\n    bottom: 8px;\n    left: 10px;\n}\n}\n.line-54[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-54-data-v-920bb058 .8s linear 154s;\n          animation: bump-54-data-v-920bb058 .8s linear 154s;\n}\n@-webkit-keyframes bump-54-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 42px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 20px;\n    left: 5px;\n}\n100% {\n    background-color: transparent;\n    bottom: 45px;\n    left: 7px;\n}\n}\n@keyframes bump-54-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 42px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 20px;\n    left: 5px;\n}\n100% {\n    background-color: transparent;\n    bottom: 45px;\n    left: 7px;\n}\n}\n.line-55[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-55-data-v-920bb058 .8s linear 155s;\n          animation: bump-55-data-v-920bb058 .8s linear 155s;\n}\n@-webkit-keyframes bump-55-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 47px;\n    left: 7px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 21px;\n    left: 3px;\n}\n100% {\n    background-color: transparent;\n    bottom: 46px;\n    left: 6px;\n}\n}\n@keyframes bump-55-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 47px;\n    left: 7px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 21px;\n    left: 3px;\n}\n100% {\n    background-color: transparent;\n    bottom: 46px;\n    left: 6px;\n}\n}\n.line-56[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-56-data-v-920bb058 .8s linear 156s;\n          animation: bump-56-data-v-920bb058 .8s linear 156s;\n}\n@-webkit-keyframes bump-56-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 42px;\n    left: 1px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 78px;\n    left: 19px;\n}\n100% {\n    background-color: transparent;\n    bottom: 2px;\n    left: 2px;\n}\n}\n@keyframes bump-56-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 42px;\n    left: 1px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 78px;\n    left: 19px;\n}\n100% {\n    background-color: transparent;\n    bottom: 2px;\n    left: 2px;\n}\n}\n.line-57[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-57-data-v-920bb058 .8s linear 1.257s;\n          animation: bump-57-data-v-920bb058 .8s linear 1.257s;\n}\n@-webkit-keyframes bump-57-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 60px;\n    left: 1px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 48px;\n    left: 9px;\n}\n100% {\n    background-color: transparent;\n    bottom: 55px;\n    left: 5px;\n}\n}\n@keyframes bump-57-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 60px;\n    left: 1px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 48px;\n    left: 9px;\n}\n100% {\n    background-color: transparent;\n    bottom: 55px;\n    left: 5px;\n}\n}\n.line-58[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-58-data-v-920bb058 .8s linear 1.258s;\n          animation: bump-58-data-v-920bb058 .8s linear 1.258s;\n}\n@-webkit-keyframes bump-58-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 53px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 26px;\n    left: 15px;\n}\n100% {\n    background-color: transparent;\n    bottom: 14px;\n    left: 2px;\n}\n}\n@keyframes bump-58-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 53px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 26px;\n    left: 15px;\n}\n100% {\n    background-color: transparent;\n    bottom: 14px;\n    left: 2px;\n}\n}\n.line-59[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-59-data-v-920bb058 .8s linear 1.259s;\n          animation: bump-59-data-v-920bb058 .8s linear 1.259s;\n}\n@-webkit-keyframes bump-59-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 16px;\n    left: 8px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 44px;\n    left: 11px;\n}\n100% {\n    background-color: transparent;\n    bottom: 38px;\n    left: 4px;\n}\n}\n@keyframes bump-59-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 16px;\n    left: 8px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 44px;\n    left: 11px;\n}\n100% {\n    background-color: transparent;\n    bottom: 38px;\n    left: 4px;\n}\n}\n.line-60[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-60-data-v-920bb058 .8s linear 1.26s;\n          animation: bump-60-data-v-920bb058 .8s linear 1.26s;\n}\n@-webkit-keyframes bump-60-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 44px;\n    left: 5px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 19px;\n    left: 8px;\n}\n100% {\n    background-color: transparent;\n    bottom: 46px;\n    left: 10px;\n}\n}\n@keyframes bump-60-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 44px;\n    left: 5px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 19px;\n    left: 8px;\n}\n100% {\n    background-color: transparent;\n    bottom: 46px;\n    left: 10px;\n}\n}\n.line-61[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-61-data-v-920bb058 .8s linear 1.261s;\n          animation: bump-61-data-v-920bb058 .8s linear 1.261s;\n}\n@-webkit-keyframes bump-61-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 23px;\n    left: 5px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 69px;\n    left: 7px;\n}\n100% {\n    background-color: transparent;\n    bottom: 45px;\n    left: 4px;\n}\n}\n@keyframes bump-61-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 23px;\n    left: 5px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 69px;\n    left: 7px;\n}\n100% {\n    background-color: transparent;\n    bottom: 45px;\n    left: 4px;\n}\n}\n.line-62[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-62-data-v-920bb058 .8s linear 1.262s;\n          animation: bump-62-data-v-920bb058 .8s linear 1.262s;\n}\n@-webkit-keyframes bump-62-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 10px;\n    left: 10px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 12px;\n    left: 5px;\n}\n100% {\n    background-color: transparent;\n    bottom: 20px;\n    left: 8px;\n}\n}\n@keyframes bump-62-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 10px;\n    left: 10px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 12px;\n    left: 5px;\n}\n100% {\n    background-color: transparent;\n    bottom: 20px;\n    left: 8px;\n}\n}\n.line-63[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-63-data-v-920bb058 .8s linear 1.263s;\n          animation: bump-63-data-v-920bb058 .8s linear 1.263s;\n}\n@-webkit-keyframes bump-63-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 29px;\n    left: 7px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 43px;\n    left: 12px;\n}\n100% {\n    background-color: transparent;\n    bottom: 13px;\n    left: 1px;\n}\n}\n@keyframes bump-63-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 29px;\n    left: 7px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 43px;\n    left: 12px;\n}\n100% {\n    background-color: transparent;\n    bottom: 13px;\n    left: 1px;\n}\n}\n.line-64[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-64-data-v-920bb058 .8s linear 1.264s;\n          animation: bump-64-data-v-920bb058 .8s linear 1.264s;\n}\n@-webkit-keyframes bump-64-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 31px;\n    left: 3px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 34px;\n    left: 1px;\n}\n100% {\n    background-color: transparent;\n    bottom: 30px;\n    left: 2px;\n}\n}\n@keyframes bump-64-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 31px;\n    left: 3px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 34px;\n    left: 1px;\n}\n100% {\n    background-color: transparent;\n    bottom: 30px;\n    left: 2px;\n}\n}\n.line-65[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-65-data-v-920bb058 .8s linear 1.265s;\n          animation: bump-65-data-v-920bb058 .8s linear 1.265s;\n}\n@-webkit-keyframes bump-65-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 55px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 17px;\n    left: 13px;\n}\n100% {\n    background-color: transparent;\n    bottom: 5px;\n    left: 4px;\n}\n}\n@keyframes bump-65-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 55px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 17px;\n    left: 13px;\n}\n100% {\n    background-color: transparent;\n    bottom: 5px;\n    left: 4px;\n}\n}\n.line-66[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-66-data-v-920bb058 .8s linear 1.266s;\n          animation: bump-66-data-v-920bb058 .8s linear 1.266s;\n}\n@-webkit-keyframes bump-66-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 31px;\n    left: 3px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 24px;\n    left: 15px;\n}\n100% {\n    background-color: transparent;\n    bottom: 48px;\n    left: 5px;\n}\n}\n@keyframes bump-66-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 31px;\n    left: 3px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 24px;\n    left: 15px;\n}\n100% {\n    background-color: transparent;\n    bottom: 48px;\n    left: 5px;\n}\n}\n.line-67[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-67-data-v-920bb058 .8s linear 1.267s;\n          animation: bump-67-data-v-920bb058 .8s linear 1.267s;\n}\n@-webkit-keyframes bump-67-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 27px;\n    left: 8px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 6px;\n    left: 2px;\n}\n100% {\n    background-color: transparent;\n    bottom: 35px;\n    left: 1px;\n}\n}\n@keyframes bump-67-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 27px;\n    left: 8px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 6px;\n    left: 2px;\n}\n100% {\n    background-color: transparent;\n    bottom: 35px;\n    left: 1px;\n}\n}\n.line-68[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-68-data-v-920bb058 .8s linear 1.268s;\n          animation: bump-68-data-v-920bb058 .8s linear 1.268s;\n}\n@-webkit-keyframes bump-68-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 46px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 23px;\n    left: 3px;\n}\n100% {\n    background-color: transparent;\n    bottom: 55px;\n    left: 3px;\n}\n}\n@keyframes bump-68-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 46px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 23px;\n    left: 3px;\n}\n100% {\n    background-color: transparent;\n    bottom: 55px;\n    left: 3px;\n}\n}\n.line-69[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-69-data-v-920bb058 .8s linear 1.269s;\n          animation: bump-69-data-v-920bb058 .8s linear 1.269s;\n}\n@-webkit-keyframes bump-69-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 1px;\n    left: 10px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 37px;\n    left: 15px;\n}\n100% {\n    background-color: transparent;\n    bottom: 36px;\n    left: 4px;\n}\n}\n@keyframes bump-69-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 1px;\n    left: 10px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 37px;\n    left: 15px;\n}\n100% {\n    background-color: transparent;\n    bottom: 36px;\n    left: 4px;\n}\n}\n.line-70[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-70-data-v-920bb058 .8s linear 1.27s;\n          animation: bump-70-data-v-920bb058 .8s linear 1.27s;\n}\n@-webkit-keyframes bump-70-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 27px;\n    left: 1px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 59px;\n    left: 11px;\n}\n100% {\n    background-color: transparent;\n    bottom: 13px;\n    left: 9px;\n}\n}\n@keyframes bump-70-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 27px;\n    left: 1px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 59px;\n    left: 11px;\n}\n100% {\n    background-color: transparent;\n    bottom: 13px;\n    left: 9px;\n}\n}\n.line-71[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-71-data-v-920bb058 .8s linear 1.271s;\n          animation: bump-71-data-v-920bb058 .8s linear 1.271s;\n}\n@-webkit-keyframes bump-71-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 50px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 20px;\n    left: 2px;\n}\n100% {\n    background-color: transparent;\n    bottom: 48px;\n    left: 3px;\n}\n}\n@keyframes bump-71-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 50px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 20px;\n    left: 2px;\n}\n100% {\n    background-color: transparent;\n    bottom: 48px;\n    left: 3px;\n}\n}\n.line-72[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-72-data-v-920bb058 .8s linear 1.272s;\n          animation: bump-72-data-v-920bb058 .8s linear 1.272s;\n}\n@-webkit-keyframes bump-72-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 59px;\n    left: 6px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 36px;\n    left: 17px;\n}\n100% {\n    background-color: transparent;\n    bottom: 15px;\n    left: 1px;\n}\n}\n@keyframes bump-72-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 59px;\n    left: 6px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 36px;\n    left: 17px;\n}\n100% {\n    background-color: transparent;\n    bottom: 15px;\n    left: 1px;\n}\n}\n.line-73[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-73-data-v-920bb058 .8s linear 1.273s;\n          animation: bump-73-data-v-920bb058 .8s linear 1.273s;\n}\n@-webkit-keyframes bump-73-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 31px;\n    left: 6px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 31px;\n    left: 3px;\n}\n100% {\n    background-color: transparent;\n    bottom: 4px;\n    left: 2px;\n}\n}\n@keyframes bump-73-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 31px;\n    left: 6px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 31px;\n    left: 3px;\n}\n100% {\n    background-color: transparent;\n    bottom: 4px;\n    left: 2px;\n}\n}\n.line-74[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-74-data-v-920bb058 .8s linear 1.274s;\n          animation: bump-74-data-v-920bb058 .8s linear 1.274s;\n}\n@-webkit-keyframes bump-74-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 39px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 77px;\n    left: 4px;\n}\n100% {\n    background-color: transparent;\n    bottom: 41px;\n    left: 10px;\n}\n}\n@keyframes bump-74-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 39px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 77px;\n    left: 4px;\n}\n100% {\n    background-color: transparent;\n    bottom: 41px;\n    left: 10px;\n}\n}\n.line-75[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-75-data-v-920bb058 .8s linear 1.275s;\n          animation: bump-75-data-v-920bb058 .8s linear 1.275s;\n}\n@-webkit-keyframes bump-75-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 19px;\n    left: 3px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 9px;\n    left: 14px;\n}\n100% {\n    background-color: transparent;\n    bottom: 22px;\n    left: 1px;\n}\n}\n@keyframes bump-75-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 19px;\n    left: 3px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 9px;\n    left: 14px;\n}\n100% {\n    background-color: transparent;\n    bottom: 22px;\n    left: 1px;\n}\n}\n.line-76[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-76-data-v-920bb058 .8s linear 1.276s;\n          animation: bump-76-data-v-920bb058 .8s linear 1.276s;\n}\n@-webkit-keyframes bump-76-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 51px;\n    left: 8px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 70px;\n    left: 8px;\n}\n100% {\n    background-color: transparent;\n    bottom: 11px;\n    left: 9px;\n}\n}\n@keyframes bump-76-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 51px;\n    left: 8px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 70px;\n    left: 8px;\n}\n100% {\n    background-color: transparent;\n    bottom: 11px;\n    left: 9px;\n}\n}\n#line-group[data-v-920bb058] {\n  position: absolute;\n  top: 50%;\n  left: 0;\n  width: 100%;\n  height: 100%;\n}\n", ""]);
+exports.push([module.i, ".hero[data-v-920bb058] {\n  top: 20%;\n  left: 10%;\n}\n.hero text[data-v-920bb058] {\n  fill: rgba(255, 255, 255, 0);\n  stroke: #333;\n  font-size: 76px;\n  stroke-width: .8;\n  stroke-linejoin: round;\n  line-height: 1;\n}\n.hero [data-aos=fill-animation][data-v-920bb058] {\n  fill: #c3b282;\n  transition-property: fill;\n}\n.hero [data-aos=fill-animation].aos-animate[data-v-920bb058] {\n  fill: transparent;\n}\n.hero .sub[data-v-920bb058] {\n  letter-spacing: .3em;\n}\n.hero .line[data-v-920bb058] {\n  width: 72px;\n  height: auto;\n}\n.hero li[data-v-920bb058] {\n  padding-right: 8px;\n}\n@media only screen and (max-width: 768px) {\n.hero[data-v-920bb058] {\n    top: 85%;\n    left: 16px;\n}\n.hero .line[data-v-920bb058] {\n    width: 48px;\n}\n}\n.line-1[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-1-data-v-920bb058 .8s linear .61s;\n          animation: bump-1-data-v-920bb058 .8s linear .61s;\n}\n@-webkit-keyframes bump-1-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 56px;\n    left: 1px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 64px;\n    left: 7px;\n}\n100% {\n    background-color: transparent;\n    bottom: 57px;\n    left: 8px;\n}\n}\n@keyframes bump-1-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 56px;\n    left: 1px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 64px;\n    left: 7px;\n}\n100% {\n    background-color: transparent;\n    bottom: 57px;\n    left: 8px;\n}\n}\n.line-2[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-2-data-v-920bb058 .8s linear .62s;\n          animation: bump-2-data-v-920bb058 .8s linear .62s;\n}\n@-webkit-keyframes bump-2-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 30px;\n    left: 4px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 57px;\n    left: 7px;\n}\n100% {\n    background-color: transparent;\n    bottom: 59px;\n    left: 1px;\n}\n}\n@keyframes bump-2-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 30px;\n    left: 4px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 57px;\n    left: 7px;\n}\n100% {\n    background-color: transparent;\n    bottom: 59px;\n    left: 1px;\n}\n}\n.line-3[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-3-data-v-920bb058 .8s linear .63s;\n          animation: bump-3-data-v-920bb058 .8s linear .63s;\n}\n@-webkit-keyframes bump-3-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 58px;\n    left: 6px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 27px;\n    left: 17px;\n}\n100% {\n    background-color: transparent;\n    bottom: 23px;\n    left: 2px;\n}\n}\n@keyframes bump-3-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 58px;\n    left: 6px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 27px;\n    left: 17px;\n}\n100% {\n    background-color: transparent;\n    bottom: 23px;\n    left: 2px;\n}\n}\n.line-4[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-4-data-v-920bb058 .8s linear .64s;\n          animation: bump-4-data-v-920bb058 .8s linear .64s;\n}\n@-webkit-keyframes bump-4-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 58px;\n    left: 4px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 29px;\n    left: 11px;\n}\n100% {\n    background-color: transparent;\n    bottom: 32px;\n    left: 6px;\n}\n}\n@keyframes bump-4-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 58px;\n    left: 4px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 29px;\n    left: 11px;\n}\n100% {\n    background-color: transparent;\n    bottom: 32px;\n    left: 6px;\n}\n}\n.line-5[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-5-data-v-920bb058 .8s linear .65s;\n          animation: bump-5-data-v-920bb058 .8s linear .65s;\n}\n@-webkit-keyframes bump-5-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 9px;\n    left: 3px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 13px;\n    left: 3px;\n}\n100% {\n    background-color: transparent;\n    bottom: 1px;\n    left: 8px;\n}\n}\n@keyframes bump-5-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 9px;\n    left: 3px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 13px;\n    left: 3px;\n}\n100% {\n    background-color: transparent;\n    bottom: 1px;\n    left: 8px;\n}\n}\n.line-6[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-6-data-v-920bb058 .8s linear .66s;\n          animation: bump-6-data-v-920bb058 .8s linear .66s;\n}\n@-webkit-keyframes bump-6-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 41px;\n    left: 6px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 59px;\n    left: 3px;\n}\n100% {\n    background-color: transparent;\n    bottom: 53px;\n    left: 8px;\n}\n}\n@keyframes bump-6-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 41px;\n    left: 6px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 59px;\n    left: 3px;\n}\n100% {\n    background-color: transparent;\n    bottom: 53px;\n    left: 8px;\n}\n}\n.line-7[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-7-data-v-920bb058 .8s linear .67s;\n          animation: bump-7-data-v-920bb058 .8s linear .67s;\n}\n@-webkit-keyframes bump-7-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 55px;\n    left: 6px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 78px;\n    left: 13px;\n}\n100% {\n    background-color: transparent;\n    bottom: 39px;\n    left: 8px;\n}\n}\n@keyframes bump-7-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 55px;\n    left: 6px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 78px;\n    left: 13px;\n}\n100% {\n    background-color: transparent;\n    bottom: 39px;\n    left: 8px;\n}\n}\n.line-8[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-8-data-v-920bb058 .8s linear .68s;\n          animation: bump-8-data-v-920bb058 .8s linear .68s;\n}\n@-webkit-keyframes bump-8-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 31px;\n    left: 5px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 77px;\n    left: 10px;\n}\n100% {\n    background-color: transparent;\n    bottom: 38px;\n    left: 5px;\n}\n}\n@keyframes bump-8-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 31px;\n    left: 5px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 77px;\n    left: 10px;\n}\n100% {\n    background-color: transparent;\n    bottom: 38px;\n    left: 5px;\n}\n}\n.line-9[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-9-data-v-920bb058 .8s linear .69s;\n          animation: bump-9-data-v-920bb058 .8s linear .69s;\n}\n@-webkit-keyframes bump-9-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 41px;\n    left: 7px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 49px;\n    left: 16px;\n}\n100% {\n    background-color: transparent;\n    bottom: 54px;\n    left: 10px;\n}\n}\n@keyframes bump-9-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 41px;\n    left: 7px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 49px;\n    left: 16px;\n}\n100% {\n    background-color: transparent;\n    bottom: 54px;\n    left: 10px;\n}\n}\n.line-10[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-10-data-v-920bb058 .8s linear .61s;\n          animation: bump-10-data-v-920bb058 .8s linear .61s;\n}\n@-webkit-keyframes bump-10-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 53px;\n    left: 3px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 32px;\n    left: 16px;\n}\n100% {\n    background-color: transparent;\n    bottom: 32px;\n    left: 6px;\n}\n}\n@keyframes bump-10-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 53px;\n    left: 3px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 32px;\n    left: 16px;\n}\n100% {\n    background-color: transparent;\n    bottom: 32px;\n    left: 6px;\n}\n}\n.line-11[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-11-data-v-920bb058 .8s linear .611s;\n          animation: bump-11-data-v-920bb058 .8s linear .611s;\n}\n@-webkit-keyframes bump-11-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 10px;\n    left: 5px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 38px;\n    left: 12px;\n}\n100% {\n    background-color: transparent;\n    bottom: 25px;\n    left: 10px;\n}\n}\n@keyframes bump-11-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 10px;\n    left: 5px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 38px;\n    left: 12px;\n}\n100% {\n    background-color: transparent;\n    bottom: 25px;\n    left: 10px;\n}\n}\n.line-12[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-12-data-v-920bb058 .8s linear .612s;\n          animation: bump-12-data-v-920bb058 .8s linear .612s;\n}\n@-webkit-keyframes bump-12-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 13px;\n    left: 10px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 44px;\n    left: 6px;\n}\n100% {\n    background-color: transparent;\n    bottom: 34px;\n    left: 10px;\n}\n}\n@keyframes bump-12-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 13px;\n    left: 10px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 44px;\n    left: 6px;\n}\n100% {\n    background-color: transparent;\n    bottom: 34px;\n    left: 10px;\n}\n}\n.line-13[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-13-data-v-920bb058 .8s linear .613s;\n          animation: bump-13-data-v-920bb058 .8s linear .613s;\n}\n@-webkit-keyframes bump-13-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 20px;\n    left: 8px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 38px;\n    left: 5px;\n}\n100% {\n    background-color: transparent;\n    bottom: 10px;\n    left: 3px;\n}\n}\n@keyframes bump-13-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 20px;\n    left: 8px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 38px;\n    left: 5px;\n}\n100% {\n    background-color: transparent;\n    bottom: 10px;\n    left: 3px;\n}\n}\n.line-14[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-14-data-v-920bb058 .8s linear .614s;\n          animation: bump-14-data-v-920bb058 .8s linear .614s;\n}\n@-webkit-keyframes bump-14-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 8px;\n    left: 6px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 17px;\n    left: 7px;\n}\n100% {\n    background-color: transparent;\n    bottom: 17px;\n    left: 7px;\n}\n}\n@keyframes bump-14-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 8px;\n    left: 6px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 17px;\n    left: 7px;\n}\n100% {\n    background-color: transparent;\n    bottom: 17px;\n    left: 7px;\n}\n}\n.line-15[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-15-data-v-920bb058 .8s linear .615s;\n          animation: bump-15-data-v-920bb058 .8s linear .615s;\n}\n@-webkit-keyframes bump-15-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 25px;\n    left: 2px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 5px;\n    left: 1px;\n}\n100% {\n    background-color: transparent;\n    bottom: 24px;\n    left: 6px;\n}\n}\n@keyframes bump-15-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 25px;\n    left: 2px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 5px;\n    left: 1px;\n}\n100% {\n    background-color: transparent;\n    bottom: 24px;\n    left: 6px;\n}\n}\n.line-16[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-16-data-v-920bb058 .8s linear .616s;\n          animation: bump-16-data-v-920bb058 .8s linear .616s;\n}\n@-webkit-keyframes bump-16-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 6px;\n    left: 10px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 16px;\n    left: 4px;\n}\n100% {\n    background-color: transparent;\n    bottom: 56px;\n    left: 8px;\n}\n}\n@keyframes bump-16-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 6px;\n    left: 10px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 16px;\n    left: 4px;\n}\n100% {\n    background-color: transparent;\n    bottom: 56px;\n    left: 8px;\n}\n}\n.line-17[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-17-data-v-920bb058 .8s linear .617s;\n          animation: bump-17-data-v-920bb058 .8s linear .617s;\n}\n@-webkit-keyframes bump-17-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 10px;\n    left: 8px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 66px;\n    left: 12px;\n}\n100% {\n    background-color: transparent;\n    bottom: 35px;\n    left: 1px;\n}\n}\n@keyframes bump-17-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 10px;\n    left: 8px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 66px;\n    left: 12px;\n}\n100% {\n    background-color: transparent;\n    bottom: 35px;\n    left: 1px;\n}\n}\n.line-18[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-18-data-v-920bb058 .8s linear .618s;\n          animation: bump-18-data-v-920bb058 .8s linear .618s;\n}\n@-webkit-keyframes bump-18-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 21px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 49px;\n    left: 15px;\n}\n100% {\n    background-color: transparent;\n    bottom: 37px;\n    left: 5px;\n}\n}\n@keyframes bump-18-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 21px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 49px;\n    left: 15px;\n}\n100% {\n    background-color: transparent;\n    bottom: 37px;\n    left: 5px;\n}\n}\n.line-19[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-19-data-v-920bb058 .8s linear .819s;\n          animation: bump-19-data-v-920bb058 .8s linear .819s;\n}\n@-webkit-keyframes bump-19-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 57px;\n    left: 5px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 53px;\n    left: 18px;\n}\n100% {\n    background-color: transparent;\n    bottom: 15px;\n    left: 7px;\n}\n}\n@keyframes bump-19-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 57px;\n    left: 5px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 53px;\n    left: 18px;\n}\n100% {\n    background-color: transparent;\n    bottom: 15px;\n    left: 7px;\n}\n}\n.line-20[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-20-data-v-920bb058 .8s linear .82s;\n          animation: bump-20-data-v-920bb058 .8s linear .82s;\n}\n@-webkit-keyframes bump-20-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 47px;\n    left: 10px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 68px;\n    left: 11px;\n}\n100% {\n    background-color: transparent;\n    bottom: 2px;\n    left: 8px;\n}\n}\n@keyframes bump-20-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 47px;\n    left: 10px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 68px;\n    left: 11px;\n}\n100% {\n    background-color: transparent;\n    bottom: 2px;\n    left: 8px;\n}\n}\n.line-21[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-21-data-v-920bb058 .8s linear .821s;\n          animation: bump-21-data-v-920bb058 .8s linear .821s;\n}\n@-webkit-keyframes bump-21-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 34px;\n    left: 6px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 57px;\n    left: 6px;\n}\n100% {\n    background-color: transparent;\n    bottom: 37px;\n    left: 2px;\n}\n}\n@keyframes bump-21-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 34px;\n    left: 6px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 57px;\n    left: 6px;\n}\n100% {\n    background-color: transparent;\n    bottom: 37px;\n    left: 2px;\n}\n}\n.line-22[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-22-data-v-920bb058 .8s linear .822s;\n          animation: bump-22-data-v-920bb058 .8s linear .822s;\n}\n@-webkit-keyframes bump-22-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 20px;\n    left: 8px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 14px;\n    left: 11px;\n}\n100% {\n    background-color: transparent;\n    bottom: 42px;\n    left: 2px;\n}\n}\n@keyframes bump-22-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 20px;\n    left: 8px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 14px;\n    left: 11px;\n}\n100% {\n    background-color: transparent;\n    bottom: 42px;\n    left: 2px;\n}\n}\n.line-23[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-23-data-v-920bb058 .8s linear .823s;\n          animation: bump-23-data-v-920bb058 .8s linear .823s;\n}\n@-webkit-keyframes bump-23-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 50px;\n    left: 6px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 51px;\n    left: 4px;\n}\n100% {\n    background-color: transparent;\n    bottom: 3px;\n    left: 4px;\n}\n}\n@keyframes bump-23-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 50px;\n    left: 6px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 51px;\n    left: 4px;\n}\n100% {\n    background-color: transparent;\n    bottom: 3px;\n    left: 4px;\n}\n}\n.line-24[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-24-data-v-920bb058 .8s linear .824s;\n          animation: bump-24-data-v-920bb058 .8s linear .824s;\n}\n@-webkit-keyframes bump-24-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 14px;\n    left: 6px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 28px;\n    left: 17px;\n}\n100% {\n    background-color: transparent;\n    bottom: 36px;\n    left: 5px;\n}\n}\n@keyframes bump-24-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 14px;\n    left: 6px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 28px;\n    left: 17px;\n}\n100% {\n    background-color: transparent;\n    bottom: 36px;\n    left: 5px;\n}\n}\n.line-25[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-25-data-v-920bb058 .8s linear .825s;\n          animation: bump-25-data-v-920bb058 .8s linear .825s;\n}\n@-webkit-keyframes bump-25-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 5px;\n    left: 2px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 5px;\n    left: 20px;\n}\n100% {\n    background-color: transparent;\n    bottom: 23px;\n    left: 8px;\n}\n}\n@keyframes bump-25-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 5px;\n    left: 2px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 5px;\n    left: 20px;\n}\n100% {\n    background-color: transparent;\n    bottom: 23px;\n    left: 8px;\n}\n}\n.line-26[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-26-data-v-920bb058 .8s linear .826s;\n          animation: bump-26-data-v-920bb058 .8s linear .826s;\n}\n@-webkit-keyframes bump-26-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 46px;\n    left: 10px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 59px;\n    left: 12px;\n}\n100% {\n    background-color: transparent;\n    bottom: 50px;\n    left: 4px;\n}\n}\n@keyframes bump-26-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 46px;\n    left: 10px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 59px;\n    left: 12px;\n}\n100% {\n    background-color: transparent;\n    bottom: 50px;\n    left: 4px;\n}\n}\n.line-27[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-27-data-v-920bb058 .8s linear .827s;\n          animation: bump-27-data-v-920bb058 .8s linear .827s;\n}\n@-webkit-keyframes bump-27-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 8px;\n    left: 7px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 51px;\n    left: 9px;\n}\n100% {\n    background-color: transparent;\n    bottom: 11px;\n    left: 7px;\n}\n}\n@keyframes bump-27-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 8px;\n    left: 7px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 51px;\n    left: 9px;\n}\n100% {\n    background-color: transparent;\n    bottom: 11px;\n    left: 7px;\n}\n}\n.line-28[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-28-data-v-920bb058 .8s linear .828s;\n          animation: bump-28-data-v-920bb058 .8s linear .828s;\n}\n@-webkit-keyframes bump-28-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 44px;\n    left: 5px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 64px;\n    left: 20px;\n}\n100% {\n    background-color: transparent;\n    bottom: 16px;\n    left: 9px;\n}\n}\n@keyframes bump-28-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 44px;\n    left: 5px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 64px;\n    left: 20px;\n}\n100% {\n    background-color: transparent;\n    bottom: 16px;\n    left: 9px;\n}\n}\n.line-29[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-29-data-v-920bb058 .8s linear .829s;\n          animation: bump-29-data-v-920bb058 .8s linear .829s;\n}\n@-webkit-keyframes bump-29-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 47px;\n    left: 5px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 23px;\n    left: 7px;\n}\n100% {\n    background-color: transparent;\n    bottom: 58px;\n    left: 7px;\n}\n}\n@keyframes bump-29-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 47px;\n    left: 5px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 23px;\n    left: 7px;\n}\n100% {\n    background-color: transparent;\n    bottom: 58px;\n    left: 7px;\n}\n}\n.line-30[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-30-data-v-920bb058 .8s linear .83s;\n          animation: bump-30-data-v-920bb058 .8s linear .83s;\n}\n@-webkit-keyframes bump-30-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 50px;\n    left: 8px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 52px;\n    left: 14px;\n}\n100% {\n    background-color: transparent;\n    bottom: 59px;\n    left: 7px;\n}\n}\n@keyframes bump-30-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 50px;\n    left: 8px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 52px;\n    left: 14px;\n}\n100% {\n    background-color: transparent;\n    bottom: 59px;\n    left: 7px;\n}\n}\n.line-31[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-31-data-v-920bb058 .8s linear .831s;\n          animation: bump-31-data-v-920bb058 .8s linear .831s;\n}\n@-webkit-keyframes bump-31-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 9px;\n    left: 4px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 27px;\n    left: 19px;\n}\n100% {\n    background-color: transparent;\n    bottom: 3px;\n    left: 9px;\n}\n}\n@keyframes bump-31-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 9px;\n    left: 4px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 27px;\n    left: 19px;\n}\n100% {\n    background-color: transparent;\n    bottom: 3px;\n    left: 9px;\n}\n}\n.line-32[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-32-data-v-920bb058 .8s linear .832s;\n          animation: bump-32-data-v-920bb058 .8s linear .832s;\n}\n@-webkit-keyframes bump-32-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 28px;\n    left: 4px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 16px;\n    left: 19px;\n}\n100% {\n    background-color: transparent;\n    bottom: 12px;\n    left: 3px;\n}\n}\n@keyframes bump-32-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 28px;\n    left: 4px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 16px;\n    left: 19px;\n}\n100% {\n    background-color: transparent;\n    bottom: 12px;\n    left: 3px;\n}\n}\n.line-33[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-33-data-v-920bb058 .8s linear .833s;\n          animation: bump-33-data-v-920bb058 .8s linear .833s;\n}\n@-webkit-keyframes bump-33-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 33px;\n    left: 7px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 55px;\n    left: 12px;\n}\n100% {\n    background-color: transparent;\n    bottom: 1px;\n    left: 10px;\n}\n}\n@keyframes bump-33-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 33px;\n    left: 7px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 55px;\n    left: 12px;\n}\n100% {\n    background-color: transparent;\n    bottom: 1px;\n    left: 10px;\n}\n}\n.line-34[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-34-data-v-920bb058 .8s linear .834s;\n          animation: bump-34-data-v-920bb058 .8s linear .834s;\n}\n@-webkit-keyframes bump-34-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 29px;\n    left: 1px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 49px;\n    left: 11px;\n}\n100% {\n    background-color: transparent;\n    bottom: 18px;\n    left: 5px;\n}\n}\n@keyframes bump-34-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 29px;\n    left: 1px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 49px;\n    left: 11px;\n}\n100% {\n    background-color: transparent;\n    bottom: 18px;\n    left: 5px;\n}\n}\n.line-35[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-35-data-v-920bb058 .8s linear .835s;\n          animation: bump-35-data-v-920bb058 .8s linear .835s;\n}\n@-webkit-keyframes bump-35-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 11px;\n    left: 8px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 35px;\n    left: 12px;\n}\n100% {\n    background-color: transparent;\n    bottom: 32px;\n    left: 8px;\n}\n}\n@keyframes bump-35-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 11px;\n    left: 8px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 35px;\n    left: 12px;\n}\n100% {\n    background-color: transparent;\n    bottom: 32px;\n    left: 8px;\n}\n}\n.line-36[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-36-data-v-920bb058 .8s linear .836s;\n          animation: bump-36-data-v-920bb058 .8s linear .836s;\n}\n@-webkit-keyframes bump-36-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 13px;\n    left: 6px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 60px;\n    left: 19px;\n}\n100% {\n    background-color: transparent;\n    bottom: 3px;\n    left: 8px;\n}\n}\n@keyframes bump-36-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 13px;\n    left: 6px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 60px;\n    left: 19px;\n}\n100% {\n    background-color: transparent;\n    bottom: 3px;\n    left: 8px;\n}\n}\n.line-37[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-37-data-v-920bb058 .8s linear .837s;\n          animation: bump-37-data-v-920bb058 .8s linear .837s;\n}\n@-webkit-keyframes bump-37-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 39px;\n    left: 10px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 62px;\n    left: 13px;\n}\n100% {\n    background-color: transparent;\n    bottom: 47px;\n    left: 5px;\n}\n}\n@keyframes bump-37-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 39px;\n    left: 10px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 62px;\n    left: 13px;\n}\n100% {\n    background-color: transparent;\n    bottom: 47px;\n    left: 5px;\n}\n}\n.line-38[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-38-data-v-920bb058 .8s linear 138s;\n          animation: bump-38-data-v-920bb058 .8s linear 138s;\n}\n@-webkit-keyframes bump-38-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 25px;\n    left: 1px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 70px;\n    left: 17px;\n}\n100% {\n    background-color: transparent;\n    bottom: 29px;\n    left: 1px;\n}\n}\n@keyframes bump-38-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 25px;\n    left: 1px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 70px;\n    left: 17px;\n}\n100% {\n    background-color: transparent;\n    bottom: 29px;\n    left: 1px;\n}\n}\n.line-39[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-39-data-v-920bb058 .8s linear 139s;\n          animation: bump-39-data-v-920bb058 .8s linear 139s;\n}\n@-webkit-keyframes bump-39-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 45px;\n    left: 8px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 58px;\n    left: 3px;\n}\n100% {\n    background-color: transparent;\n    bottom: 9px;\n    left: 1px;\n}\n}\n@keyframes bump-39-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 45px;\n    left: 8px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 58px;\n    left: 3px;\n}\n100% {\n    background-color: transparent;\n    bottom: 9px;\n    left: 1px;\n}\n}\n.line-40[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-40-data-v-920bb058 .8s linear 140s;\n          animation: bump-40-data-v-920bb058 .8s linear 140s;\n}\n@-webkit-keyframes bump-40-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 13px;\n    left: 2px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 55px;\n    left: 14px;\n}\n100% {\n    background-color: transparent;\n    bottom: 52px;\n    left: 1px;\n}\n}\n@keyframes bump-40-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 13px;\n    left: 2px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 55px;\n    left: 14px;\n}\n100% {\n    background-color: transparent;\n    bottom: 52px;\n    left: 1px;\n}\n}\n.line-41[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-41-data-v-920bb058 .8s linear 141s;\n          animation: bump-41-data-v-920bb058 .8s linear 141s;\n}\n@-webkit-keyframes bump-41-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 15px;\n    left: 6px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 39px;\n    left: 7px;\n}\n100% {\n    background-color: transparent;\n    bottom: 4px;\n    left: 6px;\n}\n}\n@keyframes bump-41-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 15px;\n    left: 6px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 39px;\n    left: 7px;\n}\n100% {\n    background-color: transparent;\n    bottom: 4px;\n    left: 6px;\n}\n}\n.line-42[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-42-data-v-920bb058 .8s linear 142s;\n          animation: bump-42-data-v-920bb058 .8s linear 142s;\n}\n@-webkit-keyframes bump-42-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 13px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 80px;\n    left: 12px;\n}\n100% {\n    background-color: transparent;\n    bottom: 26px;\n    left: 1px;\n}\n}\n@keyframes bump-42-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 13px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 80px;\n    left: 12px;\n}\n100% {\n    background-color: transparent;\n    bottom: 26px;\n    left: 1px;\n}\n}\n.line-43[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-43-data-v-920bb058 .8s linear 143s;\n          animation: bump-43-data-v-920bb058 .8s linear 143s;\n}\n@-webkit-keyframes bump-43-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 57px;\n    left: 6px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 30px;\n    left: 13px;\n}\n100% {\n    background-color: transparent;\n    bottom: 25px;\n    left: 9px;\n}\n}\n@keyframes bump-43-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 57px;\n    left: 6px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 30px;\n    left: 13px;\n}\n100% {\n    background-color: transparent;\n    bottom: 25px;\n    left: 9px;\n}\n}\n.line-44[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-44-data-v-920bb058 .8s linear 144s;\n          animation: bump-44-data-v-920bb058 .8s linear 144s;\n}\n@-webkit-keyframes bump-44-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 9px;\n    left: 8px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 26px;\n    left: 14px;\n}\n100% {\n    background-color: transparent;\n    bottom: 59px;\n    left: 1px;\n}\n}\n@keyframes bump-44-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 9px;\n    left: 8px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 26px;\n    left: 14px;\n}\n100% {\n    background-color: transparent;\n    bottom: 59px;\n    left: 1px;\n}\n}\n.line-45[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-45-data-v-920bb058 .8s linear 145s;\n          animation: bump-45-data-v-920bb058 .8s linear 145s;\n}\n@-webkit-keyframes bump-45-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 33px;\n    left: 3px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 5px;\n    left: 10px;\n}\n100% {\n    background-color: transparent;\n    bottom: 9px;\n    left: 4px;\n}\n}\n@keyframes bump-45-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 33px;\n    left: 3px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 5px;\n    left: 10px;\n}\n100% {\n    background-color: transparent;\n    bottom: 9px;\n    left: 4px;\n}\n}\n.line-46[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-46-data-v-920bb058 .8s linear 146s;\n          animation: bump-46-data-v-920bb058 .8s linear 146s;\n}\n@-webkit-keyframes bump-46-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 45px;\n    left: 1px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 80px;\n    left: 19px;\n}\n100% {\n    background-color: transparent;\n    bottom: 51px;\n    left: 5px;\n}\n}\n@keyframes bump-46-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 45px;\n    left: 1px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 80px;\n    left: 19px;\n}\n100% {\n    background-color: transparent;\n    bottom: 51px;\n    left: 5px;\n}\n}\n.line-47[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-47-data-v-920bb058 .8s linear 147s;\n          animation: bump-47-data-v-920bb058 .8s linear 147s;\n}\n@-webkit-keyframes bump-47-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 57px;\n    left: 1px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 41px;\n    left: 5px;\n}\n100% {\n    background-color: transparent;\n    bottom: 5px;\n    left: 6px;\n}\n}\n@keyframes bump-47-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 57px;\n    left: 1px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 41px;\n    left: 5px;\n}\n100% {\n    background-color: transparent;\n    bottom: 5px;\n    left: 6px;\n}\n}\n.line-48[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-48-data-v-920bb058 .8s linear 148s;\n          animation: bump-48-data-v-920bb058 .8s linear 148s;\n}\n@-webkit-keyframes bump-48-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 25px;\n    left: 4px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 79px;\n    left: 5px;\n}\n100% {\n    background-color: transparent;\n    bottom: 7px;\n    left: 1px;\n}\n}\n@keyframes bump-48-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 25px;\n    left: 4px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 79px;\n    left: 5px;\n}\n100% {\n    background-color: transparent;\n    bottom: 7px;\n    left: 1px;\n}\n}\n.line-49[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-49-data-v-920bb058 .8s linear 149s;\n          animation: bump-49-data-v-920bb058 .8s linear 149s;\n}\n@-webkit-keyframes bump-49-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 18px;\n    left: 1px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 37px;\n    left: 9px;\n}\n100% {\n    background-color: transparent;\n    bottom: 13px;\n    left: 6px;\n}\n}\n@keyframes bump-49-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 18px;\n    left: 1px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 37px;\n    left: 9px;\n}\n100% {\n    background-color: transparent;\n    bottom: 13px;\n    left: 6px;\n}\n}\n.line-50[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-50-data-v-920bb058 .8s linear 150s;\n          animation: bump-50-data-v-920bb058 .8s linear 150s;\n}\n@-webkit-keyframes bump-50-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 34px;\n    left: 1px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 24px;\n    left: 7px;\n}\n100% {\n    background-color: transparent;\n    bottom: 7px;\n    left: 2px;\n}\n}\n@keyframes bump-50-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 34px;\n    left: 1px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 24px;\n    left: 7px;\n}\n100% {\n    background-color: transparent;\n    bottom: 7px;\n    left: 2px;\n}\n}\n.line-51[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-51-data-v-920bb058 .8s linear 151s;\n          animation: bump-51-data-v-920bb058 .8s linear 151s;\n}\n@-webkit-keyframes bump-51-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 29px;\n    left: 5px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 52px;\n    left: 6px;\n}\n100% {\n    background-color: transparent;\n    bottom: 13px;\n    left: 5px;\n}\n}\n@keyframes bump-51-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 29px;\n    left: 5px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 52px;\n    left: 6px;\n}\n100% {\n    background-color: transparent;\n    bottom: 13px;\n    left: 5px;\n}\n}\n.line-52[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-52-data-v-920bb058 .8s linear 152s;\n          animation: bump-52-data-v-920bb058 .8s linear 152s;\n}\n@-webkit-keyframes bump-52-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 4px;\n    left: 1px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 36px;\n    left: 6px;\n}\n100% {\n    background-color: transparent;\n    bottom: 27px;\n    left: 6px;\n}\n}\n@keyframes bump-52-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 4px;\n    left: 1px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 36px;\n    left: 6px;\n}\n100% {\n    background-color: transparent;\n    bottom: 27px;\n    left: 6px;\n}\n}\n.line-53[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-53-data-v-920bb058 .8s linear 153s;\n          animation: bump-53-data-v-920bb058 .8s linear 153s;\n}\n@-webkit-keyframes bump-53-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 32px;\n    left: 2px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 44px;\n    left: 11px;\n}\n100% {\n    background-color: transparent;\n    bottom: 9px;\n    left: 7px;\n}\n}\n@keyframes bump-53-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 32px;\n    left: 2px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 44px;\n    left: 11px;\n}\n100% {\n    background-color: transparent;\n    bottom: 9px;\n    left: 7px;\n}\n}\n.line-54[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-54-data-v-920bb058 .8s linear 154s;\n          animation: bump-54-data-v-920bb058 .8s linear 154s;\n}\n@-webkit-keyframes bump-54-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 37px;\n    left: 6px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 48px;\n    left: 13px;\n}\n100% {\n    background-color: transparent;\n    bottom: 29px;\n    left: 1px;\n}\n}\n@keyframes bump-54-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 37px;\n    left: 6px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 48px;\n    left: 13px;\n}\n100% {\n    background-color: transparent;\n    bottom: 29px;\n    left: 1px;\n}\n}\n.line-55[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-55-data-v-920bb058 .8s linear 155s;\n          animation: bump-55-data-v-920bb058 .8s linear 155s;\n}\n@-webkit-keyframes bump-55-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 26px;\n    left: 6px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 67px;\n    left: 4px;\n}\n100% {\n    background-color: transparent;\n    bottom: 3px;\n    left: 1px;\n}\n}\n@keyframes bump-55-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 26px;\n    left: 6px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 67px;\n    left: 4px;\n}\n100% {\n    background-color: transparent;\n    bottom: 3px;\n    left: 1px;\n}\n}\n.line-56[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-56-data-v-920bb058 .8s linear 156s;\n          animation: bump-56-data-v-920bb058 .8s linear 156s;\n}\n@-webkit-keyframes bump-56-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 24px;\n    left: 6px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 19px;\n    left: 11px;\n}\n100% {\n    background-color: transparent;\n    bottom: 2px;\n    left: 6px;\n}\n}\n@keyframes bump-56-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 24px;\n    left: 6px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 19px;\n    left: 11px;\n}\n100% {\n    background-color: transparent;\n    bottom: 2px;\n    left: 6px;\n}\n}\n.line-57[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-57-data-v-920bb058 .8s linear 1.257s;\n          animation: bump-57-data-v-920bb058 .8s linear 1.257s;\n}\n@-webkit-keyframes bump-57-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 55px;\n    left: 4px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 70px;\n    left: 17px;\n}\n100% {\n    background-color: transparent;\n    bottom: 16px;\n    left: 4px;\n}\n}\n@keyframes bump-57-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 55px;\n    left: 4px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 70px;\n    left: 17px;\n}\n100% {\n    background-color: transparent;\n    bottom: 16px;\n    left: 4px;\n}\n}\n.line-58[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-58-data-v-920bb058 .8s linear 1.258s;\n          animation: bump-58-data-v-920bb058 .8s linear 1.258s;\n}\n@-webkit-keyframes bump-58-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 3px;\n    left: 8px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 3px;\n    left: 12px;\n}\n100% {\n    background-color: transparent;\n    bottom: 39px;\n    left: 6px;\n}\n}\n@keyframes bump-58-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 3px;\n    left: 8px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 3px;\n    left: 12px;\n}\n100% {\n    background-color: transparent;\n    bottom: 39px;\n    left: 6px;\n}\n}\n.line-59[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-59-data-v-920bb058 .8s linear 1.259s;\n          animation: bump-59-data-v-920bb058 .8s linear 1.259s;\n}\n@-webkit-keyframes bump-59-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 6px;\n    left: 6px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 4px;\n    left: 18px;\n}\n100% {\n    background-color: transparent;\n    bottom: 31px;\n    left: 2px;\n}\n}\n@keyframes bump-59-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 6px;\n    left: 6px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 4px;\n    left: 18px;\n}\n100% {\n    background-color: transparent;\n    bottom: 31px;\n    left: 2px;\n}\n}\n.line-60[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-60-data-v-920bb058 .8s linear 1.26s;\n          animation: bump-60-data-v-920bb058 .8s linear 1.26s;\n}\n@-webkit-keyframes bump-60-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 33px;\n    left: 1px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 10px;\n    left: 1px;\n}\n100% {\n    background-color: transparent;\n    bottom: 60px;\n    left: 2px;\n}\n}\n@keyframes bump-60-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 33px;\n    left: 1px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 10px;\n    left: 1px;\n}\n100% {\n    background-color: transparent;\n    bottom: 60px;\n    left: 2px;\n}\n}\n.line-61[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-61-data-v-920bb058 .8s linear 1.261s;\n          animation: bump-61-data-v-920bb058 .8s linear 1.261s;\n}\n@-webkit-keyframes bump-61-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 44px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 52px;\n    left: 20px;\n}\n100% {\n    background-color: transparent;\n    bottom: 48px;\n    left: 10px;\n}\n}\n@keyframes bump-61-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 44px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 52px;\n    left: 20px;\n}\n100% {\n    background-color: transparent;\n    bottom: 48px;\n    left: 10px;\n}\n}\n.line-62[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-62-data-v-920bb058 .8s linear 1.262s;\n          animation: bump-62-data-v-920bb058 .8s linear 1.262s;\n}\n@-webkit-keyframes bump-62-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 8px;\n    left: 4px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 72px;\n    left: 3px;\n}\n100% {\n    background-color: transparent;\n    bottom: 15px;\n    left: 8px;\n}\n}\n@keyframes bump-62-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 8px;\n    left: 4px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 72px;\n    left: 3px;\n}\n100% {\n    background-color: transparent;\n    bottom: 15px;\n    left: 8px;\n}\n}\n.line-63[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-63-data-v-920bb058 .8s linear 1.263s;\n          animation: bump-63-data-v-920bb058 .8s linear 1.263s;\n}\n@-webkit-keyframes bump-63-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 19px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 50px;\n    left: 14px;\n}\n100% {\n    background-color: transparent;\n    bottom: 40px;\n    left: 2px;\n}\n}\n@keyframes bump-63-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 19px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 50px;\n    left: 14px;\n}\n100% {\n    background-color: transparent;\n    bottom: 40px;\n    left: 2px;\n}\n}\n.line-64[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-64-data-v-920bb058 .8s linear 1.264s;\n          animation: bump-64-data-v-920bb058 .8s linear 1.264s;\n}\n@-webkit-keyframes bump-64-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 1px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 33px;\n    left: 15px;\n}\n100% {\n    background-color: transparent;\n    bottom: 28px;\n    left: 1px;\n}\n}\n@keyframes bump-64-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 1px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 33px;\n    left: 15px;\n}\n100% {\n    background-color: transparent;\n    bottom: 28px;\n    left: 1px;\n}\n}\n.line-65[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-65-data-v-920bb058 .8s linear 1.265s;\n          animation: bump-65-data-v-920bb058 .8s linear 1.265s;\n}\n@-webkit-keyframes bump-65-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 38px;\n    left: 3px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 37px;\n    left: 4px;\n}\n100% {\n    background-color: transparent;\n    bottom: 37px;\n    left: 1px;\n}\n}\n@keyframes bump-65-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 38px;\n    left: 3px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 37px;\n    left: 4px;\n}\n100% {\n    background-color: transparent;\n    bottom: 37px;\n    left: 1px;\n}\n}\n.line-66[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-66-data-v-920bb058 .8s linear 1.266s;\n          animation: bump-66-data-v-920bb058 .8s linear 1.266s;\n}\n@-webkit-keyframes bump-66-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 7px;\n    left: 8px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 10px;\n    left: 1px;\n}\n100% {\n    background-color: transparent;\n    bottom: 5px;\n    left: 10px;\n}\n}\n@keyframes bump-66-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 7px;\n    left: 8px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 10px;\n    left: 1px;\n}\n100% {\n    background-color: transparent;\n    bottom: 5px;\n    left: 10px;\n}\n}\n.line-67[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-67-data-v-920bb058 .8s linear 1.267s;\n          animation: bump-67-data-v-920bb058 .8s linear 1.267s;\n}\n@-webkit-keyframes bump-67-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 16px;\n    left: 2px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 64px;\n    left: 16px;\n}\n100% {\n    background-color: transparent;\n    bottom: 41px;\n    left: 10px;\n}\n}\n@keyframes bump-67-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 16px;\n    left: 2px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 64px;\n    left: 16px;\n}\n100% {\n    background-color: transparent;\n    bottom: 41px;\n    left: 10px;\n}\n}\n.line-68[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-68-data-v-920bb058 .8s linear 1.268s;\n          animation: bump-68-data-v-920bb058 .8s linear 1.268s;\n}\n@-webkit-keyframes bump-68-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 9px;\n    left: 7px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 34px;\n    left: 12px;\n}\n100% {\n    background-color: transparent;\n    bottom: 26px;\n    left: 9px;\n}\n}\n@keyframes bump-68-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 9px;\n    left: 7px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 34px;\n    left: 12px;\n}\n100% {\n    background-color: transparent;\n    bottom: 26px;\n    left: 9px;\n}\n}\n.line-69[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-69-data-v-920bb058 .8s linear 1.269s;\n          animation: bump-69-data-v-920bb058 .8s linear 1.269s;\n}\n@-webkit-keyframes bump-69-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 49px;\n    left: 2px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 10px;\n    left: 8px;\n}\n100% {\n    background-color: transparent;\n    bottom: 9px;\n    left: 8px;\n}\n}\n@keyframes bump-69-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 49px;\n    left: 2px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 10px;\n    left: 8px;\n}\n100% {\n    background-color: transparent;\n    bottom: 9px;\n    left: 8px;\n}\n}\n.line-70[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-70-data-v-920bb058 .8s linear 1.27s;\n          animation: bump-70-data-v-920bb058 .8s linear 1.27s;\n}\n@-webkit-keyframes bump-70-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 54px;\n    left: 8px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 14px;\n    left: 2px;\n}\n100% {\n    background-color: transparent;\n    bottom: 18px;\n    left: 4px;\n}\n}\n@keyframes bump-70-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 54px;\n    left: 8px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 14px;\n    left: 2px;\n}\n100% {\n    background-color: transparent;\n    bottom: 18px;\n    left: 4px;\n}\n}\n.line-71[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-71-data-v-920bb058 .8s linear 1.271s;\n          animation: bump-71-data-v-920bb058 .8s linear 1.271s;\n}\n@-webkit-keyframes bump-71-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 23px;\n    left: 7px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 15px;\n    left: 1px;\n}\n100% {\n    background-color: transparent;\n    bottom: 42px;\n    left: 2px;\n}\n}\n@keyframes bump-71-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 23px;\n    left: 7px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 15px;\n    left: 1px;\n}\n100% {\n    background-color: transparent;\n    bottom: 42px;\n    left: 2px;\n}\n}\n.line-72[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-72-data-v-920bb058 .8s linear 1.272s;\n          animation: bump-72-data-v-920bb058 .8s linear 1.272s;\n}\n@-webkit-keyframes bump-72-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 19px;\n    left: 2px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 33px;\n    left: 16px;\n}\n100% {\n    background-color: transparent;\n    bottom: 18px;\n    left: 5px;\n}\n}\n@keyframes bump-72-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 19px;\n    left: 2px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 33px;\n    left: 16px;\n}\n100% {\n    background-color: transparent;\n    bottom: 18px;\n    left: 5px;\n}\n}\n.line-73[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-73-data-v-920bb058 .8s linear 1.273s;\n          animation: bump-73-data-v-920bb058 .8s linear 1.273s;\n}\n@-webkit-keyframes bump-73-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 54px;\n    left: 7px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 37px;\n    left: 9px;\n}\n100% {\n    background-color: transparent;\n    bottom: 3px;\n    left: 4px;\n}\n}\n@keyframes bump-73-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 54px;\n    left: 7px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 37px;\n    left: 9px;\n}\n100% {\n    background-color: transparent;\n    bottom: 3px;\n    left: 4px;\n}\n}\n.line-74[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-74-data-v-920bb058 .8s linear 1.274s;\n          animation: bump-74-data-v-920bb058 .8s linear 1.274s;\n}\n@-webkit-keyframes bump-74-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 50px;\n    left: 5px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 78px;\n    left: 10px;\n}\n100% {\n    background-color: transparent;\n    bottom: 44px;\n    left: 10px;\n}\n}\n@keyframes bump-74-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 50px;\n    left: 5px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 78px;\n    left: 10px;\n}\n100% {\n    background-color: transparent;\n    bottom: 44px;\n    left: 10px;\n}\n}\n.line-75[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-75-data-v-920bb058 .8s linear 1.275s;\n          animation: bump-75-data-v-920bb058 .8s linear 1.275s;\n}\n@-webkit-keyframes bump-75-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 10px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 44px;\n    left: 1px;\n}\n100% {\n    background-color: transparent;\n    bottom: 26px;\n    left: 2px;\n}\n}\n@keyframes bump-75-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 10px;\n    left: 9px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 44px;\n    left: 1px;\n}\n100% {\n    background-color: transparent;\n    bottom: 26px;\n    left: 2px;\n}\n}\n.line-76[data-v-920bb058] {\n  position: relative;\n  display: inline-block;\n  width: 4px;\n  height: 4px;\n  border-radius: 100%;\n  -webkit-animation: bump-76-data-v-920bb058 .8s linear 1.276s;\n          animation: bump-76-data-v-920bb058 .8s linear 1.276s;\n}\n@-webkit-keyframes bump-76-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 21px;\n    left: 3px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 72px;\n    left: 5px;\n}\n100% {\n    background-color: transparent;\n    bottom: 51px;\n    left: 2px;\n}\n}\n@keyframes bump-76-data-v-920bb058 {\n0% {\n    background-color: transparent;\n    bottom: 21px;\n    left: 3px;\n}\n50% {\n    background-color: #ffed4a;\n    bottom: 72px;\n    left: 5px;\n}\n100% {\n    background-color: transparent;\n    bottom: 51px;\n    left: 2px;\n}\n}\n#line-group[data-v-920bb058] {\n  position: absolute;\n  top: 50%;\n  left: 0;\n  width: 100%;\n  height: 100%;\n}\n", ""]);
 
 // exports
 
@@ -44019,7 +44029,254 @@ var render = function() {
         ])
       ]),
       _vm._v(" "),
-      _vm._m(2),
+      _c("section", { staticClass: "lg:py-16 mb-16 container mx-auto" }, [
+        _c("ul", { staticClass: "flex flex-col lg:flex-row" }, [
+          _vm._m(2),
+          _vm._v(" "),
+          _c(
+            "li",
+            {
+              staticClass: "lg:w-2/3 w-full",
+              attrs: { "data-aos": "zoom-in-up" }
+            },
+            [
+              _c(
+                "ul",
+                {
+                  staticClass:
+                    "flex lg:flex-row flex-col justify-center items-center py-4"
+                },
+                [
+                  _c(
+                    "li",
+                    { staticClass: "tw-thumbnail lg:w-1/3 w-full p-4" },
+                    [
+                      _c(
+                        "router-link",
+                        {
+                          staticClass:
+                            "flex lg:flex-col justify-center relative sm:pt-0 pt-8",
+                          attrs: {
+                            tag: "a",
+                            to: { path: "/salon", hash: "#js-milano" }
+                          }
+                        },
+                        [
+                          _c(
+                            "figure",
+                            {
+                              staticClass: "w-2/5 sm:w-1/2 md:w-1/3 lg:w-full"
+                            },
+                            [
+                              _c("img", {
+                                attrs: {
+                                  src: "/store/MILANO.jpg",
+                                  alt: "MILANO"
+                                }
+                              })
+                            ]
+                          ),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            { staticClass: "pl-4 lg:pl-0 w-1/2 lg:w-full" },
+                            [
+                              _c(
+                                "h4",
+                                {
+                                  staticClass:
+                                    "sm:tracking-loosest text-xl sm:leading-loosest absolute sm:relative pin-l pin-t"
+                                },
+                                [
+                                  _vm._v(
+                                    "\n                                    MILANO"
+                                  )
+                                ]
+                              ),
+                              _vm._v(" "),
+                              _c("ul", { staticClass: "lg:mb-10 mb-4" }, [
+                                _c("li", { staticClass: "hidden lg:block" }, [
+                                  _vm._v("10:00 - 20:00")
+                                ]),
+                                _vm._v(" "),
+                                _c("li", [
+                                  _vm._v("福岡市中央区天神2-4-20"),
+                                  _c("br"),
+                                  _vm._v("天神プラッサ405号")
+                                ])
+                              ]),
+                              _vm._v(" "),
+                              _c(
+                                "p",
+                                {
+                                  staticClass:
+                                    "xl:text-sm text-xs relative sm:pl-8"
+                                },
+                                [_vm._v("サロン紹介 & ご予約")]
+                              )
+                            ]
+                          )
+                        ]
+                      )
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "li",
+                    { staticClass: "tw-thumbnail lg:w-1/3 w-full p-4" },
+                    [
+                      _c(
+                        "router-link",
+                        {
+                          staticClass:
+                            "flex lg:flex-col justify-center relative sm:pt-0 pt-8",
+                          attrs: {
+                            tag: "a",
+                            to: { path: "/salon", hash: "#js-la-rochelle" }
+                          }
+                        },
+                        [
+                          _c(
+                            "figure",
+                            {
+                              staticClass: "w-2/5 sm:w-1/2 md:w-1/3 lg:w-full"
+                            },
+                            [
+                              _c("img", {
+                                attrs: {
+                                  src: "/store/La_Rochelle.jpg",
+                                  alt: "La Rochelle"
+                                }
+                              })
+                            ]
+                          ),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            { staticClass: "pl-4 lg:pl-0 w-1/2 lg:w-full" },
+                            [
+                              _c(
+                                "h4",
+                                {
+                                  staticClass:
+                                    "sm:tracking-loosest text-xl sm:leading-loosest absolute sm:relative pin-l pin-t"
+                                },
+                                [
+                                  _vm._v(
+                                    "\n                                    La Rochelle"
+                                  )
+                                ]
+                              ),
+                              _vm._v(" "),
+                              _c("ul", { staticClass: "lg:mb-10 mb-4" }, [
+                                _c("li", { staticClass: "hidden lg:block" }, [
+                                  _vm._v("10:00 - 20:00")
+                                ]),
+                                _vm._v(" "),
+                                _c("li", [
+                                  _vm._v("福岡市中央区天神2-4-20"),
+                                  _c("br"),
+                                  _vm._v("天神プラッサ902号")
+                                ])
+                              ]),
+                              _vm._v(" "),
+                              _c(
+                                "p",
+                                {
+                                  staticClass:
+                                    "xl:text-sm text-xs relative sm:pl-8"
+                                },
+                                [_vm._v("サロン紹介 & ご予約")]
+                              )
+                            ]
+                          )
+                        ]
+                      )
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "li",
+                    { staticClass: "tw-thumbnail lg:w-1/3 w-full p-4" },
+                    [
+                      _c(
+                        "router-link",
+                        {
+                          staticClass:
+                            "flex lg:flex-col justify-center relative sm:pt-0 pt-8",
+                          attrs: {
+                            tag: "a",
+                            to: { path: "/salon", hash: "#js-lisbon" }
+                          }
+                        },
+                        [
+                          _c(
+                            "figure",
+                            {
+                              staticClass: "w-2/5 sm:w-1/2 md:w-1/3 lg:w-full"
+                            },
+                            [
+                              _c("img", {
+                                attrs: {
+                                  src: "/store/LISBON.jpg",
+                                  alt: "LISBON"
+                                }
+                              })
+                            ]
+                          ),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            { staticClass: "pl-4 lg:pl-0 w-1/2 lg:w-full" },
+                            [
+                              _c(
+                                "h4",
+                                {
+                                  staticClass:
+                                    "sm:tracking-loosest text-xl sm:leading-loosest absolute sm:relative pin-l pin-t"
+                                },
+                                [
+                                  _vm._v(
+                                    "\n                                    LISBON"
+                                  )
+                                ]
+                              ),
+                              _vm._v(" "),
+                              _c("ul", { staticClass: "lg:mb-10 mb-4" }, [
+                                _c("li", { staticClass: "hidden lg:block" }, [
+                                  _vm._v("10:00 - 20:00")
+                                ]),
+                                _vm._v(" "),
+                                _c("li", [
+                                  _vm._v("福岡市中央区大名1-13-23"),
+                                  _c("br"),
+                                  _vm._v("LEX21 5F")
+                                ])
+                              ]),
+                              _vm._v(" "),
+                              _c(
+                                "p",
+                                {
+                                  staticClass:
+                                    "xl:text-sm text-xs relative sm:pl-8"
+                                },
+                                [_vm._v("サロン紹介 & ご予約")]
+                              )
+                            ]
+                          )
+                        ]
+                      )
+                    ],
+                    1
+                  )
+                ]
+              )
+            ]
+          )
+        ])
+      ]),
       _vm._v(" "),
       _c("section", { staticClass: "mb-32" }, [
         _c("div", { staticClass: "flex container mx-auto lg:m-0" }, [
@@ -44287,223 +44544,15 @@ var staticRenderFns = [
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
-    return _c("section", { staticClass: "lg:py-16 mb-16 container mx-auto" }, [
-      _c("ul", { staticClass: "flex flex-col lg:flex-row" }, [
-        _c("li", { staticClass: "lg:w-1/3 w-full flex items-center" }, [
-          _c(
-            "h2",
-            {
-              staticClass:
-                "tracking-loosest w-full text-center text-4xl text-black font-fotura"
-            },
-            [_vm._v("NANA SALON")]
-          )
-        ]),
-        _vm._v(" "),
-        _c(
-          "li",
-          {
-            staticClass: "lg:w-2/3 w-full",
-            attrs: { "data-aos": "zoom-in-up" }
-          },
-          [
-            _c(
-              "ul",
-              {
-                staticClass:
-                  "flex lg:flex-row flex-col justify-center items-center py-4"
-              },
-              [
-                _c("li", { staticClass: "tw-thumbnail lg:w-1/3 w-full p-4" }, [
-                  _c(
-                    "a",
-                    {
-                      staticClass:
-                        "flex lg:flex-col justify-center relative sm:pt-0 pt-8",
-                      attrs: { href: "/" }
-                    },
-                    [
-                      _c(
-                        "figure",
-                        { staticClass: "w-2/5 sm:w-1/2 md:w-1/3 lg:w-full" },
-                        [
-                          _c("img", {
-                            attrs: { src: "/store/MILANO.jpg", alt: "MILANO" }
-                          })
-                        ]
-                      ),
-                      _vm._v(" "),
-                      _c(
-                        "div",
-                        { staticClass: "pl-4 lg:pl-0 w-1/2 lg:w-full" },
-                        [
-                          _c(
-                            "h4",
-                            {
-                              staticClass:
-                                "sm:tracking-loosest text-xl sm:leading-loosest absolute sm:relative pin-l pin-t"
-                            },
-                            [
-                              _vm._v(
-                                "\n                                    MILANO"
-                              )
-                            ]
-                          ),
-                          _vm._v(" "),
-                          _c("ul", { staticClass: "lg:mb-10 mb-4" }, [
-                            _c("li", { staticClass: "hidden lg:block" }, [
-                              _vm._v("10:00 - 20:00")
-                            ]),
-                            _vm._v(" "),
-                            _c("li", [
-                              _vm._v("福岡市中央区天神2-4-20"),
-                              _c("br"),
-                              _vm._v("天神プラッサ405号")
-                            ])
-                          ]),
-                          _vm._v(" "),
-                          _c(
-                            "p",
-                            {
-                              staticClass: "xl:text-sm text-xs relative sm:pl-8"
-                            },
-                            [_vm._v("サロン紹介 & ご予約")]
-                          )
-                        ]
-                      )
-                    ]
-                  )
-                ]),
-                _vm._v(" "),
-                _c("li", { staticClass: "tw-thumbnail lg:w-1/3 w-full p-4" }, [
-                  _c(
-                    "a",
-                    {
-                      staticClass:
-                        "flex lg:flex-col justify-center relative sm:pt-0 pt-8",
-                      attrs: { href: "/" }
-                    },
-                    [
-                      _c(
-                        "figure",
-                        { staticClass: "w-2/5 sm:w-1/2 md:w-1/3 lg:w-full" },
-                        [
-                          _c("img", {
-                            attrs: {
-                              src: "/store/La_Rochelle.jpg",
-                              alt: "La Rochelle"
-                            }
-                          })
-                        ]
-                      ),
-                      _vm._v(" "),
-                      _c(
-                        "div",
-                        { staticClass: "pl-4 lg:pl-0 w-1/2 lg:w-full" },
-                        [
-                          _c(
-                            "h4",
-                            {
-                              staticClass:
-                                "sm:tracking-loosest text-xl sm:leading-loosest absolute sm:relative pin-l pin-t"
-                            },
-                            [
-                              _vm._v(
-                                "\n                                    La Rochelle"
-                              )
-                            ]
-                          ),
-                          _vm._v(" "),
-                          _c("ul", { staticClass: "lg:mb-10 mb-4" }, [
-                            _c("li", { staticClass: "hidden lg:block" }, [
-                              _vm._v("10:00 - 20:00")
-                            ]),
-                            _vm._v(" "),
-                            _c("li", [
-                              _vm._v("福岡市中央区天神2-4-20"),
-                              _c("br"),
-                              _vm._v("天神プラッサ902号")
-                            ])
-                          ]),
-                          _vm._v(" "),
-                          _c(
-                            "p",
-                            {
-                              staticClass: "xl:text-sm text-xs relative sm:pl-8"
-                            },
-                            [_vm._v("サロン紹介 & ご予約")]
-                          )
-                        ]
-                      )
-                    ]
-                  )
-                ]),
-                _vm._v(" "),
-                _c("li", { staticClass: "tw-thumbnail lg:w-1/3 w-full p-4" }, [
-                  _c(
-                    "a",
-                    {
-                      staticClass:
-                        "flex lg:flex-col justify-center relative sm:pt-0 pt-8",
-                      attrs: { href: "/" }
-                    },
-                    [
-                      _c(
-                        "figure",
-                        { staticClass: "w-2/5 sm:w-1/2 md:w-1/3 lg:w-full" },
-                        [
-                          _c("img", {
-                            attrs: { src: "/store/LISBON.jpg", alt: "LISBON" }
-                          })
-                        ]
-                      ),
-                      _vm._v(" "),
-                      _c(
-                        "div",
-                        { staticClass: "pl-4 lg:pl-0 w-1/2 lg:w-full" },
-                        [
-                          _c(
-                            "h4",
-                            {
-                              staticClass:
-                                "sm:tracking-loosest text-xl sm:leading-loosest absolute sm:relative pin-l pin-t"
-                            },
-                            [
-                              _vm._v(
-                                "\n                                    LISBON"
-                              )
-                            ]
-                          ),
-                          _vm._v(" "),
-                          _c("ul", { staticClass: "lg:mb-10 mb-4" }, [
-                            _c("li", { staticClass: "hidden lg:block" }, [
-                              _vm._v("10:00 - 20:00")
-                            ]),
-                            _vm._v(" "),
-                            _c("li", [
-                              _vm._v("福岡市中央区大名1-13-23"),
-                              _c("br"),
-                              _vm._v("LEX21 5F")
-                            ])
-                          ]),
-                          _vm._v(" "),
-                          _c(
-                            "p",
-                            {
-                              staticClass: "xl:text-sm text-xs relative sm:pl-8"
-                            },
-                            [_vm._v("サロン紹介 & ご予約")]
-                          )
-                        ]
-                      )
-                    ]
-                  )
-                ])
-              ]
-            )
-          ]
-        )
-      ])
+    return _c("li", { staticClass: "lg:w-1/3 w-full flex items-center" }, [
+      _c(
+        "h2",
+        {
+          staticClass:
+            "tracking-loosest w-full text-center text-4xl text-black font-fotura"
+        },
+        [_vm._v("NANA SALON")]
+      )
     ])
   },
   function() {
@@ -47452,169 +47501,74 @@ var staticRenderFns = [
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
-    return _c("section", { staticClass: "mb-24 relative" }, [
-      _c("div", { staticClass: "max-w-1000 mx-auto p-4" }, [
-        _c("div", { staticClass: "flex flex-col md:flex-row" }, [
-          _c(
-            "div",
-            {
-              staticClass:
-                "lg:w-1/2 w-full bg-white p-16 pt-8 border border-blue-darker mb-16 md:my-16 md:mx-8 relative tw-flex-end"
-            },
-            [
-              _c("h2", { staticClass: "tw-header text-blue-darker" }, [
-                _vm._v("\n                        MILANO\n                    ")
-              ]),
-              _vm._v(" "),
-              _c(
-                "p",
-                { staticClass: "text-xs pb-4 lg:pb-8 text-grey-darker" },
-                [
+    return _c(
+      "section",
+      { staticClass: "mb-24 relative", attrs: { id: "js-milano" } },
+      [
+        _c("div", { staticClass: "max-w-1000 mx-auto p-4" }, [
+          _c("div", { staticClass: "flex flex-col md:flex-row" }, [
+            _c(
+              "div",
+              {
+                staticClass:
+                  "lg:w-1/2 w-full bg-white p-16 pt-8 border border-blue-darker mb-16 md:my-16 md:mx-8 relative tw-flex-end"
+              },
+              [
+                _c("h2", { staticClass: "tw-header text-blue-darker" }, [
                   _vm._v(
-                    "\n                        Salon information\n                    "
+                    "\n                        MILANO\n                    "
                   )
-                ]
-              ),
-              _vm._v(" "),
-              _c(
-                "ul",
-                {
-                  staticClass:
-                    "text-xs tracking-wider leading-loose text-black pb-8 text-grey-darker"
-                },
-                [
-                  _c("li", [_vm._v("10:00 - 20:00")]),
-                  _vm._v(" "),
-                  _c("li", [
+                ]),
+                _vm._v(" "),
+                _c(
+                  "p",
+                  { staticClass: "text-xs pb-4 lg:pb-8 text-grey-darker" },
+                  [
                     _vm._v(
-                      "\n                            福岡市中央区天神2-4-20"
-                    ),
-                    _c("br"),
-                    _vm._v(
-                      "\n                            天神プラッサ405号\n                        "
+                      "\n                        Salon information\n                    "
                     )
-                  ]),
-                  _vm._v(" "),
-                  _c("li", [_vm._v("TEL : 092-725-5127")])
-                ]
-              ),
-              _vm._v(" "),
-              _c("a", { staticClass: "tw-btn", attrs: { href: "/" } }, [
-                _vm._v(
-                  "\n                        サロン紹介＆ご予約\n                    "
-                )
-              ]),
-              _vm._v(" "),
-              _c("div", { staticClass: "tw-border tw-color-blue" })
-            ]
-          ),
-          _vm._v(" "),
-          _c("div", { staticClass: "lg:w-1/2 w-full" }, [
-            _c("figure", { staticClass: "mb-16" }, [
-              _c("img", {
-                attrs: {
-                  src: "/decoration/salon_1.jpg",
-                  alt: "MILANO",
-                  width: "427",
-                  height: "330"
-                }
-              })
-            ]),
+                  ]
+                ),
+                _vm._v(" "),
+                _c(
+                  "ul",
+                  {
+                    staticClass:
+                      "text-xs tracking-wider leading-loose text-black pb-8 text-grey-darker"
+                  },
+                  [
+                    _c("li", [_vm._v("10:00 - 20:00")]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _vm._v(
+                        "\n                            福岡市中央区天神2-4-20"
+                      ),
+                      _c("br"),
+                      _vm._v(
+                        "\n                            天神プラッサ405号\n                        "
+                      )
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [_vm._v("TEL : 092-725-5127")])
+                  ]
+                ),
+                _vm._v(" "),
+                _c("a", { staticClass: "tw-btn", attrs: { href: "/" } }, [
+                  _vm._v(
+                    "\n                        サロン紹介＆ご予約\n                    "
+                  )
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "tw-border tw-color-blue" })
+              ]
+            ),
             _vm._v(" "),
-            _c("figure", [
-              _c("img", {
-                attrs: {
-                  src: "/decoration/salon_2.jpg",
-                  alt: "MILANO",
-                  width: "210",
-                  height: "170"
-                }
-              })
-            ])
-          ])
-        ])
-      ]),
-      _vm._v(" "),
-      _c("div", { staticClass: "tw-base bg-grey-lighter" })
-    ])
-  },
-  function() {
-    var _vm = this
-    var _h = _vm.$createElement
-    var _c = _vm._self._c || _h
-    return _c("section", { staticClass: "mb-24 relative" }, [
-      _c("div", { staticClass: "max-w-1000 mx-auto p-4" }, [
-        _c("div", { staticClass: "flex flex-col md:flex-row" }, [
-          _c(
-            "div",
-            {
-              staticClass:
-                "lg:w-1/2 w-full bg-white p-16 pt-8 border border-gold mb-16 md:my-16 md:mx-8 relative"
-            },
-            [
-              _c(
-                "h2",
-                {
-                  staticClass:
-                    "text-4xl font-bold leading-loosest tracking-loosest text-gold tw-header relative"
-                },
-                [
-                  _vm._v(
-                    "\n                        La Rochelle\n                    "
-                  )
-                ]
-              ),
-              _vm._v(" "),
-              _c("p", { staticClass: "text-xs pb-8 text-grey-darker" }, [
-                _vm._v(
-                  "\n                        Salon information\n                    "
-                )
-              ]),
-              _vm._v(" "),
-              _c(
-                "ul",
-                {
-                  staticClass:
-                    "text-xs tracking-wider leading-loose text-black pb-8 text-grey-darker"
-                },
-                [
-                  _c("li", [_vm._v("10:00 - 20:00")]),
-                  _vm._v(" "),
-                  _c("li", [
-                    _vm._v(
-                      "\n                            福岡市中央区天神2-4-20"
-                    ),
-                    _c("br"),
-                    _vm._v(
-                      "\n                            天神プラッサ902号\n                        "
-                    )
-                  ]),
-                  _vm._v(" "),
-                  _c("li", [_vm._v("TEL : 092-406-4506")])
-                ]
-              ),
-              _vm._v(" "),
-              _c("a", { staticClass: "tw-btn", attrs: { href: "/" } }, [
-                _vm._v(
-                  "\n                        サロン紹介＆ご予約\n                    "
-                )
-              ]),
-              _vm._v(" "),
-              _c("div", { staticClass: "tw-border tw-color-yellow" })
-            ]
-          ),
-          _vm._v(" "),
-          _c(
-            "div",
-            {
-              staticClass: "w-full lg:w-1/2 items-end flex items-end flex-col"
-            },
-            [
+            _c("div", { staticClass: "lg:w-1/2 w-full" }, [
               _c("figure", { staticClass: "mb-16" }, [
                 _c("img", {
                   attrs: {
-                    src: "/decoration/salon_3.jpg",
-                    alt: "La Rochelle",
+                    src: "/decoration/salon_1.jpg",
+                    alt: "MILANO",
                     width: "427",
                     height: "330"
                   }
@@ -47624,115 +47578,224 @@ var staticRenderFns = [
               _c("figure", [
                 _c("img", {
                   attrs: {
-                    src: "/decoration/salon_4.jpg",
-                    alt: "La Rochelle",
+                    src: "/decoration/salon_2.jpg",
+                    alt: "MILANO",
                     width: "210",
                     height: "170"
                   }
                 })
               ])
-            ]
-          )
-        ])
-      ]),
-      _vm._v(" "),
-      _c("div", { staticClass: "tw-base bg-yellow-lightest" })
-    ])
+            ])
+          ])
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "tw-base bg-grey-lighter" })
+      ]
+    )
   },
   function() {
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
-    return _c("section", { staticClass: "mb-24 relative" }, [
-      _c("div", { staticClass: "max-w-1000 mx-auto p-4" }, [
-        _c("div", { staticClass: "flex flex-col md:flex-row" }, [
-          _c(
-            "div",
-            {
-              staticClass:
-                "lg:w-1/2 w-full bg-white p-16 pt-8 border border-blue-lighter mb-16 md:my-16 md:mx-8 relative tw-flex-end"
-            },
-            [
-              _c(
-                "h2",
-                {
-                  staticClass:
-                    "text-4xl font-bold leading-loosest tracking-loosest text-blue-lighter tw-header relative"
-                },
-                [
-                  _vm._v(
-                    "\n                        LISBON\n                    "
-                  )
-                ]
-              ),
-              _vm._v(" "),
-              _c("p", { staticClass: "text-xs pb-8 text-grey-darker" }, [
-                _vm._v(
-                  "\n                        Salon information\n                    "
-                )
-              ]),
-              _vm._v(" "),
-              _c(
-                "ul",
-                {
-                  staticClass:
-                    "text-xs tracking-wider leading-loose text-black pb-8 text-grey-darker"
-                },
-                [
-                  _c("li", [_vm._v("10:00 - 20:00")]),
-                  _vm._v(" "),
-                  _c("li", [
+    return _c(
+      "section",
+      { staticClass: "mb-24 relative", attrs: { id: "js-la-rochelle" } },
+      [
+        _c("div", { staticClass: "max-w-1000 mx-auto p-4" }, [
+          _c("div", { staticClass: "flex flex-col md:flex-row" }, [
+            _c(
+              "div",
+              {
+                staticClass:
+                  "lg:w-1/2 w-full bg-white p-16 pt-8 border border-gold mb-16 md:my-16 md:mx-8 relative"
+              },
+              [
+                _c(
+                  "h2",
+                  {
+                    staticClass:
+                      "text-4xl font-bold leading-loosest tracking-loosest text-gold tw-header relative"
+                  },
+                  [
                     _vm._v(
-                      "\n                            福岡市中央区大名1-13-23"
-                    ),
-                    _c("br"),
-                    _vm._v(
-                      "\n                            LEX21 5F\n                        "
+                      "\n                        La Rochelle\n                    "
                     )
-                  ]),
-                  _vm._v(" "),
-                  _c("li", [_vm._v("TEL : 092-716-3453")])
-                ]
-              ),
-              _vm._v(" "),
-              _c("a", { staticClass: "tw-btn", attrs: { href: "/" } }, [
-                _vm._v(
-                  "\n                        サロン紹介＆ご予約\n                    "
-                )
+                  ]
+                ),
+                _vm._v(" "),
+                _c("p", { staticClass: "text-xs pb-8 text-grey-darker" }, [
+                  _vm._v(
+                    "\n                        Salon information\n                    "
+                  )
+                ]),
+                _vm._v(" "),
+                _c(
+                  "ul",
+                  {
+                    staticClass:
+                      "text-xs tracking-wider leading-loose text-black pb-8 text-grey-darker"
+                  },
+                  [
+                    _c("li", [_vm._v("10:00 - 20:00")]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _vm._v(
+                        "\n                            福岡市中央区天神2-4-20"
+                      ),
+                      _c("br"),
+                      _vm._v(
+                        "\n                            天神プラッサ902号\n                        "
+                      )
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [_vm._v("TEL : 092-406-4506")])
+                  ]
+                ),
+                _vm._v(" "),
+                _c("a", { staticClass: "tw-btn", attrs: { href: "/" } }, [
+                  _vm._v(
+                    "\n                        サロン紹介＆ご予約\n                    "
+                  )
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "tw-border tw-color-yellow" })
+              ]
+            ),
+            _vm._v(" "),
+            _c(
+              "div",
+              {
+                staticClass: "w-full lg:w-1/2 items-end flex items-end flex-col"
+              },
+              [
+                _c("figure", { staticClass: "mb-16" }, [
+                  _c("img", {
+                    attrs: {
+                      src: "/decoration/salon_3.jpg",
+                      alt: "La Rochelle",
+                      width: "427",
+                      height: "330"
+                    }
+                  })
+                ]),
+                _vm._v(" "),
+                _c("figure", [
+                  _c("img", {
+                    attrs: {
+                      src: "/decoration/salon_4.jpg",
+                      alt: "La Rochelle",
+                      width: "210",
+                      height: "170"
+                    }
+                  })
+                ])
+              ]
+            )
+          ])
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "tw-base bg-yellow-lightest" })
+      ]
+    )
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c(
+      "section",
+      { staticClass: "mb-24 relative", attrs: { id: "js-lisbon" } },
+      [
+        _c("div", { staticClass: "max-w-1000 mx-auto p-4" }, [
+          _c("div", { staticClass: "flex flex-col md:flex-row" }, [
+            _c(
+              "div",
+              {
+                staticClass:
+                  "lg:w-1/2 w-full bg-white p-16 pt-8 border border-blue-lighter mb-16 md:my-16 md:mx-8 relative tw-flex-end"
+              },
+              [
+                _c(
+                  "h2",
+                  {
+                    staticClass:
+                      "text-4xl font-bold leading-loosest tracking-loosest text-blue-lighter tw-header relative"
+                  },
+                  [
+                    _vm._v(
+                      "\n                        LISBON\n                    "
+                    )
+                  ]
+                ),
+                _vm._v(" "),
+                _c("p", { staticClass: "text-xs pb-8 text-grey-darker" }, [
+                  _vm._v(
+                    "\n                        Salon information\n                    "
+                  )
+                ]),
+                _vm._v(" "),
+                _c(
+                  "ul",
+                  {
+                    staticClass:
+                      "text-xs tracking-wider leading-loose text-black pb-8 text-grey-darker"
+                  },
+                  [
+                    _c("li", [_vm._v("10:00 - 20:00")]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _vm._v(
+                        "\n                            福岡市中央区大名1-13-23"
+                      ),
+                      _c("br"),
+                      _vm._v(
+                        "\n                            LEX21 5F\n                        "
+                      )
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [_vm._v("TEL : 092-716-3453")])
+                  ]
+                ),
+                _vm._v(" "),
+                _c("a", { staticClass: "tw-btn", attrs: { href: "/" } }, [
+                  _vm._v(
+                    "\n                        サロン紹介＆ご予約\n                    "
+                  )
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "tw-border tw-color-blue-lighter" })
+              ]
+            ),
+            _vm._v(" "),
+            _c("div", { staticClass: "lg:w-1/2 w-full" }, [
+              _c("figure", { staticClass: "mb-16" }, [
+                _c("img", {
+                  attrs: {
+                    src: "/decoration/salon_5.jpg",
+                    alt: "LISBON",
+                    width: "427",
+                    height: "330"
+                  }
+                })
               ]),
               _vm._v(" "),
-              _c("div", { staticClass: "tw-border tw-color-blue-lighter" })
-            ]
-          ),
-          _vm._v(" "),
-          _c("div", { staticClass: "lg:w-1/2 w-full" }, [
-            _c("figure", { staticClass: "mb-16" }, [
-              _c("img", {
-                attrs: {
-                  src: "/decoration/salon_5.jpg",
-                  alt: "LISBON",
-                  width: "427",
-                  height: "330"
-                }
-              })
-            ]),
-            _vm._v(" "),
-            _c("figure", [
-              _c("img", {
-                attrs: {
-                  src: "/decoration/salon_6.jpg",
-                  alt: "LISBON",
-                  width: "210",
-                  height: "170"
-                }
-              })
+              _c("figure", [
+                _c("img", {
+                  attrs: {
+                    src: "/decoration/salon_6.jpg",
+                    alt: "LISBON",
+                    width: "210",
+                    height: "170"
+                  }
+                })
+              ])
             ])
           ])
-        ])
-      ]),
-      _vm._v(" "),
-      _c("div", { staticClass: "tw-base bg-blue-lightest" })
-    ])
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "tw-base bg-blue-lightest" })
+      ]
+    )
   },
   function() {
     var _vm = this
@@ -64428,17 +64491,25 @@ var routes = [{
   routes: routes,
   linkActiveClass: 'is-active',
   linkExactActiveClass: 'is-exact-active',
-  scrollBehavior: function scrollBehavior(to) {
-    if (to.hash) return {
-      selector: to.hash
-    }; // 如果有指定hash的話滾動到hash的位置
+  scrollBehavior: function scrollBehavior(to, from, savedPosition) {
+    if (savedPosition) return savedPosition; // Vue router transition issue while using anchor, need to use promise to async execute and delay after transition render finish.
+
+    if (to.hash) {
+      return new Promise(function (resolve) {
+        setTimeout(function () {
+          resolve({
+            selector: to.hash
+          }); // 如果有指定hash的話滾動到hash的位置
+        }, 600);
+      });
+    }
 
     return new Promise(function (resolve) {
       setTimeout(function () {
         resolve({
           x: 0,
           y: 0
-        });
+        }); // scroll to (0, 0)
       }, 500);
     });
   }
