@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="092997d3-d95a-4d1b-8dd4-b5d0cef64dc1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/nana.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/nana.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,9 +39,52 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Procfile">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="27">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/app.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2314">
+              <caret line="121" column="26" selection-start-line="121" selection-start-column="26" selection-end-line="121" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.env">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/js/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="22" column="34" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
+              <folding>
+                <element signature="e#286#308#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/composer.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="549">
+              <caret line="61" column="6" selection-start-line="61" selection-start-column="6" selection-end-line="61" selection-end-column="6" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -56,7 +98,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>position</find>
       <find>pin</find>
       <find>tw-btn</find>
       <find>w-</find>
@@ -85,6 +126,7 @@
       <find>max-wi</find>
       <find>text siz</find>
       <find>300</find>
+      <find>key</find>
       <find>padding</find>
     </findStrings>
   </component>
@@ -95,7 +137,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/resources/js/components/_Breadcrumb.vue" />
         <option value="$PROJECT_DIR$/resources/js/components/Reserve.vue" />
         <option value="$PROJECT_DIR$/resources/js/components/Links.vue" />
         <option value="$PROJECT_DIR$/resources/js/components/ExternalLinks.vue" />
@@ -144,8 +185,9 @@
         <option value="$PROJECT_DIR$/resources/js/bootstrap.js" />
         <option value="$PROJECT_DIR$/resources/js/components/_Slider.vue" />
         <option value="$PROJECT_DIR$/resources/js/components/_Info.vue" />
-        <option value="$PROJECT_DIR$/composer.json" />
         <option value="$PROJECT_DIR$/phpunit.xml" />
+        <option value="$PROJECT_DIR$/Procfile" />
+        <option value="$PROJECT_DIR$/composer.json" />
       </list>
     </option>
   </component>
@@ -292,13 +334,7 @@
             <path>
               <item name="nana" type="b2602c69:ProjectViewProjectNode" />
               <item name="nana" type="462c0819:PsiDirectoryNode" />
-              <item name="vendor" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nana" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nana" type="462c0819:PsiDirectoryNode" />
-              <item name="vendor" type="462c0819:PsiDirectoryNode" />
-              <item name="bin" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -416,7 +452,7 @@
       <workItem from="1553500089381" duration="1288000" />
       <workItem from="1553589688632" duration="26000" />
       <workItem from="1554023267420" duration="293000" />
-      <workItem from="1560403965636" duration="841000" />
+      <workItem from="1560403965636" duration="1899000" />
     </task>
     <servers />
   </component>
@@ -453,7 +489,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="340173000" />
+    <option name="totallyTimeSpent" value="341231000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -466,7 +502,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info id="Image Layers" />
@@ -566,17 +601,6 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/resources/js/views/Beauty.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7163">
-          <caret line="247" column="24" selection-start-line="247" selection-start-column="24" selection-end-line="247" selection-end-column="24" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#hero-bg#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-            <element signature="n#essay#0;n#div#0;n#section#2;n#div#0;n#template#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resources/js/views/BeautyCare.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="464">
@@ -796,23 +820,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/js/views/Home.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1943">
-          <caret line="115" column="48" selection-start-line="115" selection-start-column="48" selection-end-line="115" selection-end-column="48" />
-          <folding>
-            <element signature="n#section#0;n#div#0;n#template#0;n#!!top" />
-            <element signature="n#section#1;n#div#0;n#template#0;n#!!top" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#section#1;n#div#0;n#template#0;n#!!top" expanded="true" />
-            <element signature="n#section#3;n#div#0;n#template#0;n#!!top" />
-            <element signature="n#section#4;n#div#0;n#template#0;n#!!top" />
-            <element signature="n#style#0;n#p#0;n#div#0;n#div#1;n#div#0;n#section#4;n#div#0;n#template#0;n#!!top" expanded="true" />
-            <element signature="n#section#5;n#div#0;n#template#0;n#!!top" />
-            <element signature="n#section#7;n#div#0;n#template#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resources/js/bootstrap.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1392">
@@ -830,25 +837,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/js/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="464">
-          <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
-          <folding>
-            <element signature="e#286#308#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="882">
           <caret line="39" column="10" selection-start-line="39" selection-start-column="10" selection-end-line="39" selection-end-column="10" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.env">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/tailwind.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -959,13 +953,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/composer.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="39" column="25" lean-forward="true" selection-start-line="39" selection-start-column="25" selection-end-line="39" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/phpunit.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
@@ -974,7 +961,58 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Procfile">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/js/views/Home.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="17" column="44" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
+          <folding>
+            <element signature="n#section#0;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#section#1;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#section#3;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#section#4;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#1;n#div#0;n#section#4;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#section#5;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#section#7;n#div#0;n#template#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="22" column="34" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
+          <folding>
+            <element signature="e#286#308#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/app.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2314">
+          <caret line="121" column="26" selection-start-line="121" selection-start-column="26" selection-end-line="121" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="549">
+          <caret line="61" column="6" selection-start-line="61" selection-start-column="6" selection-end-line="61" selection-end-column="6" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
