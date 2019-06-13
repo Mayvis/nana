@@ -61,7 +61,7 @@
     .info {
         @apply text-white text-sm font-fotura leading-50 block;
     }
-    
+
     .arrow {
         background: url('/icon/right_arrow.png') 30px center/10px 10px no-repeat;
     }
