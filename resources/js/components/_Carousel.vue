@@ -1,9 +1,9 @@
 <template>
     <div class="main-carousel fade relative">
-        <div class="carousel-cell" style="background-image: url('/hero/hero_1.gif')"></div>
-        <div class="carousel-cell" style="background-image: url('/hero/hero_2.gif')"></div>
-        <div class="carousel-cell" style="background-image: url('/hero/hero_3.gif')"></div>
-        <div class="carousel-cell" style="background-image: url('/hero/hero_4.gif')"></div>
+        <div class="carousel-cell" style="background-image: url('./hero/hero_1.gif')"></div>
+        <div class="carousel-cell" style="background-image: url('./hero/hero_2.gif')"></div>
+        <div class="carousel-cell" style="background-image: url('./hero/hero_3.gif')"></div>
+        <div class="carousel-cell" style="background-image: url('./hero/hero_4.gif')"></div>
     </div>
 </template>
 

@@ -17,7 +17,8 @@
                 <figure class="lg:w-1/3 w-1/4 z-1 absolute pin-l pin-t md:block hidden"
                         data-aos="zoom-in-up"
                 >
-                    <img src="/decoration/concept.png" alt="concept">
+                    <img src="/decoration/concept.png"
+                         alt="concept">
                 </figure>
 
                 <div class="w-full md:w-4/5 lg:w-3/5 md:mt-16 bg-teal-lightest p-8 sm:p-50 xl:pl-90"
