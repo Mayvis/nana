@@ -397,9 +397,9 @@
     import storeImageURI_1 from '../../../public/storage/store/MILANO.jpg';
     import storeImageURI_2 from '../../../public/storage/store/La_Rochelle.jpg';
     import storeImageURI_3 from '../../../public/storage/store/LISBON.jpg';
-    import beautyImageURI_1 from '../../../public/storage/beauty/beauty_1.jpg';
-    import beautyImageURI_2 from '../../../public/storage/beauty/beauty_2.jpg';
-    import beautyImageURI_3 from '../../../public/storage/beauty/beauty_3.jpg';
+    import beautyImageURI_1 from '../../../public/storage/beauty/beauty_home_1.jpg';
+    import beautyImageURI_2 from '../../../public/storage/beauty/beauty_home_2.jpg';
+    import beautyImageURI_3 from '../../../public/storage/beauty/beauty_home_3.jpg';
 
     export default {
         components: { carousel, hero, slider, cabinet },
