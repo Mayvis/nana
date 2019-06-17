@@ -100,10 +100,10 @@ main {
     @apply text-center inline-block text-xs h-50 leading-50 w-full;
     transition: background-color .2s;
 
-    background: url('/icon/left_top.svg') left top/10px 10px no-repeat,
-    url('/icon/right_top.svg') right top/10px 8px no-repeat,
-    url('/icon/left_bottom.svg') left bottom/10px 10px no-repeat,
-    url('/icon/right_bottom.svg') right bottom/10px 8px no-repeat #fff;
+    background: url('/images/left_top.svg') left top/10px 10px no-repeat,
+    url('/images/right_top.svg') right top/10px 8px no-repeat,
+    url('/images/left_bottom.svg') left bottom/10px 10px no-repeat,
+    url('/images/right_bottom.svg') right bottom/10px 8px no-repeat #fff;
 
     &:hover {
         @apply bg-yellow-lighter;
@@ -127,9 +127,9 @@ main {
 }
 
 .tw-title {
-    background: url('./icon/left_top.svg') left top/10px 10px no-repeat,
-    url('./icon/right_top.svg') right top/10px 8px no-repeat,
-    url('./icon/left_bottom.svg') left bottom/10px 10px no-repeat,
-    url('./icon/right_bottom.svg') right bottom/10px 8px no-repeat,
-    url('./icon/dot.png') top left/6px 6px repeat;
+    background: url('/images/left_top.svg') left top/10px 10px no-repeat,
+    url('/images/right_top.svg') right top/10px 8px no-repeat,
+    url('/images/left_bottom.svg') left bottom/10px 10px no-repeat,
+    url('/images/right_bottom.svg') right bottom/10px 8px no-repeat,
+    url('/images/dot.png') top left/6px 6px repeat;
 }
