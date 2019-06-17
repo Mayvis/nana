@@ -44267,7 +44267,7 @@ var render = function() {
                             [
                               _c("img", {
                                 attrs: {
-                                  src: "/store/MILANO.jpg",
+                                  src: _vm.storeImageURI_1,
                                   alt: "MILANO"
                                 }
                               })
@@ -44342,7 +44342,7 @@ var render = function() {
                             [
                               _c("img", {
                                 attrs: {
-                                  src: "/store/La_Rochelle.jpg",
+                                  src: _vm.storeImageURI_2,
                                   alt: "La Rochelle"
                                 }
                               })
@@ -44417,7 +44417,7 @@ var render = function() {
                             [
                               _c("img", {
                                 attrs: {
-                                  src: "/store/LISBON.jpg",
+                                  src: _vm.storeImageURI_3,
                                   alt: "LISBON"
                                 }
                               })

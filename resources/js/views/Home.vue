@@ -73,7 +73,7 @@
                                          class="flex lg:flex-col justify-center relative sm:pt-0 pt-8"
                             >
                                 <figure class="w-2/5 sm:w-1/2 md:w-1/3 lg:w-full">
-                                    <img src="/store/MILANO.jpg" alt="MILANO">
+                                    <img :src="storeImageURI_1" alt="MILANO">
                                 </figure>
 
                                 <div class="pl-4 lg:pl-0 w-1/2 lg:w-full">
@@ -96,7 +96,7 @@
                                          class="flex lg:flex-col justify-center relative sm:pt-0 pt-8"
                             >
                                 <figure class="w-2/5 sm:w-1/2 md:w-1/3 lg:w-full">
-                                    <img src="/store/La_Rochelle.jpg" alt="La Rochelle">
+                                    <img :src="storeImageURI_2" alt="La Rochelle">
                                 </figure>
 
                                 <div class="pl-4 lg:pl-0 w-1/2 lg:w-full">
@@ -119,7 +119,7 @@
                                          class="flex lg:flex-col justify-center relative sm:pt-0 pt-8"
                             >
                                 <figure class="w-2/5 sm:w-1/2 md:w-1/3 lg:w-full">
-                                    <img src="/store/LISBON.jpg" alt="LISBON">
+                                    <img :src="storeImageURI_3" alt="LISBON">
                                 </figure>
 
                                 <div class="pl-4 lg:pl-0 w-1/2 lg:w-full">
