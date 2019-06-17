@@ -1,9 +1,9 @@
 <template>
     <div class="main-carousel fade relative">
-        <div class="carousel-cell" style="background-image: url('./hero/hero_1.gif')"></div>
-        <div class="carousel-cell" style="background-image: url('./hero/hero_2.gif')"></div>
-        <div class="carousel-cell" style="background-image: url('./hero/hero_3.gif')"></div>
-        <div class="carousel-cell" style="background-image: url('./hero/hero_4.gif')"></div>
+        <div class="carousel-cell cell-1"></div>
+        <div class="carousel-cell cell-2"></div>
+        <div class="carousel-cell cell-3"></div>
+        <div class="carousel-cell cell-4"></div>
     </div>
 </template>
 
@@ -40,6 +40,22 @@
             padding-right: 0;
             padding-bottom: 25%;
         }
+    }
+
+    .cell-1 {
+        background-image: url('../../../public/storage/hero/hero_1.gif');
+    }
+
+    .cell-2 {
+        background-image: url('../../../public/storage/hero/hero_2.gif');
+    }
+
+    .cell-3 {
+        background-image: url('../../../public/storage/hero/hero_3.gif');
+    }
+
+    .cell-4 {
+        background-image: url('../../../public/storage/hero/hero_4.gif');
     }
 
     .fade .carousel-cell {
