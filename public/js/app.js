@@ -44214,7 +44214,7 @@ var render = function() {
                   _c("router-link", { attrs: { to: "/concept" } }, [
                     _c("a", { staticClass: "tw-btn sm:w-1/2" }, [
                       _vm._v(
-                        "\n                            コンセプト＆こだわり\n                        "
+                        "\n                                コンセプト＆こだわり\n                            "
                       )
                     ])
                   ])
@@ -44286,7 +44286,7 @@ var render = function() {
                                 },
                                 [
                                   _vm._v(
-                                    "\n                                    MILANO"
+                                    "\n                                        MILANO"
                                   )
                                 ]
                               ),
@@ -44361,7 +44361,7 @@ var render = function() {
                                 },
                                 [
                                   _vm._v(
-                                    "\n                                    La Rochelle"
+                                    "\n                                        La Rochelle"
                                   )
                                 ]
                               ),
@@ -44436,7 +44436,7 @@ var render = function() {
                                 },
                                 [
                                   _vm._v(
-                                    "\n                                    LISBON"
+                                    "\n                                        LISBON"
                                   )
                                 ]
                               ),
@@ -44487,7 +44487,7 @@ var render = function() {
                   staticClass:
                     "tracking-loosest text-4xl text-black font-fotura leading-loose text-center lg:hidden"
                 },
-                [_vm._v("\n                    INSTAGRAM")]
+                [_vm._v("\n                        INSTAGRAM")]
               ),
               _vm._v(" "),
               _vm._m(2),
@@ -44506,26 +44506,6 @@ var render = function() {
       ]),
       _vm._v(" "),
       _vm._m(5),
-      _vm._v(" "),
-      _c("section", { staticClass: "mb-24" }, [
-        _c(
-          "div",
-          { staticClass: "max-w-1000 px-4 mx-auto" },
-          [
-            _c(
-              "h3",
-              {
-                staticClass:
-                  "tracking-loosest text-4xl text-black font-fotura mb-4 text-center md:text-left"
-              },
-              [_vm._v("\n                STAFF")]
-            ),
-            _vm._v(" "),
-            _c("cabinet")
-          ],
-          1
-        )
-      ]),
       _vm._v(" "),
       _c("section", { staticClass: "mb-24" }, [
         _c("div", { staticClass: "max-w-1000 mx-auto px-4" }, [
@@ -44573,7 +44553,7 @@ var render = function() {
                       _vm._v(" "),
                       _c("p", { staticClass: "text-xs pb-8" }, [
                         _vm._v(
-                          "\n                                いつでも可愛くありたい、どんなときもキレイでいたい。誰もが持つそんな気持ちを、ほんのちょっとすくい上げる安心感がある。それがマツエクなのです。\n                            "
+                          "\n                                    いつでも可愛くありたい、どんなときもキレイでいたい。誰もが持つそんな気持ちを、ほんのちょっとすくい上げる安心感がある。それがマツエクなのです。\n                                "
                         )
                       ]),
                       _vm._v(" "),
@@ -44616,7 +44596,7 @@ var render = function() {
                       _vm._v(" "),
                       _c("p", { staticClass: "text-xs pb-8" }, [
                         _vm._v(
-                          "\n                                きれいなまつ毛を保つためにはどうしたらいいんだろう？みなさんに素敵なマツエクライフをお過ごしいただくための、プロ目線からの適切な対処法をお伝えします。\n                            "
+                          "\n                                    きれいなまつ毛を保つためにはどうしたらいいんだろう？みなさんに素敵なマツエクライフをお過ごしいただくための、プロ目線からの適切な対処法をお伝えします。\n                                "
                         )
                       ]),
                       _vm._v(" "),
@@ -44659,7 +44639,7 @@ var render = function() {
                       _vm._v(" "),
                       _c("p", { staticClass: "text-xs text-black pb-8" }, [
                         _vm._v(
-                          "\n                                季節、イベント、髪型。あなたを彩る、もうひとつの魔法を指先に。日常の中にあっても星のように瞬く“キラキラ”が、そこにはあるのです。\n                            "
+                          "\n                                    季節、イベント、髪型。あなたを彩る、もうひとつの魔法を指先に。日常の中にあっても星のように瞬く“キラキラ”が、そこにはあるのです。\n                                "
                         )
                       ]),
                       _vm._v(" "),
@@ -44695,31 +44675,31 @@ var staticRenderFns = [
       _vm._v(" "),
       _c("p", { staticClass: "font-fotura my-7 text-xs" }, [
         _vm._v(
-          "\n                        Just a little tw-more-btn consideration leads your trust."
+          "\n                            Just a little tw-more-btn consideration leads your trust."
         ),
         _c("br"),
         _vm._v(
-          '\n                        NANA continues to be the "most loved place" in the beauty industry.'
+          '\n                            NANA continues to be the "most loved place" in the beauty industry.'
         ),
         _c("br"),
         _vm._v(
-          "\n                        Because we have relief, trust, compassion, not only to customers but also to staff.\n                    "
+          "\n                            Because we have relief, trust, compassion, not only to customers but also to staff.\n                        "
         )
       ]),
       _vm._v(" "),
       _c("p", { staticClass: "font-fotura my-7 text-xs" }, [
         _vm._v(
-          "\n                        ほんの少しの“想い”が、お客さまの信頼につながる。"
+          "\n                            ほんの少しの“想い”が、お客さまの信頼につながる。"
         ),
         _c("br"),
-        _vm._v("\n                        安心、信頼、思いやり。"),
+        _vm._v("\n                            安心、信頼、思いやり。"),
         _c("br"),
         _vm._v(
-          "\n                        お客さまだけではなくスタッフ同士にも共通する意識を持ち、"
+          "\n                            お客さまだけではなくスタッフ同士にも共通する意識を持ち、"
         ),
         _c("br"),
         _vm._v(
-          "\n                        NANAは美容業界でもっとも“愛される場所”であり続けます。\n                    "
+          "\n                            NANAは美容業界でもっとも“愛される場所”であり続けます。\n                        "
         )
       ])
     ])
@@ -44751,7 +44731,7 @@ var staticRenderFns = [
       },
       [
         _c("span", [_vm._v("FOLLOW")]),
-        _vm._v(" @nana_eyelashsalon !\n                ")
+        _vm._v(" @nana_eyelashsalon !\n                    ")
       ]
     )
   },
@@ -44767,7 +44747,7 @@ var staticRenderFns = [
       },
       [
         _c("span", [_vm._v("FOLLOW")]),
-        _vm._v(" @nana_eyelashsalon !\n                ")
+        _vm._v(" @nana_eyelashsalon !\n                    ")
       ]
     )
   },
@@ -44799,7 +44779,7 @@ var staticRenderFns = [
           },
           [
             _c("span", [_vm._v("FOLLOW")]),
-            _vm._v(" @nana_eyelashsalon !\n                ")
+            _vm._v(" @nana_eyelashsalon !\n                    ")
           ]
         ),
         _vm._v(" "),
@@ -44811,7 +44791,7 @@ var staticRenderFns = [
           },
           [
             _c("span", [_vm._v("FOLLOW")]),
-            _vm._v(" @nana_nail_lisbon !\n                ")
+            _vm._v(" @nana_nail_lisbon !\n                    ")
           ]
         )
       ]
@@ -44950,10 +44930,12 @@ var staticRenderFns = [
             { staticClass: "lg:pt-16", attrs: { "data-aos": "zoom-in-up" } },
             [
               _c("p", { staticClass: "text-center text-xs pb-16" }, [
-                _vm._v("\n                    ＊ メニュー・金額は一例です。"),
+                _vm._v(
+                  "\n                        ＊ メニュー・金額は一例です。"
+                ),
                 _c("br", { staticClass: "md:hidden" }),
                 _vm._v(
-                  "各メニューの詳細やお得なクーポンはHOTPEPPER Beautyをご確認ください。\n                "
+                  "各メニューの詳細やお得なクーポンはHOTPEPPER Beautyをご確認ください。\n                    "
                 )
               ]),
               _vm._v(" "),
@@ -44991,7 +44973,7 @@ var staticRenderFns = [
                     },
                     [
                       _vm._v(
-                        "\n                        MILANO & LA ROCHELLE\n                    "
+                        "\n                            MILANO & LA ROCHELLE\n                        "
                       )
                     ]
                   ),
@@ -45007,7 +44989,7 @@ var staticRenderFns = [
                     },
                     [
                       _vm._v(
-                        "\n                        LISBON\n                    "
+                        "\n                            LISBON\n                        "
                       )
                     ]
                   )
@@ -45027,7 +45009,7 @@ var staticRenderFns = [
       _c("div", { staticClass: "tw-article" }, [
         _c("article", [
           _vm._v(
-            "\n                福岡市天神・西通りに3つのマツエクサロンを展開する「NANA」は、福岡を代表するマツエク店です。口コミでの評判が高い人気店。初めてマツエクをされる方にも安心の高い技術力と国産の上質なエクステが、人気の理由です。3Dやカラー、ナチュラルなど、お客様のまつ毛にピッタリのデザインをご提案いたします。福岡でまつエクをお探しなら、まずは西通りのNANAにお越しください。\n            "
+            "\n                    福岡市天神・西通りに3つのマツエクサロンを展開する「NANA」は、福岡を代表するマツエク店です。口コミでの評判が高い人気店。初めてマツエクをされる方にも安心の高い技術力と国産の上質なエクステが、人気の理由です。3Dやカラー、ナチュラルなど、お客様のまつ毛にピッタリのデザインをご提案いたします。福岡でまつエクをお探しなら、まずは西通りのNANAにお越しください。\n                "
           )
         ])
       ])

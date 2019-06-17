@@ -292,14 +292,14 @@
         </section>
 
         <!--    STAFF    -->
-        <section class="mb-24">
-            <div class="max-w-1000 px-4 mx-auto">
-                <h3 class="tracking-loosest text-4xl text-black font-fotura mb-4 text-center md:text-left">
-                    STAFF</h3>
+<!--        <section class="mb-24">-->
+<!--            <div class="max-w-1000 px-4 mx-auto">-->
+<!--                <h3 class="tracking-loosest text-4xl text-black font-fotura mb-4 text-center md:text-left">-->
+<!--                    STAFF</h3>-->
 
-                <cabinet></cabinet>
-            </div>
-        </section>
+<!--                <cabinet></cabinet>-->
+<!--            </div>-->
+<!--        </section>-->
 
         <!--    BEAUTY x LIFE    -->
         <section class="mb-24">
