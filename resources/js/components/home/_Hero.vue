@@ -90,7 +90,7 @@
             <div data-aos="fade-in"
                  data-aos-delay="400"
             >
-                <img src="/icon/line.png" alt="break-line" class="line md:my-16 sm:my-0">
+                <img src="/storage/icon/line.png" alt="break-line" class="line md:my-16 sm:my-0">
             </div>
 
             <ul class="sm:text-15 font-fotura tracking-loosest leading-loosest flex md:flex-col"
