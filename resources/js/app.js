@@ -31,6 +31,7 @@ Vue.use(PortalVue);
 // files.keys().map(key => Vue.component(key.split('/').pop().split('.')[0], files(key).default))
 
 Vue.component('menu-list', require('./components/_MenuList.vue').default);
+Vue.component('logo', require('./components/_logo.vue').default);
 Vue.component('menu-hamburger', require('./components/_MenuHamburger.vue').default);
 Vue.component('hero-bg', require('./components/_HeroBg.vue').default);
 Vue.component('info', require('./components/_Info.vue').default);

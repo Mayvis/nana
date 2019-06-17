@@ -17,7 +17,7 @@
                 <figure class="lg:w-1/3 w-1/4 z-1 absolute pin-l pin-t md:block hidden"
                         data-aos="zoom-in-up"
                 >
-                    <img src="/decoration/concept.png"
+                    <img :src="conceptImageURI"
                          alt="concept">
                 </figure>
 
@@ -314,7 +314,7 @@
                     <li class="thumbnail">
                         <router-link to="/beauty" tag="a">
                             <figure>
-                                <img src="/beauty/beauty_1.jpg" alt="マツエクのある毎日">
+                                <img :src="beautyImageURI_1" alt="マツエクのある毎日">
                             </figure>
 
                             <article class="font-fotura font-adobe">
@@ -334,7 +334,7 @@
                     <li class="thumbnail">
                         <router-link to="/beauty">
                             <figure>
-                                <img src="/beauty/beauty_2.jpg" alt="お手入れ方法">
+                                <img :src="beautyImageURI_2" alt="お手入れ方法">
                             </figure>
 
                             <article class="font-fotura font-adobe">
@@ -354,7 +354,7 @@
                     <li class="thumbnail">
                         <router-link to="/beauty">
                             <figure>
-                                <img src="/beauty/beauty_3.jpg" alt="ネイルのある毎日">
+                                <img :src="beautyImageURI_3" alt="ネイルのある毎日">
                             </figure>
 
                             <article class="font-fotura font-adobe">
@@ -393,10 +393,29 @@
     import hero from '../components/home/_Hero';
     import slider from '../components/_Slider';
     import cabinet from '../components/home/_Cabinet';
+    import conceptImageURI from '../../../public/storage/decoration/concept.png';
+    import storeImageURI_1 from '../../../public/storage/store/MILANO.jpg';
+    import storeImageURI_2 from '../../../public/storage/store/La_Rochelle.jpg';
+    import storeImageURI_3 from '../../../public/storage/store/LISBON.jpg';
+    import beautyImageURI_1 from '../../../public/storage/beauty/beauty_1.jpg';
+    import beautyImageURI_2 from '../../../public/storage/beauty/beauty_2.jpg';
+    import beautyImageURI_3 from '../../../public/storage/beauty/beauty_3.jpg';
 
     export default {
-        components: {carousel, hero, slider, cabinet},
-    }
+        components: { carousel, hero, slider, cabinet },
+
+        data() {
+            return {
+                conceptImageURI,
+                storeImageURI_1,
+                storeImageURI_2,
+                storeImageURI_3,
+                beautyImageURI_1,
+                beautyImageURI_2,
+                beautyImageURI_3
+            };
+        },
+    };
 </script>
 
 <style scoped lang="scss">
@@ -525,9 +544,9 @@
     .tw-article {
         @apply flex justify-center mx-auto p-16 text-xs tracking-loosest leading-loose max-w-1000;
 
-        background: url('/icon/left_top.svg') left top/10px 10px no-repeat,
-        url('/icon/right_top.svg') right top/10px 8px no-repeat,
-        url('/icon/left_bottom.svg') left bottom/10px 10px no-repeat,
-        url('/icon/right_bottom.svg') right bottom/10px 8px no-repeat #fff;
+        background: url('../../../public/storage/icon/left_top.svg') left top/10px 10px no-repeat,
+        url('../../../public/storage/icon/right_top.svg') right top/10px 8px no-repeat,
+        url('../../../public/storage/icon/left_bottom.svg') left bottom/10px 10px no-repeat,
+        url('../../../public/storage/icon/right_bottom.svg') right bottom/10px 8px no-repeat #fff;
     }
 </style>

@@ -13,7 +13,7 @@
 
                     <p class="text-white text-xs">{{ user.name.split(' ')[1] }}</p>
 
-                    <img src="/icon/right_arrow.png" alt="icon" class="opacity-75">
+                    <img :src="rightArrow" alt="icon" class="opacity-75">
                 </div>
             </router-link>
         </li>
@@ -21,10 +21,13 @@
 </template>
 
 <script>
+    import rightArrow from '../../../../public/storage/icon/right_arrow.png';
+
     export default {
         data() {
             return {
                 users: [],
+                rightArrow
             }
         },
 

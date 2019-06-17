@@ -2,7 +2,7 @@
     <section class="mb-24 px-4">
         <div class="container mx-auto relative flex justify-center flex-col bg-teal-lightest pt-24">
             <figure class="tw-nana">
-                <img src="/logo/nana.png" alt="NANA">
+                <img :src="logo" alt="NANA">
             </figure>
 
             <div class="flex flex-col text-center">
@@ -31,6 +31,18 @@
         </div>
     </section>
 </template>
+
+<script>
+    import logo from '../../../public/storage/logo/logo.png';
+
+    export default {
+        data() {
+            return {
+                logo
+            };
+        },
+    }
+</script>
 
 <style scoped lang="scss">
     .tw-nana {
