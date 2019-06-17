@@ -1,21 +1,21 @@
 <template>
     <section class="mb-24 flex flex-col items-center max-w-1000 mx-auto">
         <div class="w-full md:w-3/5 flex flex-col md:flex-row px-4">
-            <router-link tag="a" to="/recruit" class="tw-link-group">
+            <router-link tag="a" to="/beauty" class="tw-link-group">
                 マツエクのある毎日
             </router-link>
 
-            <router-link tag="a" to="/recruit/staff" class="tw-link-group">
+            <router-link tag="a" to="/beauty/care" class="tw-link-group">
                 マツエクのお手入れ方法
             </router-link>
         </div>
 
         <div class="w-full md:w-3/5 flex flex-col md:flex-row px-4">
-            <router-link tag="a" to="/recruit/day" class="tw-link-group md:border-b">
+            <router-link tag="a" to="/beauty/life" class="tw-link-group md:border-b">
                 ネイルのある毎日
             </router-link>
 
-            <router-link tag="a" to="/recruit/staff" class="tw-link-group border-b">
+            <router-link tag="a" to="/beauty/gallery" class="tw-link-group border-b">
                 お客様 × NANA
             </router-link>
         </div>

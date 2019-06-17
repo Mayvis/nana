@@ -2,8 +2,7 @@
     <div>
         <hero-bg>
             <div slot="hero"
-                 class="tw-hero"
-                 style="background: url('/hero/hero_bg_recruit.jpg') center center / cover no-repeat;">
+                 class="tw-hero recruit-bg">
             </div>
 
             <template slot="title">RECRUIT</template>
@@ -17,7 +16,7 @@
         <section class="mb-24">
             <div class="max-w-1000 mx-auto flex">
 
-                <essay :figure="{src: '/decoration/recruit/recruit_1.jpg',
+                <essay :figure="{src: recruitImageURI_1,
                                  alt: '全員が正社員雇用。それぞれの個性で “お客さまを美しく”',
                                  one_third: true,
                                  end: true}">
@@ -76,7 +75,7 @@
         <section class="mb-24">
             <div class="max-w-1000 mx-auto flex">
 
-                <essay :figure="{src: '/decoration/recruit/recruit_2.jpg',
+                <essay :figure="{src: recruitImageURI_2,
                                  alt: '全員が正社員雇用。それぞれの個性で “お客さまを美しく”',
                                  one_third: true,
                                  end: false}">
@@ -136,7 +135,7 @@
         <section class="mb-24">
             <div class="max-w-1000 mx-auto flex">
 
-                <essay :figure="{src: '/decoration/recruit/recruit_3.jpg',
+                <essay :figure="{src: recruitImageURI_3,
                                  alt: '全員が正社員雇用。それぞれの個性で “お客さまを美しく”',
                                  end: true}">
                     <template slot="article">
@@ -191,7 +190,7 @@
         <section class="mb-24">
             <div class="max-w-1000 mx-auto flex">
 
-                <essay :figure="{src: 'decoration/recruit/recruit_4.jpg',
+                <essay :figure="{src: recruitImageURI_4,
                                  alt: '「自分がされてイヤなことはしない」。お客さまに伝わる “思いやり”',
                                  end: false}">
                     <template slot="article">
@@ -255,7 +254,7 @@
                     <div class="flex flex-col md:flex-row">
                         <div class="w-full md:w-1/3 flex flex-col items-center pb-4 md:p-4">
                             <figure class="pb-4">
-                                <img src="/store/milano_2.jpg" alt="MILANO">
+                                <img :src="storeImageURI_1" alt="MILANO">
                             </figure>
 
                             <router-link tag="a" to="/salon"
@@ -266,7 +265,7 @@
 
                         <div class="w-full md:w-1/3 flex flex-col items-center pb-4 md:p-4">
                             <figure class="pb-4">
-                                <img src="/store/La_Rochelle_2.jpg" alt="MILANO">
+                                <img :src="storeImageURI_3" alt="MILANO">
                             </figure>
 
                             <router-link tag="a" to="/salon"
@@ -277,7 +276,7 @@
 
                         <div class="w-full md:w-1/3 flex flex-col items-center pb-4 md:p-4">
                             <figure class="pb-4">
-                                <img src="/store/LISBON_2.jpg" alt="LISBON">
+                                <img :src="storeImageURI_2" alt="LISBON">
                             </figure>
 
                             <router-link tag="a" to="/salon"
@@ -357,9 +356,28 @@
     import essay from '../components/_Essay';
     import titleWithLeftNumber from '../components/_TitleWithLeftNumber';
     import recruitReserve from '../components/recruit/_Reserve';
+    import recruitImageURI_1 from '../../../public/storage/decoration/recruit/recruit_1.jpg';
+    import recruitImageURI_2 from '../../../public/storage/decoration/recruit/recruit_2.jpg';
+    import recruitImageURI_3 from '../../../public/storage/decoration/recruit/recruit_3.jpg';
+    import recruitImageURI_4 from '../../../public/storage/decoration/recruit/recruit_4.jpg';
+    import storeImageURI_1 from '../../../public/storage/store/MILANO_2.jpg';
+    import storeImageURI_2 from '../../../public/storage/store/LISBON_2.jpg';
+    import storeImageURI_3 from '../../../public/storage/store/La_Rochelle_2.jpg';
 
     export default {
         components: {links, essay, titleWithLeftNumber, recruitReserve},
+
+        data() {
+            return {
+                recruitImageURI_1,
+                recruitImageURI_2,
+                recruitImageURI_3,
+                recruitImageURI_4,
+                storeImageURI_1,
+                storeImageURI_2,
+                storeImageURI_3
+            };
+        },
     }
 </script>
 
@@ -383,5 +401,9 @@
         content: ')';
         position: absolute;
         right: 0;
+    }
+
+    .recruit-bg {
+        background: url(../../../public/storage/hero/hero_bg_recruit.jpg) center center / cover no-repeat;
     }
 </style>

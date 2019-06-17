@@ -2,8 +2,7 @@
     <div>
         <hero-bg>
             <div slot="hero"
-                 class="tw-hero"
-                 style="background: url('/hero/hero_bg_menu_and_price.jpg') center center / cover no-repeat;">
+                 class="tw-hero menu-bg">
             </div>
 
             <template slot="title">MENU & PRICE</template>
@@ -23,7 +22,7 @@
 
             <div class="max-w-1000 mx-auto mb-16 flex flex-col md:flex-row px-8">
                 <figure class="w-full md:w-1/2 tw-flex-end mb-8">
-                    <img src="/decoration/menu_1.jpg" alt="EYELASH">
+                    <img :src="menuImageURI_1" alt="EYELASH">
                 </figure>
 
                 <div class="w-full md:w-1/2 p-0 md:px-8 lg:pt-4">
@@ -71,7 +70,7 @@
         <section class="mb-24">
             <div class="max-w-1000 mx-auto mb-16 flex flex-col md:flex-row px-8">
                 <figure class="w-full md:w-1/2 mb-8">
-                    <img src="/decoration/menu_2.jpg" alt="NAIL">
+                    <img :src="menuImageURI_2" alt="NAIL">
                 </figure>
 
                 <div class="w-full md:w-1/2 p-0 md:px-8">
@@ -120,9 +119,17 @@
 
 <script>
     import externalLinks from '../components/_ExternalLinks';
+    import menuImageURI_1 from '../../../public/storage/decoration/menu_1.jpg'
+    import menuImageURI_2 from '../../../public/storage/decoration/menu_2.jpg'
 
     export default {
-        components: {externalLinks}
+        components: {externalLinks},
+        data() {
+            return {
+                menuImageURI_1,
+                menuImageURI_2
+            };
+        },
     }
 </script>
 
@@ -155,5 +162,9 @@
             height: 1px;
             background: #000;
         }
+    }
+
+    .menu-bg {
+        background: url(../../../public/storage/hero/hero_bg_menu_and_price.jpg) center center / cover no-repeat;
     }
 </style>

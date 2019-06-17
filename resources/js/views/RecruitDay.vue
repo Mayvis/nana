@@ -2,8 +2,7 @@
     <div>
         <hero-bg>
             <div slot="hero"
-                 class="tw-hero"
-                 style="background: url('/hero/hero_bg_recruit.jpg') center center / cover no-repeat;">
+                 class="tw-hero recruit-bg">
             </div>
 
             <template slot="title">RECRUIT</template>
@@ -48,7 +47,7 @@
                         </div>
 
                         <figure class="p-4 md:px-16">
-                            <img src="/decoration/recruit/recruit_5.jpg" alt="出勤・着替え・準備">
+                            <img :src="recruitImageURI_1" alt="出勤・着替え・準備">
                         </figure>
                     </div>
                 </div>
@@ -76,7 +75,7 @@
                         </div>
 
                         <figure class="p-4 md:px-16">
-                            <img src="/decoration/recruit/recruit_6.jpg" alt="開店・施術スタート">
+                            <img :src="recruitImageURI_2" alt="開店・施術スタート">
                         </figure>
                     </div>
 
@@ -130,7 +129,7 @@
                         </div>
 
                         <figure class="p-4 md:px-16">
-                            <img src="/decoration/recruit/recruit_7.jpg" alt="ブログ・インスタの投稿">
+                            <img :src="recruitImageURI_3" alt="ブログ・インスタの投稿">
                         </figure>
 
                         <div class="pl-4 md:pl-16 pt-4">
@@ -189,7 +188,7 @@
                         </div>
 
                         <figure class="p-4 md:px-16">
-                            <img src="/decoration/recruit/recruit_8.jpg" alt="閉店作業">
+                            <img :src="recruitImageURI_4" alt="閉店作業">
                         </figure>
                     </div>
                 </div>
@@ -214,9 +213,22 @@
     import links from '../components/recruit/_Links';
     import titleWithWord from '../components/_TitleWithWord';
     import recruitReserve from '../components/recruit/_Reserve';
+    import recruitImageURI_1 from '../../../public/storage/decoration/recruit/recruit_5.jpg';
+    import recruitImageURI_2 from '../../../public/storage/decoration/recruit/recruit_6.jpg';
+    import recruitImageURI_3 from '../../../public/storage/decoration/recruit/recruit_7.jpg';
+    import recruitImageURI_4 from '../../../public/storage/decoration/recruit/recruit_8.jpg';
 
     export default {
         components: {links, titleWithWord, recruitReserve},
+
+        data() {
+            return {
+                recruitImageURI_1,
+                recruitImageURI_2,
+                recruitImageURI_3,
+                recruitImageURI_4
+            };
+        },
     }
 </script>
 
@@ -297,5 +309,9 @@
         content: ')';
         position: absolute;
         right: 0;
+    }
+
+    .recruit-bg {
+        background: url(../../../public/storage/hero/hero_bg_recruit.jpg) center center / cover no-repeat;
     }
 </style>

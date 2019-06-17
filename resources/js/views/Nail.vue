@@ -2,8 +2,7 @@
     <div>
         <hero-bg>
             <div slot="hero"
-                 class="tw-hero"
-                 style="background: url('/hero/hero_bg_nail.jpg') center center / cover no-repeat;">
+                 class="tw-hero nail-bg">
             </div>
 
             <template slot="title">NAIL</template>
@@ -14,7 +13,7 @@
         <section class="mb-24">
             <div class="max-w-1000 mx-auto flex">
 
-                <essay :figure="{src: '/decoration/nail_1.jpg',
+                <essay :figure="{src: nailImageURI_1,
                                  alt: '手に入れるのは“しなやかな” 美しさ',
                                  end: true}">
                     <template slot="article">
@@ -70,12 +69,12 @@
         <section class="mb-24">
 
             <figure class="p-8 md:hidden overflow-hidden flex items-center mb-16 max-h-300">
-                <img src="/decoration/nail_2.png" alt="大切な “美容デー” を充実させて“自分らしい美しさ” を纏う">
+                <img :src="nailImageURI_2" alt="大切な “美容デー” を充実させて“自分らしい美しさ” を纏う">
             </figure>
 
             <div class="max-w-1000 mx-auto flex">
                 <figure class="lg:w-2/5 p-8 hidden md:block">
-                    <img src="/decoration/nail_2.png" alt="大切な “美容デー” を充実させて“自分らしい美しさ” を纏う">
+                    <img :src="nailImageURI_2" alt="大切な “美容デー” を充実させて“自分らしい美しさ” を纏う">
                 </figure>
 
                 <div class="lg:w-3/5 px-10">
@@ -192,9 +191,18 @@
     import essay from '../components/_Essay';
     import titleWithLeftNumber from '../components/_TitleWithLeftNumber';
     import titleWithWord from '../components/_TitleWithWord';
+    import nailImageURI_1 from '../../../public/storage/decoration/nail_1.jpg';
+    import nailImageURI_2 from '../../../public/storage/decoration/nail_2.png';
 
     export default {
         components: {collection, essay, titleWithLeftNumber, titleWithWord},
+
+        data() {
+            return {
+               nailImageURI_1,
+               nailImageURI_2
+            };
+        },
     }
 </script>
 
@@ -213,5 +221,9 @@
         @screen md {
             top: 20px;
         }
+    }
+
+    .nail-bg {
+        background: url(../../../public/storage/hero/hero_bg_nail.jpg) center center / cover no-repeat;
     }
 </style>

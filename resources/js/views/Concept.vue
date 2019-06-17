@@ -2,8 +2,7 @@
     <div>
         <hero-bg>
             <div slot="hero"
-                 class="tw-hero"
-                 style="background: url('/hero/hero_bg_concept.jpg') center center / cover no-repeat;">
+                 class="tw-hero concept-bg">
             </div>
 
             <template slot="title">CONCEPT</template>
@@ -15,7 +14,7 @@
         <section class="mb-8 sm:mb-24">
             <div class="container mx-auto md:flex">
                 <figure class="w-2/5">
-                    <img src="/decoration/concept.png" alt="concept" width="490" height="382">
+                    <img :src="conceptURI" alt="concept" width="490" height="382">
                 </figure>
 
                 <div class="relative md:p-16 md:pr-240 pt-0">
@@ -39,7 +38,7 @@
         <section class="mb-8 sm:mb-24">
             <div class="max-w-1000 mx-auto md:flex">
 
-                <essay :figure="{src: '/decoration/concept_1.jpg',
+                <essay :figure="{src: conceptImageURI_1,
                                  alt: '居心地の良さを大切に',
                                  one_third: true,
                                  end: true}">
@@ -90,7 +89,7 @@
         <section class="mb-8 sm:mb-24">
             <div class="max-w-1000 mx-auto flex">
 
-                <essay :figure="{src: '/decoration/concept_2.jpg',
+                <essay :figure="{src: conceptImageURI_2,
                                  alt: '安心・安全の確かな技術。マツエクデビューならNANAで！',
                                  end: false}">
                     <template slot="article">
@@ -139,7 +138,7 @@
         <section class="mb-24">
             <div class="max-w-1000 mx-auto flex">
 
-                <essay :figure="{src: '/decoration/concept_3.jpg',
+                <essay :figure="{src: conceptImageURI_3,
                                  alt: 'マツエクのコンセプト  こだわり  NANA（福岡市中央区天神西通り）',
                                  one_third: true,
                                  end: true}">
@@ -189,7 +188,7 @@
         <section class="mb-24">
             <div class="max-w-1000 mx-auto flex">
 
-                <essay :figure="{src: '/decoration/concept_4.jpg',
+                <essay :figure="{src: conceptImageURI_4,
                                  alt: 'スタッフが美しいとお客さまもまた、美しい',
                                  end: false}">
                     <template slot="article">
@@ -249,9 +248,24 @@
 <script>
     import titleWithLeftNumber from '../components/_TitleWithLeftNumber';
     import essay from '../components/_Essay';
+    import conceptURI from '../../../public/storage/decoration/concept.png';
+    import conceptImageURI_1 from '../../../public/storage/decoration/concept_1.jpg';
+    import conceptImageURI_2 from '../../../public/storage/decoration/concept_2.jpg';
+    import conceptImageURI_3 from '../../../public/storage/decoration/concept_3.jpg';
+    import conceptImageURI_4 from '../../../public/storage/decoration/concept_4.jpg';
 
     export default {
         components: {titleWithLeftNumber, essay},
+
+        data() {
+            return {
+                conceptURI,
+                conceptImageURI_1,
+                conceptImageURI_2,
+                conceptImageURI_3,
+                conceptImageURI_4
+            };
+        },
     }
 </script>
 
@@ -271,5 +285,9 @@
                 height: 60%;
             }
         }
+    }
+
+    .concept-bg {
+        background: url(../../../public/storage/hero/hero_bg_concept.jpg) center center / cover no-repeat;
     }
 </style>

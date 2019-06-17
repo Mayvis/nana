@@ -2,8 +2,7 @@
     <div>
         <hero-bg>
             <div slot="hero"
-                 class="tw-hero"
-                 style="background: url('/hero/hero_bg_salon.jpg') center center / cover no-repeat;">
+                 class="tw-hero salon-bg">
             </div>
 
             <template slot="title">SALON</template>
@@ -45,11 +44,11 @@
 
                     <div class="lg:w-1/2 w-full">
                         <figure class="mb-16">
-                            <img src="/decoration/salon_1.jpg" alt="MILANO" width="427" height="330">
+                            <img :src="salonImageURI_1" alt="MILANO" width="427" height="330">
                         </figure>
 
                         <figure>
-                            <img src="/decoration/salon_2.jpg" alt="MILANO" width="210" height="170">
+                            <img :src="salonImageURI_2" alt="MILANO" width="210" height="170">
                         </figure>
                     </div>
                 </div>
@@ -91,11 +90,11 @@
 
                     <div class="w-full lg:w-1/2 items-end flex items-end flex-col">
                         <figure class="mb-16">
-                            <img src="/decoration/salon_3.jpg" alt="La Rochelle" width="427" height="330">
+                            <img :src="salonImageURI_3" alt="La Rochelle" width="427" height="330">
                         </figure>
 
                         <figure>
-                            <img src="/decoration/salon_4.jpg" alt="La Rochelle" width="210" height="170">
+                            <img :src="salonImageURI_4" alt="La Rochelle" width="210" height="170">
                         </figure>
                     </div>
                 </div>
@@ -137,11 +136,11 @@
 
                     <div class="lg:w-1/2 w-full">
                         <figure class="mb-16">
-                            <img src="/decoration/salon_5.jpg" alt="LISBON" width="427" height="330">
+                            <img :src="salonImageURI_5" alt="LISBON" width="427" height="330">
                         </figure>
 
                         <figure>
-                            <img src="/decoration/salon_6.jpg" alt="LISBON" width="210" height="170">
+                            <img :src="salonImageURI_6" alt="LISBON" width="210" height="170">
                         </figure>
                     </div>
                 </div>
@@ -162,6 +161,28 @@
         <reserve></reserve>
     </div>
 </template>
+
+<script>
+    import salonImageURI_1 from '../../../public/storage/decoration/salon_1.jpg';
+    import salonImageURI_2 from '../../../public/storage/decoration/salon_2.jpg';
+    import salonImageURI_3 from '../../../public/storage/decoration/salon_3.jpg';
+    import salonImageURI_4 from '../../../public/storage/decoration/salon_4.jpg';
+    import salonImageURI_5 from '../../../public/storage/decoration/salon_5.jpg';
+    import salonImageURI_6 from '../../../public/storage/decoration/salon_6.jpg';
+
+    export default {
+        data() {
+            return {
+                salonImageURI_1,
+                salonImageURI_2,
+                salonImageURI_3,
+                salonImageURI_4,
+                salonImageURI_5,
+                salonImageURI_6
+            };
+        },
+    }
+</script>
 
 <style scoped lang="scss">
     .tw-header {
@@ -237,5 +258,9 @@
         @screen lg {
             height: 720px;
         }
+    }
+
+    .salon-bg {
+        background: url(../../../public/storage/hero/hero_bg_salon.jpg) center center / cover no-repeat;
     }
 </style>

@@ -2,8 +2,7 @@
     <div>
         <hero-bg>
             <div slot="hero"
-                 class="tw-hero"
-                 style="background: url('/hero/hero_bg_beauty.jpg') center center / cover no-repeat;">
+                 class="tw-hero beauty-bg">
             </div>
 
             <template slot="title">BEAUTY × LIFE</template>
@@ -24,7 +23,7 @@
                     </template>
                 </title-with-top-number>
 
-                <essay :figure="{src: '/decoration/beauty/beauty_3.jpg',
+                <essay :figure="{src: beautyImageURI_1,
                                  alt: '“愛されネイル”で気持ちを上げて、一歩踏み出そう',
                                  one_third: true,
                                  end: true}"
@@ -80,7 +79,7 @@
                     </template>
                 </title-with-top-number>
 
-                <essay :figure="{src: '/decoration/beauty/beauty_4.jpg',
+                <essay :figure="{src: beautyImageURI_2,
                                  alt: 'セルフネイルじゃダメ？プロに任せる理由とは',
                                  one_third: true,
                                  end: false}">
@@ -186,7 +185,7 @@
                     </template>
                 </title-with-top-number>
 
-                <essay :figure="{src: '/decoration/beauty/beauty_5.jpg',
+                <essay :figure="{src: beautyImageURI_3,
                                  alt: '派手さだけじゃない。大切な“爪のケア”にこそネイルがぴったり',
                                  one_third: true,
                                  end: true}">
@@ -240,9 +239,20 @@
     import links from '../components/beauty/_Links';
     import titleWithTopNumber from '../components/_TitleWithTopNumber';
     import essay from '../components/_Essay';
+    import beautyImageURI_1 from '../../../public/storage/decoration/beauty/beauty_3.jpg'
+    import beautyImageURI_2 from '../../../public/storage/decoration/beauty/beauty_4.jpg'
+    import beautyImageURI_3 from '../../../public/storage/decoration/beauty/beauty_5.jpg'
 
     export default {
         components: {links, titleWithTopNumber, essay},
+
+        data() {
+            return {
+                beautyImageURI_1,
+                beautyImageURI_2,
+                beautyImageURI_3
+            };
+        },
     }
 </script>
 
@@ -312,5 +322,9 @@
         content: ')';
         position: absolute;
         right: 0;
+    }
+
+    .beauty-bg {
+        background: url(../../../public/storage/hero/hero_bg_beauty.jpg) center center / cover no-repeat;
     }
 </style>

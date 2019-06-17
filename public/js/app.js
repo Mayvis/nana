@@ -2132,6 +2132,8 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _public_storage_icon_ig_png__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../../../public/storage/icon/ig.png */ "./storage/app/public/icon/ig.png");
+/* harmony import */ var _public_storage_icon_ig_png__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_public_storage_icon_ig_png__WEBPACK_IMPORTED_MODULE_0__);
 //
 //
 //
@@ -2182,6 +2184,7 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+
 /* harmony default export */ __webpack_exports__["default"] = ({
   props: {
     active: {
@@ -2193,6 +2196,11 @@ __webpack_require__.r(__webpack_exports__);
     $route: function $route() {
       this.$emit('change', this.active);
     }
+  },
+  data: function data() {
+    return {
+      igIcon: _public_storage_icon_ig_png__WEBPACK_IMPORTED_MODULE_0___default.a
+    };
   }
 });
 
@@ -2657,6 +2665,14 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _components_Essay__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../components/_Essay */ "./resources/js/components/_Essay.vue");
 /* harmony import */ var _components_ExternalLinks__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../components/_ExternalLinks */ "./resources/js/components/_ExternalLinks.vue");
 /* harmony import */ var _components_TitleWithTopNumber__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../components/_TitleWithTopNumber */ "./resources/js/components/_TitleWithTopNumber.vue");
+/* harmony import */ var _public_storage_decoration_beauty_beauty_1_jpg__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../../../public/storage/decoration/beauty/beauty_1.jpg */ "./storage/app/public/decoration/beauty/beauty_1.jpg");
+/* harmony import */ var _public_storage_decoration_beauty_beauty_1_jpg__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(_public_storage_decoration_beauty_beauty_1_jpg__WEBPACK_IMPORTED_MODULE_4__);
+/* harmony import */ var _public_storage_decoration_beauty_beauty_2_jpg__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../../../public/storage/decoration/beauty/beauty_2.jpg */ "./storage/app/public/decoration/beauty/beauty_2.jpg");
+/* harmony import */ var _public_storage_decoration_beauty_beauty_2_jpg__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(_public_storage_decoration_beauty_beauty_2_jpg__WEBPACK_IMPORTED_MODULE_5__);
+/* harmony import */ var _public_storage_icon_decoration_1_png__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ../../../public/storage/icon/decoration_1.png */ "./storage/app/public/icon/decoration_1.png");
+/* harmony import */ var _public_storage_icon_decoration_1_png__WEBPACK_IMPORTED_MODULE_6___default = /*#__PURE__*/__webpack_require__.n(_public_storage_icon_decoration_1_png__WEBPACK_IMPORTED_MODULE_6__);
+/* harmony import */ var _public_storage_icon_decoration_2_png__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ../../../public/storage/icon/decoration_2.png */ "./storage/app/public/icon/decoration_2.png");
+/* harmony import */ var _public_storage_icon_decoration_2_png__WEBPACK_IMPORTED_MODULE_7___default = /*#__PURE__*/__webpack_require__.n(_public_storage_icon_decoration_2_png__WEBPACK_IMPORTED_MODULE_7__);
 //
 //
 //
@@ -2961,7 +2977,10 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
-//
+
+
+
+
 
 
 
@@ -2972,6 +2991,14 @@ __webpack_require__.r(__webpack_exports__);
     essay: _components_Essay__WEBPACK_IMPORTED_MODULE_1__["default"],
     externalLinks: _components_ExternalLinks__WEBPACK_IMPORTED_MODULE_2__["default"],
     titleWithTopNumber: _components_TitleWithTopNumber__WEBPACK_IMPORTED_MODULE_3__["default"]
+  },
+  data: function data() {
+    return {
+      beautyImageURI_1: _public_storage_decoration_beauty_beauty_1_jpg__WEBPACK_IMPORTED_MODULE_4___default.a,
+      beautyImageURI_2: _public_storage_decoration_beauty_beauty_2_jpg__WEBPACK_IMPORTED_MODULE_5___default.a,
+      beautyIconURI_1: _public_storage_icon_decoration_1_png__WEBPACK_IMPORTED_MODULE_6___default.a,
+      beautyIconURI_2: _public_storage_icon_decoration_2_png__WEBPACK_IMPORTED_MODULE_7___default.a
+    };
   }
 });
 
@@ -2988,6 +3015,14 @@ __webpack_require__.r(__webpack_exports__);
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _components_beauty_Links__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../components/beauty/_Links */ "./resources/js/components/beauty/_Links.vue");
 /* harmony import */ var _components_TitleWithWord__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../components/_TitleWithWord */ "./resources/js/components/_TitleWithWord.vue");
+/* harmony import */ var _public_storage_icon_decoration_5_png__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../public/storage/icon/decoration_5.png */ "./storage/app/public/icon/decoration_5.png");
+/* harmony import */ var _public_storage_icon_decoration_5_png__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_public_storage_icon_decoration_5_png__WEBPACK_IMPORTED_MODULE_2__);
+/* harmony import */ var _public_storage_icon_decoration_6_png__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../../../public/storage/icon/decoration_6.png */ "./storage/app/public/icon/decoration_6.png");
+/* harmony import */ var _public_storage_icon_decoration_6_png__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(_public_storage_icon_decoration_6_png__WEBPACK_IMPORTED_MODULE_3__);
+/* harmony import */ var _public_storage_icon_decoration_3_png__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../../../public/storage/icon/decoration_3.png */ "./storage/app/public/icon/decoration_3.png");
+/* harmony import */ var _public_storage_icon_decoration_3_png__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(_public_storage_icon_decoration_3_png__WEBPACK_IMPORTED_MODULE_4__);
+/* harmony import */ var _public_storage_icon_decoration_4_png__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../../../public/storage/icon/decoration_4.png */ "./storage/app/public/icon/decoration_4.png");
+/* harmony import */ var _public_storage_icon_decoration_4_png__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(_public_storage_icon_decoration_4_png__WEBPACK_IMPORTED_MODULE_5__);
 //
 //
 //
@@ -3109,13 +3144,24 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
-//
+
+
+
+
 
 
 /* harmony default export */ __webpack_exports__["default"] = ({
   components: {
     links: _components_beauty_Links__WEBPACK_IMPORTED_MODULE_0__["default"],
     titleWithWord: _components_TitleWithWord__WEBPACK_IMPORTED_MODULE_1__["default"]
+  },
+  data: function data() {
+    return {
+      beautyIconURI_1: _public_storage_icon_decoration_5_png__WEBPACK_IMPORTED_MODULE_2___default.a,
+      beautyIconURI_2: _public_storage_icon_decoration_6_png__WEBPACK_IMPORTED_MODULE_3___default.a,
+      beautyIconURI_3: _public_storage_icon_decoration_3_png__WEBPACK_IMPORTED_MODULE_4___default.a,
+      beautyIconURI_4: _public_storage_icon_decoration_4_png__WEBPACK_IMPORTED_MODULE_5___default.a
+    };
   }
 });
 
@@ -3134,7 +3180,6 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _components_TitleWithWord__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../components/_TitleWithWord */ "./resources/js/components/_TitleWithWord.vue");
 /* harmony import */ var _components_Collection__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../components/_Collection */ "./resources/js/components/_Collection.vue");
 /* harmony import */ var _components_ExternalLinks__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../components/_ExternalLinks */ "./resources/js/components/_ExternalLinks.vue");
-//
 //
 //
 //
@@ -3212,6 +3257,12 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _components_beauty_Links__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../components/beauty/_Links */ "./resources/js/components/beauty/_Links.vue");
 /* harmony import */ var _components_TitleWithTopNumber__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../components/_TitleWithTopNumber */ "./resources/js/components/_TitleWithTopNumber.vue");
 /* harmony import */ var _components_Essay__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../components/_Essay */ "./resources/js/components/_Essay.vue");
+/* harmony import */ var _public_storage_decoration_beauty_beauty_3_jpg__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../../../public/storage/decoration/beauty/beauty_3.jpg */ "./storage/app/public/decoration/beauty/beauty_3.jpg");
+/* harmony import */ var _public_storage_decoration_beauty_beauty_3_jpg__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(_public_storage_decoration_beauty_beauty_3_jpg__WEBPACK_IMPORTED_MODULE_3__);
+/* harmony import */ var _public_storage_decoration_beauty_beauty_4_jpg__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../../../public/storage/decoration/beauty/beauty_4.jpg */ "./storage/app/public/decoration/beauty/beauty_4.jpg");
+/* harmony import */ var _public_storage_decoration_beauty_beauty_4_jpg__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(_public_storage_decoration_beauty_beauty_4_jpg__WEBPACK_IMPORTED_MODULE_4__);
+/* harmony import */ var _public_storage_decoration_beauty_beauty_5_jpg__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../../../public/storage/decoration/beauty/beauty_5.jpg */ "./storage/app/public/decoration/beauty/beauty_5.jpg");
+/* harmony import */ var _public_storage_decoration_beauty_beauty_5_jpg__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(_public_storage_decoration_beauty_beauty_5_jpg__WEBPACK_IMPORTED_MODULE_5__);
 //
 //
 //
@@ -3449,7 +3500,9 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
-//
+
+
+
 
 
 
@@ -3458,6 +3511,13 @@ __webpack_require__.r(__webpack_exports__);
     links: _components_beauty_Links__WEBPACK_IMPORTED_MODULE_0__["default"],
     titleWithTopNumber: _components_TitleWithTopNumber__WEBPACK_IMPORTED_MODULE_1__["default"],
     essay: _components_Essay__WEBPACK_IMPORTED_MODULE_2__["default"]
+  },
+  data: function data() {
+    return {
+      beautyImageURI_1: _public_storage_decoration_beauty_beauty_3_jpg__WEBPACK_IMPORTED_MODULE_3___default.a,
+      beautyImageURI_2: _public_storage_decoration_beauty_beauty_4_jpg__WEBPACK_IMPORTED_MODULE_4___default.a,
+      beautyImageURI_3: _public_storage_decoration_beauty_beauty_5_jpg__WEBPACK_IMPORTED_MODULE_5___default.a
+    };
   }
 });
 
@@ -3474,6 +3534,16 @@ __webpack_require__.r(__webpack_exports__);
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _components_TitleWithLeftNumber__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../components/_TitleWithLeftNumber */ "./resources/js/components/_TitleWithLeftNumber.vue");
 /* harmony import */ var _components_Essay__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../components/_Essay */ "./resources/js/components/_Essay.vue");
+/* harmony import */ var _public_storage_decoration_concept_png__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../public/storage/decoration/concept.png */ "./storage/app/public/decoration/concept.png");
+/* harmony import */ var _public_storage_decoration_concept_png__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_public_storage_decoration_concept_png__WEBPACK_IMPORTED_MODULE_2__);
+/* harmony import */ var _public_storage_decoration_concept_1_jpg__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../../../public/storage/decoration/concept_1.jpg */ "./storage/app/public/decoration/concept_1.jpg");
+/* harmony import */ var _public_storage_decoration_concept_1_jpg__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(_public_storage_decoration_concept_1_jpg__WEBPACK_IMPORTED_MODULE_3__);
+/* harmony import */ var _public_storage_decoration_concept_2_jpg__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../../../public/storage/decoration/concept_2.jpg */ "./storage/app/public/decoration/concept_2.jpg");
+/* harmony import */ var _public_storage_decoration_concept_2_jpg__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(_public_storage_decoration_concept_2_jpg__WEBPACK_IMPORTED_MODULE_4__);
+/* harmony import */ var _public_storage_decoration_concept_3_jpg__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../../../public/storage/decoration/concept_3.jpg */ "./storage/app/public/decoration/concept_3.jpg");
+/* harmony import */ var _public_storage_decoration_concept_3_jpg__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(_public_storage_decoration_concept_3_jpg__WEBPACK_IMPORTED_MODULE_5__);
+/* harmony import */ var _public_storage_decoration_concept_4_jpg__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ../../../public/storage/decoration/concept_4.jpg */ "./storage/app/public/decoration/concept_4.jpg");
+/* harmony import */ var _public_storage_decoration_concept_4_jpg__WEBPACK_IMPORTED_MODULE_6___default = /*#__PURE__*/__webpack_require__.n(_public_storage_decoration_concept_4_jpg__WEBPACK_IMPORTED_MODULE_6__);
 //
 //
 //
@@ -3721,13 +3791,26 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
-//
+
+
+
+
+
 
 
 /* harmony default export */ __webpack_exports__["default"] = ({
   components: {
     titleWithLeftNumber: _components_TitleWithLeftNumber__WEBPACK_IMPORTED_MODULE_0__["default"],
     essay: _components_Essay__WEBPACK_IMPORTED_MODULE_1__["default"]
+  },
+  data: function data() {
+    return {
+      conceptURI: _public_storage_decoration_concept_png__WEBPACK_IMPORTED_MODULE_2___default.a,
+      conceptImageURI_1: _public_storage_decoration_concept_1_jpg__WEBPACK_IMPORTED_MODULE_3___default.a,
+      conceptImageURI_2: _public_storage_decoration_concept_2_jpg__WEBPACK_IMPORTED_MODULE_4___default.a,
+      conceptImageURI_3: _public_storage_decoration_concept_3_jpg__WEBPACK_IMPORTED_MODULE_5___default.a,
+      conceptImageURI_4: _public_storage_decoration_concept_4_jpg__WEBPACK_IMPORTED_MODULE_6___default.a
+    };
   }
 });
 
@@ -4193,7 +4276,10 @@ __webpack_require__.r(__webpack_exports__);
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _components_ExternalLinks__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../components/_ExternalLinks */ "./resources/js/components/_ExternalLinks.vue");
-//
+/* harmony import */ var _public_storage_decoration_menu_1_jpg__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../../../public/storage/decoration/menu_1.jpg */ "./storage/app/public/decoration/menu_1.jpg");
+/* harmony import */ var _public_storage_decoration_menu_1_jpg__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_public_storage_decoration_menu_1_jpg__WEBPACK_IMPORTED_MODULE_1__);
+/* harmony import */ var _public_storage_decoration_menu_2_jpg__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../public/storage/decoration/menu_2.jpg */ "./storage/app/public/decoration/menu_2.jpg");
+/* harmony import */ var _public_storage_decoration_menu_2_jpg__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_public_storage_decoration_menu_2_jpg__WEBPACK_IMPORTED_MODULE_2__);
 //
 //
 //
@@ -4314,9 +4400,17 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 
+
+
 /* harmony default export */ __webpack_exports__["default"] = ({
   components: {
     externalLinks: _components_ExternalLinks__WEBPACK_IMPORTED_MODULE_0__["default"]
+  },
+  data: function data() {
+    return {
+      menuImageURI_1: _public_storage_decoration_menu_1_jpg__WEBPACK_IMPORTED_MODULE_1___default.a,
+      menuImageURI_2: _public_storage_decoration_menu_2_jpg__WEBPACK_IMPORTED_MODULE_2___default.a
+    };
   }
 });
 
@@ -4335,6 +4429,10 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _components_Essay__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../components/_Essay */ "./resources/js/components/_Essay.vue");
 /* harmony import */ var _components_TitleWithLeftNumber__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../components/_TitleWithLeftNumber */ "./resources/js/components/_TitleWithLeftNumber.vue");
 /* harmony import */ var _components_TitleWithWord__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../components/_TitleWithWord */ "./resources/js/components/_TitleWithWord.vue");
+/* harmony import */ var _public_storage_decoration_nail_1_jpg__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../../../public/storage/decoration/nail_1.jpg */ "./storage/app/public/decoration/nail_1.jpg");
+/* harmony import */ var _public_storage_decoration_nail_1_jpg__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(_public_storage_decoration_nail_1_jpg__WEBPACK_IMPORTED_MODULE_4__);
+/* harmony import */ var _public_storage_decoration_nail_2_png__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../../../public/storage/decoration/nail_2.png */ "./storage/app/public/decoration/nail_2.png");
+/* harmony import */ var _public_storage_decoration_nail_2_png__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(_public_storage_decoration_nail_2_png__WEBPACK_IMPORTED_MODULE_5__);
 //
 //
 //
@@ -4523,7 +4621,8 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
-//
+
+
 
 
 
@@ -4534,6 +4633,12 @@ __webpack_require__.r(__webpack_exports__);
     essay: _components_Essay__WEBPACK_IMPORTED_MODULE_1__["default"],
     titleWithLeftNumber: _components_TitleWithLeftNumber__WEBPACK_IMPORTED_MODULE_2__["default"],
     titleWithWord: _components_TitleWithWord__WEBPACK_IMPORTED_MODULE_3__["default"]
+  },
+  data: function data() {
+    return {
+      nailImageURI_1: _public_storage_decoration_nail_1_jpg__WEBPACK_IMPORTED_MODULE_4___default.a,
+      nailImageURI_2: _public_storage_decoration_nail_2_png__WEBPACK_IMPORTED_MODULE_5___default.a
+    };
   }
 });
 
@@ -4552,6 +4657,20 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _components_Essay__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../components/_Essay */ "./resources/js/components/_Essay.vue");
 /* harmony import */ var _components_TitleWithLeftNumber__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../components/_TitleWithLeftNumber */ "./resources/js/components/_TitleWithLeftNumber.vue");
 /* harmony import */ var _components_recruit_Reserve__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../components/recruit/_Reserve */ "./resources/js/components/recruit/_Reserve.vue");
+/* harmony import */ var _public_storage_decoration_recruit_recruit_1_jpg__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../../../public/storage/decoration/recruit/recruit_1.jpg */ "./storage/app/public/decoration/recruit/recruit_1.jpg");
+/* harmony import */ var _public_storage_decoration_recruit_recruit_1_jpg__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(_public_storage_decoration_recruit_recruit_1_jpg__WEBPACK_IMPORTED_MODULE_4__);
+/* harmony import */ var _public_storage_decoration_recruit_recruit_2_jpg__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../../../public/storage/decoration/recruit/recruit_2.jpg */ "./storage/app/public/decoration/recruit/recruit_2.jpg");
+/* harmony import */ var _public_storage_decoration_recruit_recruit_2_jpg__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(_public_storage_decoration_recruit_recruit_2_jpg__WEBPACK_IMPORTED_MODULE_5__);
+/* harmony import */ var _public_storage_decoration_recruit_recruit_3_jpg__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ../../../public/storage/decoration/recruit/recruit_3.jpg */ "./storage/app/public/decoration/recruit/recruit_3.jpg");
+/* harmony import */ var _public_storage_decoration_recruit_recruit_3_jpg__WEBPACK_IMPORTED_MODULE_6___default = /*#__PURE__*/__webpack_require__.n(_public_storage_decoration_recruit_recruit_3_jpg__WEBPACK_IMPORTED_MODULE_6__);
+/* harmony import */ var _public_storage_decoration_recruit_recruit_4_jpg__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ../../../public/storage/decoration/recruit/recruit_4.jpg */ "./storage/app/public/decoration/recruit/recruit_4.jpg");
+/* harmony import */ var _public_storage_decoration_recruit_recruit_4_jpg__WEBPACK_IMPORTED_MODULE_7___default = /*#__PURE__*/__webpack_require__.n(_public_storage_decoration_recruit_recruit_4_jpg__WEBPACK_IMPORTED_MODULE_7__);
+/* harmony import */ var _public_storage_store_MILANO_2_jpg__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ../../../public/storage/store/MILANO_2.jpg */ "./storage/app/public/store/MILANO_2.jpg");
+/* harmony import */ var _public_storage_store_MILANO_2_jpg__WEBPACK_IMPORTED_MODULE_8___default = /*#__PURE__*/__webpack_require__.n(_public_storage_store_MILANO_2_jpg__WEBPACK_IMPORTED_MODULE_8__);
+/* harmony import */ var _public_storage_store_LISBON_2_jpg__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ../../../public/storage/store/LISBON_2.jpg */ "./storage/app/public/store/LISBON_2.jpg");
+/* harmony import */ var _public_storage_store_LISBON_2_jpg__WEBPACK_IMPORTED_MODULE_9___default = /*#__PURE__*/__webpack_require__.n(_public_storage_store_LISBON_2_jpg__WEBPACK_IMPORTED_MODULE_9__);
+/* harmony import */ var _public_storage_store_La_Rochelle_2_jpg__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! ../../../public/storage/store/La_Rochelle_2.jpg */ "./storage/app/public/store/La_Rochelle_2.jpg");
+/* harmony import */ var _public_storage_store_La_Rochelle_2_jpg__WEBPACK_IMPORTED_MODULE_10___default = /*#__PURE__*/__webpack_require__.n(_public_storage_store_La_Rochelle_2_jpg__WEBPACK_IMPORTED_MODULE_10__);
 //
 //
 //
@@ -4905,7 +5024,13 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
-//
+
+
+
+
+
+
+
 
 
 
@@ -4916,6 +5041,17 @@ __webpack_require__.r(__webpack_exports__);
     essay: _components_Essay__WEBPACK_IMPORTED_MODULE_1__["default"],
     titleWithLeftNumber: _components_TitleWithLeftNumber__WEBPACK_IMPORTED_MODULE_2__["default"],
     recruitReserve: _components_recruit_Reserve__WEBPACK_IMPORTED_MODULE_3__["default"]
+  },
+  data: function data() {
+    return {
+      recruitImageURI_1: _public_storage_decoration_recruit_recruit_1_jpg__WEBPACK_IMPORTED_MODULE_4___default.a,
+      recruitImageURI_2: _public_storage_decoration_recruit_recruit_2_jpg__WEBPACK_IMPORTED_MODULE_5___default.a,
+      recruitImageURI_3: _public_storage_decoration_recruit_recruit_3_jpg__WEBPACK_IMPORTED_MODULE_6___default.a,
+      recruitImageURI_4: _public_storage_decoration_recruit_recruit_4_jpg__WEBPACK_IMPORTED_MODULE_7___default.a,
+      storeImageURI_1: _public_storage_store_MILANO_2_jpg__WEBPACK_IMPORTED_MODULE_8___default.a,
+      storeImageURI_2: _public_storage_store_LISBON_2_jpg__WEBPACK_IMPORTED_MODULE_9___default.a,
+      storeImageURI_3: _public_storage_store_La_Rochelle_2_jpg__WEBPACK_IMPORTED_MODULE_10___default.a
+    };
   }
 });
 
@@ -4933,6 +5069,14 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _components_recruit_Links__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../components/recruit/_Links */ "./resources/js/components/recruit/_Links.vue");
 /* harmony import */ var _components_TitleWithWord__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../components/_TitleWithWord */ "./resources/js/components/_TitleWithWord.vue");
 /* harmony import */ var _components_recruit_Reserve__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../components/recruit/_Reserve */ "./resources/js/components/recruit/_Reserve.vue");
+/* harmony import */ var _public_storage_decoration_recruit_recruit_5_jpg__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../../../public/storage/decoration/recruit/recruit_5.jpg */ "./storage/app/public/decoration/recruit/recruit_5.jpg");
+/* harmony import */ var _public_storage_decoration_recruit_recruit_5_jpg__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(_public_storage_decoration_recruit_recruit_5_jpg__WEBPACK_IMPORTED_MODULE_3__);
+/* harmony import */ var _public_storage_decoration_recruit_recruit_6_jpg__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../../../public/storage/decoration/recruit/recruit_6.jpg */ "./storage/app/public/decoration/recruit/recruit_6.jpg");
+/* harmony import */ var _public_storage_decoration_recruit_recruit_6_jpg__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(_public_storage_decoration_recruit_recruit_6_jpg__WEBPACK_IMPORTED_MODULE_4__);
+/* harmony import */ var _public_storage_decoration_recruit_recruit_7_jpg__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../../../public/storage/decoration/recruit/recruit_7.jpg */ "./storage/app/public/decoration/recruit/recruit_7.jpg");
+/* harmony import */ var _public_storage_decoration_recruit_recruit_7_jpg__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(_public_storage_decoration_recruit_recruit_7_jpg__WEBPACK_IMPORTED_MODULE_5__);
+/* harmony import */ var _public_storage_decoration_recruit_recruit_8_jpg__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ../../../public/storage/decoration/recruit/recruit_8.jpg */ "./storage/app/public/decoration/recruit/recruit_8.jpg");
+/* harmony import */ var _public_storage_decoration_recruit_recruit_8_jpg__WEBPACK_IMPORTED_MODULE_6___default = /*#__PURE__*/__webpack_require__.n(_public_storage_decoration_recruit_recruit_8_jpg__WEBPACK_IMPORTED_MODULE_6__);
 //
 //
 //
@@ -5144,7 +5288,10 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
-//
+
+
+
+
 
 
 
@@ -5153,6 +5300,14 @@ __webpack_require__.r(__webpack_exports__);
     links: _components_recruit_Links__WEBPACK_IMPORTED_MODULE_0__["default"],
     titleWithWord: _components_TitleWithWord__WEBPACK_IMPORTED_MODULE_1__["default"],
     recruitReserve: _components_recruit_Reserve__WEBPACK_IMPORTED_MODULE_2__["default"]
+  },
+  data: function data() {
+    return {
+      recruitImageURI_1: _public_storage_decoration_recruit_recruit_5_jpg__WEBPACK_IMPORTED_MODULE_3___default.a,
+      recruitImageURI_2: _public_storage_decoration_recruit_recruit_6_jpg__WEBPACK_IMPORTED_MODULE_4___default.a,
+      recruitImageURI_3: _public_storage_decoration_recruit_recruit_7_jpg__WEBPACK_IMPORTED_MODULE_5___default.a,
+      recruitImageURI_4: _public_storage_decoration_recruit_recruit_8_jpg__WEBPACK_IMPORTED_MODULE_6___default.a
+    };
   }
 });
 
@@ -5170,7 +5325,6 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _components_recruit_Links__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../components/recruit/_Links */ "./resources/js/components/recruit/_Links.vue");
 /* harmony import */ var _components_TitleWithWord__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../components/_TitleWithWord */ "./resources/js/components/_TitleWithWord.vue");
 /* harmony import */ var _components_recruit_Reserve__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../components/recruit/_Reserve */ "./resources/js/components/recruit/_Reserve.vue");
-//
 //
 //
 //
@@ -5312,6 +5466,14 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _components_TitleWithWord__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../components/_TitleWithWord */ "./resources/js/components/_TitleWithWord.vue");
 /* harmony import */ var _components_recruit_Reserve__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../components/recruit/_Reserve */ "./resources/js/components/recruit/_Reserve.vue");
 /* harmony import */ var _components_Essay__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../components/_Essay */ "./resources/js/components/_Essay.vue");
+/* harmony import */ var _public_storage_staff_JUNNA_jpg__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../../../public/storage/staff/JUNNA.jpg */ "./storage/app/public/staff/JUNNA.jpg");
+/* harmony import */ var _public_storage_staff_JUNNA_jpg__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(_public_storage_staff_JUNNA_jpg__WEBPACK_IMPORTED_MODULE_4__);
+/* harmony import */ var _public_storage_staff_EMINA_jpg__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../../../public/storage/staff/EMINA.jpg */ "./storage/app/public/staff/EMINA.jpg");
+/* harmony import */ var _public_storage_staff_EMINA_jpg__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(_public_storage_staff_EMINA_jpg__WEBPACK_IMPORTED_MODULE_5__);
+/* harmony import */ var _public_storage_staff_NATSUMI_jpg__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ../../../public/storage/staff/NATSUMI.jpg */ "./storage/app/public/staff/NATSUMI.jpg");
+/* harmony import */ var _public_storage_staff_NATSUMI_jpg__WEBPACK_IMPORTED_MODULE_6___default = /*#__PURE__*/__webpack_require__.n(_public_storage_staff_NATSUMI_jpg__WEBPACK_IMPORTED_MODULE_6__);
+/* harmony import */ var _public_storage_staff_AKKO_jpg__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ../../../public/storage/staff/AKKO.jpg */ "./storage/app/public/staff/AKKO.jpg");
+/* harmony import */ var _public_storage_staff_AKKO_jpg__WEBPACK_IMPORTED_MODULE_7___default = /*#__PURE__*/__webpack_require__.n(_public_storage_staff_AKKO_jpg__WEBPACK_IMPORTED_MODULE_7__);
 //
 //
 //
@@ -5555,7 +5717,10 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
-//
+
+
+
+
 
 
 
@@ -5566,6 +5731,220 @@ __webpack_require__.r(__webpack_exports__);
     titleWithWord: _components_TitleWithWord__WEBPACK_IMPORTED_MODULE_1__["default"],
     recruitReserve: _components_recruit_Reserve__WEBPACK_IMPORTED_MODULE_2__["default"],
     essay: _components_Essay__WEBPACK_IMPORTED_MODULE_3__["default"]
+  },
+  data: function data() {
+    return {
+      staffImageURI_1: _public_storage_staff_JUNNA_jpg__WEBPACK_IMPORTED_MODULE_4___default.a,
+      staffImageURI_2: _public_storage_staff_EMINA_jpg__WEBPACK_IMPORTED_MODULE_5___default.a,
+      staffImageURI_3: _public_storage_staff_NATSUMI_jpg__WEBPACK_IMPORTED_MODULE_6___default.a,
+      staffImageURI_4: _public_storage_staff_AKKO_jpg__WEBPACK_IMPORTED_MODULE_7___default.a
+    };
+  }
+});
+
+/***/ }),
+
+/***/ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/views/Salon.vue?vue&type=script&lang=js&":
+/*!***********************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib??ref--4-0!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/views/Salon.vue?vue&type=script&lang=js& ***!
+  \***********************************************************************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _public_storage_decoration_salon_1_jpg__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../../../public/storage/decoration/salon_1.jpg */ "./storage/app/public/decoration/salon_1.jpg");
+/* harmony import */ var _public_storage_decoration_salon_1_jpg__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_public_storage_decoration_salon_1_jpg__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var _public_storage_decoration_salon_2_jpg__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../../../public/storage/decoration/salon_2.jpg */ "./storage/app/public/decoration/salon_2.jpg");
+/* harmony import */ var _public_storage_decoration_salon_2_jpg__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_public_storage_decoration_salon_2_jpg__WEBPACK_IMPORTED_MODULE_1__);
+/* harmony import */ var _public_storage_decoration_salon_3_jpg__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../public/storage/decoration/salon_3.jpg */ "./storage/app/public/decoration/salon_3.jpg");
+/* harmony import */ var _public_storage_decoration_salon_3_jpg__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_public_storage_decoration_salon_3_jpg__WEBPACK_IMPORTED_MODULE_2__);
+/* harmony import */ var _public_storage_decoration_salon_4_jpg__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../../../public/storage/decoration/salon_4.jpg */ "./storage/app/public/decoration/salon_4.jpg");
+/* harmony import */ var _public_storage_decoration_salon_4_jpg__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(_public_storage_decoration_salon_4_jpg__WEBPACK_IMPORTED_MODULE_3__);
+/* harmony import */ var _public_storage_decoration_salon_5_jpg__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../../../public/storage/decoration/salon_5.jpg */ "./storage/app/public/decoration/salon_5.jpg");
+/* harmony import */ var _public_storage_decoration_salon_5_jpg__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(_public_storage_decoration_salon_5_jpg__WEBPACK_IMPORTED_MODULE_4__);
+/* harmony import */ var _public_storage_decoration_salon_6_jpg__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../../../public/storage/decoration/salon_6.jpg */ "./storage/app/public/decoration/salon_6.jpg");
+/* harmony import */ var _public_storage_decoration_salon_6_jpg__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(_public_storage_decoration_salon_6_jpg__WEBPACK_IMPORTED_MODULE_5__);
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+
+
+
+
+
+
+/* harmony default export */ __webpack_exports__["default"] = ({
+  data: function data() {
+    return {
+      salonImageURI_1: _public_storage_decoration_salon_1_jpg__WEBPACK_IMPORTED_MODULE_0___default.a,
+      salonImageURI_2: _public_storage_decoration_salon_2_jpg__WEBPACK_IMPORTED_MODULE_1___default.a,
+      salonImageURI_3: _public_storage_decoration_salon_3_jpg__WEBPACK_IMPORTED_MODULE_2___default.a,
+      salonImageURI_4: _public_storage_decoration_salon_4_jpg__WEBPACK_IMPORTED_MODULE_3___default.a,
+      salonImageURI_5: _public_storage_decoration_salon_5_jpg__WEBPACK_IMPORTED_MODULE_4___default.a,
+      salonImageURI_6: _public_storage_decoration_salon_6_jpg__WEBPACK_IMPORTED_MODULE_5___default.a
+    };
   }
 });
 
@@ -5582,6 +5961,14 @@ __webpack_require__.r(__webpack_exports__);
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _components_TitleWithTopNumber__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../components/_TitleWithTopNumber */ "./resources/js/components/_TitleWithTopNumber.vue");
 /* harmony import */ var _components_Essay__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../components/_Essay */ "./resources/js/components/_Essay.vue");
+/* harmony import */ var _public_storage_decoration_voice_1_jpg__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../public/storage/decoration/voice_1.jpg */ "./storage/app/public/decoration/voice_1.jpg");
+/* harmony import */ var _public_storage_decoration_voice_1_jpg__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_public_storage_decoration_voice_1_jpg__WEBPACK_IMPORTED_MODULE_2__);
+/* harmony import */ var _public_storage_decoration_voice_2_jpg__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../../../public/storage/decoration/voice_2.jpg */ "./storage/app/public/decoration/voice_2.jpg");
+/* harmony import */ var _public_storage_decoration_voice_2_jpg__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(_public_storage_decoration_voice_2_jpg__WEBPACK_IMPORTED_MODULE_3__);
+/* harmony import */ var _public_storage_decoration_voice_3_jpg__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../../../public/storage/decoration/voice_3.jpg */ "./storage/app/public/decoration/voice_3.jpg");
+/* harmony import */ var _public_storage_decoration_voice_3_jpg__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(_public_storage_decoration_voice_3_jpg__WEBPACK_IMPORTED_MODULE_4__);
+/* harmony import */ var _public_storage_decoration_voice_4_jpg__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../../../public/storage/decoration/voice_4.jpg */ "./storage/app/public/decoration/voice_4.jpg");
+/* harmony import */ var _public_storage_decoration_voice_4_jpg__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(_public_storage_decoration_voice_4_jpg__WEBPACK_IMPORTED_MODULE_5__);
 //
 //
 //
@@ -6049,13 +6436,24 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
-//
+
+
+
+
 
 
 /* harmony default export */ __webpack_exports__["default"] = ({
   components: {
     titleWithTopNumber: _components_TitleWithTopNumber__WEBPACK_IMPORTED_MODULE_0__["default"],
     essay: _components_Essay__WEBPACK_IMPORTED_MODULE_1__["default"]
+  },
+  data: function data() {
+    return {
+      voiceImageURI_1: _public_storage_decoration_voice_1_jpg__WEBPACK_IMPORTED_MODULE_2___default.a,
+      voiceImageURI_2: _public_storage_decoration_voice_2_jpg__WEBPACK_IMPORTED_MODULE_3___default.a,
+      voiceImageURI_3: _public_storage_decoration_voice_3_jpg__WEBPACK_IMPORTED_MODULE_4___default.a,
+      voiceImageURI_4: _public_storage_decoration_voice_4_jpg__WEBPACK_IMPORTED_MODULE_5___default.a
+    };
   }
 });
 
@@ -6335,12 +6733,13 @@ exports.push([module.i, ".ref-title[data-v-66349259] {\n  font-size: 1.5rem;\n  
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
+var escape = __webpack_require__(/*! ../../../node_modules/css-loader/lib/url/escape.js */ "./node_modules/css-loader/lib/url/escape.js");
 exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loader/lib/css-base.js */ "./node_modules/css-loader/lib/css-base.js")(false);
 // imports
 
 
 // module
-exports.push([module.i, ".tw-price-table[data-v-0fe82c5b] {\n  font-size: .75rem;\n  line-height: 2;\n  letter-spacing: .2em;\n  width: 100%;\n}\n@media (min-width: 768px) {\n.tw-price-table[data-v-0fe82c5b] {\n    font-size: .875rem;\n}\n}\n.tw-price-table tr[data-v-0fe82c5b] {\n  border-bottom-width: 1px;\n  border-color: #dae1e7;\n}\n.tw-price-table tr span[data-v-0fe82c5b] {\n  font-weight: 300;\n  line-height: 1;\n}\n.tw-price-table tr[data-v-0fe82c5b]:last-child {\n  border-style: none;\n}\n.tw-price-table th[data-v-0fe82c5b] {\n  text-align: left;\n  padding: .5rem;\n}\n@media (min-width: 768px) {\n.tw-price-table th[data-v-0fe82c5b] {\n    padding: 1rem;\n}\n}\n.tw-price-table td[data-v-0fe82c5b] {\n  text-align: center;\n  padding: .5rem;\n}\n@media (min-width: 768px) {\n.tw-price-table td[data-v-0fe82c5b] {\n    padding: 1rem;\n}\n}\n.tw-icon[data-v-0fe82c5b] {\n  flex: 0 0 135px;\n}\n.tw-flex-size[data-v-0fe82c5b] {\n  flex-grow: 1;\n  flex-basis: 0;\n}\n.tw-article[data-v-0fe82c5b] {\n  display: flex;\n  flex-direction: column;\n  align-items: center;\n  justify-content: center;\n  width: 100%;\n  padding: 1rem;\n  height: 100%;\n}\n@media (min-width: 768px) {\n.tw-article[data-v-0fe82c5b] {\n    padding: 0;\n    width: 66.66667%;\n}\n}\n.tw-center[data-v-0fe82c5b] {\n  white-space: nowrap;\n  top: 0;\n  position: absolute;\n  font-weight: 700;\n  left: 50%;\n  -webkit-transform: translate(-50%, -50%);\n          transform: translate(-50%, -50%);\n  background-color: #fff;\n  padding: 0 40px;\n}\n.tw-name[data-v-0fe82c5b]:before {\n  content: \"(\";\n  position: absolute;\n  top: 0;\n  left: 0;\n}\n.tw-name[data-v-0fe82c5b]:after {\n  content: \")\";\n  position: absolute;\n  top: 0;\n  right: 0;\n}\n.ref-title[data-v-0fe82c5b] {\n  font-size: 1.5rem;\n  letter-spacing: .2em;\n  line-height: 2;\n  border-bottom-width: 2px;\n  border-color: #22292f;\n  position: absolute;\n  left: 0;\n  top: 0;\n  -webkit-transform: translateY(-100%);\n          transform: translateY(-100%);\n}\n@media (min-width: 768px) {\n.ref-title[data-v-0fe82c5b] {\n    top: 20px;\n}\n}\n", ""]);
+exports.push([module.i, ".tw-price-table[data-v-0fe82c5b] {\n  font-size: .75rem;\n  line-height: 2;\n  letter-spacing: .2em;\n  width: 100%;\n}\n@media (min-width: 768px) {\n.tw-price-table[data-v-0fe82c5b] {\n    font-size: .875rem;\n}\n}\n.tw-price-table tr[data-v-0fe82c5b] {\n  border-bottom-width: 1px;\n  border-color: #dae1e7;\n}\n.tw-price-table tr span[data-v-0fe82c5b] {\n  font-weight: 300;\n  line-height: 1;\n}\n.tw-price-table tr[data-v-0fe82c5b]:last-child {\n  border-style: none;\n}\n.tw-price-table th[data-v-0fe82c5b] {\n  text-align: left;\n  padding: .5rem;\n}\n@media (min-width: 768px) {\n.tw-price-table th[data-v-0fe82c5b] {\n    padding: 1rem;\n}\n}\n.tw-price-table td[data-v-0fe82c5b] {\n  text-align: center;\n  padding: .5rem;\n}\n@media (min-width: 768px) {\n.tw-price-table td[data-v-0fe82c5b] {\n    padding: 1rem;\n}\n}\n.tw-icon[data-v-0fe82c5b] {\n  flex: 0 0 135px;\n}\n.tw-flex-size[data-v-0fe82c5b] {\n  flex-grow: 1;\n  flex-basis: 0;\n}\n.tw-article[data-v-0fe82c5b] {\n  display: flex;\n  flex-direction: column;\n  align-items: center;\n  justify-content: center;\n  width: 100%;\n  padding: 1rem;\n  height: 100%;\n}\n@media (min-width: 768px) {\n.tw-article[data-v-0fe82c5b] {\n    padding: 0;\n    width: 66.66667%;\n}\n}\n.tw-center[data-v-0fe82c5b] {\n  white-space: nowrap;\n  top: 0;\n  position: absolute;\n  font-weight: 700;\n  left: 50%;\n  -webkit-transform: translate(-50%, -50%);\n          transform: translate(-50%, -50%);\n  background-color: #fff;\n  padding: 0 40px;\n}\n.tw-name[data-v-0fe82c5b]:before {\n  content: \"(\";\n  position: absolute;\n  top: 0;\n  left: 0;\n}\n.tw-name[data-v-0fe82c5b]:after {\n  content: \")\";\n  position: absolute;\n  top: 0;\n  right: 0;\n}\n.ref-title[data-v-0fe82c5b] {\n  font-size: 1.5rem;\n  letter-spacing: .2em;\n  line-height: 2;\n  border-bottom-width: 2px;\n  border-color: #22292f;\n  position: absolute;\n  left: 0;\n  top: 0;\n  -webkit-transform: translateY(-100%);\n          transform: translateY(-100%);\n}\n@media (min-width: 768px) {\n.ref-title[data-v-0fe82c5b] {\n    top: 20px;\n}\n}\n.beauty-bg[data-v-0fe82c5b] {\n  background: url(" + escape(__webpack_require__(/*! ../../../public/storage/hero/hero_bg_beauty.jpg */ "./storage/app/public/hero/hero_bg_beauty.jpg")) + ") center center/cover no-repeat;\n}\n", ""]);
 
 // exports
 
@@ -6354,12 +6753,13 @@ exports.push([module.i, ".tw-price-table[data-v-0fe82c5b] {\n  font-size: .75rem
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
+var escape = __webpack_require__(/*! ../../../node_modules/css-loader/lib/url/escape.js */ "./node_modules/css-loader/lib/url/escape.js");
 exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loader/lib/css-base.js */ "./node_modules/css-loader/lib/css-base.js")(false);
 // imports
 
 
 // module
-exports.push([module.i, ".tw-price-table[data-v-7682818c] {\n  font-size: .875rem;\n  line-height: 2;\n  letter-spacing: .2em;\n}\n.tw-price-table tr[data-v-7682818c] {\n  border-bottom-width: 1px;\n  border-color: #dae1e7;\n}\n.tw-price-table tr span[data-v-7682818c] {\n  font-weight: 300;\n  line-height: 1;\n}\n.tw-price-table tr[data-v-7682818c]:last-child {\n  border-style: none;\n}\n.tw-price-table th[data-v-7682818c] {\n  text-align: left;\n  padding: 1rem;\n}\n.tw-price-table td[data-v-7682818c] {\n  text-align: center;\n  padding: 1rem;\n}\n.tw-name[data-v-7682818c]:before {\n  content: \"(\";\n  position: absolute;\n  left: 0;\n}\n.tw-name[data-v-7682818c]:after {\n  content: \")\";\n  position: absolute;\n  right: 0;\n}\n", ""]);
+exports.push([module.i, ".tw-price-table[data-v-7682818c] {\n  font-size: .875rem;\n  line-height: 2;\n  letter-spacing: .2em;\n}\n.tw-price-table tr[data-v-7682818c] {\n  border-bottom-width: 1px;\n  border-color: #dae1e7;\n}\n.tw-price-table tr span[data-v-7682818c] {\n  font-weight: 300;\n  line-height: 1;\n}\n.tw-price-table tr[data-v-7682818c]:last-child {\n  border-style: none;\n}\n.tw-price-table th[data-v-7682818c] {\n  text-align: left;\n  padding: 1rem;\n}\n.tw-price-table td[data-v-7682818c] {\n  text-align: center;\n  padding: 1rem;\n}\n.tw-name[data-v-7682818c]:before {\n  content: \"(\";\n  position: absolute;\n  left: 0;\n}\n.tw-name[data-v-7682818c]:after {\n  content: \")\";\n  position: absolute;\n  right: 0;\n}\n.beauty-bg[data-v-7682818c] {\n  background: url(" + escape(__webpack_require__(/*! ../../../public/storage/hero/hero_bg_beauty.jpg */ "./storage/app/public/hero/hero_bg_beauty.jpg")) + ") center center/cover no-repeat;\n}\n", ""]);
 
 // exports
 
@@ -6373,12 +6773,13 @@ exports.push([module.i, ".tw-price-table[data-v-7682818c] {\n  font-size: .875re
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
+var escape = __webpack_require__(/*! ../../../node_modules/css-loader/lib/url/escape.js */ "./node_modules/css-loader/lib/url/escape.js");
 exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loader/lib/css-base.js */ "./node_modules/css-loader/lib/css-base.js")(false);
 // imports
 
 
 // module
-exports.push([module.i, ".sub-title[data-v-25066da7] {\n  position: absolute;\n  top: 30%;\n  left: 50%;\n  -webkit-transform: translate(-50%, -50%);\n          transform: translate(-50%, -50%);\n}\n.tw-price-table[data-v-25066da7] {\n  font-size: .875rem;\n  line-height: 2;\n  letter-spacing: .2em;\n}\n.tw-price-table tr[data-v-25066da7] {\n  border-bottom-width: 1px;\n  border-color: #dae1e7;\n}\n.tw-price-table tr span[data-v-25066da7] {\n  font-weight: 300;\n  line-height: 1;\n}\n.tw-price-table tr[data-v-25066da7]:last-child {\n  border-style: none;\n}\n.tw-price-table th[data-v-25066da7] {\n  text-align: left;\n  padding: 1rem;\n}\n.tw-price-table td[data-v-25066da7] {\n  text-align: center;\n  padding: 1rem;\n}\n.tw-name[data-v-25066da7]:before {\n  content: \"(\";\n  position: absolute;\n  left: 0;\n}\n.tw-name[data-v-25066da7]:after {\n  content: \")\";\n  position: absolute;\n  right: 0;\n}\n", ""]);
+exports.push([module.i, ".sub-title[data-v-25066da7] {\n  position: absolute;\n  top: 30%;\n  left: 50%;\n  -webkit-transform: translate(-50%, -50%);\n          transform: translate(-50%, -50%);\n}\n.tw-price-table[data-v-25066da7] {\n  font-size: .875rem;\n  line-height: 2;\n  letter-spacing: .2em;\n}\n.tw-price-table tr[data-v-25066da7] {\n  border-bottom-width: 1px;\n  border-color: #dae1e7;\n}\n.tw-price-table tr span[data-v-25066da7] {\n  font-weight: 300;\n  line-height: 1;\n}\n.tw-price-table tr[data-v-25066da7]:last-child {\n  border-style: none;\n}\n.tw-price-table th[data-v-25066da7] {\n  text-align: left;\n  padding: 1rem;\n}\n.tw-price-table td[data-v-25066da7] {\n  text-align: center;\n  padding: 1rem;\n}\n.tw-name[data-v-25066da7]:before {\n  content: \"(\";\n  position: absolute;\n  left: 0;\n}\n.tw-name[data-v-25066da7]:after {\n  content: \")\";\n  position: absolute;\n  right: 0;\n}\n.beauty-bg[data-v-25066da7] {\n  background: url(" + escape(__webpack_require__(/*! ../../../public/storage/hero/hero_bg_beauty.jpg */ "./storage/app/public/hero/hero_bg_beauty.jpg")) + ") center center/cover no-repeat;\n}\n", ""]);
 
 // exports
 
@@ -6392,12 +6793,13 @@ exports.push([module.i, ".sub-title[data-v-25066da7] {\n  position: absolute;\n 
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
+var escape = __webpack_require__(/*! ../../../node_modules/css-loader/lib/url/escape.js */ "./node_modules/css-loader/lib/url/escape.js");
 exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loader/lib/css-base.js */ "./node_modules/css-loader/lib/css-base.js")(false);
 // imports
 
 
 // module
-exports.push([module.i, ".sub-title[data-v-9fb67012] {\n  position: absolute;\n  top: 0;\n  font-size: 1.875rem;\n  left: 50%;\n  -webkit-transform: translate(-50%, -50%);\n          transform: translate(-50%, -50%);\n}\n@media (min-width: 992px) {\n.sub-title[data-v-9fb67012] {\n    font-size: 350%;\n}\n}\n.tw-figure[data-v-9fb67012] {\n  width: 100%;\n  overflow: hidden;\n  display: flex;\n  align-items: center;\n  max-height: 300px;\n}\n@media (min-width: 768px) {\n.tw-figure[data-v-9fb67012] {\n    width: 33.33333%;\n    padding-right: 2rem;\n    align-items: flex-start;\n    max-height: none;\n}\n}\n.ref-title[data-v-9fb67012] {\n  font-size: 1.5rem;\n  letter-spacing: .2em;\n  line-height: 2;\n  border-bottom-width: 2px;\n  border-color: #22292f;\n  position: absolute;\n  left: 0;\n  top: 0;\n  -webkit-transform: translateY(-100%);\n          transform: translateY(-100%);\n}\n@media (min-width: 768px) {\n.ref-title[data-v-9fb67012] {\n    top: 20px;\n}\n}\n.tw-price-table[data-v-9fb67012] {\n  font-size: .75rem;\n  line-height: 2;\n  letter-spacing: .2em;\n}\n@media (min-width: 576px) {\n.tw-price-table[data-v-9fb67012] {\n    font-size: .875rem;\n}\n}\n.tw-price-table tr[data-v-9fb67012] {\n  border-bottom-width: 1px;\n  border-color: #dae1e7;\n}\n.tw-price-table tr span[data-v-9fb67012] {\n  font-weight: 300;\n  line-height: 1;\n}\n.tw-price-table tr[data-v-9fb67012]:last-child {\n  border-style: none;\n}\n.tw-price-table th[data-v-9fb67012] {\n  text-align: left;\n  padding: 1rem;\n}\n.tw-price-table td[data-v-9fb67012] {\n  text-align: center;\n  padding: 1rem;\n}\n.tw-name[data-v-9fb67012]:before {\n  content: \"(\";\n  position: absolute;\n  left: 0;\n}\n.tw-name[data-v-9fb67012]:after {\n  content: \")\";\n  position: absolute;\n  right: 0;\n}\n", ""]);
+exports.push([module.i, ".sub-title[data-v-9fb67012] {\n  position: absolute;\n  top: 0;\n  font-size: 1.875rem;\n  left: 50%;\n  -webkit-transform: translate(-50%, -50%);\n          transform: translate(-50%, -50%);\n}\n@media (min-width: 992px) {\n.sub-title[data-v-9fb67012] {\n    font-size: 350%;\n}\n}\n.tw-figure[data-v-9fb67012] {\n  width: 100%;\n  overflow: hidden;\n  display: flex;\n  align-items: center;\n  max-height: 300px;\n}\n@media (min-width: 768px) {\n.tw-figure[data-v-9fb67012] {\n    width: 33.33333%;\n    padding-right: 2rem;\n    align-items: flex-start;\n    max-height: none;\n}\n}\n.ref-title[data-v-9fb67012] {\n  font-size: 1.5rem;\n  letter-spacing: .2em;\n  line-height: 2;\n  border-bottom-width: 2px;\n  border-color: #22292f;\n  position: absolute;\n  left: 0;\n  top: 0;\n  -webkit-transform: translateY(-100%);\n          transform: translateY(-100%);\n}\n@media (min-width: 768px) {\n.ref-title[data-v-9fb67012] {\n    top: 20px;\n}\n}\n.tw-price-table[data-v-9fb67012] {\n  font-size: .75rem;\n  line-height: 2;\n  letter-spacing: .2em;\n}\n@media (min-width: 576px) {\n.tw-price-table[data-v-9fb67012] {\n    font-size: .875rem;\n}\n}\n.tw-price-table tr[data-v-9fb67012] {\n  border-bottom-width: 1px;\n  border-color: #dae1e7;\n}\n.tw-price-table tr span[data-v-9fb67012] {\n  font-weight: 300;\n  line-height: 1;\n}\n.tw-price-table tr[data-v-9fb67012]:last-child {\n  border-style: none;\n}\n.tw-price-table th[data-v-9fb67012] {\n  text-align: left;\n  padding: 1rem;\n}\n.tw-price-table td[data-v-9fb67012] {\n  text-align: center;\n  padding: 1rem;\n}\n.tw-name[data-v-9fb67012]:before {\n  content: \"(\";\n  position: absolute;\n  left: 0;\n}\n.tw-name[data-v-9fb67012]:after {\n  content: \")\";\n  position: absolute;\n  right: 0;\n}\n.beauty-bg[data-v-9fb67012] {\n  background: url(" + escape(__webpack_require__(/*! ../../../public/storage/hero/hero_bg_beauty.jpg */ "./storage/app/public/hero/hero_bg_beauty.jpg")) + ") center center/cover no-repeat;\n}\n", ""]);
 
 // exports
 
@@ -6411,12 +6813,13 @@ exports.push([module.i, ".sub-title[data-v-9fb67012] {\n  position: absolute;\n 
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
+var escape = __webpack_require__(/*! ../../../node_modules/css-loader/lib/url/escape.js */ "./node_modules/css-loader/lib/url/escape.js");
 exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loader/lib/css-base.js */ "./node_modules/css-loader/lib/css-base.js")(false);
 // imports
 
 
 // module
-exports.push([module.i, ".tw-describe[data-v-21659a99]:after {\n  content: \"\";\n  position: absolute;\n  top: 25%;\n  left: 0;\n  background-color: #e8eff1;\n  width: 100%;\n  height: 80%;\n  z-index: -1;\n}\n@media (min-width: 768px) {\n.tw-describe[data-v-21659a99]:after {\n    height: 60%;\n}\n}\n", ""]);
+exports.push([module.i, ".tw-describe[data-v-21659a99]:after {\n  content: \"\";\n  position: absolute;\n  top: 25%;\n  left: 0;\n  background-color: #e8eff1;\n  width: 100%;\n  height: 80%;\n  z-index: -1;\n}\n@media (min-width: 768px) {\n.tw-describe[data-v-21659a99]:after {\n    height: 60%;\n}\n}\n.concept-bg[data-v-21659a99] {\n  background: url(" + escape(__webpack_require__(/*! ../../../public/storage/hero/hero_bg_concept.jpg */ "./storage/app/public/hero/hero_bg_concept.jpg")) + ") center center/cover no-repeat;\n}\n", ""]);
 
 // exports
 
@@ -6450,12 +6853,13 @@ exports.push([module.i, ".tw-scroll-icon[data-v-63cd6604] {\n  font-size: .875re
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
+var escape = __webpack_require__(/*! ../../../node_modules/css-loader/lib/url/escape.js */ "./node_modules/css-loader/lib/url/escape.js");
 exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loader/lib/css-base.js */ "./node_modules/css-loader/lib/css-base.js")(false);
 // imports
 
 
 // module
-exports.push([module.i, ".tw-table[data-v-71d1a504] {\n  font-size: .75rem;\n  line-height: 2;\n  letter-spacing: .2em;\n  color: #3d4852;\n}\n.tw-table td[data-v-71d1a504]:last-child {\n  padding-left: 1rem;\n}\n.tw-header[data-v-71d1a504] {\n  position: relative;\n  padding-bottom: 1rem;\n  text-align: left;\n  font-size: 1.5rem;\n  font-weight: 700;\n  letter-spacing: .3em;\n  color: #22292f;\n}\n@media (min-width: 768px) {\n.tw-header[data-v-71d1a504] {\n    padding-bottom: 0;\n}\n}\n@media (min-width: 992px) {\n.tw-header[data-v-71d1a504] {\n    font-size: 2.25rem;\n}\n}\n.tw-header[data-v-71d1a504]:after {\n  position: absolute;\n  content: \"\";\n  left: 0;\n  bottom: 15%;\n  width: 15%;\n  height: 1px;\n  background: #000;\n}\n", ""]);
+exports.push([module.i, ".tw-table[data-v-71d1a504] {\n  font-size: .75rem;\n  line-height: 2;\n  letter-spacing: .2em;\n  color: #3d4852;\n}\n.tw-table td[data-v-71d1a504]:last-child {\n  padding-left: 1rem;\n}\n.tw-header[data-v-71d1a504] {\n  position: relative;\n  padding-bottom: 1rem;\n  text-align: left;\n  font-size: 1.5rem;\n  font-weight: 700;\n  letter-spacing: .3em;\n  color: #22292f;\n}\n@media (min-width: 768px) {\n.tw-header[data-v-71d1a504] {\n    padding-bottom: 0;\n}\n}\n@media (min-width: 992px) {\n.tw-header[data-v-71d1a504] {\n    font-size: 2.25rem;\n}\n}\n.tw-header[data-v-71d1a504]:after {\n  position: absolute;\n  content: \"\";\n  left: 0;\n  bottom: 15%;\n  width: 15%;\n  height: 1px;\n  background: #000;\n}\n.menu-bg[data-v-71d1a504] {\n  background: url(" + escape(__webpack_require__(/*! ../../../public/storage/hero/hero_bg_menu_and_price.jpg */ "./storage/app/public/hero/hero_bg_menu_and_price.jpg")) + ") center center/cover no-repeat;\n}\n", ""]);
 
 // exports
 
@@ -6469,12 +6873,13 @@ exports.push([module.i, ".tw-table[data-v-71d1a504] {\n  font-size: .75rem;\n  l
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
+var escape = __webpack_require__(/*! ../../../node_modules/css-loader/lib/url/escape.js */ "./node_modules/css-loader/lib/url/escape.js");
 exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loader/lib/css-base.js */ "./node_modules/css-loader/lib/css-base.js")(false);
 // imports
 
 
 // module
-exports.push([module.i, ".sub-title[data-v-52585eb5] {\n  position: absolute;\n  top: 30%;\n  left: 50%;\n  -webkit-transform: translateX(-50%);\n          transform: translateX(-50%);\n}\n.ref-title[data-v-52585eb5] {\n  font-size: 1.5rem;\n  letter-spacing: .2em;\n  line-height: 2;\n  border-bottom-width: 2px;\n  border-color: #22292f;\n  position: absolute;\n  left: 0;\n  top: 0;\n  -webkit-transform: translateY(-100%);\n          transform: translateY(-100%);\n}\n@media (min-width: 768px) {\n.ref-title[data-v-52585eb5] {\n    top: 20px;\n}\n}\n", ""]);
+exports.push([module.i, ".sub-title[data-v-52585eb5] {\n  position: absolute;\n  top: 30%;\n  left: 50%;\n  -webkit-transform: translateX(-50%);\n          transform: translateX(-50%);\n}\n.ref-title[data-v-52585eb5] {\n  font-size: 1.5rem;\n  letter-spacing: .2em;\n  line-height: 2;\n  border-bottom-width: 2px;\n  border-color: #22292f;\n  position: absolute;\n  left: 0;\n  top: 0;\n  -webkit-transform: translateY(-100%);\n          transform: translateY(-100%);\n}\n@media (min-width: 768px) {\n.ref-title[data-v-52585eb5] {\n    top: 20px;\n}\n}\n.nail-bg[data-v-52585eb5] {\n  background: url(" + escape(__webpack_require__(/*! ../../../public/storage/hero/hero_bg_nail.jpg */ "./storage/app/public/hero/hero_bg_nail.jpg")) + ") center center/cover no-repeat;\n}\n", ""]);
 
 // exports
 
@@ -6488,12 +6893,13 @@ exports.push([module.i, ".sub-title[data-v-52585eb5] {\n  position: absolute;\n 
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
+var escape = __webpack_require__(/*! ../../../node_modules/css-loader/lib/url/escape.js */ "./node_modules/css-loader/lib/url/escape.js");
 exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loader/lib/css-base.js */ "./node_modules/css-loader/lib/css-base.js")(false);
 // imports
 
 
 // module
-exports.push([module.i, ".ref-title[data-v-49a04c6f] {\n  font-size: 1.5rem;\n  letter-spacing: .2em;\n  line-height: 2;\n  border-bottom-width: 2px;\n  border-color: #22292f;\n  position: absolute;\n  left: 0;\n  top: 0;\n  -webkit-transform: translateY(-100%);\n          transform: translateY(-100%);\n}\n@media (min-width: 768px) {\n.ref-title[data-v-49a04c6f] {\n    top: 20px;\n}\n}\n.tw-name[data-v-49a04c6f]:before {\n  content: \"(\";\n  position: absolute;\n  left: 0;\n}\n.tw-name[data-v-49a04c6f]:after {\n  content: \")\";\n  position: absolute;\n  right: 0;\n}\n", ""]);
+exports.push([module.i, ".ref-title[data-v-49a04c6f] {\n  font-size: 1.5rem;\n  letter-spacing: .2em;\n  line-height: 2;\n  border-bottom-width: 2px;\n  border-color: #22292f;\n  position: absolute;\n  left: 0;\n  top: 0;\n  -webkit-transform: translateY(-100%);\n          transform: translateY(-100%);\n}\n@media (min-width: 768px) {\n.ref-title[data-v-49a04c6f] {\n    top: 20px;\n}\n}\n.tw-name[data-v-49a04c6f]:before {\n  content: \"(\";\n  position: absolute;\n  left: 0;\n}\n.tw-name[data-v-49a04c6f]:after {\n  content: \")\";\n  position: absolute;\n  right: 0;\n}\n.recruit-bg[data-v-49a04c6f] {\n  background: url(" + escape(__webpack_require__(/*! ../../../public/storage/hero/hero_bg_recruit.jpg */ "./storage/app/public/hero/hero_bg_recruit.jpg")) + ") center center/cover no-repeat;\n}\n", ""]);
 
 // exports
 
@@ -6507,12 +6913,13 @@ exports.push([module.i, ".ref-title[data-v-49a04c6f] {\n  font-size: 1.5rem;\n  
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
+var escape = __webpack_require__(/*! ../../../node_modules/css-loader/lib/url/escape.js */ "./node_modules/css-loader/lib/url/escape.js");
 exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loader/lib/css-base.js */ "./node_modules/css-loader/lib/css-base.js")(false);
 // imports
 
 
 // module
-exports.push([module.i, ".tw-note[data-v-5d3322dd] {\n  max-width: 720px;\n  border-left-width: 1px;\n  border-color: #dae1e7;\n  display: flex;\n  flex-direction: column;\n  padding-left: 2rem;\n  padding-right: 2rem;\n  padding-top: 3rem;\n  padding-bottom: 3rem;\n  margin-left: 2rem;\n  position: relative;\n}\n@media (min-width: 768px) {\n.tw-note[data-v-5d3322dd] {\n    margin-left: auto;\n    margin-right: auto;\n}\n}\n@media (min-width: 992px) {\n.tw-note[data-v-5d3322dd] {\n    max-width: 920px;\n    padding-left: 6rem;\n    padding-right: 6rem;\n}\n}\n.sub-des[data-v-5d3322dd] {\n  position: absolute;\n  top: 0;\n  left: 0;\n  -webkit-transform: translateY(-100%);\n          transform: translateY(-100%);\n}\n@media (min-width: 768px) {\n.sub-des[data-v-5d3322dd] {\n    left: 20px;\n    top: 30px;\n}\n}\n.tw-dot[data-v-5d3322dd]:before {\n  content: \"\";\n  position: absolute;\n  top: 50%;\n  -webkit-transform: translate(-50%, -50%);\n          transform: translate(-50%, -50%);\n  left: 0;\n  background-color: #dae1e7;\n  width: 16px;\n  height: 16px;\n  border-radius: 16px;\n  z-index: 2;\n}\n.tw-dot[data-v-5d3322dd]:after {\n  content: \"\";\n  position: absolute;\n  top: 50%;\n  left: 0;\n  background-color: #dae1e7;\n  width: 20%;\n  height: 1px;\n  z-index: -1;\n}\n.tw-center-line[data-v-5d3322dd]:before {\n  content: \"\";\n  width: 20px;\n  height: 1px;\n  position: absolute;\n  top: 8px;\n  left: 0;\n  background-color: #555;\n}\n.tw-center-line[data-v-5d3322dd]:hover:before {\n  background: #b8c2cc;\n}\n.tw-name[data-v-5d3322dd]:before {\n  content: \"(\";\n  position: absolute;\n  left: 0;\n}\n.tw-name[data-v-5d3322dd]:after {\n  content: \")\";\n  position: absolute;\n  right: 0;\n}\n", ""]);
+exports.push([module.i, ".tw-note[data-v-5d3322dd] {\n  max-width: 720px;\n  border-left-width: 1px;\n  border-color: #dae1e7;\n  display: flex;\n  flex-direction: column;\n  padding-left: 2rem;\n  padding-right: 2rem;\n  padding-top: 3rem;\n  padding-bottom: 3rem;\n  margin-left: 2rem;\n  position: relative;\n}\n@media (min-width: 768px) {\n.tw-note[data-v-5d3322dd] {\n    margin-left: auto;\n    margin-right: auto;\n}\n}\n@media (min-width: 992px) {\n.tw-note[data-v-5d3322dd] {\n    max-width: 920px;\n    padding-left: 6rem;\n    padding-right: 6rem;\n}\n}\n.sub-des[data-v-5d3322dd] {\n  position: absolute;\n  top: 0;\n  left: 0;\n  -webkit-transform: translateY(-100%);\n          transform: translateY(-100%);\n}\n@media (min-width: 768px) {\n.sub-des[data-v-5d3322dd] {\n    left: 20px;\n    top: 30px;\n}\n}\n.tw-dot[data-v-5d3322dd]:before {\n  content: \"\";\n  position: absolute;\n  top: 50%;\n  -webkit-transform: translate(-50%, -50%);\n          transform: translate(-50%, -50%);\n  left: 0;\n  background-color: #dae1e7;\n  width: 16px;\n  height: 16px;\n  border-radius: 16px;\n  z-index: 2;\n}\n.tw-dot[data-v-5d3322dd]:after {\n  content: \"\";\n  position: absolute;\n  top: 50%;\n  left: 0;\n  background-color: #dae1e7;\n  width: 20%;\n  height: 1px;\n  z-index: -1;\n}\n.tw-center-line[data-v-5d3322dd]:before {\n  content: \"\";\n  width: 20px;\n  height: 1px;\n  position: absolute;\n  top: 8px;\n  left: 0;\n  background-color: #555;\n}\n.tw-center-line[data-v-5d3322dd]:hover:before {\n  background: #b8c2cc;\n}\n.tw-name[data-v-5d3322dd]:before {\n  content: \"(\";\n  position: absolute;\n  left: 0;\n}\n.tw-name[data-v-5d3322dd]:after {\n  content: \")\";\n  position: absolute;\n  right: 0;\n}\n.recruit-bg[data-v-5d3322dd] {\n  background: url(" + escape(__webpack_require__(/*! ../../../public/storage/hero/hero_bg_recruit.jpg */ "./storage/app/public/hero/hero_bg_recruit.jpg")) + ") center center/cover no-repeat;\n}\n", ""]);
 
 // exports
 
@@ -6526,12 +6933,13 @@ exports.push([module.i, ".tw-note[data-v-5d3322dd] {\n  max-width: 720px;\n  bor
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
+var escape = __webpack_require__(/*! ../../../node_modules/css-loader/lib/url/escape.js */ "./node_modules/css-loader/lib/url/escape.js");
 exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loader/lib/css-base.js */ "./node_modules/css-loader/lib/css-base.js")(false);
 // imports
 
 
 // module
-exports.push([module.i, ".tw-recruit[data-v-f2479bfa] {\n  width: 50%;\n  padding: 2rem;\n  border-top-width: 1px;\n  border-color: #dae1e7;\n  margin-right: 1rem;\n  font-size: .875rem;\n  color: #3d4852;\n  position: relative;\n}\n.tw-recruit[data-v-f2479bfa]:after {\n  content: \"\";\n  position: absolute;\n  background: url(\"/icon/harpoon.png\") right center/12px 4px no-repeat;\n  width: 20px;\n  height: 4px;\n  right: 8px;\n  top: 50%;\n  -webkit-transform: translateY(-50%);\n          transform: translateY(-50%);\n}\n.ref-title[data-v-f2479bfa] {\n  font-size: 1.5rem;\n  letter-spacing: .2em;\n  line-height: 2;\n  border-bottom-width: 2px;\n  border-color: #22292f;\n  position: absolute;\n  left: 0;\n  top: 0;\n  -webkit-transform: translateY(-100%);\n          transform: translateY(-100%);\n}\n@media (min-width: 768px) {\n.ref-title[data-v-f2479bfa] {\n    top: 20px;\n}\n}\n.tw-table[data-v-f2479bfa] {\n  font-size: .75rem;\n}\n@media (min-width: 768px) {\n.tw-table[data-v-f2479bfa] {\n    font-size: .875rem;\n}\n}\n.tw-table tr[data-v-f2479bfa] {\n  border-bottom-width: 1px;\n  border-color: #dae1e7;\n  line-height: 1.5;\n  letter-spacing: .15em;\n}\n.tw-table tr[data-v-f2479bfa]:first-child {\n  border-top-width: 1px;\n}\n.tw-table th[data-v-f2479bfa] {\n  width: 40%;\n  letter-spacing: .2em;\n  padding-top: 1.5rem;\n  padding-bottom: 1.5rem;\n  font-weight: 300;\n}\n.tw-table td[data-v-f2479bfa] {\n  width: 60%;\n  padding-top: 1.5rem;\n  padding-bottom: 1.5rem;\n  font-weight: 300;\n}\n.tw-name[data-v-f2479bfa]:before {\n  content: \"(\";\n  position: absolute;\n  left: 0;\n}\n.tw-name[data-v-f2479bfa]:after {\n  content: \")\";\n  position: absolute;\n  right: 0;\n}\n", ""]);
+exports.push([module.i, ".tw-recruit[data-v-f2479bfa] {\n  width: 50%;\n  padding: 2rem;\n  border-top-width: 1px;\n  border-color: #dae1e7;\n  margin-right: 1rem;\n  font-size: .875rem;\n  color: #3d4852;\n  position: relative;\n}\n.tw-recruit[data-v-f2479bfa]:after {\n  content: \"\";\n  position: absolute;\n  background: url(\"/icon/harpoon.png\") right center/12px 4px no-repeat;\n  width: 20px;\n  height: 4px;\n  right: 8px;\n  top: 50%;\n  -webkit-transform: translateY(-50%);\n          transform: translateY(-50%);\n}\n.ref-title[data-v-f2479bfa] {\n  font-size: 1.5rem;\n  letter-spacing: .2em;\n  line-height: 2;\n  border-bottom-width: 2px;\n  border-color: #22292f;\n  position: absolute;\n  left: 0;\n  top: 0;\n  -webkit-transform: translateY(-100%);\n          transform: translateY(-100%);\n}\n@media (min-width: 768px) {\n.ref-title[data-v-f2479bfa] {\n    top: 20px;\n}\n}\n.tw-table[data-v-f2479bfa] {\n  font-size: .75rem;\n}\n@media (min-width: 768px) {\n.tw-table[data-v-f2479bfa] {\n    font-size: .875rem;\n}\n}\n.tw-table tr[data-v-f2479bfa] {\n  border-bottom-width: 1px;\n  border-color: #dae1e7;\n  line-height: 1.5;\n  letter-spacing: .15em;\n}\n.tw-table tr[data-v-f2479bfa]:first-child {\n  border-top-width: 1px;\n}\n.tw-table th[data-v-f2479bfa] {\n  width: 40%;\n  letter-spacing: .2em;\n  padding-top: 1.5rem;\n  padding-bottom: 1.5rem;\n  font-weight: 300;\n}\n.tw-table td[data-v-f2479bfa] {\n  width: 60%;\n  padding-top: 1.5rem;\n  padding-bottom: 1.5rem;\n  font-weight: 300;\n}\n.tw-name[data-v-f2479bfa]:before {\n  content: \"(\";\n  position: absolute;\n  left: 0;\n}\n.tw-name[data-v-f2479bfa]:after {\n  content: \")\";\n  position: absolute;\n  right: 0;\n}\n.recruit-bg[data-v-f2479bfa] {\n  background: url(" + escape(__webpack_require__(/*! ../../../public/storage/hero/hero_bg_recruit.jpg */ "./storage/app/public/hero/hero_bg_recruit.jpg")) + ") center center/cover no-repeat;\n}\n", ""]);
 
 // exports
 
@@ -6545,12 +6953,13 @@ exports.push([module.i, ".tw-recruit[data-v-f2479bfa] {\n  width: 50%;\n  paddin
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
+var escape = __webpack_require__(/*! ../../../node_modules/css-loader/lib/url/escape.js */ "./node_modules/css-loader/lib/url/escape.js");
 exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loader/lib/css-base.js */ "./node_modules/css-loader/lib/css-base.js")(false);
 // imports
 
 
 // module
-exports.push([module.i, ".tw-bar[data-v-a8b1cc3e]:after {\n  content: \"\";\n  position: absolute;\n  width: 20%;\n  height: 1px;\n  background-color: #000;\n  bottom: -100%;\n  left: 0;\n}\n.tw-name[data-v-a8b1cc3e]:before {\n  content: \"(\";\n  position: absolute;\n  left: 0;\n}\n.tw-name[data-v-a8b1cc3e]:after {\n  content: \")\";\n  position: absolute;\n  right: 0;\n}\n", ""]);
+exports.push([module.i, ".tw-bar[data-v-a8b1cc3e]:after {\n  content: \"\";\n  position: absolute;\n  width: 20%;\n  height: 1px;\n  background-color: #000;\n  bottom: -100%;\n  left: 0;\n}\n.tw-name[data-v-a8b1cc3e]:before {\n  content: \"(\";\n  position: absolute;\n  left: 0;\n}\n.tw-name[data-v-a8b1cc3e]:after {\n  content: \")\";\n  position: absolute;\n  right: 0;\n}\n.recruit-bg[data-v-a8b1cc3e] {\n  background: url(" + escape(__webpack_require__(/*! ../../../public/storage/hero/hero_bg_recruit.jpg */ "./storage/app/public/hero/hero_bg_recruit.jpg")) + ") center center/cover no-repeat;\n}\n", ""]);
 
 // exports
 
@@ -6564,12 +6973,13 @@ exports.push([module.i, ".tw-bar[data-v-a8b1cc3e]:after {\n  content: \"\";\n  p
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
+var escape = __webpack_require__(/*! ../../../node_modules/css-loader/lib/url/escape.js */ "./node_modules/css-loader/lib/url/escape.js");
 exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loader/lib/css-base.js */ "./node_modules/css-loader/lib/css-base.js")(false);
 // imports
 
 
 // module
-exports.push([module.i, ".tw-header[data-v-f57feba4] {\n  font-size: 1.5rem;\n  font-weight: 700;\n  line-height: 3.5;\n  letter-spacing: .3em;\n  position: relative;\n}\n@media (min-width: 768px) {\n.tw-header[data-v-f57feba4] {\n    font-size: 2.25rem;\n}\n}\n.tw-header[data-v-f57feba4]:after {\n  position: absolute;\n  content: \"\";\n  left: 0;\n  bottom: 15%;\n  width: 15%;\n  height: 1px;\n  background-color: #000;\n}\n.text-gold.tw-header[data-v-f57feba4]:after {\n  background-color: #c3b282;\n}\n.text-blue-lighter.tw-header[data-v-f57feba4]:after {\n  background-color: #629dae;\n}\n.tw-base[data-v-f57feba4] {\n  content: \"\";\n  position: absolute;\n  top: 50%;\n  left: 0;\n  -webkit-transform: translateY(-50%);\n          transform: translateY(-50%);\n  width: 100vw;\n  height: 50%;\n  z-index: -2;\n}\n.tw-border[data-v-f57feba4] {\n  position: absolute;\n  top: 51.5%;\n  left: 51.5%;\n  -webkit-transform: translate(-50%, -50%);\n          transform: translate(-50%, -50%);\n  width: 100%;\n  height: 100%;\n  z-index: -1;\n}\n.tw-color-blue[data-v-f57feba4] {\n  border-right: 1px solid #3b587e;\n  border-bottom: 1px solid #3b587e;\n}\n.tw-color-blue-lighter[data-v-f57feba4] {\n  border-right: 1px solid #629dae;\n  border-bottom: 1px solid #629dae;\n}\n.tw-color-yellow[data-v-f57feba4] {\n  border-right: 1px solid #c3b282;\n  border-bottom: 1px solid #c3b282;\n}\n.google-map[data-v-f57feba4] {\n  width: 100%;\n  height: 360px;\n}\n@media (min-width: 768px) {\n.google-map[data-v-f57feba4] {\n    height: 540px;\n}\n}\n@media (min-width: 992px) {\n.google-map[data-v-f57feba4] {\n    height: 720px;\n}\n}\n", ""]);
+exports.push([module.i, ".tw-header[data-v-f57feba4] {\n  font-size: 1.5rem;\n  font-weight: 700;\n  line-height: 3.5;\n  letter-spacing: .3em;\n  position: relative;\n}\n@media (min-width: 768px) {\n.tw-header[data-v-f57feba4] {\n    font-size: 2.25rem;\n}\n}\n.tw-header[data-v-f57feba4]:after {\n  position: absolute;\n  content: \"\";\n  left: 0;\n  bottom: 15%;\n  width: 15%;\n  height: 1px;\n  background-color: #000;\n}\n.text-gold.tw-header[data-v-f57feba4]:after {\n  background-color: #c3b282;\n}\n.text-blue-lighter.tw-header[data-v-f57feba4]:after {\n  background-color: #629dae;\n}\n.tw-base[data-v-f57feba4] {\n  content: \"\";\n  position: absolute;\n  top: 50%;\n  left: 0;\n  -webkit-transform: translateY(-50%);\n          transform: translateY(-50%);\n  width: 100vw;\n  height: 50%;\n  z-index: -2;\n}\n.tw-border[data-v-f57feba4] {\n  position: absolute;\n  top: 51.5%;\n  left: 51.5%;\n  -webkit-transform: translate(-50%, -50%);\n          transform: translate(-50%, -50%);\n  width: 100%;\n  height: 100%;\n  z-index: -1;\n}\n.tw-color-blue[data-v-f57feba4] {\n  border-right: 1px solid #3b587e;\n  border-bottom: 1px solid #3b587e;\n}\n.tw-color-blue-lighter[data-v-f57feba4] {\n  border-right: 1px solid #629dae;\n  border-bottom: 1px solid #629dae;\n}\n.tw-color-yellow[data-v-f57feba4] {\n  border-right: 1px solid #c3b282;\n  border-bottom: 1px solid #c3b282;\n}\n.google-map[data-v-f57feba4] {\n  width: 100%;\n  height: 360px;\n}\n@media (min-width: 768px) {\n.google-map[data-v-f57feba4] {\n    height: 540px;\n}\n}\n@media (min-width: 992px) {\n.google-map[data-v-f57feba4] {\n    height: 720px;\n}\n}\n.salon-bg[data-v-f57feba4] {\n  background: url(" + escape(__webpack_require__(/*! ../../../public/storage/hero/hero_bg_salon.jpg */ "./storage/app/public/hero/hero_bg_salon.jpg")) + ") center center/cover no-repeat;\n}\n", ""]);
 
 // exports
 
@@ -6583,12 +6993,13 @@ exports.push([module.i, ".tw-header[data-v-f57feba4] {\n  font-size: 1.5rem;\n  
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
+var escape = __webpack_require__(/*! ../../../node_modules/css-loader/lib/url/escape.js */ "./node_modules/css-loader/lib/url/escape.js");
 exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loader/lib/css-base.js */ "./node_modules/css-loader/lib/css-base.js")(false);
 // imports
 
 
 // module
-exports.push([module.i, ".tw-name[data-v-3cb21ea3]:before {\n  content: \"(\";\n  position: absolute;\n  left: 0;\n}\n.tw-name[data-v-3cb21ea3]:after {\n  content: \")\";\n  position: absolute;\n  right: 0;\n}\n.ref-title[data-v-3cb21ea3] {\n  font-size: 1.5rem;\n  letter-spacing: .2em;\n  line-height: 2;\n  border-bottom-width: 2px;\n  border-color: #22292f;\n  position: absolute;\n  left: 0;\n  top: 0;\n  -webkit-transform: translateY(-100%);\n          transform: translateY(-100%);\n}\n@media (min-width: 768px) {\n.ref-title[data-v-3cb21ea3] {\n    top: 20px;\n}\n}\n", ""]);
+exports.push([module.i, ".tw-name[data-v-3cb21ea3]:before {\n  content: \"(\";\n  position: absolute;\n  left: 0;\n}\n.tw-name[data-v-3cb21ea3]:after {\n  content: \")\";\n  position: absolute;\n  right: 0;\n}\n.ref-title[data-v-3cb21ea3] {\n  font-size: 1.5rem;\n  letter-spacing: .2em;\n  line-height: 2;\n  border-bottom-width: 2px;\n  border-color: #22292f;\n  position: absolute;\n  left: 0;\n  top: 0;\n  -webkit-transform: translateY(-100%);\n          transform: translateY(-100%);\n}\n@media (min-width: 768px) {\n.ref-title[data-v-3cb21ea3] {\n    top: 20px;\n}\n}\n.voice-bg[data-v-3cb21ea3] {\n  background: url(" + escape(__webpack_require__(/*! ../../../public/storage/hero/hero_bg_voice.jpg */ "./storage/app/public/hero/hero_bg_voice.jpg")) + ") center center/cover no-repeat;\n}\n", ""]);
 
 // exports
 
@@ -41212,36 +41623,29 @@ var render = function() {
         1
       ),
       _vm._v(" "),
-      _vm._m(0)
+      _c("div", { staticClass: "flex text-center -ml-5" }, [
+        _c("a", { staticClass: "icon", attrs: { href: "/" } }, [
+          _c("img", {
+            staticClass: "w-7 h-7",
+            attrs: { src: _vm.igIcon, alt: "instagram-eye" }
+          }),
+          _vm._v(" "),
+          _c("span", [_vm._v("EYE")])
+        ]),
+        _vm._v(" "),
+        _c("a", { staticClass: "icon", attrs: { href: "/" } }, [
+          _c("img", {
+            staticClass: "w-7 h-7",
+            attrs: { src: _vm.igIcon, alt: "instagram-nail" }
+          }),
+          _vm._v(" "),
+          _c("span", [_vm._v("NAIL")])
+        ])
+      ])
     ]
   )
 }
-var staticRenderFns = [
-  function() {
-    var _vm = this
-    var _h = _vm.$createElement
-    var _c = _vm._self._c || _h
-    return _c("div", { staticClass: "flex text-center -ml-5" }, [
-      _c("a", { staticClass: "icon", attrs: { href: "/" } }, [
-        _c("img", {
-          staticClass: "w-7 h-7",
-          attrs: { src: "/icon/ig.png", alt: "instagram-eye" }
-        }),
-        _vm._v(" "),
-        _c("span", [_vm._v("EYE")])
-      ]),
-      _vm._v(" "),
-      _c("a", { staticClass: "icon", attrs: { href: "/" } }, [
-        _c("img", {
-          staticClass: "w-7 h-7",
-          attrs: { src: "/icon/ig.png", alt: "instagram-nail" }
-        }),
-        _vm._v(" "),
-        _c("span", [_vm._v("NAIL")])
-      ])
-    ])
-  }
-]
+var staticRenderFns = []
 render._withStripped = true
 
 
@@ -41553,7 +41957,7 @@ var render = function() {
             "router-link",
             {
               staticClass: "tw-link-group",
-              attrs: { tag: "a", to: "/recruit" }
+              attrs: { tag: "a", to: "/beauty" }
             },
             [_vm._v("\n            マツエクのある毎日\n        ")]
           ),
@@ -41562,7 +41966,7 @@ var render = function() {
             "router-link",
             {
               staticClass: "tw-link-group",
-              attrs: { tag: "a", to: "/recruit/staff" }
+              attrs: { tag: "a", to: "/beauty/care" }
             },
             [_vm._v("\n            マツエクのお手入れ方法\n        ")]
           )
@@ -41578,7 +41982,7 @@ var render = function() {
             "router-link",
             {
               staticClass: "tw-link-group md:border-b",
-              attrs: { tag: "a", to: "/recruit/day" }
+              attrs: { tag: "a", to: "/beauty/life" }
             },
             [_vm._v("\n            ネイルのある毎日\n        ")]
           ),
@@ -41587,7 +41991,7 @@ var render = function() {
             "router-link",
             {
               staticClass: "tw-link-group border-b",
-              attrs: { tag: "a", to: "/recruit/staff" }
+              attrs: { tag: "a", to: "/beauty/gallery" }
             },
             [_vm._v("\n            お客様 × NANA\n        ")]
           )
@@ -42094,11 +42498,7 @@ var render = function() {
         "hero-bg",
         [
           _c("div", {
-            staticClass: "tw-hero",
-            staticStyle: {
-              background:
-                "url('/hero/hero_bg_beauty.jpg') center center / cover no-repeat"
-            },
+            staticClass: "tw-hero beauty-bg",
             attrs: { slot: "hero" },
             slot: "hero"
           }),
@@ -42136,7 +42536,7 @@ var render = function() {
               {
                 attrs: {
                   figure: {
-                    src: "/decoration/beauty/beauty_1.jpg",
+                    src: _vm.beautyImageURI_1,
                     alt: "マツエクのある毎日  NANA（福岡市中央区天神西通り）",
                     one_third: true,
                     end: false
@@ -42234,11 +42634,71 @@ var render = function() {
             _vm._v(" "),
             _vm._m(1),
             _vm._v(" "),
-            _vm._m(2),
+            _c(
+              "div",
+              { staticClass: "flex flex-col border-b border-grey pb-12" },
+              [
+                _c("h3", { staticClass: "leading-normal font-san p-8 pl-0" }, [
+                  _vm._v("マスカラ")
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "flex flex-col md:flex-row" }, [
+                  _c(
+                    "figure",
+                    {
+                      staticClass:
+                        "bg-grey-lighter flex justify-center items-center tw-icon md:mr-8 w-full"
+                    },
+                    [
+                      _c("img", {
+                        attrs: {
+                          src: _vm.beautyIconURI_1,
+                          alt: "マスカラ",
+                          width: "42",
+                          height: "72"
+                        }
+                      })
+                    ]
+                  ),
+                  _vm._v(" "),
+                  _vm._m(2),
+                  _vm._v(" "),
+                  _vm._m(3)
+                ])
+              ]
+            ),
             _vm._v(" "),
-            _vm._m(3),
+            _c("div", { staticClass: "flex flex-col pb-12" }, [
+              _c("h3", { staticClass: "leading-normal font-san p-8 pl-0" }, [
+                _vm._v("マスカラ")
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "flex flex-col md:flex-row" }, [
+                _c(
+                  "figure",
+                  {
+                    staticClass:
+                      "bg-grey-lighter flex justify-center items-center tw-icon md:mr-8 w-full"
+                  },
+                  [
+                    _c("img", {
+                      attrs: {
+                        src: _vm.beautyIconURI_2,
+                        alt: "つけまつげ",
+                        width: "71",
+                        height: "41"
+                      }
+                    })
+                  ]
+                ),
+                _vm._v(" "),
+                _vm._m(4),
+                _vm._v(" "),
+                _vm._m(5)
+              ])
+            ]),
             _vm._v(" "),
-            _vm._m(4)
+            _vm._m(6)
           ],
           1
         )
@@ -42270,7 +42730,7 @@ var render = function() {
               {
                 attrs: {
                   figure: {
-                    src: "/decoration/beauty/beauty_2.jpg",
+                    src: _vm.beautyImageURI_2,
                     alt: "「まつげがついていないと、気分が上がらないのよね」",
                     one_third: true,
                     end: true
@@ -42542,131 +43002,71 @@ var staticRenderFns = [
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
-    return _c(
-      "div",
-      { staticClass: "flex flex-col border-b border-grey pb-12" },
-      [
-        _c("h3", { staticClass: "leading-normal font-san p-8 pl-0" }, [
-          _vm._v("マスカラ")
-        ]),
+    return _c("div", { staticClass: "py-4 tw-flex-size" }, [
+      _c("div", { staticClass: "pb-4" }, [
+        _c("h4", { staticClass: "tw-mask inline-block" }, [_vm._v("#Merit")])
+      ]),
+      _vm._v(" "),
+      _c("ul", { staticClass: "text-xs leading-loose tracking-loose" }, [
+        _c("li", [_vm._v("・一度購入すると長持ちするため、コスパが良い")]),
         _vm._v(" "),
-        _c("div", { staticClass: "flex flex-col md:flex-row" }, [
-          _c(
-            "figure",
-            {
-              staticClass:
-                "bg-grey-lighter flex justify-center items-center tw-icon md:mr-8 w-full"
-            },
-            [
-              _c("img", {
-                attrs: {
-                  src: "/icon/decoration_1.png",
-                  alt: "マスカラ",
-                  width: "42",
-                  height: "72"
-                }
-              })
-            ]
-          ),
-          _vm._v(" "),
-          _c("div", { staticClass: "py-4 tw-flex-size" }, [
-            _c("div", { staticClass: "pb-4" }, [
-              _c("h4", { staticClass: "tw-mask inline-block" }, [
-                _vm._v("#Merit")
-              ])
-            ]),
-            _vm._v(" "),
-            _c("ul", { staticClass: "text-xs leading-loose tracking-loose" }, [
-              _c("li", [
-                _vm._v("・一度購入すると長持ちするため、コスパが良い")
-              ]),
-              _vm._v(" "),
-              _c("li", [_vm._v("・ボリュームや長さを自分で調整できる")]),
-              _vm._v(" "),
-              _c("li", [_vm._v("・色や種類が豊富")])
-            ])
-          ]),
-          _vm._v(" "),
-          _c("div", { staticClass: "py-4 tw-flex-size" }, [
-            _c("div", { staticClass: "pb-4" }, [
-              _c("h4", { staticClass: "tw-mask inline-block" }, [
-                _vm._v("#Demerit")
-              ])
-            ]),
-            _vm._v(" "),
-            _c("ul", { staticClass: "text-xs leading-loose tracking-loose" }, [
-              _c("li", [_vm._v("・水や汗に弱く、落ちやすい")]),
-              _vm._v(" "),
-              _c("li", [
-                _vm._v("・ダマができるなど、仕上がりに個人差ができる")
-              ]),
-              _vm._v(" "),
-              _c("li", [_vm._v("・毎回つける時間が必要")])
-            ])
-          ])
-        ])
-      ]
-    )
+        _c("li", [_vm._v("・ボリュームや長さを自分で調整できる")]),
+        _vm._v(" "),
+        _c("li", [_vm._v("・色や種類が豊富")])
+      ])
+    ])
   },
   function() {
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
-    return _c("div", { staticClass: "flex flex-col pb-12" }, [
-      _c("h3", { staticClass: "leading-normal font-san p-8 pl-0" }, [
-        _vm._v("マスカラ")
+    return _c("div", { staticClass: "py-4 tw-flex-size" }, [
+      _c("div", { staticClass: "pb-4" }, [
+        _c("h4", { staticClass: "tw-mask inline-block" }, [_vm._v("#Demerit")])
       ]),
       _vm._v(" "),
-      _c("div", { staticClass: "flex flex-col md:flex-row" }, [
-        _c(
-          "figure",
-          {
-            staticClass:
-              "bg-grey-lighter flex justify-center items-center tw-icon md:mr-8 w-full"
-          },
-          [
-            _c("img", {
-              attrs: {
-                src: "/icon/decoration_2.png",
-                alt: "つけまつげ",
-                width: "71",
-                height: "41"
-              }
-            })
-          ]
-        ),
+      _c("ul", { staticClass: "text-xs leading-loose tracking-loose" }, [
+        _c("li", [_vm._v("・水や汗に弱く、落ちやすい")]),
         _vm._v(" "),
-        _c("div", { staticClass: "py-4 tw-flex-size" }, [
-          _c("div", { staticClass: "pb-4" }, [
-            _c("h4", { staticClass: "tw-mask inline-block" }, [
-              _vm._v("#Merit")
-            ])
-          ]),
-          _vm._v(" "),
-          _c("ul", { staticClass: "text-xs leading-loose tracking-loose" }, [
-            _c("li", [_vm._v("・値段が安く、種類が豊富")]),
-            _vm._v(" "),
-            _c("li", [_vm._v("・付け外しが簡単")]),
-            _vm._v(" "),
-            _c("li", [_vm._v("・どんな自まつげにも対応")])
-          ])
-        ]),
+        _c("li", [_vm._v("・ダマができるなど、仕上がりに個人差ができる")]),
         _vm._v(" "),
-        _c("div", { staticClass: "py-4 tw-flex-size" }, [
-          _c("div", { staticClass: "pb-4" }, [
-            _c("h4", { staticClass: "tw-mask inline-block" }, [
-              _vm._v("#Demerit")
-            ])
-          ]),
-          _vm._v(" "),
-          _c("ul", { staticClass: "text-xs leading-loose tracking-loose" }, [
-            _c("li", [_vm._v("・汗や水分に弱く、外れやすい")]),
-            _vm._v(" "),
-            _c("li", [_vm._v("・手先が不器用な人は時間がかかる")]),
-            _vm._v(" "),
-            _c("li", [_vm._v("・見た目より重さを感じる")])
-          ])
-        ])
+        _c("li", [_vm._v("・毎回つける時間が必要")])
+      ])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "py-4 tw-flex-size" }, [
+      _c("div", { staticClass: "pb-4" }, [
+        _c("h4", { staticClass: "tw-mask inline-block" }, [_vm._v("#Merit")])
+      ]),
+      _vm._v(" "),
+      _c("ul", { staticClass: "text-xs leading-loose tracking-loose" }, [
+        _c("li", [_vm._v("・値段が安く、種類が豊富")]),
+        _vm._v(" "),
+        _c("li", [_vm._v("・付け外しが簡単")]),
+        _vm._v(" "),
+        _c("li", [_vm._v("・どんな自まつげにも対応")])
+      ])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "py-4 tw-flex-size" }, [
+      _c("div", { staticClass: "pb-4" }, [
+        _c("h4", { staticClass: "tw-mask inline-block" }, [_vm._v("#Demerit")])
+      ]),
+      _vm._v(" "),
+      _c("ul", { staticClass: "text-xs leading-loose tracking-loose" }, [
+        _c("li", [_vm._v("・汗や水分に弱く、外れやすい")]),
+        _vm._v(" "),
+        _c("li", [_vm._v("・手先が不器用な人は時間がかかる")]),
+        _vm._v(" "),
+        _c("li", [_vm._v("・見た目より重さを感じる")])
       ])
     ])
   },
@@ -42724,11 +43124,7 @@ var render = function() {
         "hero-bg",
         [
           _c("div", {
-            staticClass: "tw-hero",
-            staticStyle: {
-              background:
-                "url('/hero/hero_bg_beauty.jpg') center center / cover no-repeat"
-            },
+            staticClass: "tw-hero beauty-bg",
             attrs: { slot: "hero" },
             slot: "hero"
           }),
@@ -42763,7 +43159,99 @@ var render = function() {
             _vm._v(" "),
             _vm._m(0),
             _vm._v(" "),
-            _vm._m(1)
+            _c("div", [
+              _c("div", { staticClass: "flex flex-col md:flex-row" }, [
+                _c("div", { staticClass: "w-full md:w-1/2 md:p-8" }, [
+                  _c(
+                    "figure",
+                    {
+                      staticClass:
+                        "flex justify-center items-center bg-grey-lighter mb-8 h-200"
+                    },
+                    [
+                      _c("img", {
+                        attrs: {
+                          src: _vm.beautyIconURI_3,
+                          alt: "オイルクレンジングは使用しない",
+                          width: "46",
+                          height: "92"
+                        }
+                      })
+                    ]
+                  ),
+                  _vm._v(" "),
+                  _vm._m(1)
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "w-full md:w-1/2 md:p-8" }, [
+                  _c(
+                    "figure",
+                    {
+                      staticClass:
+                        "flex justify-center items-center bg-grey-lighter mb-8 h-200"
+                    },
+                    [
+                      _c("img", {
+                        attrs: {
+                          src: _vm.beautyIconURI_4,
+                          alt: "優しく乾かす",
+                          width: "93",
+                          height: "67"
+                        }
+                      })
+                    ]
+                  ),
+                  _vm._v(" "),
+                  _vm._m(2)
+                ])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "flex flex-col md:flex-row" }, [
+                _c("div", { staticClass: "w-full md:w-1/2 md:p-8" }, [
+                  _c(
+                    "figure",
+                    {
+                      staticClass:
+                        "flex justify-center items-center bg-grey-lighter mb-8 h-200"
+                    },
+                    [
+                      _c("img", {
+                        attrs: {
+                          src: _vm.beautyIconURI_1,
+                          alt: "オイルクレンジングは使用しない",
+                          width: "118",
+                          height: "95"
+                        }
+                      })
+                    ]
+                  ),
+                  _vm._v(" "),
+                  _vm._m(3)
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "w-full md:w-1/2 md:p-8" }, [
+                  _c(
+                    "figure",
+                    {
+                      staticClass:
+                        "flex justify-center items-center bg-grey-lighter mb-8 h-200"
+                    },
+                    [
+                      _c("img", {
+                        attrs: {
+                          src: _vm.beautyIconURI_2,
+                          alt: "優しく乾かす",
+                          width: "46",
+                          height: "93"
+                        }
+                      })
+                    ]
+                  ),
+                  _vm._v(" "),
+                  _vm._m(4)
+                ])
+              ])
+            ])
           ],
           1
         )
@@ -42813,197 +43301,109 @@ var staticRenderFns = [
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
-    return _c("div", [
-      _c("div", { staticClass: "flex flex-col md:flex-row" }, [
-        _c("div", { staticClass: "w-full md:w-1/2 md:p-8" }, [
-          _c(
-            "figure",
-            {
-              staticClass:
-                "flex justify-center items-center bg-grey-lighter mb-8 h-200"
-            },
-            [
-              _c("img", {
-                attrs: {
-                  src: "/icon/decoration_3.png",
-                  alt: "オイルクレンジングは使用しない",
-                  width: "46",
-                  height: "92"
-                }
-              })
-            ]
-          ),
-          _vm._v(" "),
-          _c("article", [
-            _c("h3", { staticClass: "text-grey-darkest" }, [
-              _vm._v("オイルクレンジングは使用しない")
-            ]),
-            _vm._v(" "),
-            _c(
-              "span",
-              {
-                staticClass:
-                  "block py-4 font-fotura leading-loose tracking-loose"
-              },
-              [_vm._v("No Cleansing Oil")]
-            ),
-            _vm._v(" "),
-            _c("p", { staticClass: "pb-8" }, [
-              _vm._v(
-                "\n                                接着剤であるグルーには油分・水分に弱い性質があります。オイルタイプを使用すると接着剤が分解してしまうおそれがあるため基本は\n                                "
-              ),
-              _c("span", { staticClass: "tw-mask" }, [
-                _vm._v("「オイルフリー」のクレンジングを使用")
-              ]),
-              _vm._v(
-                "\n                                しましょう。\n                            "
-              )
-            ])
-          ])
-        ]),
-        _vm._v(" "),
-        _c("div", { staticClass: "w-full md:w-1/2 md:p-8" }, [
-          _c(
-            "figure",
-            {
-              staticClass:
-                "flex justify-center items-center bg-grey-lighter mb-8 h-200"
-            },
-            [
-              _c("img", {
-                attrs: {
-                  src: "/icon/decoration_4.png",
-                  alt: "優しく乾かす",
-                  width: "93",
-                  height: "67"
-                }
-              })
-            ]
-          ),
-          _vm._v(" "),
-          _c("article", [
-            _c("h3", { staticClass: "text-grey-darkest" }, [
-              _vm._v("優しく乾かす")
-            ]),
-            _vm._v(" "),
-            _c(
-              "span",
-              {
-                staticClass:
-                  "block py-4 font-fotura leading-loose tracking-loose"
-              },
-              [_vm._v("Dry Gently")]
-            ),
-            _vm._v(" "),
-            _c("p", { staticClass: "pb-8" }, [
-              _vm._v(
-                "\n                                マツエクは非常にデリケートです。洗顔後にタオルで強くこすったりせず、\n                                "
-              ),
-              _c("span", { staticClass: "tw-mask" }, [
-                _vm._v("タオルで優しく押さえる、ドライヤーで乾かす")
-              ]),
-              _vm._v(
-                "\n                                など、丁寧に扱うことが重要です。\n                            "
-              )
-            ])
-          ])
-        ])
+    return _c("article", [
+      _c("h3", { staticClass: "text-grey-darkest" }, [
+        _vm._v("オイルクレンジングは使用しない")
       ]),
       _vm._v(" "),
-      _c("div", { staticClass: "flex flex-col md:flex-row" }, [
-        _c("div", { staticClass: "w-full md:w-1/2 md:p-8" }, [
-          _c(
-            "figure",
-            {
-              staticClass:
-                "flex justify-center items-center bg-grey-lighter mb-8 h-200"
-            },
-            [
-              _c("img", {
-                attrs: {
-                  src: "/icon/decoration_3.png",
-                  alt: "オイルクレンジングは使用しない",
-                  width: "46",
-                  height: "92"
-                }
-              })
-            ]
-          ),
-          _vm._v(" "),
-          _c("article", [
-            _c("h3", { staticClass: "text-grey-darkest" }, [
-              _vm._v("コーム・美容液などでお手入れしよう")
-            ]),
-            _vm._v(" "),
-            _c(
-              "span",
-              {
-                staticClass:
-                  "block py-4 font-fotura leading-loose tracking-loose"
-              },
-              [_vm._v("Comb & Essence")]
-            ),
-            _vm._v(" "),
-            _c("p", { staticClass: "pb-8" }, [
-              _vm._v(
-                "\n                                まつ毛専用のコームや美容液があります。髪などと同様にきちんと\n                                "
-              ),
-              _c("span", { staticClass: "tw-mask" }, [
-                _vm._v("お手入れすることが長持ちさせるためのポイント")
-              ]),
-              _vm._v(
-                "\n                                です。\n                            "
-              )
-            ])
-          ])
+      _c(
+        "span",
+        { staticClass: "block py-4 font-fotura leading-loose tracking-loose" },
+        [_vm._v("No Cleansing Oil")]
+      ),
+      _vm._v(" "),
+      _c("p", { staticClass: "pb-8" }, [
+        _vm._v(
+          "\n                                接着剤であるグルーには油分・水分に弱い性質があります。オイルタイプを使用すると接着剤が分解してしまうおそれがあるため基本は\n                                "
+        ),
+        _c("span", { staticClass: "tw-mask" }, [
+          _vm._v("「オイルフリー」のクレンジングを使用")
         ]),
-        _vm._v(" "),
-        _c("div", { staticClass: "w-full md:w-1/2 md:p-8" }, [
-          _c(
-            "figure",
-            {
-              staticClass:
-                "flex justify-center items-center bg-grey-lighter mb-8 h-200"
-            },
-            [
-              _c("img", {
-                attrs: {
-                  src: "/icon/decoration_4.png",
-                  alt: "優しく乾かす",
-                  width: "93",
-                  height: "67"
-                }
-              })
-            ]
-          ),
-          _vm._v(" "),
-          _c("article", [
-            _c("h3", { staticClass: "text-grey-darkest" }, [
-              _vm._v("リペアのサイクルを作ろう")
-            ]),
-            _vm._v(" "),
-            _c(
-              "span",
-              {
-                staticClass:
-                  "block py-4 font-fotura leading-loose tracking-loose"
-              },
-              [_vm._v("Repair Cycle")]
-            ),
-            _vm._v(" "),
-            _c("p", { staticClass: "pb-8" }, [
-              _vm._v(
-                "\n                                日々まつ毛も生まれ変わります。NANAのマツエクのモチはおおよそ1.5ヶ月と長めですが、\n                                "
-              ),
-              _c("span", { staticClass: "tw-mask" }, [
-                _vm._v("数ヶ月に一度はきちんとオフ")
-              ]),
-              _vm._v(
-                "\n                                をして、きれいな状態を保つようにしましょう。\n                            "
-              )
-            ])
-          ])
-        ])
+        _vm._v(
+          "\n                                しましょう。\n                            "
+        )
+      ])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("article", [
+      _c("h3", { staticClass: "text-grey-darkest" }, [_vm._v("優しく乾かす")]),
+      _vm._v(" "),
+      _c(
+        "span",
+        { staticClass: "block py-4 font-fotura leading-loose tracking-loose" },
+        [_vm._v("Dry Gently")]
+      ),
+      _vm._v(" "),
+      _c("p", { staticClass: "pb-8" }, [
+        _vm._v(
+          "\n                                マツエクは非常にデリケートです。洗顔後にタオルで強くこすったりせず、\n                                "
+        ),
+        _c("span", { staticClass: "tw-mask" }, [
+          _vm._v("タオルで優しく押さえる、ドライヤーで乾かす")
+        ]),
+        _vm._v(
+          "\n                                など、丁寧に扱うことが重要です。\n                            "
+        )
+      ])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("article", [
+      _c("h3", { staticClass: "text-grey-darkest" }, [
+        _vm._v("コーム・美容液などでお手入れしよう")
+      ]),
+      _vm._v(" "),
+      _c(
+        "span",
+        { staticClass: "block py-4 font-fotura leading-loose tracking-loose" },
+        [_vm._v("Comb & Essence")]
+      ),
+      _vm._v(" "),
+      _c("p", { staticClass: "pb-8" }, [
+        _vm._v(
+          "\n                                まつ毛専用のコームや美容液があります。髪などと同様にきちんと\n                                "
+        ),
+        _c("span", { staticClass: "tw-mask" }, [
+          _vm._v("お手入れすることが長持ちさせるためのポイント")
+        ]),
+        _vm._v(
+          "\n                                です。\n                            "
+        )
+      ])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("article", [
+      _c("h3", { staticClass: "text-grey-darkest" }, [
+        _vm._v("リペアのサイクルを作ろう")
+      ]),
+      _vm._v(" "),
+      _c(
+        "span",
+        { staticClass: "block py-4 font-fotura leading-loose tracking-loose" },
+        [_vm._v("Repair Cycle")]
+      ),
+      _vm._v(" "),
+      _c("p", { staticClass: "pb-8" }, [
+        _vm._v(
+          "\n                                日々まつ毛も生まれ変わります。NANAのマツエクのモチはおおよそ1.5ヶ月と長めですが、\n                                "
+        ),
+        _c("span", { staticClass: "tw-mask" }, [
+          _vm._v("数ヶ月に一度はきちんとオフ")
+        ]),
+        _vm._v(
+          "\n                                をして、きれいな状態を保つようにしましょう。\n                            "
+        )
       ])
     ])
   }
@@ -43036,11 +43436,7 @@ var render = function() {
         "hero-bg",
         [
           _c("div", {
-            staticClass: "tw-hero",
-            staticStyle: {
-              background:
-                "url('/hero/hero_bg_beauty.jpg') center center / cover no-repeat"
-            },
+            staticClass: "tw-hero beauty-bg",
             attrs: { slot: "hero" },
             slot: "hero"
           }),
@@ -43146,11 +43542,7 @@ var render = function() {
         "hero-bg",
         [
           _c("div", {
-            staticClass: "tw-hero",
-            staticStyle: {
-              background:
-                "url('/hero/hero_bg_beauty.jpg') center center / cover no-repeat"
-            },
+            staticClass: "tw-hero beauty-bg",
             attrs: { slot: "hero" },
             slot: "hero"
           }),
@@ -43188,7 +43580,7 @@ var render = function() {
               {
                 attrs: {
                   figure: {
-                    src: "/decoration/beauty/beauty_3.jpg",
+                    src: _vm.beautyImageURI_1,
                     alt: "“愛されネイル”で気持ちを上げて、一歩踏み出そう",
                     one_third: true,
                     end: true
@@ -43301,7 +43693,7 @@ var render = function() {
               {
                 attrs: {
                   figure: {
-                    src: "/decoration/beauty/beauty_4.jpg",
+                    src: _vm.beautyImageURI_2,
                     alt: "セルフネイルじゃダメ？プロに任せる理由とは",
                     one_third: true,
                     end: false
@@ -43394,7 +43786,7 @@ var render = function() {
               {
                 attrs: {
                   figure: {
-                    src: "/decoration/beauty/beauty_5.jpg",
+                    src: _vm.beautyImageURI_3,
                     alt:
                       "派手さだけじゃない。大切な“爪のケア”にこそネイルがぴったり",
                     one_third: true,
@@ -43634,11 +44026,7 @@ var render = function() {
         "hero-bg",
         [
           _c("div", {
-            staticClass: "tw-hero",
-            staticStyle: {
-              background:
-                "url('/hero/hero_bg_concept.jpg') center center / cover no-repeat"
-            },
+            staticClass: "tw-hero concept-bg",
             attrs: { slot: "hero" },
             slot: "hero"
           }),
@@ -43650,7 +44038,22 @@ var render = function() {
         2
       ),
       _vm._v(" "),
-      _vm._m(0),
+      _c("section", { staticClass: "mb-8 sm:mb-24" }, [
+        _c("div", { staticClass: "container mx-auto md:flex" }, [
+          _c("figure", { staticClass: "w-2/5" }, [
+            _c("img", {
+              attrs: {
+                src: _vm.conceptURI,
+                alt: "concept",
+                width: "490",
+                height: "382"
+              }
+            })
+          ]),
+          _vm._v(" "),
+          _vm._m(0)
+        ])
+      ]),
       _vm._v(" "),
       _c("section", { staticClass: "mb-8 sm:mb-24" }, [
         _c(
@@ -43662,7 +44065,7 @@ var render = function() {
               {
                 attrs: {
                   figure: {
-                    src: "/decoration/concept_1.jpg",
+                    src: _vm.conceptImageURI_1,
                     alt: "居心地の良さを大切に",
                     one_third: true,
                     end: true
@@ -43761,7 +44164,7 @@ var render = function() {
               {
                 attrs: {
                   figure: {
-                    src: "/decoration/concept_2.jpg",
+                    src: _vm.conceptImageURI_2,
                     alt: "安心・安全の確かな技術。マツエクデビューならNANAで！",
                     end: false
                   }
@@ -43865,7 +44268,7 @@ var render = function() {
               {
                 attrs: {
                   figure: {
-                    src: "/decoration/concept_3.jpg",
+                    src: _vm.conceptImageURI_3,
                     alt:
                       "マツエクのコンセプト  こだわり  NANA（福岡市中央区天神西通り）",
                     one_third: true,
@@ -43970,7 +44373,7 @@ var render = function() {
               {
                 attrs: {
                   figure: {
-                    src: "/decoration/concept_4.jpg",
+                    src: _vm.conceptImageURI_4,
                     alt: "スタッフが美しいとお客さまもまた、美しい",
                     end: false
                   }
@@ -44088,50 +44491,35 @@ var staticRenderFns = [
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
-    return _c("section", { staticClass: "mb-8 sm:mb-24" }, [
-      _c("div", { staticClass: "container mx-auto md:flex" }, [
-        _c("figure", { staticClass: "w-2/5" }, [
-          _c("img", {
-            attrs: {
-              src: "/decoration/concept.png",
-              alt: "concept",
-              width: "490",
-              height: "382"
-            }
-          })
-        ]),
+    return _c("div", { staticClass: "relative md:p-16 md:pr-240 pt-0" }, [
+      _c("div", { staticClass: "tw-describe p-4 md:p-0" }, [
+        _c(
+          "h2",
+          {
+            staticClass:
+              "tracking-wider text-lg lg:text-3xl leading-normal pt-2"
+          },
+          [
+            _vm._v("\n                        NANAは美容業界でもっとも"),
+            _c("br"),
+            _vm._v(
+              "\n                        “愛される場所”であり続けます。\n                    "
+            )
+          ]
+        ),
         _vm._v(" "),
-        _c("div", { staticClass: "relative md:p-16 md:pr-240 pt-0" }, [
-          _c("div", { staticClass: "tw-describe p-4 md:p-0" }, [
-            _c(
-              "h2",
-              {
-                staticClass:
-                  "tracking-wider text-lg lg:text-3xl leading-normal pt-2"
-              },
-              [
-                _vm._v("\n                        NANAは美容業界でもっとも"),
-                _c("br"),
-                _vm._v(
-                  "\n                        “愛される場所”であり続けます。\n                    "
-                )
-              ]
-            ),
-            _vm._v(" "),
-            _c("p", { staticClass: "font-fotura my-7 text-xs relative" }, [
-              _vm._v(
-                "\n                        Just a little more consideration leads your trust."
-              ),
-              _c("br"),
-              _vm._v(
-                '\n                        NANA continues to be the "most loved place" in the beauty industry.'
-              ),
-              _c("br"),
-              _vm._v(
-                "\n                        Because we have relief, trust, compassion, not only to customers but also to staff.\n                    "
-              )
-            ])
-          ])
+        _c("p", { staticClass: "font-fotura my-7 text-xs relative" }, [
+          _vm._v(
+            "\n                        Just a little more consideration leads your trust."
+          ),
+          _c("br"),
+          _vm._v(
+            '\n                        NANA continues to be the "most loved place" in the beauty industry.'
+          ),
+          _c("br"),
+          _vm._v(
+            "\n                        Because we have relief, trust, compassion, not only to customers but also to staff.\n                    "
+          )
         ])
       ])
     ])
@@ -45044,11 +45432,7 @@ var render = function() {
         "hero-bg",
         [
           _c("div", {
-            staticClass: "tw-hero",
-            staticStyle: {
-              background:
-                "url('/hero/hero_bg_menu_and_price.jpg') center center / cover no-repeat"
-            },
+            staticClass: "tw-hero menu-bg",
             attrs: { slot: "hero" },
             slot: "hero"
           }),
@@ -45062,9 +45446,39 @@ var render = function() {
       _vm._v(" "),
       _vm._m(0),
       _vm._v(" "),
-      _vm._m(1),
+      _c("section", { staticClass: "mb-24" }, [
+        _c(
+          "div",
+          {
+            staticClass:
+              "max-w-1000 mx-auto mb-16 flex flex-col md:flex-row px-8"
+          },
+          [
+            _c("figure", { staticClass: "w-full md:w-1/2 tw-flex-end mb-8" }, [
+              _c("img", { attrs: { src: _vm.menuImageURI_1, alt: "EYELASH" } })
+            ]),
+            _vm._v(" "),
+            _vm._m(1)
+          ]
+        )
+      ]),
       _vm._v(" "),
-      _vm._m(2),
+      _c("section", { staticClass: "mb-24" }, [
+        _c(
+          "div",
+          {
+            staticClass:
+              "max-w-1000 mx-auto mb-16 flex flex-col md:flex-row px-8"
+          },
+          [
+            _c("figure", { staticClass: "w-full md:w-1/2 mb-8" }, [
+              _c("img", { attrs: { src: _vm.menuImageURI_2, alt: "NAIL" } })
+            ]),
+            _vm._v(" "),
+            _vm._m(2)
+          ]
+        )
+      ]),
       _vm._v(" "),
       _c("external-links"),
       _vm._v(" "),
@@ -45094,140 +45508,110 @@ var staticRenderFns = [
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
-    return _c("section", { staticClass: "mb-24" }, [
-      _c(
-        "div",
-        {
-          staticClass: "max-w-1000 mx-auto mb-16 flex flex-col md:flex-row px-8"
-        },
-        [
-          _c("figure", { staticClass: "w-full md:w-1/2 tw-flex-end mb-8" }, [
-            _c("img", {
-              attrs: { src: "/decoration/menu_1.jpg", alt: "EYELASH" }
-            })
-          ]),
-          _vm._v(" "),
-          _c("div", { staticClass: "w-full md:w-1/2 p-0 md:px-8 lg:pt-4" }, [
-            _c("table", { staticClass: "tw-table" }, [
-              _c("tr", [
-                _c("th", { staticClass: "tw-header" }, [
-                  _vm._v(
-                    "\n                            EYELASH\n                        "
-                  )
-                ])
-              ]),
-              _vm._v(" "),
-              _c("tr", [
-                _c("td", [_vm._v("最高級セーブル 60本")]),
-                _vm._v(" "),
-                _c("td", [_vm._v("¥2,980")])
-              ]),
-              _vm._v(" "),
-              _c("tr", [
-                _c("td", [_vm._v("最高級セーブル 80本")]),
-                _vm._v(" "),
-                _c("td", [_vm._v("¥3,980")])
-              ]),
-              _vm._v(" "),
-              _c("tr", [
-                _c("td", [_vm._v("最高級セーブル上つけ放題")]),
-                _vm._v(" "),
-                _c("td", [_vm._v("¥4,980")])
-              ]),
-              _vm._v(" "),
-              _c("tr", [
-                _c("td", [_vm._v("最高級セーブル上下つけ放題")]),
-                _vm._v(" "),
-                _c("td", [_vm._v("¥6,980")])
-              ]),
-              _vm._v(" "),
-              _c("tr", [
-                _c("td", [_vm._v("ALLカラー 80本")]),
-                _vm._v(" "),
-                _c("td", [_vm._v("¥5,060")])
-              ]),
-              _vm._v(" "),
-              _c("tr", [
-                _c("td", [_vm._v("3Dラッシュ 60束(240本以上)")]),
-                _vm._v(" "),
-                _c("td", [_vm._v("¥5,980")])
-              ]),
-              _vm._v(" "),
-              _c("tr", [
-                _c("td", [_vm._v("3Dラッシュ 80束(320本以上)")]),
-                _vm._v(" "),
-                _c("td", [_vm._v("¥6,980")])
-              ])
-            ])
+    return _c("div", { staticClass: "w-full md:w-1/2 p-0 md:px-8 lg:pt-4" }, [
+      _c("table", { staticClass: "tw-table" }, [
+        _c("tr", [
+          _c("th", { staticClass: "tw-header" }, [
+            _vm._v(
+              "\n                            EYELASH\n                        "
+            )
           ])
-        ]
-      )
+        ]),
+        _vm._v(" "),
+        _c("tr", [
+          _c("td", [_vm._v("最高級セーブル 60本")]),
+          _vm._v(" "),
+          _c("td", [_vm._v("¥2,980")])
+        ]),
+        _vm._v(" "),
+        _c("tr", [
+          _c("td", [_vm._v("最高級セーブル 80本")]),
+          _vm._v(" "),
+          _c("td", [_vm._v("¥3,980")])
+        ]),
+        _vm._v(" "),
+        _c("tr", [
+          _c("td", [_vm._v("最高級セーブル上つけ放題")]),
+          _vm._v(" "),
+          _c("td", [_vm._v("¥4,980")])
+        ]),
+        _vm._v(" "),
+        _c("tr", [
+          _c("td", [_vm._v("最高級セーブル上下つけ放題")]),
+          _vm._v(" "),
+          _c("td", [_vm._v("¥6,980")])
+        ]),
+        _vm._v(" "),
+        _c("tr", [
+          _c("td", [_vm._v("ALLカラー 80本")]),
+          _vm._v(" "),
+          _c("td", [_vm._v("¥5,060")])
+        ]),
+        _vm._v(" "),
+        _c("tr", [
+          _c("td", [_vm._v("3Dラッシュ 60束(240本以上)")]),
+          _vm._v(" "),
+          _c("td", [_vm._v("¥5,980")])
+        ]),
+        _vm._v(" "),
+        _c("tr", [
+          _c("td", [_vm._v("3Dラッシュ 80束(320本以上)")]),
+          _vm._v(" "),
+          _c("td", [_vm._v("¥6,980")])
+        ])
+      ])
     ])
   },
   function() {
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
-    return _c("section", { staticClass: "mb-24" }, [
-      _c(
-        "div",
-        {
-          staticClass: "max-w-1000 mx-auto mb-16 flex flex-col md:flex-row px-8"
-        },
-        [
-          _c("figure", { staticClass: "w-full md:w-1/2 mb-8" }, [
-            _c("img", { attrs: { src: "/decoration/menu_2.jpg", alt: "NAIL" } })
-          ]),
-          _vm._v(" "),
-          _c("div", { staticClass: "w-full md:w-1/2 p-0 md:px-8" }, [
-            _c("table", { staticClass: "tw-table" }, [
-              _c("tr", [
-                _c("th", { staticClass: "tw-header" }, [
-                  _vm._v(
-                    "\n                            NAIL\n                        "
-                  )
-                ])
-              ]),
-              _vm._v(" "),
-              _c("tr", [
-                _c("td", [_vm._v("ハンド：ジェルワンカラー")]),
-                _vm._v(" "),
-                _c("td", [_vm._v("¥4,980")])
-              ]),
-              _vm._v(" "),
-              _c("tr", [
-                _c("td", [_vm._v("ハンド：アート2本つけ放題")]),
-                _vm._v(" "),
-                _c("td", [_vm._v("¥5,980")])
-              ]),
-              _vm._v(" "),
-              _c("tr", [
-                _c("td", [_vm._v("ハンド：アート4本つけ放題")]),
-                _vm._v(" "),
-                _c("td", [_vm._v("¥6,980")])
-              ]),
-              _vm._v(" "),
-              _c("tr", [
-                _c("td", [_vm._v("ハンド：アート6本つけ放題")]),
-                _vm._v(" "),
-                _c("td", [_vm._v("¥7,980")])
-              ]),
-              _vm._v(" "),
-              _c("tr", [
-                _c("td", [_vm._v("フット：クリアベースワンカラー")]),
-                _vm._v(" "),
-                _c("td", [_vm._v("¥5,480")])
-              ]),
-              _vm._v(" "),
-              _c("tr", [
-                _c("td", [_vm._v("フット：アート10本")]),
-                _vm._v(" "),
-                _c("td", [_vm._v("¥7,980")])
-              ])
-            ])
+    return _c("div", { staticClass: "w-full md:w-1/2 p-0 md:px-8" }, [
+      _c("table", { staticClass: "tw-table" }, [
+        _c("tr", [
+          _c("th", { staticClass: "tw-header" }, [
+            _vm._v(
+              "\n                            NAIL\n                        "
+            )
           ])
-        ]
-      )
+        ]),
+        _vm._v(" "),
+        _c("tr", [
+          _c("td", [_vm._v("ハンド：ジェルワンカラー")]),
+          _vm._v(" "),
+          _c("td", [_vm._v("¥4,980")])
+        ]),
+        _vm._v(" "),
+        _c("tr", [
+          _c("td", [_vm._v("ハンド：アート2本つけ放題")]),
+          _vm._v(" "),
+          _c("td", [_vm._v("¥5,980")])
+        ]),
+        _vm._v(" "),
+        _c("tr", [
+          _c("td", [_vm._v("ハンド：アート4本つけ放題")]),
+          _vm._v(" "),
+          _c("td", [_vm._v("¥6,980")])
+        ]),
+        _vm._v(" "),
+        _c("tr", [
+          _c("td", [_vm._v("ハンド：アート6本つけ放題")]),
+          _vm._v(" "),
+          _c("td", [_vm._v("¥7,980")])
+        ]),
+        _vm._v(" "),
+        _c("tr", [
+          _c("td", [_vm._v("フット：クリアベースワンカラー")]),
+          _vm._v(" "),
+          _c("td", [_vm._v("¥5,480")])
+        ]),
+        _vm._v(" "),
+        _c("tr", [
+          _c("td", [_vm._v("フット：アート10本")]),
+          _vm._v(" "),
+          _c("td", [_vm._v("¥7,980")])
+        ])
+      ])
     ])
   }
 ]
@@ -45259,11 +45643,7 @@ var render = function() {
         "hero-bg",
         [
           _c("div", {
-            staticClass: "tw-hero",
-            staticStyle: {
-              background:
-                "url('/hero/hero_bg_nail.jpg') center center / cover no-repeat"
-            },
+            staticClass: "tw-hero nail-bg",
             attrs: { slot: "hero" },
             slot: "hero"
           }),
@@ -45285,7 +45665,7 @@ var render = function() {
               {
                 attrs: {
                   figure: {
-                    src: "/decoration/nail_1.jpg",
+                    src: _vm.nailImageURI_1,
                     alt: "手に入れるのは“しなやかな” 美しさ",
                     end: true
                   }
@@ -45394,7 +45774,36 @@ var render = function() {
         )
       ]),
       _vm._v(" "),
-      _vm._m(0),
+      _c("section", { staticClass: "mb-24" }, [
+        _c(
+          "figure",
+          {
+            staticClass:
+              "p-8 md:hidden overflow-hidden flex items-center mb-16 max-h-300"
+          },
+          [
+            _c("img", {
+              attrs: {
+                src: _vm.nailImageURI_2,
+                alt: "大切な “美容デー” を充実させて“自分らしい美しさ” を纏う"
+              }
+            })
+          ]
+        ),
+        _vm._v(" "),
+        _c("div", { staticClass: "max-w-1000 mx-auto flex" }, [
+          _c("figure", { staticClass: "lg:w-2/5 p-8 hidden md:block" }, [
+            _c("img", {
+              attrs: {
+                src: _vm.nailImageURI_2,
+                alt: "大切な “美容デー” を充実させて“自分らしい美しさ” を纏う"
+              }
+            })
+          ]),
+          _vm._v(" "),
+          _vm._m(0)
+        ])
+      ]),
       _vm._v(" "),
       _c("section", { staticClass: "mb-24" }, [
         _c(
@@ -45433,143 +45842,112 @@ var staticRenderFns = [
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
-    return _c("section", { staticClass: "mb-24" }, [
-      _c(
-        "figure",
-        {
-          staticClass:
-            "p-8 md:hidden overflow-hidden flex items-center mb-16 max-h-300"
-        },
-        [
-          _c("img", {
-            attrs: {
-              src: "/decoration/nail_2.png",
-              alt: "大切な “美容デー” を充実させて“自分らしい美しさ” を纏う"
-            }
-          })
-        ]
-      ),
-      _vm._v(" "),
-      _c("div", { staticClass: "max-w-1000 mx-auto flex" }, [
-        _c("figure", { staticClass: "lg:w-2/5 p-8 hidden md:block" }, [
-          _c("img", {
-            attrs: {
-              src: "/decoration/nail_2.png",
-              alt: "大切な “美容デー” を充実させて“自分らしい美しさ” を纏う"
-            }
-          })
+    return _c("div", { staticClass: "lg:w-3/5 px-10" }, [
+      _c("div", { staticClass: "flex items-center p-4 tw-title mb-12" }, [
+        _c("span", { staticClass: "text-2xl md:text-350 px-4" }, [
+          _vm._v("02")
         ]),
         _vm._v(" "),
-        _c("div", { staticClass: "lg:w-3/5 px-10" }, [
-          _c("div", { staticClass: "flex items-center p-4 tw-title mb-12" }, [
-            _c("span", { staticClass: "text-2xl md:text-350 px-4" }, [
-              _vm._v("02")
-            ]),
-            _vm._v(" "),
-            _c(
-              "h2",
-              {
-                staticClass:
-                  "leading-normal font-sans text-base sm:text-lg md:text-2xl"
-              },
-              [
-                _vm._v(
-                  "\n                        大切な“美容デー”を充実させて"
-                ),
-                _c("br"),
-                _vm._v(
-                  "\n                        “自分らしい美しさ”を纏う\n                    "
-                )
-              ]
+        _c(
+          "h2",
+          {
+            staticClass:
+              "leading-normal font-sans text-base sm:text-lg md:text-2xl"
+          },
+          [
+            _vm._v("\n                        大切な“美容デー”を充実させて"),
+            _c("br"),
+            _vm._v(
+              "\n                        “自分らしい美しさ”を纏う\n                    "
+            )
+          ]
+        )
+      ]),
+      _vm._v(" "),
+      _c("article", [
+        _c("h3", { staticClass: "pb-6" }, [
+          _vm._v(
+            "\n                        ライフスタイル、爪のコンディション。"
+          ),
+          _c("br"),
+          _vm._v(
+            "\n                        経験豊富なネイリストと、じっくり話し合う。\n                    "
+          )
+        ]),
+        _vm._v(" "),
+        _c("p", { staticClass: "pb-8" }, [
+          _vm._v(
+            "\n                        NANAに所属しているネイリストは、経験豊富なJNAネイリスト技能検定1級取得者。そして、お客さまとのコミュニケーションをとても大切にしています。テレビやタブレット端末で映画などを見れるサロンが多い中、NANAでは\n                        "
+          ),
+          _c("span", { staticClass: "tw-mask" }, [
+            _vm._v("静かでゆったりとした空間を提供しています。")
+          ])
+        ]),
+        _vm._v(" "),
+        _c("p", { staticClass: "pb-8" }, [
+          _vm._v(
+            "\n                        特に初めてネイルをされる方は緊張もされているため、\n                        "
+          ),
+          _c("span", { staticClass: "tw-mask" }, [
+            _vm._v("話しやすい雰囲気を作ること")
+          ]),
+          _vm._v(
+            "\n                        はとても大切です。ライフスタイルはもちろんのこと、ご自身の爪の好きなところ、コンプレックスの部分、ご来店時の状態、今後のイベントなどの内容をお尋ねし、「こんなデザインはいかがですか？」とデザインを提案。ときには身近な方には打ち明けにくい話なども交えながら、じっくりとお客さまの心の声に耳を傾けながら施術を行います。\n                    "
+          )
+        ])
+      ]),
+      _vm._v(" "),
+      _c("article", [
+        _c("h3", { staticClass: "pb-6" }, [
+          _vm._v(
+            "\n                        多彩なカラー・パーツ、そしてスピーディな施術で、"
+          ),
+          _c("br"),
+          _vm._v(
+            "\n                        みんなの「美しくなりたい」を叶える。\n                    "
+          )
+        ]),
+        _vm._v(" "),
+        _c("p", { staticClass: "pb-8" }, [
+          _vm._v(
+            "\n                        一日の中でネイルやマツエク、美容室などをまたぐ“美容デー”を設けている方も多い中、\n                        "
+          ),
+          _c("span", { staticClass: "tw-mask" }, [
+            _vm._v(
+              "スピーディに上品で輝かしい仕上がりをご提供するのがNANAのネイル"
             )
           ]),
-          _vm._v(" "),
-          _c("article", [
-            _c("h3", { staticClass: "pb-6" }, [
-              _vm._v(
-                "\n                        ライフスタイル、爪のコンディション。"
-              ),
-              _c("br"),
-              _vm._v(
-                "\n                        経験豊富なネイリストと、じっくり話し合う。\n                    "
-              )
-            ]),
-            _vm._v(" "),
-            _c("p", { staticClass: "pb-8" }, [
-              _vm._v(
-                "\n                        NANAに所属しているネイリストは、経験豊富なJNAネイリスト技能検定1級取得者。そして、お客さまとのコミュニケーションをとても大切にしています。テレビやタブレット端末で映画などを見れるサロンが多い中、NANAでは\n                        "
-              ),
-              _c("span", { staticClass: "tw-mask" }, [
-                _vm._v("静かでゆったりとした空間を提供しています。")
-              ])
-            ]),
-            _vm._v(" "),
-            _c("p", { staticClass: "pb-8" }, [
-              _vm._v(
-                "\n                        特に初めてネイルをされる方は緊張もされているため、\n                        "
-              ),
-              _c("span", { staticClass: "tw-mask" }, [
-                _vm._v("話しやすい雰囲気を作ること")
-              ]),
-              _vm._v(
-                "\n                        はとても大切です。ライフスタイルはもちろんのこと、ご自身の爪の好きなところ、コンプレックスの部分、ご来店時の状態、今後のイベントなどの内容をお尋ねし、「こんなデザインはいかがですか？」とデザインを提案。ときには身近な方には打ち明けにくい話なども交えながら、じっくりとお客さまの心の声に耳を傾けながら施術を行います。\n                    "
-              )
-            ])
+          _vm._v(
+            "\n                        です。モチベーションをアップさせたい、爪の保護をしたい、指を長く見せたい……\n                        "
+          ),
+          _c("span", { staticClass: "tw-mask" }, [
+            _vm._v(
+              "すべて、お客さまの「自分らしく、美しくありたい」という気持ち"
+            )
           ]),
-          _vm._v(" "),
-          _c("article", [
-            _c("h3", { staticClass: "pb-6" }, [
-              _vm._v(
-                "\n                        多彩なカラー・パーツ、そしてスピーディな施術で、"
-              ),
-              _c("br"),
-              _vm._v(
-                "\n                        みんなの「美しくなりたい」を叶える。\n                    "
-              )
-            ]),
-            _vm._v(" "),
-            _c("p", { staticClass: "pb-8" }, [
-              _vm._v(
-                "\n                        一日の中でネイルやマツエク、美容室などをまたぐ“美容デー”を設けている方も多い中、\n                        "
-              ),
-              _c("span", { staticClass: "tw-mask" }, [
-                _vm._v(
-                  "スピーディに上品で輝かしい仕上がりをご提供するのがNANAのネイル"
-                )
-              ]),
-              _vm._v(
-                "\n                        です。モチベーションをアップさせたい、爪の保護をしたい、指を長く見せたい……\n                        "
-              ),
-              _c("span", { staticClass: "tw-mask" }, [
-                _vm._v(
-                  "すべて、お客さまの「自分らしく、美しくありたい」という気持ち"
-                )
-              ]),
-              _vm._v(
-                "\n                        から生まれる言葉です。\n                    "
-              )
-            ]),
-            _vm._v(" "),
-            _c("p", { staticClass: "pb-8" }, [
-              _vm._v(
-                "\n                        NANAではカラー・パーツ、いずれも多数取り揃えています。「初心者だからどうしていいかわからない」「まったくデザインを考えていなかった」という方でも、どうぞ安心して来ていただきたいと思っています。\n                    "
-              )
-            ]),
-            _vm._v(" "),
-            _c("p", { staticClass: "pb-8" }, [
-              _vm._v(
-                "\n                        ネイルは特別なものではありません。誰もが美しくなるために自然と身につけているものを、そっと引き立てるのがNANAのネイル。それがあなたをさらに“特別”にします。\n                    "
-              )
-            ]),
-            _vm._v(" "),
-            _c("p", { staticClass: "pb-8" }, [
-              _vm._v(
-                "\n                        ぜひNANAのネイルで、\n                        "
-              ),
-              _c("span", { staticClass: "tw-mask" }, [
-                _vm._v("あなただけの“色”を纏ってみませんか？")
-              ])
-            ])
+          _vm._v(
+            "\n                        から生まれる言葉です。\n                    "
+          )
+        ]),
+        _vm._v(" "),
+        _c("p", { staticClass: "pb-8" }, [
+          _vm._v(
+            "\n                        NANAではカラー・パーツ、いずれも多数取り揃えています。「初心者だからどうしていいかわからない」「まったくデザインを考えていなかった」という方でも、どうぞ安心して来ていただきたいと思っています。\n                    "
+          )
+        ]),
+        _vm._v(" "),
+        _c("p", { staticClass: "pb-8" }, [
+          _vm._v(
+            "\n                        ネイルは特別なものではありません。誰もが美しくなるために自然と身につけているものを、そっと引き立てるのがNANAのネイル。それがあなたをさらに“特別”にします。\n                    "
+          )
+        ]),
+        _vm._v(" "),
+        _c("p", { staticClass: "pb-8" }, [
+          _vm._v(
+            "\n                        ぜひNANAのネイルで、\n                        "
+          ),
+          _c("span", { staticClass: "tw-mask" }, [
+            _vm._v("あなただけの“色”を纏ってみませんか？")
           ])
         ])
       ])
@@ -45677,11 +46055,7 @@ var render = function() {
         "hero-bg",
         [
           _c("div", {
-            staticClass: "tw-hero",
-            staticStyle: {
-              background:
-                "url('/hero/hero_bg_recruit.jpg') center center / cover no-repeat"
-            },
+            staticClass: "tw-hero recruit-bg",
             attrs: { slot: "hero" },
             slot: "hero"
           }),
@@ -45705,7 +46079,7 @@ var render = function() {
               {
                 attrs: {
                   figure: {
-                    src: "/decoration/recruit/recruit_1.jpg",
+                    src: _vm.recruitImageURI_1,
                     alt:
                       "全員が正社員雇用。それぞれの個性で “お客さまを美しく”",
                     one_third: true,
@@ -45828,7 +46202,7 @@ var render = function() {
               {
                 attrs: {
                   figure: {
-                    src: "/decoration/recruit/recruit_2.jpg",
+                    src: _vm.recruitImageURI_2,
                     alt:
                       "全員が正社員雇用。それぞれの個性で “お客さまを美しく”",
                     one_third: true,
@@ -45953,7 +46327,7 @@ var render = function() {
               {
                 attrs: {
                   figure: {
-                    src: "/decoration/recruit/recruit_3.jpg",
+                    src: _vm.recruitImageURI_3,
                     alt:
                       "全員が正社員雇用。それぞれの個性で “お客さまを美しく”",
                     end: true
@@ -46074,7 +46448,7 @@ var render = function() {
               {
                 attrs: {
                   figure: {
-                    src: "decoration/recruit/recruit_4.jpg",
+                    src: _vm.recruitImageURI_4,
                     alt:
                       "「自分がされてイヤなことはしない」。お客さまに伝わる “思いやり”",
                     end: false
@@ -46198,7 +46572,11 @@ var render = function() {
                     "w-full md:w-1/3 flex flex-col items-center pb-4 md:p-4"
                 },
                 [
-                  _vm._m(1),
+                  _c("figure", { staticClass: "pb-4" }, [
+                    _c("img", {
+                      attrs: { src: _vm.storeImageURI_1, alt: "MILANO" }
+                    })
+                  ]),
                   _vm._v(" "),
                   _c(
                     "router-link",
@@ -46223,7 +46601,11 @@ var render = function() {
                     "w-full md:w-1/3 flex flex-col items-center pb-4 md:p-4"
                 },
                 [
-                  _vm._m(2),
+                  _c("figure", { staticClass: "pb-4" }, [
+                    _c("img", {
+                      attrs: { src: _vm.storeImageURI_3, alt: "MILANO" }
+                    })
+                  ]),
                   _vm._v(" "),
                   _c(
                     "router-link",
@@ -46248,7 +46630,11 @@ var render = function() {
                     "w-full md:w-1/3 flex flex-col items-center pb-4 md:p-4"
                 },
                 [
-                  _vm._m(3),
+                  _c("figure", { staticClass: "pb-4" }, [
+                    _c("img", {
+                      attrs: { src: _vm.storeImageURI_2, alt: "LISBON" }
+                    })
+                  ]),
                   _vm._v(" "),
                   _c(
                     "router-link",
@@ -46270,7 +46656,7 @@ var render = function() {
         ])
       ]),
       _vm._v(" "),
-      _vm._m(4),
+      _vm._m(1),
       _vm._v(" "),
       _c(
         "recruitReserve",
@@ -46312,30 +46698,6 @@ var staticRenderFns = [
         },
         [_vm._v("SALON&STAFF")]
       )
-    ])
-  },
-  function() {
-    var _vm = this
-    var _h = _vm.$createElement
-    var _c = _vm._self._c || _h
-    return _c("figure", { staticClass: "pb-4" }, [
-      _c("img", { attrs: { src: "/store/milano_2.jpg", alt: "MILANO" } })
-    ])
-  },
-  function() {
-    var _vm = this
-    var _h = _vm.$createElement
-    var _c = _vm._self._c || _h
-    return _c("figure", { staticClass: "pb-4" }, [
-      _c("img", { attrs: { src: "/store/La_Rochelle_2.jpg", alt: "MILANO" } })
-    ])
-  },
-  function() {
-    var _vm = this
-    var _h = _vm.$createElement
-    var _c = _vm._self._c || _h
-    return _c("figure", { staticClass: "pb-4" }, [
-      _c("img", { attrs: { src: "/store/LISBON_2.jpg", alt: "LISBON" } })
     ])
   },
   function() {
@@ -46470,11 +46832,7 @@ var render = function() {
         "hero-bg",
         [
           _c("div", {
-            staticClass: "tw-hero",
-            staticStyle: {
-              background:
-                "url('/hero/hero_bg_recruit.jpg') center center / cover no-repeat"
-            },
+            staticClass: "tw-hero recruit-bg",
             attrs: { slot: "hero" },
             slot: "hero"
           }),
@@ -46509,7 +46867,102 @@ var render = function() {
         )
       ]),
       _vm._v(" "),
-      _vm._m(0),
+      _c("section", { staticClass: "mb-24" }, [
+        _c("div", { staticClass: "tw-note tw-dot" }, [
+          _c("div", { staticClass: "flex lg:mb-16" }, [
+            _vm._m(0),
+            _vm._v(" "),
+            _c(
+              "div",
+              { staticClass: "p-4 md:p-16 bg-grey-lighter lg:w-11/12" },
+              [
+                _vm._m(1),
+                _vm._v(" "),
+                _c("figure", { staticClass: "p-4 md:px-16" }, [
+                  _c("img", {
+                    attrs: {
+                      src: _vm.recruitImageURI_1,
+                      alt: "出勤・着替え・準備"
+                    }
+                  })
+                ])
+              ]
+            )
+          ])
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "tw-note tw-dot" }, [
+          _c("div", { staticClass: "flex lg:mb-16" }, [
+            _vm._m(2),
+            _vm._v(" "),
+            _c(
+              "div",
+              { staticClass: "p-4 md:p-16 bg-grey-lighter w-full lg:w-11/12" },
+              [
+                _vm._m(3),
+                _vm._v(" "),
+                _c("figure", { staticClass: "p-4 md:px-16" }, [
+                  _c("img", {
+                    attrs: {
+                      src: _vm.recruitImageURI_2,
+                      alt: "開店・施術スタート"
+                    }
+                  })
+                ])
+              ]
+            )
+          ])
+        ]),
+        _vm._v(" "),
+        _vm._m(4),
+        _vm._v(" "),
+        _c("div", { staticClass: "tw-note tw-dot" }, [
+          _c("div", { staticClass: "flex lg:mb-16" }, [
+            _vm._m(5),
+            _vm._v(" "),
+            _c(
+              "div",
+              { staticClass: "p-4 md:p-16 bg-grey-lighter w-full lg:w-11/12" },
+              [
+                _vm._m(6),
+                _vm._v(" "),
+                _c("figure", { staticClass: "p-4 md:px-16" }, [
+                  _c("img", {
+                    attrs: {
+                      src: _vm.recruitImageURI_3,
+                      alt: "ブログ・インスタの投稿"
+                    }
+                  })
+                ]),
+                _vm._v(" "),
+                _vm._m(7)
+              ]
+            )
+          ])
+        ]),
+        _vm._v(" "),
+        _vm._m(8),
+        _vm._v(" "),
+        _c("div", { staticClass: "tw-note tw-dot" }, [
+          _c("div", { staticClass: "flex lg:mb-16" }, [
+            _vm._m(9),
+            _vm._v(" "),
+            _c(
+              "div",
+              { staticClass: "p-4 md:p-16 bg-grey-lighter w-full lg:w-11/12" },
+              [
+                _vm._m(10),
+                _vm._v(" "),
+                _c("figure", { staticClass: "p-4 md:px-16" }, [
+                  _c("img", {
+                    attrs: { src: _vm.recruitImageURI_4, alt: "閉店作業" }
+                  })
+                ])
+              ]
+            )
+          ])
+        ])
+      ]),
       _vm._v(" "),
       _c(
         "recruitReserve",
@@ -46538,21 +46991,99 @@ var staticRenderFns = [
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
-    return _c("section", { staticClass: "mb-24" }, [
-      _c("div", { staticClass: "tw-note tw-dot" }, [
-        _c("div", { staticClass: "flex lg:mb-16" }, [
-          _c("p", { staticClass: "lg:w-1/12 relative" }, [
-            _c(
-              "span",
-              {
-                staticClass:
-                  "sub-des text-3xl tracking-loose leading-loose border-b-2 border-yellow-light"
-              },
-              [_vm._v("\n                        #9:15\n                    ")]
-            )
-          ]),
-          _vm._v(" "),
-          _c("div", { staticClass: "p-4 md:p-16 bg-grey-lighter lg:w-11/12" }, [
+    return _c("p", { staticClass: "lg:w-1/12 relative" }, [
+      _c(
+        "span",
+        {
+          staticClass:
+            "sub-des text-3xl tracking-loose leading-loose border-b-2 border-yellow-light"
+        },
+        [_vm._v("\n                        #9:15\n                    ")]
+      )
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "flex flex-col p-4 md:p-16" }, [
+      _c("h6", { staticClass: "text-normal mb-8" }, [
+        _c(
+          "span",
+          {
+            staticClass:
+              "tw-name text-13 md:text-15 relative px-8 inline-block bg-white"
+          },
+          [_vm._v("出勤・着替え・準備")]
+        )
+      ]),
+      _vm._v(" "),
+      _c("p", { staticClass: "text-xs" }, [
+        _vm._v(
+          "\n                            ここでは開店前の作業を行います。ベッドメイキング、お客さまにお渡しするジュースの補充、夜の間に入った予約の確認と予約票の記入、来店されるお客さまのカルテチェックなどを行います。実はNANAの制服は、スタッフみんなで選んでいます！　私服と間違われるくらいかわいいものを選んでいるので、着替えも楽しいです。3ヶ月に1回、季節に合わせて新しい制服に変えるんですが、スタッフのやる気だけじゃなくてお客さまにも好評なので考えがいがあります。\n                        "
+        )
+      ])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("p", { staticClass: "lg:w-1/12 relative" }, [
+      _c(
+        "span",
+        {
+          staticClass:
+            "sub-des text-3xl tracking-loose leading-loose border-b-2 border-yellow-light"
+        },
+        [_vm._v("\n                        #10:00\n                    ")]
+      )
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "flex flex-col p-4 md:p-16" }, [
+      _c("h6", { staticClass: "text-normal mb-8" }, [
+        _c(
+          "span",
+          {
+            staticClass:
+              "tw-name text-13 md:text-15 relative px-8 inline-block bg-white"
+          },
+          [_vm._v("開店・施術スタート")]
+        )
+      ]),
+      _vm._v(" "),
+      _c("p", { staticClass: "text-xs" }, [
+        _vm._v(
+          "\n                            開店してお客さまがいらっしゃいます。NANAではスタッフに均等にお客さまが入るようにしているので、誰かだけが忙しいとかはありません。みんな適度な緊張感と思いやりを持って仕事に取り組んでいます。\n                        "
+        )
+      ])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "tw-note tw-dot" }, [
+      _c("div", { staticClass: "flex lg:mb-16" }, [
+        _c("p", { staticClass: "lg:w-1/12 relative" }, [
+          _c(
+            "span",
+            {
+              staticClass:
+                "sub-des text-3xl tracking-loose leading-loose border-b-2 border-yellow-light"
+            },
+            [_vm._v("\n                        #13:00\n                    ")]
+          )
+        ]),
+        _vm._v(" "),
+        _c(
+          "div",
+          { staticClass: "p-4 md:p-16 bg-grey-lighter w-full lg:w-11/12" },
+          [
             _c("div", { staticClass: "flex flex-col p-4 md:p-16" }, [
               _c("h6", { staticClass: "text-normal mb-8" }, [
                 _c(
@@ -46561,274 +47092,162 @@ var staticRenderFns = [
                     staticClass:
                       "tw-name text-13 md:text-15 relative px-8 inline-block bg-white"
                   },
-                  [_vm._v("出勤・着替え・準備")]
+                  [_vm._v("ランチタイム")]
                 )
               ]),
               _vm._v(" "),
               _c("p", { staticClass: "text-xs" }, [
                 _vm._v(
-                  "\n                            ここでは開店前の作業を行います。ベッドメイキング、お客さまにお渡しするジュースの補充、夜の間に入った予約の確認と予約票の記入、来店されるお客さまのカルテチェックなどを行います。実はNANAの制服は、スタッフみんなで選んでいます！　私服と間違われるくらいかわいいものを選んでいるので、着替えも楽しいです。3ヶ月に1回、季節に合わせて新しい制服に変えるんですが、スタッフのやる気だけじゃなくてお客さまにも好評なので考えがいがあります。\n                        "
+                  "\n                            みんなが大好きなお弁当が届く時間です！"
+                ),
+                _c("br"),
+                _vm._v(
+                  "\n                            みんなの予約の様子を見ながら、休憩を取ります。\n                        "
                 )
               ])
-            ]),
-            _vm._v(" "),
-            _c("figure", { staticClass: "p-4 md:px-16" }, [
-              _c("img", {
-                attrs: {
-                  src: "/decoration/recruit/recruit_5.jpg",
-                  alt: "出勤・着替え・準備"
-                }
-              })
             ])
-          ])
-        ])
+          ]
+        )
+      ])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("p", { staticClass: "lg:w-1/12 relative" }, [
+      _c(
+        "span",
+        {
+          staticClass:
+            "sub-des text-3xl tracking-loose leading-loose border-b-2 border-yellow-light"
+        },
+        [_vm._v("\n                        #14:00\n                    ")]
+      )
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "flex flex-col p-4 md:p-16" }, [
+      _c("h6", { staticClass: "text-normal mb-8" }, [
+        _c(
+          "span",
+          {
+            staticClass:
+              "tw-name text-13 md:text-15 relative px-8 inline-block bg-white"
+          },
+          [_vm._v("ブログ・インスタの投稿")]
+        )
       ]),
       _vm._v(" "),
-      _c("div", { staticClass: "tw-note tw-dot" }, [
-        _c("div", { staticClass: "flex lg:mb-16" }, [
-          _c("p", { staticClass: "lg:w-1/12 relative" }, [
-            _c(
-              "span",
-              {
-                staticClass:
-                  "sub-des text-3xl tracking-loose leading-loose border-b-2 border-yellow-light"
-              },
-              [_vm._v("\n                        #10:00\n                    ")]
-            )
-          ]),
-          _vm._v(" "),
-          _c(
-            "div",
-            { staticClass: "p-4 md:p-16 bg-grey-lighter w-full lg:w-11/12" },
-            [
-              _c("div", { staticClass: "flex flex-col p-4 md:p-16" }, [
-                _c("h6", { staticClass: "text-normal mb-8" }, [
-                  _c(
-                    "span",
-                    {
-                      staticClass:
-                        "tw-name text-13 md:text-15 relative px-8 inline-block bg-white"
-                    },
-                    [_vm._v("開店・施術スタート")]
-                  )
-                ]),
-                _vm._v(" "),
-                _c("p", { staticClass: "text-xs" }, [
-                  _vm._v(
-                    "\n                            開店してお客さまがいらっしゃいます。NANAではスタッフに均等にお客さまが入るようにしているので、誰かだけが忙しいとかはありません。みんな適度な緊張感と思いやりを持って仕事に取り組んでいます。\n                        "
-                  )
-                ])
-              ]),
-              _vm._v(" "),
-              _c("figure", { staticClass: "p-4 md:px-16" }, [
-                _c("img", {
-                  attrs: {
-                    src: "/decoration/recruit/recruit_6.jpg",
-                    alt: "開店・施術スタート"
-                  }
-                })
-              ])
-            ]
+      _c("p", { staticClass: "text-xs" }, [
+        _vm._v(
+          "\n                            HotPepperのブログや、インスタの投稿をします。「休みの日にこんなところに行ってきた」とか、「今はこんなキャンペーンをやってます」とか。考えるのは大変だけど、見てくださっているお客さまに喜んでもらえるように工夫しながら書いています。他にも、施術の空いた時間には、口コミの返信や、商品の整理、商材の注文を行ったり、新しいキャンペーン内容を考えたりもします。施術もしながら、考えることもたくさんあります。\n                        "
+        )
+      ])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "pl-4 md:pl-16 pt-4" }, [
+      _c(
+        "a",
+        {
+          staticClass:
+            "pl-8 text-light text-xs md:text-sm tracking-loose leading-loose tw-center-line relative hover:text-grey",
+          attrs: { href: "/" }
+        },
+        [
+          _vm._v(
+            "\n                            NANA INSTAGRAM\n                        "
           )
-        ])
-      ]),
-      _vm._v(" "),
-      _c("div", { staticClass: "tw-note tw-dot" }, [
-        _c("div", { staticClass: "flex lg:mb-16" }, [
-          _c("p", { staticClass: "lg:w-1/12 relative" }, [
-            _c(
-              "span",
-              {
-                staticClass:
-                  "sub-des text-3xl tracking-loose leading-loose border-b-2 border-yellow-light"
-              },
-              [_vm._v("\n                        #13:00\n                    ")]
-            )
-          ]),
-          _vm._v(" "),
+        ]
+      )
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "tw-note tw-dot" }, [
+      _c("div", { staticClass: "flex lg:mb-16" }, [
+        _c("p", { staticClass: "lg:w-1/12 relative" }, [
           _c(
-            "div",
-            { staticClass: "p-4 md:p-16 bg-grey-lighter w-full lg:w-11/12" },
-            [
-              _c("div", { staticClass: "flex flex-col p-4 md:p-16" }, [
-                _c("h6", { staticClass: "text-normal mb-8" }, [
-                  _c(
-                    "span",
-                    {
-                      staticClass:
-                        "tw-name text-13 md:text-15 relative px-8 inline-block bg-white"
-                    },
-                    [_vm._v("ランチタイム")]
-                  )
-                ]),
-                _vm._v(" "),
-                _c("p", { staticClass: "text-xs" }, [
-                  _vm._v(
-                    "\n                            みんなが大好きなお弁当が届く時間です！"
-                  ),
-                  _c("br"),
-                  _vm._v(
-                    "\n                            みんなの予約の様子を見ながら、休憩を取ります。\n                        "
-                  )
-                ])
-              ])
-            ]
+            "span",
+            {
+              staticClass:
+                "sub-des text-3xl tracking-loose leading-loose border-b-2 border-yellow-light"
+            },
+            [_vm._v("\n                        #17:00\n                    ")]
           )
-        ])
-      ]),
-      _vm._v(" "),
-      _c("div", { staticClass: "tw-note tw-dot" }, [
-        _c("div", { staticClass: "flex lg:mb-16" }, [
-          _c("p", { staticClass: "lg:w-1/12 relative" }, [
-            _c(
-              "span",
-              {
-                staticClass:
-                  "sub-des text-3xl tracking-loose leading-loose border-b-2 border-yellow-light"
-              },
-              [_vm._v("\n                        #14:00\n                    ")]
-            )
-          ]),
-          _vm._v(" "),
-          _c(
-            "div",
-            { staticClass: "p-4 md:p-16 bg-grey-lighter w-full lg:w-11/12" },
-            [
-              _c("div", { staticClass: "flex flex-col p-4 md:p-16" }, [
-                _c("h6", { staticClass: "text-normal mb-8" }, [
-                  _c(
-                    "span",
-                    {
-                      staticClass:
-                        "tw-name text-13 md:text-15 relative px-8 inline-block bg-white"
-                    },
-                    [_vm._v("ブログ・インスタの投稿")]
-                  )
-                ]),
-                _vm._v(" "),
-                _c("p", { staticClass: "text-xs" }, [
-                  _vm._v(
-                    "\n                            HotPepperのブログや、インスタの投稿をします。「休みの日にこんなところに行ってきた」とか、「今はこんなキャンペーンをやってます」とか。考えるのは大変だけど、見てくださっているお客さまに喜んでもらえるように工夫しながら書いています。他にも、施術の空いた時間には、口コミの返信や、商品の整理、商材の注文を行ったり、新しいキャンペーン内容を考えたりもします。施術もしながら、考えることもたくさんあります。\n                        "
-                  )
-                ])
-              ]),
-              _vm._v(" "),
-              _c("figure", { staticClass: "p-4 md:px-16" }, [
-                _c("img", {
-                  attrs: {
-                    src: "/decoration/recruit/recruit_7.jpg",
-                    alt: "ブログ・インスタの投稿"
-                  }
-                })
-              ]),
-              _vm._v(" "),
-              _c("div", { staticClass: "pl-4 md:pl-16 pt-4" }, [
+        ]),
+        _vm._v(" "),
+        _c(
+          "div",
+          { staticClass: "p-4 md:p-16 bg-grey-lighter w-full lg:w-11/12" },
+          [
+            _c("div", { staticClass: "flex flex-col p-4 md:p-16" }, [
+              _c("h6", { staticClass: "text-normal mb-8" }, [
                 _c(
-                  "a",
+                  "span",
                   {
                     staticClass:
-                      "pl-8 text-light text-xs md:text-sm tracking-loose leading-loose tw-center-line relative hover:text-grey",
-                    attrs: { href: "/" }
+                      "tw-name text-13 md:text-15 relative px-8 inline-block bg-white"
                   },
-                  [
-                    _vm._v(
-                      "\n                            NANA INSTAGRAM\n                        "
-                    )
-                  ]
+                  [_vm._v("新人さんへのレッスン")]
                 )
-              ])
-            ]
-          )
-        ])
-      ]),
-      _vm._v(" "),
-      _c("div", { staticClass: "tw-note tw-dot" }, [
-        _c("div", { staticClass: "flex lg:mb-16" }, [
-          _c("p", { staticClass: "lg:w-1/12 relative" }, [
-            _c(
-              "span",
-              {
-                staticClass:
-                  "sub-des text-3xl tracking-loose leading-loose border-b-2 border-yellow-light"
-              },
-              [_vm._v("\n                        #17:00\n                    ")]
-            )
-          ]),
-          _vm._v(" "),
-          _c(
-            "div",
-            { staticClass: "p-4 md:p-16 bg-grey-lighter w-full lg:w-11/12" },
-            [
-              _c("div", { staticClass: "flex flex-col p-4 md:p-16" }, [
-                _c("h6", { staticClass: "text-normal mb-8" }, [
-                  _c(
-                    "span",
-                    {
-                      staticClass:
-                        "tw-name text-13 md:text-15 relative px-8 inline-block bg-white"
-                    },
-                    [_vm._v("新人さんへのレッスン")]
-                  )
-                ]),
-                _vm._v(" "),
-                _c("p", { staticClass: "text-xs" }, [
-                  _vm._v(
-                    "\n                            日によって時間はまちまちですが、空き時間を活用して新人さんへのレッスンも行います。どんなふうにするとうまく伝えられるのか、考えながら教えていくのは難しいですが、やりがいも大きいですね！\n                        "
-                  )
-                ])
-              ])
-            ]
-          )
-        ])
-      ]),
-      _vm._v(" "),
-      _c("div", { staticClass: "tw-note tw-dot" }, [
-        _c("div", { staticClass: "flex lg:mb-16" }, [
-          _c("p", { staticClass: "lg:w-1/12 relative" }, [
-            _c(
-              "span",
-              {
-                staticClass:
-                  "sub-des text-3xl tracking-loose leading-loose border-b-2 border-yellow-light"
-              },
-              [_vm._v("\n                        #20:00\n                    ")]
-            )
-          ]),
-          _vm._v(" "),
-          _c(
-            "div",
-            { staticClass: "p-4 md:p-16 bg-grey-lighter w-full lg:w-11/12" },
-            [
-              _c("div", { staticClass: "flex flex-col p-4 md:p-16" }, [
-                _c("h6", { staticClass: "text-normal mb-8" }, [
-                  _c(
-                    "span",
-                    {
-                      staticClass:
-                        "tw-name text-13 md:text-15 relative px-8 inline-block bg-white"
-                    },
-                    [_vm._v("閉店作業")]
-                  )
-                ]),
-                _vm._v(" "),
-                _c("p", { staticClass: "text-xs" }, [
-                  _vm._v(
-                    "\n                            NANAの最終受付は19:30なので、20:00になったらすぐに締め作業に入ります。終礼はないです。その代わりに今日あったことをカルテに書き込んだり、みんなで話したりします。でも全員ダラダラせずにテキパキと行動するので、20:10には店を出ますね。日によっては、そのままみんなとご飯に行くこともあります。本当にNANAのみんなは仲が良いです！\n                        "
-                  )
-                ])
               ]),
               _vm._v(" "),
-              _c("figure", { staticClass: "p-4 md:px-16" }, [
-                _c("img", {
-                  attrs: {
-                    src: "/decoration/recruit/recruit_8.jpg",
-                    alt: "閉店作業"
-                  }
-                })
+              _c("p", { staticClass: "text-xs" }, [
+                _vm._v(
+                  "\n                            日によって時間はまちまちですが、空き時間を活用して新人さんへのレッスンも行います。どんなふうにするとうまく伝えられるのか、考えながら教えていくのは難しいですが、やりがいも大きいですね！\n                        "
+                )
               ])
-            ]
-          )
-        ])
+            ])
+          ]
+        )
+      ])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("p", { staticClass: "lg:w-1/12 relative" }, [
+      _c(
+        "span",
+        {
+          staticClass:
+            "sub-des text-3xl tracking-loose leading-loose border-b-2 border-yellow-light"
+        },
+        [_vm._v("\n                        #20:00\n                    ")]
+      )
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "flex flex-col p-4 md:p-16" }, [
+      _c("h6", { staticClass: "text-normal mb-8" }, [
+        _c(
+          "span",
+          {
+            staticClass:
+              "tw-name text-13 md:text-15 relative px-8 inline-block bg-white"
+          },
+          [_vm._v("閉店作業")]
+        )
+      ]),
+      _vm._v(" "),
+      _c("p", { staticClass: "text-xs" }, [
+        _vm._v(
+          "\n                            NANAの最終受付は19:30なので、20:00になったらすぐに締め作業に入ります。終礼はないです。その代わりに今日あったことをカルテに書き込んだり、みんなで話したりします。でも全員ダラダラせずにテキパキと行動するので、20:10には店を出ますね。日によっては、そのままみんなとご飯に行くこともあります。本当にNANAのみんなは仲が良いです！\n                        "
+        )
       ])
     ])
   }
@@ -46861,11 +47280,7 @@ var render = function() {
         "hero-bg",
         [
           _c("div", {
-            staticClass: "tw-hero",
-            staticStyle: {
-              background:
-                "url('/hero/hero_bg_recruit.jpg') center center / cover no-repeat"
-            },
+            staticClass: "tw-hero recruit-bg",
             attrs: { slot: "hero" },
             slot: "hero"
           }),
@@ -47106,11 +47521,7 @@ var render = function() {
         "hero-bg",
         [
           _c("div", {
-            staticClass: "tw-hero",
-            staticStyle: {
-              background:
-                "url('/hero/hero_bg_recruit.jpg') center center / cover no-repeat"
-            },
+            staticClass: "tw-hero recruit-bg",
             attrs: { slot: "hero" },
             slot: "hero"
           }),
@@ -47158,7 +47569,7 @@ var render = function() {
               "essay",
               {
                 attrs: {
-                  figure: { src: "/staff/JUNNA.jpg", alt: "JANNA", end: false }
+                  figure: { src: _vm.staffImageURI_1, alt: "JANNA", end: false }
                 }
               },
               [
@@ -47266,7 +47677,7 @@ var render = function() {
               "essay",
               {
                 attrs: {
-                  figure: { src: "/staff/EMINA.jpg", alt: "EMINA", end: true }
+                  figure: { src: _vm.staffImageURI_2, alt: "EMINA", end: true }
                 }
               },
               [
@@ -47372,7 +47783,7 @@ var render = function() {
               {
                 attrs: {
                   figure: {
-                    src: "/staff/NATSUMI.jpg",
+                    src: _vm.staffImageURI_3,
                     alt: "NATSUMI",
                     end: false
                   }
@@ -47480,7 +47891,7 @@ var render = function() {
               "essay",
               {
                 attrs: {
-                  figure: { src: "/staff/AKKO.jpg", alt: "AKKO", end: true }
+                  figure: { src: _vm.staffImageURI_4, alt: "AKKO", end: true }
                 }
               },
               [
@@ -47631,11 +48042,7 @@ var render = function() {
         "hero-bg",
         [
           _c("div", {
-            staticClass: "tw-hero",
-            staticStyle: {
-              background:
-                "url('/hero/hero_bg_salon.jpg') center center / cover no-repeat"
-            },
+            staticClass: "tw-hero salon-bg",
             attrs: { slot: "hero" },
             slot: "hero"
           }),
@@ -47647,11 +48054,126 @@ var render = function() {
         2
       ),
       _vm._v(" "),
-      _vm._m(0),
+      _c(
+        "section",
+        { staticClass: "mb-24 relative", attrs: { id: "js-milano" } },
+        [
+          _c("div", { staticClass: "max-w-1000 mx-auto p-4" }, [
+            _c("div", { staticClass: "flex flex-col md:flex-row" }, [
+              _vm._m(0),
+              _vm._v(" "),
+              _c("div", { staticClass: "lg:w-1/2 w-full" }, [
+                _c("figure", { staticClass: "mb-16" }, [
+                  _c("img", {
+                    attrs: {
+                      src: _vm.salonImageURI_1,
+                      alt: "MILANO",
+                      width: "427",
+                      height: "330"
+                    }
+                  })
+                ]),
+                _vm._v(" "),
+                _c("figure", [
+                  _c("img", {
+                    attrs: {
+                      src: _vm.salonImageURI_2,
+                      alt: "MILANO",
+                      width: "210",
+                      height: "170"
+                    }
+                  })
+                ])
+              ])
+            ])
+          ]),
+          _vm._v(" "),
+          _c("div", { staticClass: "tw-base bg-grey-lighter" })
+        ]
+      ),
       _vm._v(" "),
-      _vm._m(1),
+      _c(
+        "section",
+        { staticClass: "mb-24 relative", attrs: { id: "js-la-rochelle" } },
+        [
+          _c("div", { staticClass: "max-w-1000 mx-auto p-4" }, [
+            _c("div", { staticClass: "flex flex-col md:flex-row" }, [
+              _vm._m(1),
+              _vm._v(" "),
+              _c(
+                "div",
+                {
+                  staticClass:
+                    "w-full lg:w-1/2 items-end flex items-end flex-col"
+                },
+                [
+                  _c("figure", { staticClass: "mb-16" }, [
+                    _c("img", {
+                      attrs: {
+                        src: _vm.salonImageURI_3,
+                        alt: "La Rochelle",
+                        width: "427",
+                        height: "330"
+                      }
+                    })
+                  ]),
+                  _vm._v(" "),
+                  _c("figure", [
+                    _c("img", {
+                      attrs: {
+                        src: _vm.salonImageURI_4,
+                        alt: "La Rochelle",
+                        width: "210",
+                        height: "170"
+                      }
+                    })
+                  ])
+                ]
+              )
+            ])
+          ]),
+          _vm._v(" "),
+          _c("div", { staticClass: "tw-base bg-yellow-lightest" })
+        ]
+      ),
       _vm._v(" "),
-      _vm._m(2),
+      _c(
+        "section",
+        { staticClass: "mb-24 relative", attrs: { id: "js-lisbon" } },
+        [
+          _c("div", { staticClass: "max-w-1000 mx-auto p-4" }, [
+            _c("div", { staticClass: "flex flex-col md:flex-row" }, [
+              _vm._m(2),
+              _vm._v(" "),
+              _c("div", { staticClass: "lg:w-1/2 w-full" }, [
+                _c("figure", { staticClass: "mb-16" }, [
+                  _c("img", {
+                    attrs: {
+                      src: _vm.salonImageURI_5,
+                      alt: "LISBON",
+                      width: "427",
+                      height: "330"
+                    }
+                  })
+                ]),
+                _vm._v(" "),
+                _c("figure", [
+                  _c("img", {
+                    attrs: {
+                      src: _vm.salonImageURI_6,
+                      alt: "LISBON",
+                      width: "210",
+                      height: "170"
+                    }
+                  })
+                ])
+              ])
+            ])
+          ]),
+          _vm._v(" "),
+          _c("div", { staticClass: "tw-base bg-blue-lightest" })
+        ]
+      ),
       _vm._v(" "),
       _vm._m(3),
       _vm._v(" "),
@@ -47668,94 +48190,50 @@ var staticRenderFns = [
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
     return _c(
-      "section",
-      { staticClass: "mb-24 relative", attrs: { id: "js-milano" } },
+      "div",
+      {
+        staticClass:
+          "lg:w-1/2 w-full bg-white p-16 pt-8 border border-blue-darker mb-16 md:my-16 md:mx-8 relative tw-flex-end"
+      },
       [
-        _c("div", { staticClass: "max-w-1000 mx-auto p-4" }, [
-          _c("div", { staticClass: "flex flex-col md:flex-row" }, [
-            _c(
-              "div",
-              {
-                staticClass:
-                  "lg:w-1/2 w-full bg-white p-16 pt-8 border border-blue-darker mb-16 md:my-16 md:mx-8 relative tw-flex-end"
-              },
-              [
-                _c("h2", { staticClass: "tw-header text-blue-darker" }, [
-                  _vm._v(
-                    "\n                        MILANO\n                    "
-                  )
-                ]),
-                _vm._v(" "),
-                _c(
-                  "p",
-                  { staticClass: "text-xs pb-4 lg:pb-8 text-grey-darker" },
-                  [
-                    _vm._v(
-                      "\n                        Salon information\n                    "
-                    )
-                  ]
-                ),
-                _vm._v(" "),
-                _c(
-                  "ul",
-                  {
-                    staticClass:
-                      "text-xs tracking-wider leading-loose text-black pb-8 text-grey-darker"
-                  },
-                  [
-                    _c("li", [_vm._v("10:00 - 20:00")]),
-                    _vm._v(" "),
-                    _c("li", [
-                      _vm._v(
-                        "\n                            福岡市中央区天神2-4-20"
-                      ),
-                      _c("br"),
-                      _vm._v(
-                        "\n                            天神プラッサ405号\n                        "
-                      )
-                    ]),
-                    _vm._v(" "),
-                    _c("li", [_vm._v("TEL : 092-725-5127")])
-                  ]
-                ),
-                _vm._v(" "),
-                _c("a", { staticClass: "tw-btn", attrs: { href: "/" } }, [
-                  _vm._v(
-                    "\n                        サロン紹介＆ご予約\n                    "
-                  )
-                ]),
-                _vm._v(" "),
-                _c("div", { staticClass: "tw-border tw-color-blue" })
-              ]
-            ),
-            _vm._v(" "),
-            _c("div", { staticClass: "lg:w-1/2 w-full" }, [
-              _c("figure", { staticClass: "mb-16" }, [
-                _c("img", {
-                  attrs: {
-                    src: "/decoration/salon_1.jpg",
-                    alt: "MILANO",
-                    width: "427",
-                    height: "330"
-                  }
-                })
-              ]),
-              _vm._v(" "),
-              _c("figure", [
-                _c("img", {
-                  attrs: {
-                    src: "/decoration/salon_2.jpg",
-                    alt: "MILANO",
-                    width: "210",
-                    height: "170"
-                  }
-                })
-              ])
-            ])
-          ])
+        _c("h2", { staticClass: "tw-header text-blue-darker" }, [
+          _vm._v("\n                        MILANO\n                    ")
         ]),
         _vm._v(" "),
-        _c("div", { staticClass: "tw-base bg-grey-lighter" })
+        _c("p", { staticClass: "text-xs pb-4 lg:pb-8 text-grey-darker" }, [
+          _vm._v(
+            "\n                        Salon information\n                    "
+          )
+        ]),
+        _vm._v(" "),
+        _c(
+          "ul",
+          {
+            staticClass:
+              "text-xs tracking-wider leading-loose text-black pb-8 text-grey-darker"
+          },
+          [
+            _c("li", [_vm._v("10:00 - 20:00")]),
+            _vm._v(" "),
+            _c("li", [
+              _vm._v("\n                            福岡市中央区天神2-4-20"),
+              _c("br"),
+              _vm._v(
+                "\n                            天神プラッサ405号\n                        "
+              )
+            ]),
+            _vm._v(" "),
+            _c("li", [_vm._v("TEL : 092-725-5127")])
+          ]
+        ),
+        _vm._v(" "),
+        _c("a", { staticClass: "tw-btn", attrs: { href: "/" } }, [
+          _vm._v(
+            "\n                        サロン紹介＆ご予約\n                    "
+          )
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "tw-border tw-color-blue" })
       ]
     )
   },
@@ -47764,103 +48242,59 @@ var staticRenderFns = [
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
     return _c(
-      "section",
-      { staticClass: "mb-24 relative", attrs: { id: "js-la-rochelle" } },
+      "div",
+      {
+        staticClass:
+          "lg:w-1/2 w-full bg-white p-16 pt-8 border border-gold mb-16 md:my-16 md:mx-8 relative"
+      },
       [
-        _c("div", { staticClass: "max-w-1000 mx-auto p-4" }, [
-          _c("div", { staticClass: "flex flex-col md:flex-row" }, [
-            _c(
-              "div",
-              {
-                staticClass:
-                  "lg:w-1/2 w-full bg-white p-16 pt-8 border border-gold mb-16 md:my-16 md:mx-8 relative"
-              },
-              [
-                _c(
-                  "h2",
-                  {
-                    staticClass:
-                      "text-4xl font-bold leading-loosest tracking-loosest text-gold tw-header relative"
-                  },
-                  [
-                    _vm._v(
-                      "\n                        La Rochelle\n                    "
-                    )
-                  ]
-                ),
-                _vm._v(" "),
-                _c("p", { staticClass: "text-xs pb-8 text-grey-darker" }, [
-                  _vm._v(
-                    "\n                        Salon information\n                    "
-                  )
-                ]),
-                _vm._v(" "),
-                _c(
-                  "ul",
-                  {
-                    staticClass:
-                      "text-xs tracking-wider leading-loose text-black pb-8 text-grey-darker"
-                  },
-                  [
-                    _c("li", [_vm._v("10:00 - 20:00")]),
-                    _vm._v(" "),
-                    _c("li", [
-                      _vm._v(
-                        "\n                            福岡市中央区天神2-4-20"
-                      ),
-                      _c("br"),
-                      _vm._v(
-                        "\n                            天神プラッサ902号\n                        "
-                      )
-                    ]),
-                    _vm._v(" "),
-                    _c("li", [_vm._v("TEL : 092-406-4506")])
-                  ]
-                ),
-                _vm._v(" "),
-                _c("a", { staticClass: "tw-btn", attrs: { href: "/" } }, [
-                  _vm._v(
-                    "\n                        サロン紹介＆ご予約\n                    "
-                  )
-                ]),
-                _vm._v(" "),
-                _c("div", { staticClass: "tw-border tw-color-yellow" })
-              ]
-            ),
-            _vm._v(" "),
-            _c(
-              "div",
-              {
-                staticClass: "w-full lg:w-1/2 items-end flex items-end flex-col"
-              },
-              [
-                _c("figure", { staticClass: "mb-16" }, [
-                  _c("img", {
-                    attrs: {
-                      src: "/decoration/salon_3.jpg",
-                      alt: "La Rochelle",
-                      width: "427",
-                      height: "330"
-                    }
-                  })
-                ]),
-                _vm._v(" "),
-                _c("figure", [
-                  _c("img", {
-                    attrs: {
-                      src: "/decoration/salon_4.jpg",
-                      alt: "La Rochelle",
-                      width: "210",
-                      height: "170"
-                    }
-                  })
-                ])
-              ]
+        _c(
+          "h2",
+          {
+            staticClass:
+              "text-4xl font-bold leading-loosest tracking-loosest text-gold tw-header relative"
+          },
+          [
+            _vm._v(
+              "\n                        La Rochelle\n                    "
             )
-          ])
+          ]
+        ),
+        _vm._v(" "),
+        _c("p", { staticClass: "text-xs pb-8 text-grey-darker" }, [
+          _vm._v(
+            "\n                        Salon information\n                    "
+          )
         ]),
         _vm._v(" "),
-        _c("div", { staticClass: "tw-base bg-yellow-lightest" })
+        _c(
+          "ul",
+          {
+            staticClass:
+              "text-xs tracking-wider leading-loose text-black pb-8 text-grey-darker"
+          },
+          [
+            _c("li", [_vm._v("10:00 - 20:00")]),
+            _vm._v(" "),
+            _c("li", [
+              _vm._v("\n                            福岡市中央区天神2-4-20"),
+              _c("br"),
+              _vm._v(
+                "\n                            天神プラッサ902号\n                        "
+              )
+            ]),
+            _vm._v(" "),
+            _c("li", [_vm._v("TEL : 092-406-4506")])
+          ]
+        ),
+        _vm._v(" "),
+        _c("a", { staticClass: "tw-btn", attrs: { href: "/" } }, [
+          _vm._v(
+            "\n                        サロン紹介＆ご予約\n                    "
+          )
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "tw-border tw-color-yellow" })
       ]
     )
   },
@@ -47869,97 +48303,55 @@ var staticRenderFns = [
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
     return _c(
-      "section",
-      { staticClass: "mb-24 relative", attrs: { id: "js-lisbon" } },
+      "div",
+      {
+        staticClass:
+          "lg:w-1/2 w-full bg-white p-16 pt-8 border border-blue-lighter mb-16 md:my-16 md:mx-8 relative tw-flex-end"
+      },
       [
-        _c("div", { staticClass: "max-w-1000 mx-auto p-4" }, [
-          _c("div", { staticClass: "flex flex-col md:flex-row" }, [
-            _c(
-              "div",
-              {
-                staticClass:
-                  "lg:w-1/2 w-full bg-white p-16 pt-8 border border-blue-lighter mb-16 md:my-16 md:mx-8 relative tw-flex-end"
-              },
-              [
-                _c(
-                  "h2",
-                  {
-                    staticClass:
-                      "text-4xl font-bold leading-loosest tracking-loosest text-blue-lighter tw-header relative"
-                  },
-                  [
-                    _vm._v(
-                      "\n                        LISBON\n                    "
-                    )
-                  ]
-                ),
-                _vm._v(" "),
-                _c("p", { staticClass: "text-xs pb-8 text-grey-darker" }, [
-                  _vm._v(
-                    "\n                        Salon information\n                    "
-                  )
-                ]),
-                _vm._v(" "),
-                _c(
-                  "ul",
-                  {
-                    staticClass:
-                      "text-xs tracking-wider leading-loose text-black pb-8 text-grey-darker"
-                  },
-                  [
-                    _c("li", [_vm._v("10:00 - 20:00")]),
-                    _vm._v(" "),
-                    _c("li", [
-                      _vm._v(
-                        "\n                            福岡市中央区大名1-13-23"
-                      ),
-                      _c("br"),
-                      _vm._v(
-                        "\n                            LEX21 5F\n                        "
-                      )
-                    ]),
-                    _vm._v(" "),
-                    _c("li", [_vm._v("TEL : 092-716-3453")])
-                  ]
-                ),
-                _vm._v(" "),
-                _c("a", { staticClass: "tw-btn", attrs: { href: "/" } }, [
-                  _vm._v(
-                    "\n                        サロン紹介＆ご予約\n                    "
-                  )
-                ]),
-                _vm._v(" "),
-                _c("div", { staticClass: "tw-border tw-color-blue-lighter" })
-              ]
-            ),
-            _vm._v(" "),
-            _c("div", { staticClass: "lg:w-1/2 w-full" }, [
-              _c("figure", { staticClass: "mb-16" }, [
-                _c("img", {
-                  attrs: {
-                    src: "/decoration/salon_5.jpg",
-                    alt: "LISBON",
-                    width: "427",
-                    height: "330"
-                  }
-                })
-              ]),
-              _vm._v(" "),
-              _c("figure", [
-                _c("img", {
-                  attrs: {
-                    src: "/decoration/salon_6.jpg",
-                    alt: "LISBON",
-                    width: "210",
-                    height: "170"
-                  }
-                })
-              ])
-            ])
-          ])
+        _c(
+          "h2",
+          {
+            staticClass:
+              "text-4xl font-bold leading-loosest tracking-loosest text-blue-lighter tw-header relative"
+          },
+          [_vm._v("\n                        LISBON\n                    ")]
+        ),
+        _vm._v(" "),
+        _c("p", { staticClass: "text-xs pb-8 text-grey-darker" }, [
+          _vm._v(
+            "\n                        Salon information\n                    "
+          )
         ]),
         _vm._v(" "),
-        _c("div", { staticClass: "tw-base bg-blue-lightest" })
+        _c(
+          "ul",
+          {
+            staticClass:
+              "text-xs tracking-wider leading-loose text-black pb-8 text-grey-darker"
+          },
+          [
+            _c("li", [_vm._v("10:00 - 20:00")]),
+            _vm._v(" "),
+            _c("li", [
+              _vm._v("\n                            福岡市中央区大名1-13-23"),
+              _c("br"),
+              _vm._v(
+                "\n                            LEX21 5F\n                        "
+              )
+            ]),
+            _vm._v(" "),
+            _c("li", [_vm._v("TEL : 092-716-3453")])
+          ]
+        ),
+        _vm._v(" "),
+        _c("a", { staticClass: "tw-btn", attrs: { href: "/" } }, [
+          _vm._v(
+            "\n                        サロン紹介＆ご予約\n                    "
+          )
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "tw-border tw-color-blue-lighter" })
       ]
     )
   },
@@ -48010,11 +48402,7 @@ var render = function() {
         "hero-bg",
         [
           _c("div", {
-            staticClass: "tw-hero",
-            staticStyle: {
-              background:
-                "url('/hero/hero_bg_voice.jpg') center center / cover no-repeat"
-            },
+            staticClass: "tw-hero voice-bg",
             attrs: { slot: "hero" },
             slot: "hero"
           }),
@@ -48048,7 +48436,7 @@ var render = function() {
               {
                 attrs: {
                   figure: {
-                    src: "/decoration/voice_1.jpg",
+                    src: _vm.voiceImageURI_1,
                     alt: "モチが良いからコスパがいい！",
                     one_third: true,
                     end: false
@@ -48167,7 +48555,7 @@ var render = function() {
               {
                 attrs: {
                   figure: {
-                    src: "/decoration/voice_2.jpg",
+                    src: _vm.voiceImageURI_2,
                     alt:
                       "しっかりとしたカウンセリングで、自分に合ったデザインに",
                     one_third: true,
@@ -48281,7 +48669,7 @@ var render = function() {
               {
                 attrs: {
                   figure: {
-                    src: "/decoration/voice_3.jpg",
+                    src: _vm.voiceImageURI_3,
                     alt: "やわらかい枕でぐっすり！居心地のよさもバツグン",
                     one_third: true,
                     end: false
@@ -48362,7 +48750,7 @@ var render = function() {
               {
                 attrs: {
                   figure: {
-                    src: "/decoration/voice_4.jpg",
+                    src: _vm.voiceImageURI_4,
                     alt: "やわらかい枕でぐっすり！居心地のよさもバツグン",
                     one_third: true,
                     end: true
@@ -65823,17 +66211,19 @@ __webpack_require__.r(__webpack_exports__);
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _Salon_vue_vue_type_template_id_f57feba4_scoped_true___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./Salon.vue?vue&type=template&id=f57feba4&scoped=true& */ "./resources/js/views/Salon.vue?vue&type=template&id=f57feba4&scoped=true&");
-/* harmony import */ var _Salon_vue_vue_type_style_index_0_id_f57feba4_scoped_true_lang_scss___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Salon.vue?vue&type=style&index=0&id=f57feba4&scoped=true&lang=scss& */ "./resources/js/views/Salon.vue?vue&type=style&index=0&id=f57feba4&scoped=true&lang=scss&");
-/* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+/* harmony import */ var _Salon_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Salon.vue?vue&type=script&lang=js& */ "./resources/js/views/Salon.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport *//* harmony import */ var _Salon_vue_vue_type_style_index_0_id_f57feba4_scoped_true_lang_scss___WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./Salon.vue?vue&type=style&index=0&id=f57feba4&scoped=true&lang=scss& */ "./resources/js/views/Salon.vue?vue&type=style&index=0&id=f57feba4&scoped=true&lang=scss&");
+/* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
 
-var script = {}
+
+
 
 
 
 /* normalize component */
 
-var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__["default"])(
-  script,
+var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_3__["default"])(
+  _Salon_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__["default"],
   _Salon_vue_vue_type_template_id_f57feba4_scoped_true___WEBPACK_IMPORTED_MODULE_0__["render"],
   _Salon_vue_vue_type_template_id_f57feba4_scoped_true___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"],
   false,
@@ -65847,6 +66237,20 @@ var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_
 if (false) { var api; }
 component.options.__file = "resources/js/views/Salon.vue"
 /* harmony default export */ __webpack_exports__["default"] = (component.exports);
+
+/***/ }),
+
+/***/ "./resources/js/views/Salon.vue?vue&type=script&lang=js&":
+/*!***************************************************************!*\
+  !*** ./resources/js/views/Salon.vue?vue&type=script&lang=js& ***!
+  \***************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Salon_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/babel-loader/lib??ref--4-0!../../../node_modules/vue-loader/lib??vue-loader-options!./Salon.vue?vue&type=script&lang=js& */ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/views/Salon.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport */ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Salon_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__["default"]); 
 
 /***/ }),
 
@@ -66015,6 +66419,61 @@ module.exports = "/images/beauty_3.jpg?48d3f7b014064ac30e522a2844bea04e";
 
 /***/ }),
 
+/***/ "./storage/app/public/decoration/beauty/beauty_1.jpg":
+/*!***********************************************************!*\
+  !*** ./storage/app/public/decoration/beauty/beauty_1.jpg ***!
+  \***********************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/images/beauty_1.jpg?6c03b2afb31ff7dc36984cf2db6cfa88";
+
+/***/ }),
+
+/***/ "./storage/app/public/decoration/beauty/beauty_2.jpg":
+/*!***********************************************************!*\
+  !*** ./storage/app/public/decoration/beauty/beauty_2.jpg ***!
+  \***********************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/images/beauty_2.jpg?d7834f12c556c15976e02861b797cdce";
+
+/***/ }),
+
+/***/ "./storage/app/public/decoration/beauty/beauty_3.jpg":
+/*!***********************************************************!*\
+  !*** ./storage/app/public/decoration/beauty/beauty_3.jpg ***!
+  \***********************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/images/beauty_3.jpg?a0bf095c3190f7e3074d0bad5e97652c";
+
+/***/ }),
+
+/***/ "./storage/app/public/decoration/beauty/beauty_4.jpg":
+/*!***********************************************************!*\
+  !*** ./storage/app/public/decoration/beauty/beauty_4.jpg ***!
+  \***********************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/images/beauty_4.jpg?b428957cf99da35a83a11c3871df8cc1";
+
+/***/ }),
+
+/***/ "./storage/app/public/decoration/beauty/beauty_5.jpg":
+/*!***********************************************************!*\
+  !*** ./storage/app/public/decoration/beauty/beauty_5.jpg ***!
+  \***********************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/images/beauty_5.jpg?b3c16e208fb600c934d9c4aecd76c5c2";
+
+/***/ }),
+
 /***/ "./storage/app/public/decoration/concept.png":
 /*!***************************************************!*\
   !*** ./storage/app/public/decoration/concept.png ***!
@@ -66023,6 +66482,292 @@ module.exports = "/images/beauty_3.jpg?48d3f7b014064ac30e522a2844bea04e";
 /***/ (function(module, exports) {
 
 module.exports = "/images/concept.png?c48ea8584e958f480ff1712318d8a72a";
+
+/***/ }),
+
+/***/ "./storage/app/public/decoration/concept_1.jpg":
+/*!*****************************************************!*\
+  !*** ./storage/app/public/decoration/concept_1.jpg ***!
+  \*****************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/images/concept_1.jpg?8ace98247c1785514fee6b91b8827dc0";
+
+/***/ }),
+
+/***/ "./storage/app/public/decoration/concept_2.jpg":
+/*!*****************************************************!*\
+  !*** ./storage/app/public/decoration/concept_2.jpg ***!
+  \*****************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/images/concept_2.jpg?5bbd609136f3ef677dbef3693d80e4b8";
+
+/***/ }),
+
+/***/ "./storage/app/public/decoration/concept_3.jpg":
+/*!*****************************************************!*\
+  !*** ./storage/app/public/decoration/concept_3.jpg ***!
+  \*****************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/images/concept_3.jpg?e5cc9d258b9f16c5b46f21c5b3770950";
+
+/***/ }),
+
+/***/ "./storage/app/public/decoration/concept_4.jpg":
+/*!*****************************************************!*\
+  !*** ./storage/app/public/decoration/concept_4.jpg ***!
+  \*****************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/images/concept_4.jpg?e4bd8605b3838e705575be92e21d3f0b";
+
+/***/ }),
+
+/***/ "./storage/app/public/decoration/menu_1.jpg":
+/*!**************************************************!*\
+  !*** ./storage/app/public/decoration/menu_1.jpg ***!
+  \**************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/images/menu_1.jpg?44dc83c40fbfd72ac7925cd62835361e";
+
+/***/ }),
+
+/***/ "./storage/app/public/decoration/menu_2.jpg":
+/*!**************************************************!*\
+  !*** ./storage/app/public/decoration/menu_2.jpg ***!
+  \**************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/images/menu_2.jpg?1f13a965ac423049c0e737255a885dcd";
+
+/***/ }),
+
+/***/ "./storage/app/public/decoration/nail_1.jpg":
+/*!**************************************************!*\
+  !*** ./storage/app/public/decoration/nail_1.jpg ***!
+  \**************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/images/nail_1.jpg?febdeaa854d463e2d298429b8c2f3a77";
+
+/***/ }),
+
+/***/ "./storage/app/public/decoration/nail_2.png":
+/*!**************************************************!*\
+  !*** ./storage/app/public/decoration/nail_2.png ***!
+  \**************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/images/nail_2.png?a5616c9a85bed72a967ec2dd29636b34";
+
+/***/ }),
+
+/***/ "./storage/app/public/decoration/recruit/recruit_1.jpg":
+/*!*************************************************************!*\
+  !*** ./storage/app/public/decoration/recruit/recruit_1.jpg ***!
+  \*************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/images/recruit_1.jpg?ba979d770b72be4a6499fb19f5945299";
+
+/***/ }),
+
+/***/ "./storage/app/public/decoration/recruit/recruit_2.jpg":
+/*!*************************************************************!*\
+  !*** ./storage/app/public/decoration/recruit/recruit_2.jpg ***!
+  \*************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/images/recruit_2.jpg?c8aec1d29c131a0ebff348aec8574cab";
+
+/***/ }),
+
+/***/ "./storage/app/public/decoration/recruit/recruit_3.jpg":
+/*!*************************************************************!*\
+  !*** ./storage/app/public/decoration/recruit/recruit_3.jpg ***!
+  \*************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/images/recruit_3.jpg?3e3b73c0bffd8f38664e8a5777b16f9b";
+
+/***/ }),
+
+/***/ "./storage/app/public/decoration/recruit/recruit_4.jpg":
+/*!*************************************************************!*\
+  !*** ./storage/app/public/decoration/recruit/recruit_4.jpg ***!
+  \*************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/images/recruit_4.jpg?ebcaee37fc14b0dbd61b6939c45f83c2";
+
+/***/ }),
+
+/***/ "./storage/app/public/decoration/recruit/recruit_5.jpg":
+/*!*************************************************************!*\
+  !*** ./storage/app/public/decoration/recruit/recruit_5.jpg ***!
+  \*************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/images/recruit_5.jpg?ba01418dabcfe38afbf4671fc94321b6";
+
+/***/ }),
+
+/***/ "./storage/app/public/decoration/recruit/recruit_6.jpg":
+/*!*************************************************************!*\
+  !*** ./storage/app/public/decoration/recruit/recruit_6.jpg ***!
+  \*************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/images/recruit_6.jpg?dab0a6dcdd7d835fa63ede30aa8403ae";
+
+/***/ }),
+
+/***/ "./storage/app/public/decoration/recruit/recruit_7.jpg":
+/*!*************************************************************!*\
+  !*** ./storage/app/public/decoration/recruit/recruit_7.jpg ***!
+  \*************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/images/recruit_7.jpg?352793bd97846df7f675e3b65d832c23";
+
+/***/ }),
+
+/***/ "./storage/app/public/decoration/recruit/recruit_8.jpg":
+/*!*************************************************************!*\
+  !*** ./storage/app/public/decoration/recruit/recruit_8.jpg ***!
+  \*************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/images/recruit_8.jpg?05262f4f81352ff32fab07993ab70653";
+
+/***/ }),
+
+/***/ "./storage/app/public/decoration/salon_1.jpg":
+/*!***************************************************!*\
+  !*** ./storage/app/public/decoration/salon_1.jpg ***!
+  \***************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/images/salon_1.jpg?26c1d8e146b6638d417b1b4511cb586d";
+
+/***/ }),
+
+/***/ "./storage/app/public/decoration/salon_2.jpg":
+/*!***************************************************!*\
+  !*** ./storage/app/public/decoration/salon_2.jpg ***!
+  \***************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/images/salon_2.jpg?7dc4c0fb3dc4c7c4fda25e55b52ca545";
+
+/***/ }),
+
+/***/ "./storage/app/public/decoration/salon_3.jpg":
+/*!***************************************************!*\
+  !*** ./storage/app/public/decoration/salon_3.jpg ***!
+  \***************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/images/salon_3.jpg?2bfb453b758c0d40f67dc1e27101a4bb";
+
+/***/ }),
+
+/***/ "./storage/app/public/decoration/salon_4.jpg":
+/*!***************************************************!*\
+  !*** ./storage/app/public/decoration/salon_4.jpg ***!
+  \***************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/images/salon_4.jpg?86403224504ded7618eb7fef1d490b9c";
+
+/***/ }),
+
+/***/ "./storage/app/public/decoration/salon_5.jpg":
+/*!***************************************************!*\
+  !*** ./storage/app/public/decoration/salon_5.jpg ***!
+  \***************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/images/salon_5.jpg?b27ffa67154a1c3d4876dbf230217692";
+
+/***/ }),
+
+/***/ "./storage/app/public/decoration/salon_6.jpg":
+/*!***************************************************!*\
+  !*** ./storage/app/public/decoration/salon_6.jpg ***!
+  \***************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/images/salon_6.jpg?f4108ca3df8a68e6314a712a6184ac28";
+
+/***/ }),
+
+/***/ "./storage/app/public/decoration/voice_1.jpg":
+/*!***************************************************!*\
+  !*** ./storage/app/public/decoration/voice_1.jpg ***!
+  \***************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/images/voice_1.jpg?5c0f4ffad79597900b702c53e21e2065";
+
+/***/ }),
+
+/***/ "./storage/app/public/decoration/voice_2.jpg":
+/*!***************************************************!*\
+  !*** ./storage/app/public/decoration/voice_2.jpg ***!
+  \***************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/images/voice_2.jpg?103df6dd306d11b2fcf8aff2615a0ee3";
+
+/***/ }),
+
+/***/ "./storage/app/public/decoration/voice_3.jpg":
+/*!***************************************************!*\
+  !*** ./storage/app/public/decoration/voice_3.jpg ***!
+  \***************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/images/voice_3.jpg?b92ec044a1651e9cfde204e619b60127";
+
+/***/ }),
+
+/***/ "./storage/app/public/decoration/voice_4.jpg":
+/*!***************************************************!*\
+  !*** ./storage/app/public/decoration/voice_4.jpg ***!
+  \***************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/images/voice_4.jpg?f760190e53f9739247b6fe1c5978bbf0";
 
 /***/ }),
 
@@ -66067,6 +66812,160 @@ module.exports = "/images/hero_3.gif?5ed38b201682191827931e7f08174b43";
 /***/ (function(module, exports) {
 
 module.exports = "/images/hero_4.gif?3e60c3a4bf334a5db44a030f441e5336";
+
+/***/ }),
+
+/***/ "./storage/app/public/hero/hero_bg_beauty.jpg":
+/*!****************************************************!*\
+  !*** ./storage/app/public/hero/hero_bg_beauty.jpg ***!
+  \****************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/images/hero_bg_beauty.jpg?62c51e20b82eb43bdca18be9077025d4";
+
+/***/ }),
+
+/***/ "./storage/app/public/hero/hero_bg_concept.jpg":
+/*!*****************************************************!*\
+  !*** ./storage/app/public/hero/hero_bg_concept.jpg ***!
+  \*****************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/images/hero_bg_concept.jpg?55f396fc1ab98d25354f658b31b29946";
+
+/***/ }),
+
+/***/ "./storage/app/public/hero/hero_bg_menu_and_price.jpg":
+/*!************************************************************!*\
+  !*** ./storage/app/public/hero/hero_bg_menu_and_price.jpg ***!
+  \************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/images/hero_bg_menu_and_price.jpg?e6000ddcd914edb062c64921f84a3328";
+
+/***/ }),
+
+/***/ "./storage/app/public/hero/hero_bg_nail.jpg":
+/*!**************************************************!*\
+  !*** ./storage/app/public/hero/hero_bg_nail.jpg ***!
+  \**************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/images/hero_bg_nail.jpg?76b5586177dcadf064289e3999db2945";
+
+/***/ }),
+
+/***/ "./storage/app/public/hero/hero_bg_recruit.jpg":
+/*!*****************************************************!*\
+  !*** ./storage/app/public/hero/hero_bg_recruit.jpg ***!
+  \*****************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/images/hero_bg_recruit.jpg?d9fd293a0ebe53d848f3aaa3e4f7c149";
+
+/***/ }),
+
+/***/ "./storage/app/public/hero/hero_bg_salon.jpg":
+/*!***************************************************!*\
+  !*** ./storage/app/public/hero/hero_bg_salon.jpg ***!
+  \***************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/images/hero_bg_salon.jpg?6657086940a9151e2d0f2f1718ac932b";
+
+/***/ }),
+
+/***/ "./storage/app/public/hero/hero_bg_voice.jpg":
+/*!***************************************************!*\
+  !*** ./storage/app/public/hero/hero_bg_voice.jpg ***!
+  \***************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/images/hero_bg_voice.jpg?192f0905b74162ad802b226694fdb892";
+
+/***/ }),
+
+/***/ "./storage/app/public/icon/decoration_1.png":
+/*!**************************************************!*\
+  !*** ./storage/app/public/icon/decoration_1.png ***!
+  \**************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/images/decoration_1.png?56f7c66d616d4cc47d4c298edccf53a8";
+
+/***/ }),
+
+/***/ "./storage/app/public/icon/decoration_2.png":
+/*!**************************************************!*\
+  !*** ./storage/app/public/icon/decoration_2.png ***!
+  \**************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/images/decoration_2.png?fe080e53b1e71600ef434e509a0e8a61";
+
+/***/ }),
+
+/***/ "./storage/app/public/icon/decoration_3.png":
+/*!**************************************************!*\
+  !*** ./storage/app/public/icon/decoration_3.png ***!
+  \**************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/images/decoration_3.png?57e783a8f307f405b67c50ce996912ed";
+
+/***/ }),
+
+/***/ "./storage/app/public/icon/decoration_4.png":
+/*!**************************************************!*\
+  !*** ./storage/app/public/icon/decoration_4.png ***!
+  \**************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/images/decoration_4.png?56cb5848d1e3d72fec644fe6a7d66277";
+
+/***/ }),
+
+/***/ "./storage/app/public/icon/decoration_5.png":
+/*!**************************************************!*\
+  !*** ./storage/app/public/icon/decoration_5.png ***!
+  \**************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/images/decoration_5.png?1157cea9b5908a73c177d4a8907cb737";
+
+/***/ }),
+
+/***/ "./storage/app/public/icon/decoration_6.png":
+/*!**************************************************!*\
+  !*** ./storage/app/public/icon/decoration_6.png ***!
+  \**************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/images/decoration_6.png?0a1f0489998ee862d051e442b1874864";
+
+/***/ }),
+
+/***/ "./storage/app/public/icon/ig.png":
+/*!****************************************!*\
+  !*** ./storage/app/public/icon/ig.png ***!
+  \****************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/images/ig.png?9048a238ebe69f9772d87d58b4a70387";
 
 /***/ }),
 
@@ -66147,6 +67046,50 @@ module.exports = "/images/logo.png?ba8e8ce58ecc92e3dee36f8e3da800fb";
 
 /***/ }),
 
+/***/ "./storage/app/public/staff/AKKO.jpg":
+/*!*******************************************!*\
+  !*** ./storage/app/public/staff/AKKO.jpg ***!
+  \*******************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/images/AKKO.jpg?28db18991aa9daaa78522eb9ac636bf0";
+
+/***/ }),
+
+/***/ "./storage/app/public/staff/EMINA.jpg":
+/*!********************************************!*\
+  !*** ./storage/app/public/staff/EMINA.jpg ***!
+  \********************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/images/EMINA.jpg?51fff9cc9c28c8b5ccfdc48bcf3aa76b";
+
+/***/ }),
+
+/***/ "./storage/app/public/staff/JUNNA.jpg":
+/*!********************************************!*\
+  !*** ./storage/app/public/staff/JUNNA.jpg ***!
+  \********************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/images/JUNNA.jpg?6729be5ec29aee131393e091ce788a7d";
+
+/***/ }),
+
+/***/ "./storage/app/public/staff/NATSUMI.jpg":
+/*!**********************************************!*\
+  !*** ./storage/app/public/staff/NATSUMI.jpg ***!
+  \**********************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/images/NATSUMI.jpg?41cb32e70f1e6c8696241dda3cedbabf";
+
+/***/ }),
+
 /***/ "./storage/app/public/store/LISBON.jpg":
 /*!*********************************************!*\
   !*** ./storage/app/public/store/LISBON.jpg ***!
@@ -66155,6 +67098,17 @@ module.exports = "/images/logo.png?ba8e8ce58ecc92e3dee36f8e3da800fb";
 /***/ (function(module, exports) {
 
 module.exports = "/images/LISBON.jpg?f4108ca3df8a68e6314a712a6184ac28";
+
+/***/ }),
+
+/***/ "./storage/app/public/store/LISBON_2.jpg":
+/*!***********************************************!*\
+  !*** ./storage/app/public/store/LISBON_2.jpg ***!
+  \***********************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/images/LISBON_2.jpg?6afcd7247b2dd8f49ff4c4990ef47478";
 
 /***/ }),
 
@@ -66169,6 +67123,17 @@ module.exports = "/images/La_Rochelle.jpg?86403224504ded7618eb7fef1d490b9c";
 
 /***/ }),
 
+/***/ "./storage/app/public/store/La_Rochelle_2.jpg":
+/*!****************************************************!*\
+  !*** ./storage/app/public/store/La_Rochelle_2.jpg ***!
+  \****************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/images/La_Rochelle_2.jpg?9683368cf161f7ac509d4117d1c2c548";
+
+/***/ }),
+
 /***/ "./storage/app/public/store/MILANO.jpg":
 /*!*********************************************!*\
   !*** ./storage/app/public/store/MILANO.jpg ***!
@@ -66177,6 +67142,17 @@ module.exports = "/images/La_Rochelle.jpg?86403224504ded7618eb7fef1d490b9c";
 /***/ (function(module, exports) {
 
 module.exports = "/images/MILANO.jpg?7dc4c0fb3dc4c7c4fda25e55b52ca545";
+
+/***/ }),
+
+/***/ "./storage/app/public/store/MILANO_2.jpg":
+/*!***********************************************!*\
+  !*** ./storage/app/public/store/MILANO_2.jpg ***!
+  \***********************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/images/MILANO_2.jpg?2a2d448b75e499963d5df084a2129896";
 
 /***/ }),
 

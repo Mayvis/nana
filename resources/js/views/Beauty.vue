@@ -2,8 +2,7 @@
     <div>
         <hero-bg>
             <div slot="hero"
-                 class="tw-hero"
-                 style="background: url('/hero/hero_bg_beauty.jpg') center center / cover no-repeat;">
+                 class="tw-hero beauty-bg">
             </div>
 
             <template slot="title">BEAUTY × LIFE</template>
@@ -24,7 +23,7 @@
                     </template>
                 </title-with-top-number>
 
-                <essay :figure="{src: '/decoration/beauty/beauty_1.jpg',
+                <essay :figure="{src: beautyImageURI_1,
                                  alt: 'マツエクのある毎日  NANA（福岡市中央区天神西通り）',
                                  one_third: true,
                                  end: false}">
@@ -160,7 +159,7 @@
 
                     <div class="flex flex-col md:flex-row">
                         <figure class="bg-grey-lighter flex justify-center items-center tw-icon md:mr-8 w-full">
-                            <img src="/icon/decoration_1.png" alt="マスカラ" width="42" height="72">
+                            <img :src="beautyIconURI_1" alt="マスカラ" width="42" height="72">
                         </figure>
 
                         <div class="py-4 tw-flex-size">
@@ -194,7 +193,7 @@
 
                     <div class="flex flex-col md:flex-row">
                         <figure class="bg-grey-lighter flex justify-center items-center tw-icon md:mr-8 w-full">
-                            <img src="/icon/decoration_2.png" alt="つけまつげ" width="71" height="41">
+                            <img :src="beautyIconURI_2" alt="つけまつげ" width="71" height="41">
                         </figure>
 
                         <div class="py-4 tw-flex-size">
@@ -249,7 +248,7 @@
                     </template>
                 </title-with-top-number>
 
-                <essay :figure="{src: '/decoration/beauty/beauty_2.jpg',
+                <essay :figure="{src: beautyImageURI_2,
                                  alt: '「まつげがついていないと、気分が上がらないのよね」',
                                  one_third: true,
                                  end: true}">
@@ -308,9 +307,22 @@
     import essay from '../components/_Essay';
     import externalLinks from '../components/_ExternalLinks';
     import titleWithTopNumber from '../components/_TitleWithTopNumber';
+    import beautyImageURI_1 from '../../../public/storage/decoration/beauty/beauty_1.jpg';
+    import beautyImageURI_2 from '../../../public/storage/decoration/beauty/beauty_2.jpg';
+    import beautyIconURI_1 from '../../../public/storage/icon/decoration_1.png';
+    import beautyIconURI_2 from '../../../public/storage/icon/decoration_2.png';
 
     export default {
         components: {links, essay, externalLinks, titleWithTopNumber},
+
+        data() {
+            return {
+                beautyImageURI_1,
+                beautyImageURI_2,
+                beautyIconURI_1,
+                beautyIconURI_2
+            };
+        },
     }
 </script>
 
@@ -393,5 +405,8 @@
         @screen md {
             top: 20px;
         }
+    }
+    .beauty-bg {
+        background: url(../../../public/storage/hero/hero_bg_beauty.jpg) center center / cover no-repeat;
     }
 </style>

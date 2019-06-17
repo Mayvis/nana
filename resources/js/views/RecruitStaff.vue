@@ -2,8 +2,7 @@
     <div>
         <hero-bg>
             <div slot="hero"
-                 class="tw-hero"
-                 style="background: url('/hero/hero_bg_recruit.jpg') center center / cover no-repeat;">
+                 class="tw-hero recruit-bg">
             </div>
 
             <template slot="title">RECRUIT</template>
@@ -28,7 +27,7 @@
         <!--    sec 01    -->
         <section class="mb-24">
             <div class="max-w-1000 mx-auto px-4 border-b border-grey-light">
-                <essay :figure="{src: '/staff/JUNNA.jpg',
+                <essay :figure="{src: staffImageURI_1,
                                  alt: 'JANNA',
                                  end: false}"
                 >
@@ -78,7 +77,7 @@
         <!--    sec 02    -->
         <section class="mb-24">
             <div class="max-w-1000 mx-auto px-4 border-b border-grey-light">
-                <essay :figure="{src: '/staff/EMINA.jpg',
+                <essay :figure="{src: staffImageURI_2,
                                  alt: 'EMINA',
                                  end: true}"
                 >
@@ -129,7 +128,7 @@
         <section class="mb-24">
             <div class="max-w-1000 mx-auto px-4 border-b border-grey-light">
 
-                <essay :figure="{src: '/staff/NATSUMI.jpg',
+                <essay :figure="{src: staffImageURI_3,
                                  alt: 'NATSUMI',
                                  end: false}"
                 >
@@ -180,7 +179,7 @@
         <!--    sec 04    -->
         <section class="mb-24">
             <div class="max-w-1000 mx-auto px-4 border-b border-grey-light">
-                <essay :figure="{src: '/staff/AKKO.jpg',
+                <essay :figure="{src: staffImageURI_4,
                                  alt: 'AKKO',
                                  end: true}"
                 >
@@ -247,9 +246,22 @@
     import titleWithWord from '../components/_TitleWithWord';
     import recruitReserve from '../components/recruit/_Reserve';
     import essay from '../components/_Essay';
+    import staffImageURI_1 from '../../../public/storage/staff/JUNNA.jpg';
+    import staffImageURI_2 from '../../../public/storage/staff/EMINA.jpg';
+    import staffImageURI_3 from '../../../public/storage/staff/NATSUMI.jpg';
+    import staffImageURI_4 from '../../../public/storage/staff/AKKO.jpg';
 
     export default {
         components: {links, titleWithWord, recruitReserve, essay},
+
+        data() {
+            return {
+                staffImageURI_1,
+                staffImageURI_2,
+                staffImageURI_3,
+                staffImageURI_4
+            };
+        },
     }
 </script>
 
@@ -274,5 +286,9 @@
         content: ')';
         position: absolute;
         right: 0;
+    }
+
+    .recruit-bg {
+        background: url(../../../public/storage/hero/hero_bg_recruit.jpg) center center / cover no-repeat;
     }
 </style>

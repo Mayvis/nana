@@ -2,8 +2,7 @@
     <div>
         <hero-bg>
             <div slot="hero"
-                 class="tw-hero"
-                 style="background: url('/hero/hero_bg_voice.jpg') center center / cover no-repeat;">
+                 class="tw-hero voice-bg">
             </div>
 
             <template slot="title">VOICE</template>
@@ -21,7 +20,7 @@
                     <template slot="title">モチが良いからコスパがいい！</template>
                 </title-with-top-number>
 
-                <essay :figure="{src: '/decoration/voice_1.jpg',
+                <essay :figure="{src: voiceImageURI_1,
                                  alt: 'モチが良いからコスパがいい！',
                                  one_third: true,
                                  end: false}">
@@ -148,7 +147,7 @@
                     </template>
                 </title-with-top-number>
 
-                <essay :figure="{src: '/decoration/voice_2.jpg',
+                <essay :figure="{src: voiceImageURI_2,
                                  alt: 'しっかりとしたカウンセリングで、自分に合ったデザインに',
                                  one_third: true,
                                  end: true}">
@@ -272,7 +271,7 @@
                     </template>
                 </title-with-top-number>
 
-                <essay :figure="{src: '/decoration/voice_3.jpg',
+                <essay :figure="{src: voiceImageURI_3,
                                  alt: 'やわらかい枕でぐっすり！居心地のよさもバツグン',
                                  one_third: true,
                                  end: false}">
@@ -373,7 +372,7 @@
                     </template>
                 </title-with-top-number>
 
-                <essay :figure="{src: '/decoration/voice_4.jpg',
+                <essay :figure="{src: voiceImageURI_4,
                                  alt: 'やわらかい枕でぐっすり！居心地のよさもバツグン',
                                  one_third: true,
                                  end: true}">
@@ -469,9 +468,22 @@
 <script>
     import titleWithTopNumber from '../components/_TitleWithTopNumber';
     import essay from '../components/_Essay';
+    import voiceImageURI_1 from '../../../public/storage/decoration/voice_1.jpg';
+    import voiceImageURI_2 from '../../../public/storage/decoration/voice_2.jpg';
+    import voiceImageURI_3 from '../../../public/storage/decoration/voice_3.jpg';
+    import voiceImageURI_4 from '../../../public/storage/decoration/voice_4.jpg';
 
     export default {
         components: {titleWithTopNumber, essay},
+
+        data() {
+            return {
+                voiceImageURI_1,
+                voiceImageURI_2,
+                voiceImageURI_3,
+                voiceImageURI_4
+            };
+        },
     }
 </script>
 
@@ -495,5 +507,9 @@
         @screen md {
             top: 20px;
         }
+    }
+
+    .voice-bg {
+        background: url(../../../public/storage/hero/hero_bg_voice.jpg) center center / cover no-repeat;
     }
 </style>

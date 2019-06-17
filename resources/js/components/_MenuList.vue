@@ -36,12 +36,12 @@
 
         <div class="flex text-center -ml-5">
             <a href="/" class="icon">
-                <img src="/icon/ig.png" alt="instagram-eye" class="w-7 h-7">
+                <img :src="igIcon" alt="instagram-eye" class="w-7 h-7">
                 <span>EYE</span>
             </a>
 
             <a href="/" class="icon">
-                <img src="/icon/ig.png" alt="instagram-nail" class="w-7 h-7">
+                <img :src="igIcon" alt="instagram-nail" class="w-7 h-7">
                 <span>NAIL</span>
             </a>
         </div>
@@ -49,6 +49,8 @@
 </template>
 
 <script>
+    import igIcon from '../../../public/storage/icon/ig.png';
+
     export default {
         props: {
             active: {
@@ -61,6 +63,12 @@
             $route() {
                 this.$emit('change', this.active);
             }
+        },
+
+        data() {
+            return {
+                igIcon
+            };
         },
     }
 </script>

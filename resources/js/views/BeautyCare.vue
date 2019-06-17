@@ -2,8 +2,7 @@
     <div>
         <hero-bg>
             <div slot="hero"
-                 class="tw-hero"
-                 style="background: url('/hero/hero_bg_beauty.jpg') center center / cover no-repeat;">
+                 class="tw-hero beauty-bg">
             </div>
 
             <template slot="title">BEAUTY × LIFE</template>
@@ -35,7 +34,7 @@
                     <div class="flex flex-col md:flex-row">
                         <div class="w-full md:w-1/2 md:p-8">
                             <figure class="flex justify-center items-center bg-grey-lighter mb-8 h-200">
-                                <img src="/icon/decoration_3.png" alt="オイルクレンジングは使用しない" width="46" height="92">
+                                <img :src="beautyIconURI_3" alt="オイルクレンジングは使用しない" width="46" height="92">
                             </figure>
 
                             <article>
@@ -53,7 +52,7 @@
 
                         <div class="w-full md:w-1/2 md:p-8">
                             <figure class="flex justify-center items-center bg-grey-lighter mb-8 h-200">
-                                <img src="/icon/decoration_4.png" alt="優しく乾かす" width="93" height="67">
+                                <img :src="beautyIconURI_4" alt="優しく乾かす" width="93" height="67">
                             </figure>
 
                             <article>
@@ -73,7 +72,7 @@
                     <div class="flex flex-col md:flex-row">
                         <div class="w-full md:w-1/2 md:p-8">
                             <figure class="flex justify-center items-center bg-grey-lighter mb-8 h-200">
-                                <img src="/icon/decoration_3.png" alt="オイルクレンジングは使用しない" width="46" height="92">
+                                <img :src="beautyIconURI_1" alt="オイルクレンジングは使用しない" width="118" height="95">
                             </figure>
 
                             <article>
@@ -91,7 +90,7 @@
 
                         <div class="w-full md:w-1/2 md:p-8">
                             <figure class="flex justify-center items-center bg-grey-lighter mb-8 h-200">
-                                <img src="/icon/decoration_4.png" alt="優しく乾かす" width="93" height="67">
+                                <img :src="beautyIconURI_2" alt="優しく乾かす" width="46" height="93">
                             </figure>
 
                             <article>
@@ -123,9 +122,22 @@
 <script>
     import links from '../components/beauty/_Links';
     import titleWithWord from '../components/_TitleWithWord';
+    import beautyIconURI_1 from '../../../public/storage/icon/decoration_5.png';
+    import beautyIconURI_2 from '../../../public/storage/icon/decoration_6.png';
+    import beautyIconURI_3 from '../../../public/storage/icon/decoration_3.png';
+    import beautyIconURI_4 from '../../../public/storage/icon/decoration_4.png';
 
     export default {
         components: {links, titleWithWord},
+
+        data() {
+            return {
+                beautyIconURI_1,
+                beautyIconURI_2,
+                beautyIconURI_3,
+                beautyIconURI_4
+            };
+        },
     }
 </script>
 
@@ -164,5 +176,9 @@
         content: ')';
         position: absolute;
         right: 0;
+    }
+
+    .beauty-bg {
+        background: url(../../../public/storage/hero/hero_bg_beauty.jpg) center center / cover no-repeat;
     }
 </style>

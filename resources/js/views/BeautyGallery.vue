@@ -2,8 +2,7 @@
     <div>
         <hero-bg>
             <div slot="hero"
-                 class="tw-hero"
-                 style="background: url('/hero/hero_bg_beauty.jpg') center center / cover no-repeat;">
+                 class="tw-hero beauty-bg">
             </div>
 
             <template slot="title">BEAUTY × LIFE</template>
@@ -102,5 +101,9 @@
         content: ')';
         position: absolute;
         right: 0;
+    }
+
+    .beauty-bg {
+        background: url(../../../public/storage/hero/hero_bg_beauty.jpg) center center / cover no-repeat;
     }
 </style>
